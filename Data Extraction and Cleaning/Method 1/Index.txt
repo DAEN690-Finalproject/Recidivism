@@ -1,0 +1,1 @@
+This Folder consist of Google Colab code for Data ( Both Text and Table ) Extraction using pdfplumber, camelot( Stream Mode).
