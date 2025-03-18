@@ -1,0 +1,7 @@
+Below link as Python files, Raw files, Processed Files, Structured files and Embedded files
+
+Architecture Flow of data
+
+Raw PDFs Folder (Developer 2) ---> Extracted data (Processed_Results Folder) ---> Preprocessing of the text (Structured_Results Folder) -----> With Embedding (Presnetation_results File)
+
+https://drive.google.com/drive/folders/1XwkbpoYaz_A1NtefIa9BglgBCiEKdUGW?usp=sharing
