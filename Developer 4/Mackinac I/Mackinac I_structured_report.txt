@@ -1,0 +1,955 @@
+=== EXTRACTED METADATA ===
+title: 
+
+authors: Steven Sprick Schuster and Ben Stickle
+
+date: Oct. 21, 2023
+
+abstract: More than five in every 1,000 people in the U.S. 
+population are behind bars, the sixth highest rate in 
+the world, even though many other countries have 
+higher violent crime rates.1 The Prison Policy Initiative 
+project that 6% of Americans will be imprisoned at 
+some point in their lifetimes, including one in 10 men 
+and almost one in three African-American men.2  
+The impact of high incarceration rates extends beyond 
+the effects on inmates and their families. There are large 
+societal costs, directly and indirectly, with each crime 
+and corresponding imprisonment. Direct costs consist 
+of the expenses to house prisoners and other forms of 
+public expenditures within the criminal justice system. 
+A 2017 estimate places the cost to house prisoners at 
+$80.7 billion, while the costs of policing, courts, health 
+care, and various other expenses brings the total price to 
+$182 billion.3 The cost of crime on victims themselves is 
+another significant, if difficult to quantify, cost of 
+criminal activity. 
+The indirect costs of imprisonment are also a concern 
+and may be even more impactful to society. For 
+example, incarceration decreases employment, social 
+ 
+* Some examples are the Sentencing Reform Act of 1984, the Anti-Drug Abuse 
+Act of 1986 and the expansion of three-strikes laws in the 1990s. 
+engagement, civic participation, and education rates 
+for the incarcerated. Imprisoning parents increases the 
+likelihood that their children also end up in prison.4  
+With all the costs and negative impacts of 
+incarceration, how could the situation be improved? 
+Because a sizable portion of prisoners are repeat 
+offenders, one strategy is to rehabilitate the 
+incarcerated and provide them with education or 
+training while in prison.5 This will set them up for 
+productive and legal work when released.  
+Unfortunately, this effort is not new, and the 
+disappointing prospects of rehabilitation eventually 
+gave way to the ‘70's mindset of "nothing works."6 This 
+conclusion led to bipartisan support for increasingly 
+punitive prison sentences and a reduction in 
+rehabilitation programs. After all, if nothing worked in 
+rehabilitating criminals, why waste money on education 
+and training instead of just locking the cell and 
+throwing away the key? Combined with a dramatic 
+increase in crime and escalating punishments in the ‘80s 
+and ‘90s, incarceration rates dramatically increased.* 
+While incarceration rates have recently slowed (down 
+from the peak in the 2000s), they remain high and are 
+four times the rates in the 1970s.7 Education programs 
+within prisons are gradually experiencing a resurgence 
+as funding for programs is restored.8 Government 
+ABOUT THE AUTHORS 
+Steven Sprick Schuster is an assistant professor of economics and member 
+of the Political Economy Research Institute at Middle Tennessee State 
+University. Ben Stickle is an associate professor of criminal justice 
+administration at Middle Tennessee State University.
+
+
+=== EXTRACTED SECTIONS ===
+## Introduction ##
+Introduction 
+More than five in every 1,000 people in the U.S. 
+population are behind bars, the sixth highest rate in 
+the world, even though many other countries have 
+higher violent crime rates.1 The Prison Policy Initiative 
+project that 6% of Americans will be imprisoned at 
+some point in their lifetimes, including one in 10 men 
+and almost one in three African-American men.2  
+The impact of high incarceration rates extends beyond 
+the effects on inmates and their families. There are large 
+societal costs, directly and indirectly, with each crime 
+and corresponding imprisonment. Direct costs consist 
+of the expenses to house prisoners and other forms of 
+public expenditures within the criminal justice system. 
+A 2017 estimate places the cost to house prisoners at 
+$80.7 billion, while the costs of policing, courts, health 
+care, and various other expenses brings the total price to 
+$182 billion.3 The cost of crime on victims themselves is 
+another significant, if difficult to quantify, cost of 
+criminal activity. 
+The indirect costs of imprisonment are also a concern 
+and may be even more impactful to society. For 
+example, incarceration decreases employment, social 
+ 
+* Some examples are the Sentencing Reform Act of 1984, the Anti-Drug Abuse 
+Act of 1986 and the expansion of three-strikes laws in the 1990s. 
+engagement, civic participation, and education rates 
+for the incarcerated. Imprisoning parents increases the 
+likelihood that their children also end up in prison.4  
+With all the costs and negative impacts of 
+incarceration, how could the situation be improved? 
+Because a sizable portion of prisoners are repeat 
+offenders, one strategy is to rehabilitate the 
+incarcerated and provide them with education or 
+training while in prison.5 This will set them up for 
+productive and legal work when released.  
+Unfortunately, this effort is not new, and the 
+disappointing prospects of rehabilitation eventually 
+gave way to the ‘70's mindset of "nothing works."6 This
+
+## conclusion ##
+conclusion led to bipartisan support for increasingly 
+punitive prison sentences and a reduction in 
+rehabilitation programs. After all, if nothing worked in 
+rehabilitating criminals, why waste money on education 
+and training instead of just locking the cell and 
+throwing away the key? Combined with a dramatic 
+increase in crime and escalating punishments in the ‘80s 
+and ‘90s, incarceration rates dramatically increased.* 
+While incarceration rates have recently slowed (down 
+from the peak in the 2000s), they remain high and are 
+four times the rates in the 1970s.7 Education programs 
+within prisons are gradually experiencing a resurgence 
+as funding for programs is restored.8 Government 
+ABOUT THE AUTHORS 
+Steven Sprick Schuster is an assistant professor of economics and member 
+of the Political Economy Research Institute at Middle Tennessee State 
+University. Ben Stickle is an associate professor of criminal justice 
+administration at Middle Tennessee State University. 
+
+_________________________________________________________________________________________________ 
+_________________________________________________________________________________________________ 
+ 
+2 
+MACKINAC CENTER FOR PUBLIC POLICY 
+action — such as the First Step Act or the expansion of 
+Second Chance Pell Grants — has devoted more 
+resources and public money to prison education. 
+But the question remains: Do these programs work? If 
+so, what are the costs associated with the dollars spent 
+and dollars saved (if any), and what is the impact on 
+prisoners? These critical questions must be answered 
+to ensure education programs are effective and dollars 
+are invested wisely. 
+Prison education programs 
+Studies on education programs in prison settings 
+have been conducted for years. However, they 
+evaluate different programs (e.g., college courses vs. 
+vocational training), measure different impacts (cost 
+savings vs. recidivism), and occur across different 
+states. This makes it challenging to know the overall, 
+or typical, effect of these efforts. 
+Recognizing this challenge, we
+
+## method ##
+methodically found and 
+reviewed 750 research papers published between 1980 
+and 2022 related to prison education programs. Of 
+these, we identified 78 that examined the impact of 
+these programs on one or more outcomes. These 
+studies were the source of a meta-analysis that included 
+148 unique estimates of the causal effects of prison 
+education programs assessed in the identified studies.  
+This meta-analysis is the largest on the topic to date 
+and features a substantial portion of studies of the 
+highest quality. Of the 148 estimates, 105 come from 
+papers that use random assignment or quasi-random 
+assignment to estimate the effect of prison programs. 
+These types of studies are typically the best way to 
+estimate the causal relationships between an 
+intervention and an outcome. In other words, this 
+study is the first to calculate the impact of different 
+prison education programs using only high-quality 
+studies. Three different outcomes are considered: 
+recidivism, employment, and wages.  
+Impact on recidivism 
+Recidivism occurs when someone reoffends and 
+returns to prison. Educational and training programs 
+in prison appear to reduce recidivism rates. The 
+results from this meta-analysis suggest that 
+participation in any form of educational program 
+leads to a 14.8% decrease in the likelihood of 
+recidivism. This effect is slightly smaller at 11.3% 
+when restricting the results to the highest quality 
+papers. And when considering studies published 
+since 2010, the estimates decrease to about 7%.  
+A decline in effectiveness based on more recent 
+research is not surprising. Expanding programs to less 
+interested participants may impact the outcome. 
+However, a decline in recidivism of between 7% to 15% 
+is a significant success. That means, for instance, that 
+for every 1,000 inmates served by prison education and 
+later released, between 70 and 150 fewer will return to 
+prison than otherwise would.  
+Impact on employment 
+after incarceration  
+Reduced employment opportunities after 
+incarceration are a vital factor to consider when 
+weighing the impact of imprisonment. In this study, 
+30 papers captured data on the effect of educational 
+programs on employment. Estimates for the full 
+sample suggest that participating in education 
+programs while incarcerated increases the likelihood 
+of being employed after release by 6.9% above what is 
+typically expected. Moreover, recent studies (since 
+2010) provide a similar estimate, with the probability 
+of employment rising to 7.6%. This means that for 
+every 1,000 students completing education while 
+incarcerated, about 30 more will be employed after 
+being released than otherwise would be.  
+
+_________________________________________________________________________________________________ 
+_________________________________________________________________________________________________ 
+MACKINAC CENTER FOR PUBLIC POLICY 
+3 
+Impact on wages after incarceration 
+Employment effects and wage rates should be 
+considered together. After all, the goal is for former 
+inmates both to stay employed and to earn enough to 
+be productive citizens and family members, thereby 
+reducing their chance of reoffending. 
+Prison education programs increase post-release 
+wages by an average of $131 per quarter. While this 
+may seem a modest increase, it is a positive signal. 
+The workers most affected by schooling are often 
+marginal workers whose wages were expected to be 
+lower than average. Not only are released prisoners 
+more likely to find work, but those who do find work 
+earn more at those jobs than those who do not 
+receive education while incarcerated.  
+Impact by type of education program 
+Based on the 105 highest quality estimates included in 
+this meta-analysis, four types of educational offerings 
+in prisons were considered individually: 
+• 
+Adult Basic Education, or ABE: 
+Remedial reading, writing, mathematics, etc. 
+• 
+Secondary Education: 
+GED or high school diploma 
+• 
+Vocational Education: 
+Job skills training and job preparedness 
+• 
+College Education: 
+Associate’s, Bachelor’s or Master’s degrees 
+Graphic 1: Effects on Recidivism and Employment 
+by Education Type 
+Education 
+Type 
+Effect on 
+Recidivism 
+Effect on 
+Employment 
+ABE 
+-6.30% 
+1.47% 
+Secondary 
+-7.17% 
+1.21% 
+Vocational 
+-9.37% 
+5.54% 
+College 
+-27.70% 
+10.50% 
+ 
+All forms of education appear to provide some benefit, 
+but there is variation in their relative effects. College 
+education reduces recidivism the most, leading to a 
+27.7% decrease in the probability of recidivism. This is 
+followed by vocational education at 9.4%, secondary 
+education at 7.2%, and ABE at 6.3%. The significant 
+difference between college and other forms of 
+education could be related to the different lengths of 
+time students participate in the programs. College 
+programs, for instance, often take multiple years for 
+students to complete. 
+The impact on employment across different 
+educational types is more challenging to estimate. ABE 
+and secondary education have negligible effects on 
+employment, with increases of 1.5% and 1.2%, 
+respectively. Vocational education increases 
+employment by 5.5%, while college programs increase 
+employment by 10.5%. However, this effect is 
+estimated using only a single paper, so the
+
+## results ##
+results 
+cannot be stated with as much confidence. 
+
+_________________________________________________________________________________________________ 
+_________________________________________________________________________________________________ 
+ 
+4 
+MACKINAC CENTER FOR PUBLIC POLICY 
+ 
+Returns on investment 
+The study summarized here collected numerous 
+calculations of the average cost, per participant, of 
+each form of educational program. While there is 
+considerable variation across programs, these averages 
+provide helpful estimates of the average program's 
+cost.
+
+## Results ##
+Results indicate that ABE and secondary 
+education are the least expensive, both averaging an 
+annual cost of $1,987 per participant. Vocational 
+education costs slightly more at $2,126, and college 
+education programs are the costliest, with an average 
+of $10,467 annually per participant. 
+These costs were compared to the estimated benefits 
+of recidivism reduction, increased employment and 
+higher wages. The Bureau of Justice Statistics 
+estimates that the average prison stay is 2.7 years.9 The 
+Vera Institute of Justice calculates the average cost of 
+imprisonment to be $40,028 per prisoner per year (in 
+2022 dollars).10 Combined, this means that each return 
+to prison costs approximately $107,000. The 
+Department of Justice estimates that the average 
+quarterly wage for released prisoners in the third year 
+following release is $5,600 per quarter.11  
+Using these numbers, the estimated cost savings (i.e., 
+via the reduction in recidivism) and economic 
+benefits (i.e., higher wages and employment) that 
+come from participation in prison schooling reveal 
+that each dollar spent on ABE education yields $2.04. 
+For secondary education, each dollar spent yields 
+$2.25, $3.10 for vocational education, and $1.61 for 
+college education. 
+These estimates do not include the social costs of 
+crime, such as the costs of victimization, nor the costs 
+to police departments, courts and other various, less 
+tangible costs. Since all these costs should increase as 
+crime increases, the calculations on the returns to 
+investment, which capture only fiscal benefits 
+experienced by prisons or prisoners, are likely low.  
+A college education (due to its high cost) yields the 
+lowest return for each dollar spent despite having the 
+most significant impact. However, considering the 
+greatest economic benefit per participant, college 
+education has the highest effect, yielding $16,863 in 
+benefit per college participant. 
+For each form of education, the wage and employment 
+benefits experienced by the students themselves are 
+lower than the program's cost. In other words, while 
+education provides a positive return on investment, 
+most of those benefits will not benefit the students 
+directly (e.g., from wage increases and employment 
+opportunities). Instead, the larger benefit is to the 
+community, through reduced costs for not having to 
+incarcerate as many people.  
+ABE, secondary, and vocational education each cost 
+about $2,000 per participant. As a result, the 
+breakeven point for recidivism reduction is about two 
+percentage points, well below the decreases in 
+recidivism of ABE (2.9 percentage points), secondary 
+(3.3 percentage points), and vocational (4.31 
+percentage points). With the high cost of housing 
+prisoners, even a tiny decrease in recidivism is 
+Graphic 2: Return on Investment of Four Types of Prison Education  
+Education Type 
+Cost 
+Effect on 
+Recidivism 
+(Percentage 
+Points) 
+Cost-Savings 
+Recidivism 
+Effect on 
+Employment 
+(Percentage 
+Points) 
+Benefit: 
+Employment 
+ROI 
+ABE 
+-$1,987 
+-2.9 
+$3,105 
+0.66 
+$951 
+104.12% 
+Secondary 
+-$1,987 
+-3.3 
+$3,533 
+0.54 
+$883 
+122.25% 
+Vocational 
+-$2,126 
+-4.31 
+$4,615 
+2.48 
+$1,978 
+210.12% 
+College 
+-$10,467 
+-12.74 
+$13,641 
+4.68 
+$3,220 
+61.09% 
+
+_________________________________________________________________________________________________ 
+_________________________________________________________________________________________________ 
+MACKINAC CENTER FOR PUBLIC POLICY 
+5 
+enough to justify the cost of prison education. The 
+breakeven point for college is about 9-10 percentage 
+points, again below the effect of college education in 
+reducing recidivism (12.7 percentage points). 
+Summary 
+The findings summarized here
+
+## result ##
+result from the largest 
+meta-analysis on the impact of prisoner education 
+programs in the United States, compiling 148 
+estimates from 78 research papers. The effect of 
+college, vocational, secondary, and adult basic 
+education on prisoner recidivism, employment, and 
+wages are evaluated. Findings indicate that 
+participating in a prison education program: 
+• 
+Decreases the likelihood of recidivism by 14.8%. 
+• 
+Increases likelihood of employment by 6.9%. 
+• 
+Increases quarterly wages for employed ex-
+offenders by $131. 
+Some of these impacts shown in the research have 
+declined slightly in recent years and are not even 
+across all types of education. For example, secondary 
+education and ABE have the smallest effect, while 
+vocational training programs are highly effective given 
+their low cost. Despite significantly higher costs, 
+college education has the largest impact.  
+All forms of education provide cost-saving 
+opportunities for states by reducing recidivism. Given 
+the high incarceration costs, most of this benefit 
+comes through prison-related costs, but participants 
+benefit, too, from increased wages. Considering both 
+of these benefits, the return on investment is robust 
+for ABE at 104%, vocational education at 122%, and 
+secondary education with a 210% ROI. The return for 
+more expensive college programs is still positive at 
+61%. Vocational education programs provide the 
+highest return for each dollar spent ($3.10), and 
+college education providers the highest benefit per 
+student ($16,861). 
+Policy
+
+## recommendations ##
+recommendations 
+1. Create educational and training programs and 
+expand existing programs in prisons. These will 
+pay for themselves by reducing prison housing 
+costs and likely reducing victimization and other 
+indirect costs.  
+2. Keep educational programs free to prisoners. 
+From a cost-benefit perspective, the biggest gains 
+from these programs are experienced collectively 
+by taxpayers. If prisoners are required to pay for 
+these programs, the costs may discourage them 
+from participating.  
+3. Given that all four forms of education are beneficial, 
+prisons should offer all forms. Students could 
+progress through multiple programs, increasing the 
+total benefits of prison education. This could 
+amplify the positive effects of these education 
+programs. The effect of ABE programs, for instance, 
+will be greater if it enables prisoners to go on to 
+participate in secondary or vocational programs. 
+
+_________________________________________________________________________________________________ 
+_________________________________________________________________________________________________ 
+ 
+6 
+MACKINAC CENTER FOR PUBLIC POLICY
+
+## Endnotes ##
+Endnotes 
+1 
+“Highest to Lowest – Prison Population Rate” (World 
+Prison Brief), https://perma.cc/5UYX-HPP9; “Violent Crime 
+Rates by Country” (Wisevoter, 2022), 
+https://perma.cc/7SLM-VSSR.  
+2 
+“Lifetime Chance Of Being Sent To Prison At Current 
+U.S. Incarceration Rates” (Prison Policy Initiative), 
+https://perma.cc/VF3A-HGTT. 
+3 
+“Following the Money of Mass Incarceration” (Prison 
+Policy Initiative), https://perma.cc/5NUQ-5WS8. 
+4 
+Eric Martin, “Hidden Consequences: The Impact of 
+Incarceration on Dependent Children” (NIJ Journal 278, 
+March 2017), https://perma.cc/28TJ-AMYD.  
+5 
+Matthew R. Durose, Alexia D. Cooper and Howard N. 
+Snyder, “Recidivism of Prisoners Released in 30 States in 
+2005: Patterns from 2005 to 2010” (U.S. Department of 
+Justice, April 2014), https://perma.cc/E73B-XCWV. 
+6 
+Robert Martinson, “What Works? — Questions and 
+Answers About Prison Reform,” The Public Interest 35:22–54 
+(1974), https://perma.cc/R57Z-QP56. 
+7 
+Nazgol Ghandnoosh, “U.S. Prison Population Trends: 
+Massive Buildup and Modest Decline” (The Sentencing 
+Project, Sept. 2019), https://perma.cc/A4NF-D6FK.  
+8 
+Based on “Justice Expenditure and Employment Extracts, 
+2012 – Preliminary” (Bureau of Justice Statistics, Feb. 26, 
+2015), https://perma.cc/4TUX-CFUW. 
+9 
+“Time Served in State Prison, 2018” (Bureau of Justice 
+Statistics, March 30, 2021), https://perma.cc/U75D-WGPY. 
+10 Chris Mai and Ram Subramanian, “The Price of Prisons: 
+Examining State Spending Trends, 2010-2015” (Vera Institute 
+of Justice, May 2017), 7-8, https://perma.cc/CHT6-QQVP. 
+11 E. Ann Carson et al., “Employment of  Persons Released 
+from Federal Prison in 2010” (U.S. Department of Justice, 
+December 2021), Table 6, https://perma.cc/4T66-SBV5. 
+
+ 
+ 
+ 
+Board of Directors 
+Hon. Clifford W. Taylor, 
+Chairman 
+Retired Chief Justice, 
+Michigan Supreme Court 
+Joseph G. Lehman, President 
+Mackinac Center for Public Policy 
+Jim Barrett 
+Retired President and CEO 
+Michigan Chamber of Commerce 
+Daniel J. Graf 
+Chief Investment Officer 
+Amerisure Mutual Holdings, Inc. 
+Richard G. Haworth 
+Chairman Emeritus, 
+Haworth, Inc. 
+J.C. Huizenga 
+President, Westwater Group 
+Edward C. Levy Jr. 
+Executive Chairman for 
+Edw. C. Levy Co. 
+Rodney M. Lockwood Jr. 
+President, Lockwood 
+Construction Company, Inc. 
+Joseph P. Maguire 
+President, Wolverine 
+Development Corporation 
+Richard D. McLellan 
+Member, McLellan 
+Law Offices 
+ 
+Board of Scholars 
+Donald Alexander 
+Western Michigan University 
+Brad Birzer 
+Hillsdale College 
+Peter Boettke 
+George Mason University 
+Theodore Bolema 
+Wichita State University 
+Alex Cartwright 
+Ferris State University 
+Michael Clark 
+Hillsdale College 
+Matthew Coffey 
+Central Michigan University 
+Daniel Crane 
+University of Michigan 
+Law School 
+Shikha Dalmia 
+Mercatus Center 
+Christopher Douglas 
+University of Michigan-Flint 
+Jefferson Edgens 
+University of Wyoming 
+Ross Emmett 
+Arizona State University 
+Sarah Estelle 
+Hope College 
+Hugo Eyzaguirre 
+Northern Michigan University 
+Tawni Ferrarini 
+Lindenwood University 
+Burton Folsom 
+Hillsdale College (ret.) 
+ 
+John Grether 
+Kettering University 
+David Hebert 
+Aquinas College 
+Michael Hicks 
+Ball State University 
+Ormand Hook 
+Mecosta-Osceola ISD 
+Harry Hutchison 
+George Mason University 
+School of Law 
+David Janda 
+Institute for Preventative 
+Sports Medicine 
+Annette Kirk 
+Russell Kirk Center for 
+Cultural Renewal 
+David Littmann 
+Mackinac Center for Public Policy 
+Dale Matcheck 
+Northwood University 
+Charles Meiser 
+Lake Superior 
+State University (ret.) 
+Glenn Moots 
+Northwood University 
+George Nastas III 
+Marketing Consultants 
+Todd Nesbit 
+Ball State University 
+John Pafford 
+Northwood University (ret.) 
+Mark Perry 
+University of Michigan-Flint 
+ 
+Lawrence W. Reed 
+Foundation for 
+Economic Education 
+Gregory Rehmke 
+Economic Thinking 
+Steve Safranek 
+Private Sector 
+General Counsel 
+Howard Schwartz 
+Oakland University 
+James Sheehan 
+SunTrust Robinson Humphrey 
+Rev. Robert Sirico 
+Acton Institute for the 
+Study of Religion and Liberty 
+Bradley Smith 
+Capital University Law School 
+Daniel Smith 
+Middle Tennessee State University 
+Chris Surprenant 
+University of New Orleans 
+Jason Taylor 
+Central Michigan University 
+John Taylor 
+Wayne State University 
+Richard K. Vedder 
+Ohio University 
+Harry Veryser Jr. 
+University of Detroit-Mercy 
+John Walter Jr. 
+Dow Corning Corporation (ret.) 
+Gary Wolfram 
+Hillsdale College 
+Guarantee of Quality Scholarship 
+The Mackinac Center for Public Policy is committed to delivering the highest quality and most reliable research on 
+Michigan issues. The Center guarantees that all original factual data are true and correct and that information attributed 
+to other sources is accurately represented. 
+The Center encourages rigorous critique of its research. If the accuracy of any material fact or reference to an independent 
+source is questioned and brought to the Center’s attention with supporting evidence, the Center will respond in writing. If 
+an error exists, it will be noted in a correction that will accompany all subsequent distribution of the publication. This 
+constitutes the complete and final remedy under this guarantee. 
+© 2023 by the Mackinac Center for Public Policy. All rights reserved. 
+Permission to reprint in whole or in part is hereby granted, provided that the Mackinac Center for Public Policy is properly cited. 
+ISBN:  978-1-942502-64-7 S2023-01  
+ 
+Mackinac Center for Public Policy, 140 West Main Street, P.O. Box 568   Midland, Michigan 48640   989-631-0900  www.mackinac.org.
+
+
+=== EXTRACTED TABLES ===
+Table 1:
+Table 6, https://perma.cc/4T66-SBV5. 
+
+
+
+Table 2:
+Graphic 1: Effects on Recidivism and Employment 
+by Education Type 
+Education 
+Type 
+Effect on 
+Recidivism 
+Effect on 
+Employment 
+ABE 
+-6.30% 
+1.47% 
+Secondary 
+-7.17% 
+1.21% 
+Vocational 
+-9.37% 
+5.54% 
+College 
+-27.70% 
+10.50% 
+ 
+All forms of education appear to provide some benefit, 
+but there is variation in their relative effects. College 
+education reduces recidivism the most, leading to a 
+27.7% decrease in the probability of recidivism. This is 
+followed by vocational education at 9.4%, secondary 
+education at 7.2%, and ABE at 6.3%. The significant 
+difference between college and other forms of 
+education could be related to the different lengths of 
+time students participate in the programs. College 
+programs, for instance, often take multiple years for 
+students to complete. 
+The impact on employment across different 
+educational types is more challenging to estimate. ABE 
+and secondary education have negligible effects on 
+employment, with increases of 1.5% and 1.2%, 
+respectively. Vocational education increases 
+employment by 5.5%, while college programs increase 
+employment by 10.5%. However, this effect is 
+estimated using only a single paper, so the results 
+cannot be stated with as much confidence. 
+
+
+
+Table 3:
+Graphic 2: Return on Investment of Four Types of Prison Education  
+Education Type 
+Cost 
+Effect on 
+Recidivism 
+(Percentage 
+Points) 
+Cost-Savings 
+Recidivism 
+Effect on 
+Employment 
+(Percentage 
+Points) 
+Benefit: 
+Employment 
+ROI 
+ABE 
+-$1,987 
+-2.9 
+$3,105 
+0.66 
+$951 
+104.12% 
+Secondary 
+-$1,987 
+-3.3 
+$3,533 
+0.54 
+$883 
+122.25% 
+Vocational 
+-$2,126 
+-4.31 
+$4,615 
+2.48 
+$1,978 
+210.12% 
+College 
+-$10,467 
+-12.74 
+$13,641 
+4.68 
+$3,220 
+61.09% 
+
+
+
+
+=== EXTRACTED REFERENCES ===
+1. 4 
+Eric Martin, “Hidden Consequences: The Impact of 
+Incarceration on Dependent Children” (NIJ Journal 278, 
+March 2017), https://perma.cc/28TJ-AMYD.  
+5 
+Matthew R. Durose, Alexia D. Cooper and Howard N. 
+Snyder, “Recidivism of Prisoners Released in 30 States in 
+2005: Patterns from 2005 to 2010” (U.S. Department of 
+Justice, April 2014), https://perma.cc/E73B-XCWV. 
+6 
+Robert Martinson, “What Works? — Questions and 
+Answers About Prison Reform,” The Public Interest 35:22–54 
+(1974), https://perma.cc/R57Z-QP
+2. 7 
+Nazgol Ghandnoosh, “U.S. Prison Population Trends: 
+Massive Buildup and Modest Decline” (The Sentencing 
+Project, Sept. 2019), https://perma.cc/A4NF-D6FK.  
+8 
+Based on “Justice Expenditure and Employment Extracts, 
+2012 – Preliminary” (Bureau of Justice Statistics, Feb. 26, 
+2015), https://perma.cc/4TUX-CFUW. 
+9 
+“Time Served in State Prison, 2018” (Bureau of Justice 
+Statistics, March 30, 2021), https://perma.cc/U75D-WGPY. 
+10 Chris Mai and Ram Subramanian, “The Price of Prisons: 
+Examining State Spending Trends, 2010-2015” (Vera Institute 
+of Justice, May 2017), 7-8, https://perma.cc/CHT6-QQVP. 
+11 E. Ann Carson et al., “Employment of  Persons Released 
+from Federal Prison in 2010” (U.S. Department of Justice, 
+December 2021), Table 6, https://perma.cc/4T66-SBV
+3. Board of Directors 
+Hon. Clifford W. Taylor, 
+Chairman 
+Retired Chief Justice, 
+Michigan Supreme Court 
+Joseph G. Lehman, President 
+Mackinac Center for Public Policy 
+Jim Barrett 
+Retired President and CEO 
+Michigan Chamber of Commerce 
+Daniel J. Graf 
+Chief Investment Officer 
+Amerisure Mutual Holdings, Inc. 
+Richard G. Haworth 
+Chairman Emeritus, 
+Haworth, Inc. 
+J.C. Huizenga 
+President, Westwater Group 
+Edward C. Levy Jr. 
+Executive Chairman for 
+Edw. C. Levy Co. 
+Rodney M. Lockwood Jr. 
+President, Lockwood 
+Construction Company, Inc. 
+Joseph P. Maguire 
+President, Wolverine 
+Development Corporation 
+Richard D. McLellan 
+Member, McLellan 
+Law Offices 
+ 
+Board of Scholars 
+Donald Alexander 
+Western Michigan University 
+Brad Birzer 
+Hillsdale College 
+Peter Boettke 
+George Mason University 
+Theodore Bolema 
+Wichita State University 
+Alex Cartwright 
+Ferris State University 
+Michael Clark 
+Hillsdale College 
+Matthew Coffey 
+Central Michigan University 
+Daniel Crane 
+University of Michigan 
+Law School 
+Shikha Dalmia 
+Mercatus Center 
+Christopher Douglas 
+University of Michigan-Flint 
+Jefferson Edgens 
+University of Wyoming 
+Ross Emmett 
+Arizona State University 
+Sarah Estelle 
+Hope College 
+Hugo Eyzaguirre 
+Northern Michigan University 
+Tawni Ferrarini 
+Lindenwood University 
+Burton Folsom 
+Hillsdale College (ret.) 
+ 
+John Grether 
+Kettering University 
+David Hebert 
+Aquinas College 
+Michael Hicks 
+Ball State University 
+Ormand Hook 
+Mecosta-Osceola ISD 
+Harry Hutchison 
+George Mason University 
+School of Law 
+David Janda 
+Institute for Preventative 
+Sports Medicine 
+Annette Kirk 
+Russell Kirk Center for 
+Cultural Renewal 
+David Littmann 
+Mackinac Center for Public Policy 
+Dale Matcheck 
+Northwood University 
+Charles Meiser 
+Lake Superior 
+State University (ret.) 
+Glenn Moots 
+Northwood University 
+George Nastas III 
+Marketing Consultants 
+Todd Nesbit 
+Ball State University 
+John Pafford 
+Northwood University (ret.) 
+Mark Perry 
+University of Michigan-Flint 
+ 
+Lawrence W. Reed 
+Foundation for 
+Economic Education 
+Gregory Rehmke 
+Economic Thinking 
+Steve Safranek 
+Private Sector 
+General Counsel 
+Howard Schwartz 
+Oakland University 
+James Sheehan 
+SunTrust Robinson Humphrey 
+Rev. Robert Sirico 
+Acton Institute for the 
+Study of Religion and Liberty 
+Bradley Smith 
+Capital University Law School 
+Daniel Smith 
+Middle Tennessee State University 
+Chris Surprenant 
+University of New Orleans 
+Jason Taylor 
+Central Michigan University 
+John Taylor 
+Wayne State University 
+Richard K. Vedder 
+Ohio University 
+Harry Veryser Jr. 
+University of Detroit-Mercy 
+John Walter Jr. 
+Dow Corning Corporation (ret.) 
+Gary Wolfram 
+Hillsdale College 
+Guarantee of Quality Scholarship 
+The Mackinac Center for Public Policy is committed to delivering the highest quality and most reliable research on 
+Michigan issues. The Center guarantees that all original factual data are true and correct and that information attributed 
+to other sources is accurately represented. 
+The Center encourages rigorous critique of its research. If the accuracy of any material fact or reference to an independent 
+source is questioned and brought to the Center’s attention with supporting evidence, the Center will respond in writing. If 
+an error exists, it will be noted in a correction that will accompany all subsequent distribution of the publication. This 
+constitutes the complete and final remedy under this guarantee. 
+© 2023 by the Mackinac Center for Public Policy. All rights reserved. 
+Permission to reprint in whole or in part is hereby granted, provided that the Mackinac Center for Public Policy is properly cited. 
+ISBN:  978-1-942502-64-7 S2023-01  
+ 
+Mackinac Center for Public Policy, 140 West Main Street, P.O. Box 568   Midland, Michigan 48640   989-631-0900  www.mackinac.org.

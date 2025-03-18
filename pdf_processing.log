@@ -1,0 +1,138 @@
+2025-03-17 19:32:53,813 - INFO - Starting PDF processing
+2025-03-17 19:32:53,814 - INFO - Total PDFs to process: 10
+2025-03-17 19:32:53,817 - WARNING - Found 2 missing PDF files:
+2025-03-17 19:32:53,817 - WARNING -   - CPA_Study: Developer4/CPA Study 2015/CPA Study 2015.pdf
+2025-03-17 19:32:53,818 - WARNING -   - Mackinac: Developer4/Mackinac I/Mackinac I.pdf
+2025-03-17 19:32:54,677 - ERROR - CHFC7F_1 generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,683 - ERROR - Chapter_15_Summary generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,684 - ERROR - CorrectionalEducationandRecidivism generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,690 - ERROR - Dodson_et_al_2011-libre generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,691 - ERROR - Does_incarceration_based_drug_treatment generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,692 - ERROR - drug_court_metaanalysis generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,693 - ERROR - education_metaanalysis generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,694 - ERROR - Meta-analysis-of-CBT generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:32:54,699 - INFO - 
+=== PROCESSING SUMMARY ===
+2025-03-17 19:32:54,700 - INFO - Total PDFs processed: 8
+2025-03-17 19:32:54,702 - INFO - Successful: 0 (None)
+2025-03-17 19:32:54,702 - ERROR - Failed: 8 (CHFC7F_1, Chapter_15_Summary, CorrectionalEducationandRecidivism, Dodson_et_al_2011-libre, Does_incarceration_based_drug_treatment, drug_court_metaanalysis, education_metaanalysis, Meta-analysis-of-CBT)
+2025-03-17 19:32:54,703 - WARNING - Missing: 2 (CPA_Study, Mackinac)
+2025-03-17 19:32:54,706 - INFO - PDF processing completed
+2025-03-17 19:32:54,707 - INFO - Total execution time: 0:00:00.892989
+2025-03-17 19:33:58,024 - INFO - Starting PDF processing
+2025-03-17 19:33:58,025 - INFO - Total PDFs to process: 10
+2025-03-17 19:33:58,282 - ERROR - CHFC7F_1 generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,286 - ERROR - Chapter_15_Summary generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,289 - ERROR - CorrectionalEducationandRecidivism generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,290 - ERROR - Dodson_et_al_2011-libre generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,291 - ERROR - Does_incarceration_based_drug_treatment generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,291 - ERROR - drug_court_metaanalysis generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,293 - ERROR - education_metaanalysis generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,295 - ERROR - Meta-analysis-of-CBT generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,296 - ERROR - CPA_Study generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,296 - ERROR - Mackinac generated an exception: A process in the process pool was terminated abruptly while the future was running or pending.
+2025-03-17 19:33:58,300 - INFO - 
+=== PROCESSING SUMMARY ===
+2025-03-17 19:33:58,302 - INFO - Total PDFs processed: 10
+2025-03-17 19:33:58,302 - INFO - Successful: 0 (None)
+2025-03-17 19:33:58,304 - ERROR - Failed: 10 (CHFC7F_1, Chapter_15_Summary, CorrectionalEducationandRecidivism, Dodson_et_al_2011-libre, Does_incarceration_based_drug_treatment, drug_court_metaanalysis, education_metaanalysis, Meta-analysis-of-CBT, CPA_Study, Mackinac)
+2025-03-17 19:33:58,305 - INFO - PDF processing completed
+2025-03-17 19:33:58,306 - INFO - Total execution time: 0:00:00.282638
+2025-03-17 19:38:15,585 - INFO - Processing page-1
+2025-03-17 19:38:15,937 - INFO - Processing page-2
+2025-03-17 19:38:16,981 - INFO - Processing page-3
+2025-03-17 19:38:18,521 - INFO - Processing page-4
+2025-03-17 19:38:19,313 - INFO - Processing page-5
+2025-03-17 19:38:20,008 - INFO - Processing page-6
+2025-03-17 19:38:20,470 - INFO - Processing page-7
+2025-03-17 19:38:20,957 - INFO - Processing page-8
+2025-03-17 19:38:21,373 - INFO - Processing page-9
+2025-03-17 19:38:21,856 - INFO - Processing page-10
+2025-03-17 19:38:23,277 - INFO - Processing page-11
+2025-03-17 19:38:24,282 - INFO - Processing page-12
+2025-03-17 19:38:25,537 - INFO - Processing page-13
+2025-03-17 19:38:26,109 - INFO - Processing page-14
+2025-03-17 19:38:26,435 - INFO - Processing page-15
+2025-03-17 19:38:26,726 - INFO - Processing page-16
+2025-03-17 19:38:27,172 - INFO - Processing page-17
+2025-03-17 19:38:27,651 - INFO - Processing page-18
+2025-03-17 19:38:27,994 - INFO - Processing page-19
+2025-03-17 19:38:28,431 - INFO - Processing page-20
+2025-03-17 19:38:29,041 - INFO - Processing page-21
+2025-03-17 19:38:30,013 - INFO - Processing page-22
+2025-03-17 19:38:30,652 - INFO - Processing page-23
+2025-03-17 19:39:05,408 - INFO - Processing page-1
+2025-03-17 19:39:05,647 - INFO - Processing page-2
+2025-03-17 19:39:05,953 - INFO - Processing page-3
+2025-03-17 19:39:06,291 - INFO - Processing page-4
+2025-03-17 19:39:06,596 - INFO - Processing page-5
+2025-03-17 19:39:06,852 - INFO - Processing page-6
+2025-03-17 19:39:06,951 - INFO - Processing page-7
+2025-03-17 19:39:07,022 - INFO - Processing page-8
+2025-03-17 19:39:07,138 - INFO - Processing page-9
+2025-03-17 19:39:07,590 - INFO - Processing page-10
+2025-03-17 19:39:08,107 - INFO - Processing page-11
+2025-03-17 19:39:08,716 - INFO - Processing page-12
+2025-03-17 19:39:09,281 - INFO - Processing page-13
+2025-03-17 19:39:09,599 - INFO - Processing page-14
+2025-03-17 19:39:10,165 - INFO - Processing page-15
+2025-03-17 19:39:10,569 - INFO - Processing page-16
+2025-03-17 19:39:10,746 - INFO - Processing page-17
+2025-03-17 19:39:10,890 - INFO - Processing page-18
+2025-03-17 19:39:11,130 - INFO - Processing page-19
+2025-03-17 19:39:11,517 - INFO - Processing page-20
+2025-03-17 19:39:11,920 - INFO - Processing page-21
+2025-03-17 19:39:12,187 - INFO - Processing page-22
+2025-03-17 19:39:12,518 - INFO - Processing page-23
+2025-03-17 19:39:12,750 - INFO - Processing page-24
+2025-03-17 19:39:13,018 - INFO - Processing page-25
+2025-03-17 19:39:13,275 - INFO - Processing page-26
+2025-03-17 19:40:39,145 - INFO - Processing page-1
+2025-03-17 19:40:39,479 - INFO - Processing page-2
+2025-03-17 19:40:40,058 - INFO - Processing page-3
+2025-03-17 19:40:40,683 - INFO - Processing page-4
+2025-03-17 19:40:41,325 - INFO - Processing page-5
+2025-03-17 19:40:42,207 - INFO - Processing page-6
+2025-03-17 19:40:43,093 - INFO - Processing page-7
+2025-03-17 19:40:43,725 - INFO - Processing page-8
+2025-03-17 19:40:44,332 - INFO - Processing page-9
+2025-03-17 19:40:44,661 - INFO - Processing page-10
+2025-03-17 19:40:45,190 - INFO - Processing page-11
+2025-03-17 19:40:45,550 - INFO - Processing page-12
+2025-03-17 19:40:46,025 - INFO - Processing page-13
+2025-03-17 19:40:46,489 - INFO - Processing page-14
+2025-03-17 19:40:46,744 - INFO - Processing page-15
+2025-03-17 19:40:46,960 - INFO - Processing page-16
+2025-03-17 19:40:47,361 - INFO - Processing page-17
+2025-03-17 19:40:48,285 - INFO - Processing page-18
+2025-03-17 19:40:49,052 - INFO - Processing page-19
+2025-03-17 19:40:49,922 - INFO - Processing page-20
+2025-03-17 19:40:50,309 - INFO - Processing page-21
+2025-03-17 19:40:50,673 - INFO - Processing page-22
+2025-03-17 19:40:50,910 - INFO - Processing page-23
+2025-03-17 19:41:23,477 - INFO - Processing page-1
+2025-03-17 19:41:23,711 - INFO - Processing page-2
+2025-03-17 19:41:24,484 - INFO - Processing page-3
+2025-03-17 19:41:25,229 - INFO - Processing page-4
+2025-03-17 19:41:25,885 - INFO - Processing page-5
+2025-03-17 19:41:26,190 - INFO - Processing page-6
+2025-03-17 19:41:26,301 - INFO - Processing page-7
+2025-03-17 19:41:26,385 - INFO - Processing page-8
+2025-03-17 19:41:26,456 - INFO - Processing page-9
+2025-03-17 19:41:26,678 - INFO - Processing page-10
+2025-03-17 19:41:27,012 - INFO - Processing page-11
+2025-03-17 19:41:27,314 - INFO - Processing page-12
+2025-03-17 19:41:27,600 - INFO - Processing page-13
+2025-03-17 19:41:27,753 - INFO - Processing page-14
+2025-03-17 19:41:28,004 - INFO - Processing page-15
+2025-03-17 19:41:28,280 - INFO - Processing page-16
+2025-03-17 19:41:28,408 - INFO - Processing page-17
+2025-03-17 19:41:28,550 - INFO - Processing page-18
+2025-03-17 19:41:28,811 - INFO - Processing page-19
+2025-03-17 19:41:29,215 - INFO - Processing page-20
+2025-03-17 19:41:29,761 - INFO - Processing page-21
+2025-03-17 19:41:30,373 - INFO - Processing page-22
+2025-03-17 19:41:31,097 - INFO - Processing page-23
+2025-03-17 19:41:31,590 - INFO - Processing page-24
+2025-03-17 19:41:32,188 - INFO - Processing page-25
+2025-03-17 19:41:32,737 - INFO - Processing page-26

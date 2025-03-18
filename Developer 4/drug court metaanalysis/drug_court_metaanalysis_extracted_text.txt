@@ -1,0 +1,1132 @@
+S
+E
+R
+V
+I
+N
+G
+C
+A
+N
+A
+D
+I
+A
+N
+S
+RESEARCH AND 
+STATISTICS DIVISION
+A Meta-Analytic Examination 
+of Drug Treatment Courts: 
+Do they Reduce Recidivism? 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Meta-Analytic Examination of 
+Drug Treatment Courts: 
+ 
+Do They Reduce Recidivism? 
+ 
+ 
+ 
+Jeff Latimer 
+Principal Statistician 
+ 
+Kelly Morton-Bourgon 
+Research Officer 
+ 
+and 
+ 
+Jo-Anne Chrétien 
+Statistical Analyst 
+ 
+ 
+Research and Statistics Division 
+ 
+ 
+August 2006 
+ 
+ 
+rr06-7 
+ 
+ 
+ 
+The opinions expressed within are those of the authors 
+and not necessarily those of the Department of Justice Canada. 
+ 
+
+ 
+ 
+ 
+i  |  Research and Statistics Division / Department of Justice Canada 
+Table of contents 
+Acknowledgements.............................................................................................................ii 
+Abstract ..............................................................................................................................iii 
+1. Introduction
+............................................................................................................. 1 
+2.  
+Method .................................................................................................................... 3 
+3.  
+Results..................................................................................................................... 5 
+3.1  
+Study Characteristics....................................................................................... 5 
+3.2  
+Program Characteristics .................................................................................. 6 
+3.3  
+Participant Characteristics............................................................................... 8 
+3.4  
+Recidivism Results.......................................................................................... 9 
+3.5  
+Moderating Variable Analysis ...................................................................... 10 
+4.  
+Conclusion ............................................................................................................ 14 
+References......................................................................................................................... 15 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+ii  |  Research and Statistics Division / Department of Justice Canada 
+Acknowledgements 
+he authors would like to acknowledge the contribution of Daniel Nassrallah who 
+provided coding assistance during the initial stages of this project.  In addition, the 
+services provided by the Department of Justice Library, specifically by Heather Blake, 
+Sylvie Nugent and Micheline Levesque, were instrumental in locating many of the documents 
+used in this meta-analysis.  We would also like to thank Kim Burnett for her assistance in 
+identifying and locating documents and Margaret Trottier for her advice and expertise on drug 
+treatment courts.  Finally, constructive comments on an earlier draft were provided by Dr. 
+Kwing Hung, Dr. Guy Bourgon, Austin Lawrence and Anna Paletta. 
+T 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  iii 
+Abstract 
+ meta-analysis was conducted to determine if drug treatment courts reduce recidivism 
+compared to traditional justice system responses.  After a comprehensive search of 
+both the published and unpublished literature, 54 studies were located and deemed 
+acceptable according to the study inclusion criteria.  Since studies oftentimes contained 
+information on more than one program, data from 66 individual drug treatment court 
+programs were aggregated and analyzed.  The results indicated that drug treatment courts 
+significantly reduced the recidivism rates of participants by 14% compared to offenders 
+within the control/comparison groups.  Several variables identified in the analysis, however, 
+had an impact on the results, including the age of the participants, the length of the program, 
+the follow-up period used to measure recidivism, and other methodological variables (i.e., the 
+use of random assignment and the choice of the comparison group).  While there are other 
+issues that were not the subject of this research, such as the cost-effectiveness of DTCs, the 
+results of this meta-analysis provides clear support for the use of drug treatment courts as a 
+method of reducing crime among offenders with substance abuse problems.   
+ 
+ 
+ 
+A 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  1 
+1. Introduction 
+rug treatment courts (DTCs) aim to reduce crime committed as a result of illicit drug 
+dependency through court-monitored treatment and community service support for 
+offenders with substance abuse problems.  Participants are generally referred to DTC 
+programs through a number of sources, such as the courts or Crown prosecutors, and must 
+meet a set of eligibility requirements (e.g., serious drug use, non-violent offences).  As part of 
+their treatment, DTC participants typically attend counselling sessions through a structured 
+out-patient program (although some may attend in-patient programs) and are typically subject 
+to random drug tests during the program.  Participants must also appear regularly in court, 
+where a judge reviews their progress and often imposes sanctions for negative behaviour (e.g., 
+verbal reprimands, incarceration, expulsion from the program) or provides rewards for 
+positive behaviour (e.g., verbal commendations, reductions in the frequency of court contact).  
+DTC staff in many programs also work with community partners to address participants’ 
+other needs, such as safe housing, stable employment and vocational skills training.  Once  
+a participant gains stability and demonstrates control over the substance abuse problems, 
+criminal charges may be stayed or, in some cases, the offender may receive a non-custodial 
+sentence.  If unsuccessful, an offender will usually be sentenced as part of the regular  
+court process. 
+ 
+The first formal DTC in Canada was established in Toronto in 1998, followed by a second 
+court in Vancouver in 2001.  As part of its commitment under Canada’s Drug Strategy to 
+expand drug treatment courts in Canada, the federal government announced in 2005 that 
+additional funding would be provided to establish four additional courts in Edmonton, Regina, 
+Winnipeg and Ottawa.  In the United States, there are a substantial number of DTCs operating 
+within many states. 
+ 
+Despite the popularity and intuitive appeal of DTCs, it is crucial to fully evaluate the 
+effectiveness of such an approach, particularly as the cost of using the courts as a social 
+control mechanism is relatively high.  The main goal of DTCs is to reduce substance use and 
+subsequently reduce criminal behaviour which is committed as a result of the substance 
+abuse.  There have been numerous evaluations of individual DTCs, and the results have 
+varied considerably.  Fielding, Tye, Ogawa, Imam and Long (2002), for example, reported 
+that participation in a drug treatment court was associated with significant reductions in 
+recidivism compared to participation in the traditional court process, while Meither, Lu and 
+Reese (2000) reported that DTC participation was associated with an increase in recidivism.   
+ 
+Given that there are a relatively high number of drug treatment court evaluations and that  
+the results are difficult to interpret individually, this body of empirical knowledge would  
+need to be aggregated.  Summarizing this research through standard narrative approaches 
+(e.g., literature review, annotated bibliography), however, would perhaps not analyze the 
+available data objectively and might lead to inappropriate conclusions.  In order to  
+objectively summarize this body of research, a meta-analysis was selected as the most 
+appropriate method. 
+D 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+2  |  Research and Statistics Division / Department of Justice Canada 
+A meta-analysis can be understood as a statistical analysis of a collection of studies that 
+aggregates the magnitude of a relationship between two or more variables (Glass, McGaw  
+& Smith, 1981).  Meta-analytic statistics can describe the typical strength of the effect under 
+investigation (i.e., change in recidivism as a result of DTC participation), the degree of 
+statistical significance, and the variability, and can provide an opportunity to explore and 
+identify potential moderating variables.  The outcome of a meta-analysis is an effect size 
+estimate (ESE), which can be interpreted as the estimated effect of the independent variable 
+on the dependent variable.  For example, an average effect size estimate of +0.10 translates 
+into the independent variable accounting for a 10% change in the dependent variable 
+(Rosenthal, 1991). 
+ 
+Meta-analytic reviews are generally regarded as a superior method of research synthesis 
+compared to traditional narrative reviews as the former are “more systematic, more explicit, 
+more exhaustive, and more quantitative” (Rosenthal 1991, p. 17).  Critics argue, however, that 
+one of the major limitations of meta-analytic techniques is that the sampling procedures are 
+biased in favour of including predominantly published studies.  It is surmised that, since the 
+probability of publishing a study is increased by the statistical significance of the results, 
+published studies are not actually representative of the entire body of research that has been 
+conducted in a given area.  Consequently, a calculated effect size, based exclusively on 
+published studies, may be overestimating the relationship.  Coined the “file drawer problem” 
+(Rosenthal, 1991, p. 103), this suggests that if unpublished studies were included in the meta-
+analysis, the effect size estimate would be smaller.  In order to counter this issue, unpublished 
+articles, governmental and non-governmental reports, and student papers were sought in the 
+present meta-analysis.  
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  3 
+2.  Method 
+imilar to traditional quantitative research methods, the meta-analytic process involves 
+three basic steps: 
+ 
+1. literature review – identifying and gathering relevant research studies; 
+2. data collection – extracting data through pre-determined coding procedures; and 
+3. data analysis – analyzing the aggregated data using statistical techniques. 
+ 
+To gather eligible studies for the meta-analysis, a comprehensive search was conducted of the 
+literature over the last 20 years including unpublished doctoral theses and governmental 
+reports.  A secondary search was conducted using the bibliographies of the relevant literature, 
+prior meta-analyses and the Internet.  An explicit set of criteria was established in order for a 
+study to be included in the analysis: 
+ 
+1. the study examined the effectiveness of a drug treatment court (i.e., an intervention 
+that involved both a court monitored component and a substance abuse treatment 
+component) for offenders charged with a criminal offence; 
+ 
+2. the study used a control group or comparison group that did not experience the drug 
+treatment court (or provided sufficient pre/post data);  
+ 
+3. sufficient statistical information was reported in order to extract an effect size; and, 
+ 
+4. the study measured the impact of the DTC on recidivism rates.  
+ 
+Standardized information was drawn from each accepted study using a pre-designed coding 
+manual.  In accordance with standard meta-analytic techniques, multiple definitions of 
+recidivism were accepted.  For example, recidivism was defined as a new conviction or 
+simply a new charge.  It was not, however, defined as a relapse on the substance of choice – 
+only new criminal behaviour was coded as recidivism.  In order to generate sufficient data for 
+analysis, several coding techniques were used.  For example, if 70% or more of the study 
+sample were first-time offenders, it was coded as a “primarily first-time offender program.”  
+In addition, several variables were coded only if the authors made an explicit positive 
+statement.  For example, the use of methadone was only coded as “yes” if the authors directly 
+stated this to be a fact.  Therefore, the comparisons made in this report are subject to this 
+limitation.  It should be noted, however, that this is a general issue within all meta-analyses.   
+ 
+In accordance with the meta-analytic techniques of Rosenthal (1991), the phi coefficient 
+(Pearson’s r product moment correlation applied to dichotomous data) was used as the effect 
+size estimate.  In cases where multiple control groups were used in a single study, the results 
+were combined in order to generate a single ESE for each program in order to avoid skewing 
+the results by double counting programs.  In addition, where multiple follow-up periods were 
+reported in a single study, the longer period was selected. 
+S 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+4  |  Research and Statistics Division / Department of Justice Canada 
+ 
+Once the ESE from each study was calculated for recidivism, the overall mean effect size 
+estimate, along with the corresponding confidence intervals, and a weighted effect size 
+estimate were calculated.  Additional analyses were also conducted to explore whether certain 
+variables had a moderating impact on ESE magnitude where adequate information was 
+available.  For example, the effect of DTC participation was analyzed based upon the length 
+of the programs or the criminal history of the offenders within the programs. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  5 
+3.  Results 
+3.1  
+Study Characteristics 
+lthough 185 individual studies were identified through the search process, only 54 
+(29.2%) studies were deemed acceptable according to the study inclusion criteria.  As 
+Table 1 indicates, the research located on drug treatment courts originates almost 
+exclusively from the United States.  Only two studies were located in Canada (which is 
+consistent with the number of Canadian DTCs that were operating long enough to generate 
+evaluations) and two in Australia.   
+ 
+TABLE 1:  STUDY CHARACTERISTICS    
+ 
+VARIABLE 
+ 
+ 
+N (%) 
+ 
+Country (N=54) 
+ 
+    United States 
+50 (92.6%) 
+    Canada 
+  2 (  3.7%) 
+    Australia 
+  2 (  3.7%) 
+     
+ 
+Publication type (N=54) 
+ 
+    Academic journal article  
+31 (57.4%) 
+    Other publication type (e.g., government report) 
+23 (42.6%) 
+ 
+ 
+Study design (N=54) 
+ 
+    Random control group  
+7 (13.0%) 
+    Simple comparison group 
+27 (50.0%) 
+    Matched comparison group 
+20 (37.0%) 
+ 
+ 
+Control/comparison group (N=72) 
+ 
+     Justice system (e.g., probation or custody sample) 
+39 (54.2%) 
+     Drop-outs/non graduates 
+10 (13.9%) 
+     Eligible but did not participate  
+23 (31.9%) 
+ 
+ 
+ 
+The studies were published between 1993 and 2005 with a median year of 2001.  Just over 
+half (57.4%) were published in peer-reviewed academic journals, which indicates that this 
+meta-analysis is not relying solely on “traditionally published” studies.  A large majority of 
+the studies (87.0%) used a comparison group (simple or matched).  Although the 
+control/comparison groups were combined in the calculation of the ESE, there was a total of 
+72 unique control/comparison groups within the 54 studies.  Most compared the DTC 
+participants to offenders within the traditional justice system (54.2%) or offenders who were 
+A 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+6  |  Research and Statistics Division / Department of Justice Canada 
+eligible but did not participate (31.9%) – the latter being a more appropriate comparison 
+group as these offenders would have been screened for substance abuse problems.  
+ 
+One of the more important issues within program evaluation research, and particularly within 
+DTC research, is the attrition rate (i.e., the proportion of participants who voluntarily or 
+involuntarily leave the program before completion).  The recidivism rates used in analysis do 
+not include (or rarely include) offenders who did not complete the program.  Therefore, it is 
+important to consider attrition when examining recidivism rates.  The attrition rates within the 
+studies in this meta-analysis ranged from 9.0% up to 84.4% with a mean of 45.2% (SD=19.0), 
+which indicates that almost half of DTC participants do not complete the program.  Clearly, 
+strategies need to be developed to decrease attrition rates within DTC programs.   
+ 
+A second important factor to consider in a study of recidivism is the follow-up length used to 
+measure recidivism.  Generally, longer follow-up periods produce higher recidivism rates as 
+offenders have more time at-risk to re-offend.  The follow-up length used to measure 
+recidivism within the included studies ranged from 3 months up to 48 months with a mean of 
+18.7 months (SD=11.5). 
+ 
+Sample size is a third factor considered important in program evaluation research as larger 
+sample sizes are considered more rigorous than smaller sample sizes.  The sample sizes 
+ranged from 39 participants up to 856 participants, with a mean of 260 participants (SD=189).   
+3.2  
+Program Characteristics 
+Although there were 54 individual studies, some studies reported on multiple DTCs.  As such, 
+a total of 66 individual DTC programs were included in this meta-analysis.  Table 2 
+summarizes the DTCs described in the individual research studies.  The data, however, should 
+be viewed with some caution.  There were difficulties in coding detailed information, as the 
+programs were not adequately described in many of the studies.   
+ 
+Very few DTCs restricted participation based upon drug type.  Some programs (4.6%) 
+restricted access to only hard drug users (e.g., cocaine, heroin, crystal methamphetamine), and 
+other programs (7.6%) to only soft-drug users (e.g., marijuana, hashish, alcohol).  
+Approximately one-third of programs (31.8%) dealt primarily with repeat offenders (19.7% 
+mostly repeat offenders and 12.1% all repeat offenders) and 19.7% dealt primarily with first-
+time offenders (18.2% mostly first-time offenders and 1.5% all first-time offenders).  Finally, 
+almost all DTC programs (93.9%) accepted only offenders who had been charged with non-
+violent offences.  In summary, the programs in this meta-analysis are dealing with both first-
+time and repeat non-violent offenders who have substance abuse problems with numerous 
+types of drugs.     
+ 
+The program lengths of DTCs (i.e., the time an offender was monitored) within this meta-
+analysis varied from 6 months up to 26 months with a mean of 13.4 months (SD=4.0).    
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  7 
+ 
+TABLE 2:  PROGRAM CHARACTERISTICS  
+ 
+VARIABLE 
+ 
+N (%) 
+ 
+ 
+Substance abuse accepted (N=-66) 
+ 
+     Hard drugs only (e.g., heroin, cocaine) 
+3 (  4.6%) 
+ Mixed drugs/unknown 
+58 (87.8%) 
+ Soft drugs only (e.g., marijuana, hashish) 
+5 (  7.6%) 
+ 
+ 
+Offence types accepted (N=66) 
+ 
+     Non-violent only 
+62 (93.9%) 
+     Mixed/unknown 
+4 (  6.1%) 
+     Violent only 
+0 (  0.0%) 
+ 
+ 
+Criminal history (N=66) 
+ 
+     All first-time offenders 
+1 (  1.5%) 
+     Mostly first-time offenders (seventy percent or more) 
+12 (18.2%) 
+  Mixed/unknown 
+32 (48.5%) 
+  Mostly repeat offenders (seventy percent or more) 
+13 (19.7%) 
+     All repeat offenders 
+8 (12.1%) 
+ 
+ 
+Program setting (N=66) 
+ 
+     Out-patient only 
+20 (30.3%) 
+     Combined (both inpatient and outpatient) / unknown 
+46 (69.7%) 
+ 
+ 
+ 
+ 
+The identified studies sometimes indicated specific components of the DTC programs under 
+scrutiny.  For example, in recognition that substance abuse and criminality are often linked to 
+other factors, some programs targeted a number of additional areas such as academic skills, 
+vocational skills, and family functioning.  Table 3 provides information on the additional 
+treatment targets reported in the studies.  It should be noted that the specific treatment 
+components were only coded if there was an explicit indication in the study that the DTC 
+targeted that particular area.  Therefore, the figures in Table 3 may not necessarily reflect the 
+treatment programs accurately.  In general, the DTC programs appear to target a number of 
+additional issues beyond substance abuse. 
+ 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+8  |  Research and Statistics Division / Department of Justice Canada 
+ 
+TABLE 3:  ADDITIONAL TREATMENT COMPONENTS  
+ 
+VARIABLE 
+ 
+N (%) 
+ 
+ 
+Treatment component (N=66) 
+ 
+     Academic skills (e.g., school attendance and performance) 
+40 (60.6%) 
+     Vocational skills (e.g., specific trades, interview skills) 
+36 (54.6%) 
+     Family functioning (e.g., communication, parenting skills) 
+33 (50.0%) 
+     Aftercare (e.g., follow-up supervision after program completion) 
+25 (37.9%) 
+     Social skills (e.g., social competence, ability to work in groups) 
+24 (36.4%) 
+     Cognitive skills (e.g., goal setting, problem solving) 21 
+(31.8%) 
+     Anger management (e.g., perspective taking, reducing aggression) 
+16 (24.2%) 
+     Antisocial peers (e.g., association with criminal peers) 
+15 (22.7%) 
+     Antisocial attitudes (e.g., lack of respect for authority, criminal values) 
+15 (22.7%) 
+     Relapse prevention (e.g., techniques for remaining substance free) 
+15 (22.7%) 
+     Psychological well-being (e.g., self-esteem, depression, anxiety) 
+14 (21.2%) 
+ 
+ 
+3.3  
+Participant Characteristics 
+In total, the studies examined 17,214 offenders who had successfully completed drug 
+treatment court programs and 14,505 offenders in the control or comparison groups.  The 
+mean age of DTC participants recorded within the studies was 28.4 years – 7 studies provided 
+data primarily on youth under 18 years of age.  Given that the literature is almost exclusively 
+American, Aboriginal identity was rarely recorded.  Instead, when racial information was 
+provided, the data was broken down according to categories such as Black, Hispanic or 
+Caucasian.  However, these data were not available often enough to include in the meta-
+analysis.  Table 4 provides the gender breakdown within studies and indicates that most of the 
+participants were male.   
+ 
+TABLE 4:  PARTICIPANT CHARACTERISTICS 
+ 
+VARIABLE 
+ 
+N (%) 
+ 
+ 
+Gender (N=66) 
+ 
+   All male 
+1 (  1.5%) 
+   Mostly male (seventy percent or more) 
+31 (47.0%) 
+Mixed/unknown 32 
+(48.5%) 
+Mostly female (seventy percent or more) 
+1 (  1.5%) 
+All female 
+1 (  1.5%) 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  9 
+3.4  
+Recidivism Results 
+The 66 DTC programs within this meta-analysis directly measured the effectiveness of 
+treatment on reducing future criminal behaviour.  The mean overall ESE was + 0.14 with a 
+95% confidence interval of + 0.10 to + 0.17.  By converting the ESE into a Binomial Effect 
+Size Display, a simple statement can be made:  
+ 
+Generally, 57% of the participants in the drug treatment courts will not be 
+charged with a new criminal offence during the follow-up period compared to 
+43% of offenders within the control/comparison groups.   
+ 
+This can also be translated into a similar but more general statement:  
+ 
+Drug treatment courts reduced recidivism rates by 14% compared to 
+traditional criminal justice system responses. 
+ 
+There is, however, an explicit relationship between statistical significance, effect size and 
+sample size whereby the size of a study increases the level of significance (Rosenthal, 1991).  
+In order to give more weight to studies with larger sample sizes, a weighted ESE was 
+calculated according to the technique described by Hunter, Schmidt and Jackson (1982).  The 
+weighted ESE was +0.13, which is relatively similar to the unweighted ESE.     
+ 
+As Figure 1 indicates, the majority of the DTC programs demonstrated a positive impact on 
+recidivism (i.e., programs with an effect size above zero).  Only 10 studies indicated a 
+negative impact while 56 studies demonstrated a positive impact.  A single-sample t-test 
+indicated that the mean effect size estimate was significantly different from zero 
+(t(df=65)=7.58, p< .001).  Therefore, in general, DTCs appear to decrease the likelihood of 
+future criminal behaviour better than traditional justice responses.  Heterogeneity analysis, 
+however, indicated that the variance in effect size estimates was also significant 
+(χ2(df=65)=465.3, p< .001). The moderating variables were, therefore, further examined to 
+determine differences in effect based upon program characteristics, participant characteristics 
+and study characteristics. 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+10  |  Research and Statistics Division / Department of Justice Canada 
+ 
+FIGURE 1  
+RECIDIVISM EFFECT SIZE ESTIMATE DISTRIBUTION (N=66) 
+ 
+3.5  
+Moderating Variable Analysis 
+In order to understand the potential impact of moderating variables, individual ESEs were 
+calculated across a number of different groups such as adults versus youth and first-time 
+offenders versus repeat offenders.  Table 5 provides the results of this analysis.  Variables  
+that were not amenable to this form of analysis (e.g., substantial amount of missing data, 
+minimal variance) were not included.  As well, due to missing data within some studies, the 
+total number of effect size estimates within each moderator analysis is not always equal to the 
+total number of possible ESEs.  For example, only 49 of the possible 66 ESEs had 
+information regarding the age of the participants.  Finally, the additional treatment 
+components reported in Table 3 (e.g., anger management, academic skills, vocational skills) 
+were not used within the moderator analysis as the information was deemed too unreliable.  
+As indicated previously, it was only recorded when the authors made a direct statement that 
+the component was part of the treatment.  In other words, the data is not necessarily an 
+accurate reflection of the programs.  
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+-.20 to -.11
+-.10 to -.01
+0.0 to .09
+.10 to .19
+.20 to .29
+.30 to .39
+.40 to .49 
+.50 to .59
+Effect size
+Number of effect-sizes
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  11 
+ 
+TABLE 5:  MODERATING VARIABLE ANALYSIS 
+ 
+VARIABLE 
+ 
+ 
+Mean ESE (N) 
+ 
+95% CI 
+ 
+Age groups (N=49) 
+ 
+ 
+     Youth (less than eighteen years) 
++ .06 (  7) 
+- .12  to  + .24 
+     Adults (eighteen years and older) 
++ .16 (42) 
++ .11  to  + .20 
+ 
+ 
+ 
+Criminal history (N=56) 
+ 
+ 
+     First-time offenders 
++ .15 (13) 
++ .09  to  + .22 
+      Mixed/unknown 
++ .13 (22) 
++ .07  to  + .16 
+     Repeat offenders 
++ .17 (21) 
++ .08  to  + .25 
+ 
+ 
+ 
+Publication type (N=66) 
+ 
+ 
+     Academic journal 
++ .14 (33) 
++ .08  to  + .20 
+     Other publication type 
++ .13 (33) 
++ .09  to  + .17 
+ 
+ 
+ 
+Follow-up length (N=64) 
+ 
+ 
+     Less than one year 
++ .09 (  8) 
++ .01  to  + .17 
+     One year to two years 
++ .14 (44) 
++ .10  to  + .19 
+     Greater than two years 
++ .17 (12) 
++ .10  to  + .23 
+ 
+ 
+ 
+Attrition rate (N=44) 
+ 
+ 
+     Forty-five percent attrition or less 
++ .13 (20) 
++ .06  to  + .21 
+     Greater than forty-five percent attrition 
++ 14 (24) 
++ .08  to  + .19 
+ 
+ 
+ 
+Study design (N=66) 
+ 
+ 
+     Random assignment 
++ .09 (  8) 
+- .01  to  + .20 
+     Non-random assignment 
++ .14 (58)  
++ .10  to  + .18 
+ 
+ 
+ 
+Control/comparison group (N=72) 
+ 
+ 
+     Justice system 
++ .13 (39) 
++ .09  to  + .18 
+     Drop-outs/non-graduates  
++ .31 (10) 
++ .17  to  + .45 
+     Eligible (not participating) 
++ .11 (23) 
++ .05  to  + .17 
+ 
+ 
+ 
+Program setting (N=54) 
+ 
+ 
+     Out-patient only 
++ .11 (24) 
++ .03  to  + .18 
+     Combined (both in-patient and out-patient) 
++ .13 (30) 
++ .08  to  + .17 
+ 
+ 
+ 
+Program length (N=54) 
+ 
+ 
+     Less than one year 
++ .07 (15) 
+- .00  to  +  .15 
+     One year to eighteen months  
++ .18 (33) 
++ .13  to  + .23 
+     Longer than eighteen months 
++ .08 (  6) 
++ .02  to  + .14 
+ 
+ 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+12  |  Research and Statistics Division / Department of Justice Canada 
+First, one of the noteworthy findings from the moderator analysis is the difference in the 
+reported effectiveness of DTCs according to age.  When comparing youth and adults, the 
+results indicate that DTCs are more effective for adults, although the difference is not 
+statistically significant.  However, when examining the mean ESE for youth alone, the 95% 
+confidence interval includes zero, thus diminishing confidence that DTCs are actually 
+effective with youth.  Confidence intervals give us a measure of the precision of the mean 
+effect size estimate computed.  In this case, the 95% confidence interval implies that 19 times 
+out of 20, the ‘true’ mean will fall within the provided range.  If this range includes zero, we 
+cannot be statistically certain that there is an actual effect from DTC participation, as a zero 
+ESE implies no difference between the DTC participants and the control/comparison group.  
+Since there are only 7 ESEs contributing to the youth results, however, additional research is 
+warranted to determine if the DTC model is, in fact, not effective with youth. 
+ 
+Second, the difference in the mean ESE based upon the follow-up length used to measure 
+recidivism is important.  Those studies with longer follow-up periods produced larger effects 
+compared to those with shorter follow-up periods.  Normally, recidivism rates increase with 
+longer follow-up lengths as offenders have more time at-risk to re-offend and/or come to the 
+attention of police.  Not surprisingly, the results of this meta-analysis follow this trend as 
+recidivism rates generally increase within both DTC programs and control/comparison groups 
+as the follow-up length increases.  The important difference, however, is that the gap between 
+the two groups increases over time.  In other words, as the follow-up time increases, those in 
+the comparison group become even more likely to re-offend compared to the DTC 
+participants.  It is therefore likely that the benefits of DTC participation increase with time.  
+As such, longer follow-up periods are particularly important in DTC research to fully 
+understand the impact of participation on recidivism. 
+ 
+Third, it is not surprising that those evaluators who chose to randomly assign offenders into a 
+treatment or control group generated diminished effects compared to those who did not use 
+random assignment.  Previous research has demonstrated that as the methodological rigour of 
+a study increases, the reported effects decrease (Latimer, 2001).  Further, the 95% confidence 
+interval for the six studies that used random assignment actually included zero and therefore 
+diminishes confidence that DTCs are effective when a random treatment/control design is 
+used to measure effectiveness.  However, random assignment is difficult within this context as 
+judges and lawyers often prefer (understandably) to prioritize treatment for those deemed 
+most appropriate.  Therefore, in many of the studies that initially tried to implement random 
+assignment procedures, the process was discontinued and replaced with a comparison group 
+design.   
+ 
+The fourth finding from the moderator analysis is the fact that the choice of 
+control/comparison group has a significant impact on ESEs.  Studies that used drop-outs or 
+non-completers as a comparison group demonstrated a significantly higher mean ESE 
+(F(df=2)=6.87, p<.01) compared to studies that used a traditional justice system comparison 
+group or offenders who were eligible but did not participate.  These results are also not 
+surprising given that drop-outs/non-completers would logically provide a comparison group 
+that are not as motivated as those who completed the program.  Those who were eligible for 
+the program but did not participate likely form the most similar group for comparison as they 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  13 
+would have met the inclusion criteria (i.e., screened for substance abuse problems, similar 
+criminal histories and offence types).  And when this group was used, DTC participation still 
+demonstrated an 11% improvement in recidivism. 
+ 
+The fifth and final finding is the difference in reported effects based upon the length of the 
+DTC program.  Programs that provided services for one year to eighteen months 
+demonstrated a significant reduction in recidivism (F(df=2)=3.76, p<.05) compared to shorter 
+or longer programs.  In fact, the 95% confidence interval for shorter programs includes zero, 
+which further reduces confidence that programs shorter than one year have a positive impact 
+on recidivism.  It is possible that the shorter time frame is not sufficient for the cognitive and 
+behavioural changes to become entrenched while the longer timeframe may induce some form 
+of “treatment fatigue.”   
+ 
+ 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+14  |  Research and Statistics Division / Department of Justice Canada 
+4.  Conclusion 
+rug treatment courts are now operating within six major cities in Canada (Vancouver, 
+Edmonton, Regina, Winnipeg, Toronto, and Ottawa) and many cities across the 
+United States.  The results of this meta-analysis suggest that such a response is an 
+effective method of reducing future criminal behaviour compared to traditional responses.  
+There are, however, several important additional findings and caveats.   
+ 
+First, it appears from the results of this meta-analysis that youth may not be suitable 
+candidates for DTCs.  Additional research is warranted, however, given the low number of 
+studies using a youth sample to further examine a possible age effect.   
+ 
+Second, longer follow-up periods should be used in DTC research as it is likely that the 
+benefits of DTC participation increase with time.  In fact, the current findings suggest that 
+sustained behavioural changes are a likely outcome of DTC participation. 
+ 
+Third, programs that provide services for one year to eighteen months are associated with 
+improvements in recidivism compared to shorter or longer programs.  It is therefore 
+reasonable that services provided to DTC participants should be structured to range between 
+one year and eighteen months.   
+ 
+Finally, methodology, as indicated in previous research (Latimer, 2001), has a significant 
+impact on the reported effects of DTC effectiveness.  In this meta-analysis, two study design 
+characteristics emerged as important – random assignment and comparison group selection.  It 
+is understandable that random assignment is a difficult approach to use in a criminal justice 
+setting, particularly as DTCs are typically voluntary programs and criminal justice 
+professionals prefer to have influence over who ultimately participates.  However, the choice 
+to use drop-outs and/or non-completers clearly influences the results and should be avoided.  
+Nonetheless, even when those who are eligible but do not participate are used as a comparison 
+group (which appears to be the most rigorous method beyond random assignment), drug 
+treatment courts still appear to have a positive impact on reducing recidivism.  
+ 
+While there are other issues that were not the subject of this research, such as the cost-
+effectiveness of DTCs, the results of this meta-analysis, which includes data on more than 
+17,000 offenders within 66 individual programs, provides clear support for the use of  
+drug treatment courts as a method of reducing crime among offenders with substance  
+abuse problems.   
+D 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  15 
+References 
+Fielding, J. E., Tye, G., Ogawa, P. L., Imam, I. J., & Long, A. M. (2002). Los Angeles County drug 
+court programs: Initial results. Journal of Substance Abuse Treatment, 23, 217-224.  
+ 
+Glass, G., McGaw, B., & Smith, M.  (1981). Meta-analysis in social research.  Newbury Park,  
+CA: Sage. 
+ 
+Hunter, J. E., Schmidt, F. L., & Jackson, G. B.  (1982). Meta Analysis: Cumulating research findings 
+across studies.  Beverly Hills, CA: Sage. 
+ 
+Latimer, J.  (2001). A meta-analytic examination of youth delinquency, family treatment & recidivism.  
+Canadian Journal of Criminology, 43, 237-253. 
+ 
+Miethe, T. D., Lu, H., & Reese, E. (2000). Reintegrative shaming and recidivism risks in drug court: 
+Explanations for some unexpected findings. Crime & Delinquency, 46 (4), 522-541. 
+ 
+Rosenthal, R.  (1991). Meta-analytic procedures for social research.  Newbury, CA: Sage. 
+ 
+Studies used in the meta-analysis 
+ 
+Bavon, A. (2001). The effect of the Tarrant County drug court project on recidivism. Evaluation and 
+Program Planning, 24, 13-22.  
+ 
+Brewster, M. P. (2001). An evaluation of the Chester County (PA) drug court program. Journal of 
+Drug Issues, 31 (1), 177-206.  
+ 
+Cosden, M., Crothers, L., & Peerson, S. (1999). Superior Court of California, County of  
+Ventura: Drug court summary findings. Santa Barbara, CA: University of California, Graduate  
+School of Education.  
+ 
+Craddock, A. (2002). North Carolina drug treatment court evaluation: Final report. Washington, DC: 
+U.S. Department of Justice: Drug Courts Program Office.  
+ 
+Deschenes, E. P., Cresswell, L., Emami, V., Moreno, K., Klein, Z., & Condon, C. (2001). Success of 
+drug courts in Orange County, California: Process and outcome evaluations. Technical Report. Long 
+Beach, CA: California State University Long Beach, Department of Criminal Justice. 
+ 
+Deschenes, E. P., & Greenwood, P. W. (1994). Maricopa County’s drug court: An innovative program 
+for first-time offenders on probation. Justice System Journal, 17(1), 99-115. 
+ 
+Dickie, J. L. (2002). Summit Country Juvenile Court Drug Court Evaluation Report      
+July 1, 2001 – June 30, 2002. OH: The University of Akron: The Institute for Health and  
+Social Policy.  
+ 
+Ericson, R., Welter, S., & Johnson, T. L. (1999). Evaluation of the Hennepin County drug court. 
+Minneapolis, MN: Minnesota Citizens Council on Crime and Justice.  
+ 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+16  |  Research and Statistics Division / Department of Justice Canada 
+Fielding, J. E., Tye, G., Ogawa, P. L., Imam, I. J., & Long, A. M. (2002). Los Angeles County drug 
+court programs: Initial results. Journal of Substance Abuse Treatment, 23, 217-224.  
+ 
+Gliksman, L., Newton-Taylor, B., Patra, J., & Rehm, J. (2004).  Toronto drug treatment court 
+evaluation project final report. London, ON: Centre for Addiction and Mental Health, Social, 
+Prevention and Health Policy Research Department. 
+ 
+Goldkamp, J. S. (1994). Miami’s treatment drug court for felony defendants: Some implications of 
+assessment findings. The Prison Journal, 73 (2), 110-166.  
+ 
+Goldkamp, J. S., & Weiland, D. (1993). Assessing the impact of Dade County’s felony drug court 
+(Final Report). Philadelphia, PA: Temple University, Crime and Justice Research Institute. 
+ 
+Goldkamp, J. S., Weiland, D., & Moore, J. (2001). The Philadelphia treatment court, its development 
+and impact: The second phase (1998-2000). Technical Report. Philadelphia, PA: Temple University, 
+Crime and Justice Research Institute.  
+ 
+Goldkamp, J. S., White, M. D., & Robinson, J. B. (2001). From whether to how drug courts  
+work: Retrospective evaluation of drug courts in Clark County (Las Vegas) and Multnomah  
+County (Portland). Technical Report. Philadelphia, PA: Temple University, Crime and Justice 
+Research Institute. 
+ 
+Gottfredson, D. C., Najaka, S. S., Kearley, B., & Rocha, M. (2005). Long-term effects of participation 
+in the Baltimore City drug treatment court: Results from an experimental study. MD: Department of 
+Criminology and Criminal Justice, University of Maryland. 
+ 
+Gottfredson, D. C., Coblentz, K., & Harmon, M. A. (1997).  A short-term outcome evaluation  
+of the Baltimore City drug treatment court program. American Probation and Parole Association: 
+Perspectives, Winter, 33-38.  
+ 
+Granfield, R., Eby, C., & Brewster, T. (1998). An examination of the Denver drug court: The impact 
+of a treatment-oriented drug-offender system. Law & Policy, 20 (2), 183-202. 
+ 
+Harrell, A., Roman, J., & Sack, E. (2001). Drug court services for female offenders, 1996-1999: 
+Evaluation of the Brooklyn treatment court. Technical Report. Washington, DC: Urban Institute.  
+ 
+Harrison, L., Patrick, D., & English, K. (2001). An evaluation of the Denver drug court: The early 
+years, 1995-1996. Unpublished Manuscript. Denver, CO: Colorado Department of Public Safety, 
+Office of Research and Statistics, Division of Criminal Justice.  
+ 
+Harrison, R. S., Parsons, B. V., Eddings, S. K., Byrnes, E. I., & Sahami, S. (2001). Salt Lake County 
+drug court: Evaluation report September 1998 through September 2000. Salt Lake City, UT: 
+Intermountain Evaluation Services. 
+ 
+Hartmann, D. J., Rhineberger, G. M., Gregory, P., Mullins, M., Tollini, C., & Williams, Y.  
+(2003). Evaluation of the Kalamazoo County juvenile drug treatment court program:  
+October 1, 2001 – September 30, 2002, year 5. Technical Report. Kalamazoo, MI: Western  
+Michigan University, Kecher Centre for Social Research.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  17 
+Hein, M. L. (2005). Lancaster County adult drug court: An evaluation of the first three years. 
+Washington, DC: ISED Solutions.  
+ 
+Huff, D., Stageberg, P., Wilson, B. S., & Moore, R. G. (2002). An assessment of the Polk County 
+juvenile drug court. Unpublished Manuscript. IA: Iowa Department of Human Rights, Division of 
+Criminal and Juvenile Justice Planning.  
+ 
+Johnson, S., & Latessa, E. J. (2000). The Hamilton County drug court: Outcome evaluation findings. 
+Unpublished Manuscript. Cincinnati, OH: University of Cincinnati. 
+ 
+Johnson Listwan, S., Koetzle Shaffer, D., & Latessa, E. J. (2001). The Akron Municipal drug court: 
+Outcome evaluation findings. Unpublished Manuscript. Cincinnati, OH: University of Cincinnati. 
+ 
+Johnson Listwan, S., Koetzle Shaffer, D., & Latessa, E. J. (2001). The Erie County drug court: 
+Outcome evaluation findings. Unpublished Manuscript. Cincinnati, OH: University of Cincinnati. 
+ 
+Johnson Listwan, S., Sundt, J. L., Holsinger, A. M., & Latessa, E. J. (2003). The effect of drug court 
+programming on recidivism: The Cincinnati experience. Crime & Delinquency, 49 (3), 389-411. 
+ 
+Latessa, E. J., Koetzle Shaffer, D., & Lowenkamp, (2001). Preliminary evaluation of Ohio’s drug 
+court efforts. Unpublished Manuscript. Cincinnati, OH: University of Cincinnati.  
+ 
+Latessa, E. J., Koetzle Shaffer, D., & Lowenkamp, C. (2002). Outcome evaluation of Ohio’s drug 
+court efforts: Final report. Unpublished Manuscript. Cincinnati, OH: University of Cincinnati. 
+ 
+Lind, B., Weatherburn, D., Chen, S., Shanahan, M., Lancsar, E., Haas, M., & De Abreu Lourenco, R. 
+(2002). New South Wales drug court evaluation: Cost effectiveness. Sydney: NSW Bureau of Crime 
+Statistics and Research. 
+ 
+Logan, T. K., Hoyt, W., & Leukefeld, C. (2001). Kentucky drug court outcome evaluation:  
+Behaviors, costs and avoided costs to society.  KY: Center on Drug and Alcohol Research,  
+University of Kentucky. 
+ 
+Makkai, T., & Veraar, K. (2003). Final report on the South East Queensland drug court. Australian 
+Institute of Criminology.  
+ 
+Martin, T. (2005).  Douglas County drug court targeted capacity expansion grant, year 3 evaluation 
+report. Washington, DC: ISED Solutions. 
+ 
+Martinez, A. I., & Eisenberg, M. (2003). Initial process and outcome evaluation of drug courts in 
+Texas. Unpublished Manuscript. Austin, TX: Criminal Justice Policy Council. 
+ 
+Miethe, T. D., Lu, H., & Reese, E. (2000). Reintegrative shaming and recidivism risks in drug court: 
+Explanations for some unexpected findings. Crime & Delinquency, 46 (4), 522-541. 
+ 
+Millson, W. A., Robinson, D., Stringer, A., & Van Dieten, M. (2005).  Drug treatment court of 
+Vancouver program evaluation: Final evaluation report.  Ottawa, ON: Orbis Partners Inc. 
+ 
+
+ 
+A Meta-Analytic Examination of Drug Treatment Courts: Do They Reduce Recidivism?  
+ 
+ 
+ 
+18  |  Research and Statistics Division / Department of Justice Canada 
+National Institute on Drug Abuse. (2003). Crossing the bridge: An evaluation of the drug treatment 
+alternative-to-prison (DTAP) program. A CASA White Paper. New York, NY: Columbia University, 
+National Center on Addiction and Substance Abuse. 
+ 
+O’Connell, J. P., Nestlerode, E., & Miller, M. (1999). Evaluation of the Delaware juvenile drug court 
+diversion program. DE: Criminal Justice Council’s Statistical Analysis Centre. 
+ 
+Peters, R. H., Haas, A. L., & Hunt, W. M. (2001). Treatment ‘dosage’ effects in drug court programs. 
+In J. J. Hennessy & N. J. Pallone (eds.), Drug courts in operation: Current research (pp. 63-72).  
+NY: Hawthorn Press, Inc.  
+ 
+Peters, R. H., & Murrin, M. R. (2000). Effectiveness of treatment-based drug courts in reducing 
+criminal recidivism. Criminal Justice and Behaviour, 27(1), 72-96. 
+ 
+Rempel, M., Fox-Kralstein, D., Cissner, A., Cohen, R., Labriola, M., Farole, D., Bader, A., & 
+Magnani, M. (2003). The New York State adult drug court evaluation policies, participants and 
+impacts. NY: Centre for Court Innovation.  
+ 
+Rodriguez, N., & Webb, V. J. (2004). Multiple measures of juvenile drug court effectiveness:  
+Results of a quasi-experimental design. Crime & Delinquency, 50(2), 292-318. 
+ 
+Salt Lake County. (2001). Salt Lake County drug court outcome evaluation. UT: Utah Substance 
+Abuse & Anti-Violence Coordinating Council.  
+ 
+Santa Clara County. (1998). Santa Clara County drug treatment court: Two year progress report and 
+outcome comparisons (March 1, 1996- March 31, 1998). Retrieved from: 
+http://spa.american.edu/justice/publications/santacl.htm 
+ 
+Sechrest, D. K., Shichor, D., Artist, K., & Briceno, G. (1998). The Riverside County drug court: Final 
+research report for the Riverside County Probation Department. San Bernardino, CA: California State 
+University, Criminal Justice Department. 
+ 
+Solop, F. I., Wonders, N. A., Hagen, K. K., & McCarrier, K. (2003). Coconino County DUI/drug 
+court evaluation. AZ: Social Research Laboratory, Northern Arizona University. 
+ 
+Spohn, C., Piper, R. K., Martin, T., & Frenzel, E. D. (2001). Drug courts and recidivism: The results 
+of an evaluation using two comparison groups and multiple indicators of recidivism. Journal of Drug 
+Issues, 31(1), 149-176. 
+ 
+Stageberg, P., Wilson, B., & Moore, R. G. (2001). Final report on the Polk County adult drug court: 
+Executive summary and summary of findings. Unpublished Manuscript. IA: Iowa Department of 
+Human Rights, Division of Criminal and Juvenile Justice Planning.  
+ 
+Terry, W. C. (1999). Broward County’s dedicated drug treatment court: From post-adjudication to 
+diversion. In W. C. Terry, III (ed.) The early drug courts: Case studies in judicial innovation, drugs, 
+health, and social policy series (Vol. 7, pp. 77-107). Thousand Oaks, CA: Sage Publications, Inc. 
+ 
+Thompson, K. M. (2002). A cost-benefit estimate of North Dakota’s juvenile drug court: Recidivism 
+cost savings. ND: North Dakota State University. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Research and Statistics Division / Department of Justice Canada  |  19 
+Turner, S., Greenwood, P., Fain, T., & Deschenes, E. (1999). Perceptions of drug court: How 
+offenders view ease of program completion, strengths and weaknesses, and the impact on their lives. 
+U.S. Department of Justice: National Drug Court Institute. 
+ 
+Vito, G. F., & Tewksbury, R. A. (1998). The impact of treatment: The Jefferson County (Kentucky) 
+drug court program. Federal Probation, 62 (2), 46-51.  
+ 
+Wolfe, E., Guydish, J., & Termondt, J. (2002). A drug court outcome evaluation comparing arrests in 
+a two year follow-up period. Journal of Drug Issues, 32 (4), 1155-1172. 
+ 
+Wright, D., & Clymer, B. (2001). Evaluation of Oklahoma drug courts, 1997-2000. Oklahoma City, 
+OK: Oklahoma Criminal Justice Resource Centre. 
+ 
+

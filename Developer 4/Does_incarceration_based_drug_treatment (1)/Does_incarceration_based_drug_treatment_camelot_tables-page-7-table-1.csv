@@ -1,0 +1,132 @@
+"Incarceration-based drug treatment
+359"
+"Coding of effect sizes and moderator variables"
+"The coding forms employed in this review were structured hierarchically, so that we"
+"could
+recognize
+explicitly
+the
+nested
+nature
+of
+evaluations within
+studies. Any"
+"number of
+effect
+sizes
+could be
+coded from each evaluation using these
+forms."
+"Further,
+the
+coding
+forms
+captured
+key
+features
+of
+the
+nature
+of
+the
+treatment,"
+"research
+sample,
+research methodology,
+outcome measures,
+and
+direction
+and"
+"magnitude of observed effects."
+"We coded at
+least one effect size from each evaluation. We utilized the odds ratio"
+"effect size for dichotomous outcomes, as this type of effect size is the most appropriate"
+"for such outcomes (Lipsey and Wilson 2001). Indicators of criminal behavior based on"
+"non-dichotomous
+scales were coded using the standardized mean difference effect"
+"size. Effect sizes were coded in a manner such that positive effect sizes indicated that"
+"the treatment group had a more favorable outcome than the comparison group did"
+"(i.e.,
+less
+re-offending or drug use). Odds
+ratio and standardized mean difference"
+"effect sizes were combined using the method developed by Hasselblad and Hedges"
+"(1995). Specifically, mean difference effect sizes were transformed onto the odds ratio"
+"effect size scale (see also Sánchez-Meca et al. 2003)."
+"It
+is
+important
+to note that many authors
+in this body of
+research report
+their"
+"findings
+by
+contrasting
+participants who
+completed
+the
+treatment
+(“graduates”),"
+"participants who failed to complete the treatment
+(“failures”), and the comparison"
+"group. Findings reported in this manner clearly open the door for selection bias, and,"
+"thus,
+such findings
+are difficult
+to interpret
+(i.e., was
+the observed reduction in"
+"recidivism due to the treatment or selection bias). Whenever we encountered results"
+"reported in this fashion, we re-calculated recidivism rates for the treatment group by"
+"combining graduates with failures. We then compared this overall treatment group to"
+"the comparison group. We believed that
+this practice would reduce the likelihood"
+"that selection bias would influence the results of
+this meta-analysis."
+"Our
+analyses of
+these
+effect
+sizes utilized the
+statistical
+approach outlined by"
+"Lipsey and Wilson (2001) and Cooper and Hedges (1994). In particular, we used the"
+"inverse variance method and assumed that
+the
+true
+treatment
+effects varied as
+a"
+"function of both measured (i.e., coded features of each evaluation) and unmeasured"
+"differences between evaluations. This
+analytic
+approach required statistical
+inde-"
+"pendence of effect sizes. Several types of statistical dependencies were evident in the"
+"coded evaluations. First,
+it was common for evaluators to measure and analyze more"
+"than one indicator of criminal behavior
+(e.g.,
+re-arrest,
+re-conviction, drug use) or"
+"analyze the same indicator of criminal behavior at multiple post-program follow-ups"
+"(e.g., 6 months, 12 months). Second,
+it was
+also common for
+authors
+to report"
+"findings from the same sample of
+research participants in multiple studies."
+"We employed several procedures to attain statistical
+independence. As a first-step,"
+"all evaluations were cross-checked against one another to ensure that each evaluation"
+"was included no more than once in each data set. Next, we created two data sets, one for"
+"drug use outcomes and another for re-offending outcomes. Some evaluations reported"
+"more than one measure of drug use or re-offending:, instead of simply averaging these"
+"multiple measures, we
+selected particular outcomes of
+interest
+to maximize
+com-"
+"parability of outcomes. In particular, for re-offending measures, we selected effect sizes"

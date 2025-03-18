@@ -1,0 +1,358 @@
+=== EXTRACTED METADATA ===
+title: Washington State Institute for Criminal Justice:
+
+abstract: It	  is	  often	  said	  that	  parenting	  is	  the	  most	  
+difficult	  job	  anyone	  will	  ever	  do.	  This	  is	  
+especially	  true	  for	  parents	  who	  have	  been	  away	  
+from	  their	  families	  for	  an	  extended	  period	  of	  
+time	  due	  to	  incarceration.	  	  Most	  offenders	  who	  
+are	  incarcerated	  are	  released,	  creating	  a	  
+heightened	  need	  for	  expanded	  and	  effective	  
+reentry	  initiatives.	  The	  Parenting	  Sentencing	  
+Alternative	  was	  passed	  in	  Washington	  State	  in	  
+2010	  to	  assist	  offenders	  who	  have	  minor	  
+children	  in	  their	  care	  with	  the	  reentry	  process	  
+by	  strengthening	  family	  bonds	  to	  ease	  the	  
+transition	  from	  incarceration	  to	  their	  homes	  
+and	  communities.	  	  This	  Research	  in	  Brief	  
+describes	  felony	  recidivistic	  outcomes	  from	  the	  
+second	  year	  of	  the	  Community	  Parenting	  
+Alternative	  implementation.	  
+Program	  Description	  
+The	  Parenting	  Sentencing	  Alternative	  (PSA)	  is	  an	  
+alternative	  to	  total	  confinement	  for	  offenders	  
+who	  have	  minor	  children	  in	  their	  custody.	  It	  was	  
+created	  by	  the	  Washington	  state	  legislature	  
+(Substitute	  Senate	  Bill	  6639),	  passed	  June	  10,	  
+2010.	  The	  PSA	  was	  a	  collaborative	  effort	  
+between	  the	  Department	  of	  Corrections	  and	  
+the	  Department	  of	  Social	  and	  Health	  Services	  
+(DSHS).	  	  	  
+The	  mission	  of	  the	  Parenting	  Sentencing	  
+Alternative	  is	  to	  build	  sustainable	  families,	  
+reduce	  intergenerational	  incarceration,	  reduce	  
+duplicative	  services,	  and	  maintain	  family	  and	  
+community	  safety.	  	  Goals	  include	  encouraging	  
+successful	  reentry,	  maintaining	  family	  units	  by	  
+providing	  structure	  and	  support,	  and	  
+intervening	  at	  the	  lowest	  level	  if	  violations	  
+occur.	  
+There	  are	  two	  alternatives	  of	  the	  Parenting	  
+Sentencing	  Alternative	  (CPA).	  The	  first	  is	  the	  
+Community	  Parenting	  Alternative.	  	  Offenders	  
+who	  are	  currently	  incarcerated	  and	  have	  at	  
+least	  12	  months	  remaining	  to	  their	  sentence	  are	  
+eligible	  to	  apply.	  A	  committee	  comprised	  of	  
+representatives	  from	  the	  Department	  of	  
+Corrections,	  the	  Department	  of	  Social	  and	  
+Health	  Services,	  community	  agency	  
+representatives,	  and	  other	  stakeholders	  select	  
+offenders	  who	  have	  been	  nominated	  to	  
+participate.	  	  Offenders	  can	  nominate	  
+themselves,	  or	  someone	  from	  the	  community	  
+or	  Department	  of	  Corrections	  can	  recommend	  
+them	  for	  the	  program.	  	  	  
+Selected	  offenders	  agree	  to	  spend	  the	  majority	  
+of	  their	  last	  year	  participating	  in	  programs	  and	  
+activities	  to	  build	  life	  skills	  and	  family	  bonds	  
+while	  living	  with	  their	  minor	  children	  in	  their	  
+homes.	  CPA	  offenders	  are	  required	  to	  be	  on	  
+intensive	  supervision	  for	  the	  duration	  of	  their	  
+community	  incarceration.	  
+The	  Family	  Offender	  Sentencing	  Alternative	  
+(FOSA)	  is	  the	  other	  alternative	  of	  the	  Parenting	  
+Sentencing	  Alternative.	  Offenders	  participate	  at	  
+the	  discretion	  of	  the	  court	  in	  lieu	  of	  
+incarceration.	  	  An	  attorney	  for	  either	  the	  
+prosecution	  or	  defense	  refers	  offenders	  to	  the	  
+program.	  The	  supervision	  requirements	  for	  
+FOSA	  participants	  result	  from	  coordination	  
+between	  the	  Court	  and	  the	  assigned	  community	  
+corrections	  officer.	  Requirements	  are	  more	  
+individualized	  to	  each	  offender	  for	  FOSA	  
+participants	  compared	  to	  CPA	  participants.
+
+
+=== EXTRACTED SECTIONS ===
+## Introduction ##
+Introduction	  
+It	  is	  often	  said	  that	  parenting	  is	  the	  most	  
+difficult	  job	  anyone	  will	  ever	  do.	  This	  is	  
+especially	  true	  for	  parents	  who	  have	  been	  away	  
+from	  their	  families	  for	  an	  extended	  period	  of	  
+time	  due	  to	  incarceration.	  	  Most	  offenders	  who	  
+are	  incarcerated	  are	  released,	  creating	  a	  
+heightened	  need	  for	  expanded	  and	  effective	  
+reentry	  initiatives.	  The	  Parenting	  Sentencing	  
+Alternative	  was	  passed	  in	  Washington	  State	  in	  
+2010	  to	  assist	  offenders	  who	  have	  minor	  
+children	  in	  their	  care	  with	  the	  reentry	  process	  
+by	  strengthening	  family	  bonds	  to	  ease	  the	  
+transition	  from	  incarceration	  to	  their	  homes	  
+and	  communities.	  	  This	  Research	  in	  Brief	  
+describes	  felony	  recidivistic	  outcomes	  from	  the	  
+second	  year	  of	  the	  Community	  Parenting	  
+Alternative	  implementation.	  
+Program	  Description	  
+The	  Parenting	  Sentencing	  Alternative	  (PSA)	  is	  an	  
+alternative	  to	  total	  confinement	  for	  offenders	  
+who	  have	  minor	  children	  in	  their	  custody.	  It	  was	  
+created	  by	  the	  Washington	  state	  legislature	  
+(Substitute	  Senate	  Bill	  6639),	  passed	  June	  10,	  
+2010.	  The	  PSA	  was	  a	  collaborative	  effort	  
+between	  the	  Department	  of	  Corrections	  and	  
+the	  Department	  of	  Social	  and	  Health	  Services	  
+(DSHS).	  	  	  
+The	  mission	  of	  the	  Parenting	  Sentencing	  
+Alternative	  is	  to	  build	  sustainable	  families,	  
+reduce	  intergenerational	  incarceration,	  reduce	  
+duplicative	  services,	  and	  maintain	  family	  and	  
+community	  safety.	  	  Goals	  include	  encouraging	  
+successful	  reentry,	  maintaining	  family	  units	  by	  
+providing	  structure	  and	  support,	  and	  
+intervening	  at	  the	  lowest	  level	  if	  violations	  
+occur.	  
+There	  are	  two	  alternatives	  of	  the	  Parenting	  
+Sentencing	  Alternative	  (CPA).	  The	  first	  is	  the	  
+Community	  Parenting	  Alternative.	  	  Offenders	  
+who	  are	  currently	  incarcerated	  and	  have	  at	  
+least	  12	  months	  remaining	  to	  their	  sentence	  are	  
+eligible	  to	  apply.	  A	  committee	  comprised	  of	  
+representatives	  from	  the	  Department	  of	  
+Corrections,	  the	  Department	  of	  Social	  and	  
+Health	  Services,	  community	  agency	  
+representatives,	  and	  other	  stakeholders	  select	  
+offenders	  who	  have	  been	  nominated	  to	  
+participate.	  	  Offenders	  can	  nominate	  
+themselves,	  or	  someone	  from	  the	  community	  
+or	  Department	  of	  Corrections	  can	  recommend	  
+them	  for	  the	  program.	  	  	  
+Selected	  offenders	  agree	  to	  spend	  the	  majority	  
+of	  their	  last	  year	  participating	  in	  programs	  and	  
+activities	  to	  build	  life	  skills	  and	  family	  bonds	  
+while	  living	  with	  their	  minor	  children	  in	  their	  
+homes.	  CPA	  offenders	  are	  required	  to	  be	  on	  
+intensive	  supervision	  for	  the	  duration	  of	  their	  
+community	  incarceration.	  
+The	  Family	  Offender	  Sentencing	  Alternative	  
+(FOSA)	  is	  the	  other	  alternative	  of	  the	  Parenting	  
+Sentencing	  Alternative.	  Offenders	  participate	  at	  
+the	  discretion	  of	  the	  court	  in	  lieu	  of	  
+incarceration.	  	  An	  attorney	  for	  either	  the	  
+prosecution	  or	  defense	  refers	  offenders	  to	  the	  
+program.	  The	  supervision	  requirements	  for	  
+FOSA	  participants	  result	  from	  coordination	  
+between	  the	  Court	  and	  the	  assigned	  community	  
+corrections	  officer.	  Requirements	  are	  more	  
+individualized	  to	  each	  offender	  for	  FOSA	  
+participants	  compared	  to	  CPA	  participants.	  
+
+Washington State Institute for Criminal Justice: 
+Research in Brief 
+There	  are	  a	  few	  program	  requirements	  that	  
+both	  alternatives	  share.	  	  First,	  offenders	  
+progress	  through	  three	  sequential	  phrases	  
+during	  their	  participation	  in	  the	  program.	  They	  
+share	  the	  same	  specialized	  group	  of	  community	  
+corrections	  officers,	  who	  are	  dispersed	  
+throughout	  the	  state.	  There	  are	  approximately	  
+eight	  corrections	  officers	  who	  supervise	  
+offenders	  in	  both	  alternatives.	  
+Both	  CPA	  and	  FOSA	  participants	  are	  required	  to	  
+participate	  in	  extensive	  parenting	  programs	  
+following	  the	  Strengthening	  Families	  approach.	  	  
+Offenders	  in	  both	  alternatives	  under	  the	  
+Parenting	  Sentencing	  Alternative	  must	  meet	  the	  
+eligibility	  criteria	  statutorily	  authorized.	  That	  is,	  
+offenders	  must	  have	  custody	  of	  their	  minor	  
+children,	  they	  cannot	  be	  eligible	  for	  
+deportation,	  and	  the	  time	  allowable	  for	  their	  
+current	  or	  pending	  sentence	  must	  be	  more	  than	  
+one	  year.	  	  There	  is	  one	  minor	  difference	  
+between	  FOSA	  and	  CPA	  eligibility	  requirements.	  
+FOSA	  offenders	  cannot	  have	  any	  current	  or	  
+prior	  felonies	  for	  violent	  or	  sex	  offenses,	  while	  
+CPA	  offenders	  cannot	  have	  any	  current	  violent	  
+or	  sex	  offense	  felonies.	  
+Additionally,	  offenders	  in	  both	  alternatives	  
+must	  sign	  a	  release	  of	  information	  regarding	  the	  
+child’s	  welfare.	  	  CPA	  offenders	  must	  
+demonstrate	  they	  had	  an	  ongoing	  and	  
+substantial	  relationship	  with	  their	  child	  prior	  to	  
+the	  commission	  of	  their	  offense	  and	  
+subsequent	  incarceration,	  and	  DSHS	  must	  agree	  
+that	  placing	  the	  child	  with	  the	  offender	  is	  in	  the	  
+best	  interests	  of	  the	  child	  before	  the	  alternative	  
+is	  granted.	  
+Evidence	  from	  the	  Literature	  
+Theoretically,	  the	  approach	  of	  the	  Parenting	  
+Sentencing	  Alternative	  will	  be	  effective	  at	  
+reducing	  recidivism	  by	  easing	  the	  reentry	  
+process	  for	  participating	  parents	  of	  minor	  
+children.	  	  Incarceration	  often	  strains	  family	  
+bonds	  as	  offenders	  and	  their	  children	  may	  have	  
+a	  difficult	  time	  relating	  to	  each	  other	  while	  the	  
+offenders	  are	  incarcerated,	  as	  well	  as	  during	  the	  
+transition	  home.	  	  Additionally,	  when	  offenders	  
+are	  released	  to	  their	  communities,	  they	  often	  
+lack	  the	  essential	  life	  skills	  and	  necessary	  
+resources	  to	  provide	  a	  stable	  environment	  for	  
+their	  children.	  	  
+Furthermore,	  there	  is	  a	  growing	  body	  of	  
+literature	  supporting	  the	  hypothesis	  that	  
+incarceration	  is	  intergenerational.	  	  Children	  of	  
+incarcerated	  parents	  are	  more	  likely	  to	  become	  
+offenders	  themselves.	  Criminological	  theory	  
+informs	  this	  hypothesis,	  as	  social-­‐learning	  
+theory	  suggests	  children	  learn	  both	  pro-­‐social	  
+and	  antisocial	  behavior	  from	  their	  parents.	  	  
+Control	  theory	  purports	  parents	  teach	  children	  
+self-­‐control,	  so	  if	  they	  are	  unavailable	  or	  unable	  
+to	  do	  so,	  children	  may	  lack	  the	  necessary	  self-­‐
+control	  to	  protect	  them	  from	  becoming	  
+offenders	  themselves.	  	  
+Finally,	  children	  of	  incarcerated	  parents	  
+experience	  increased	  trauma,	  which	  may	  place	  
+them	  at	  greater	  risk	  when	  their	  parents	  are	  
+incarcerated.	  They	  may	  be	  placed	  out	  of	  the	  
+home,	  witness	  the	  criminal	  events	  or	  the	  arrests	  
+of	  their	  parents,	  or	  suffer	  from	  increased	  
+disadvantage	  due	  to	  a	  lack	  of	  financial	  or	  social	  
+resources.	  	  
+
+Washington State Institute for Criminal Justice: 
+Research in Brief 
+Evaluation
+
+## Method ##
+Method	  
+The	  current	  study	  addressed	  the	  following	  
+research	  question:	  are	  offenders	  who	  
+participated	  in	  the	  Community	  Parenting	  
+Alternative	  significantly	  less	  likely	  to	  be	  
+convicted	  of	  a	  new	  felony	  within	  two	  years	  after	  
+release	  compared	  to	  similarly	  situated	  historical	  
+control	  group	  of	  offenders	  who	  did	  not	  
+participate?	  
+To	  investigate	  this	  question,	  a	  secondary	  data	  
+analysis	  of	  official	  offender	  records	  was	  
+conducted.	  	  The	  Institute	  for	  Criminal	  Justice	  at	  
+Washington	  State	  University	  provided	  the	  data	  
+for	  this	  analysis	  through	  collaboration	  with	  the	  
+Washington	  State	  Department	  of	  Corrections.	  	  
+Data	  came	  from	  institutional	  offender	  records	  
+provided	  by	  the	  Washington	  State	  Department	  
+of	  Corrections.	  
+The	  study	  sample	  frame	  included	  all	  offenders	  
+who	  met	  the	  statutory	  eligibility	  criteria	  for	  
+selection	  (n=	  442).	  	  A	  historical	  comparison	  
+group	  was	  comprised	  of	  offenders	  who	  would	  
+have	  been	  eligible	  for	  selection	  and	  were	  
+released	  between	  2008	  and	  2010	  (n=334),	  prior	  
+to	  the	  implementation	  of	  the	  Community	  
+Parenting	  Alternative.	  The	  Community	  
+Parenting	  Alternative	  participants	  were	  
+released	  between	  2010	  and	  2012	  (n=108).	  	  
+	  The	  participant	  and	  comparison	  group	  
+offenders	  were	  matched	  to	  each	  other	  using	  
+propensity	  score	  modeling	  techniques.	  An	  
+inclusive	  matching	  model	  was	  created	  using	  all	  
+significant	  predictors.	  The	  propensity	  score	  
+match
+
+## result ##
+resulted	  in	  a	  reduction	  of	  overall	  sample	  
+size	  from	  n=393	  to	  n=116.
+
+## Results ##
+Results	  
+This	  preliminary	  analysis	  revealed	  that	  within	  
+the	  first	  year	  after	  release,	  8.6	  percent	  of	  the	  
+offenders	  in	  the	  comparison	  group	  were	  
+convicted	  of	  a	  new	  felony	  offense.	  In	  contrast,	  
+zero	  of	  the	  participants	  of	  the	  Community	  
+Parenting	  Alternative	  recidivated	  during	  the	  
+first	  year.	  After	  the	  second	  year,	  17.2	  percent	  of	  
+offenders	  in	  the	  comparison	  group	  had	  
+recidivated	  while	  only	  5.2	  percent	  of	  the	  CPA	  
+participants	  had.	  	  
+To	  evaluate	  the	  impact	  of	  the	  Community	  
+Parenting	  Alternative	  after	  matching	  the	  
+comparison	  and	  participant	  subjects,	  a	  
+crosstabs	  analysis	  with	  the	  chi-­‐square	  statistic	  
+for	  significance	  was	  completed.	  This	  analysis	  
+revealed	  that	  participants	  were	  significantly	  less	  
+likely	  than	  the	  comparison	  subjects	  to	  be	  
+convicted	  of	  a	  new	  felony	  two	  years	  after	  
+release.	  	  
+Furthermore,	  the	  odds	  ratio	  for	  the	  analysis	  
+revealed	  that	  being	  a	  Community	  Parenting	  
+Alternative	  participant	  reduced	  the	  odds	  of	  
+being	  convicted	  of	  a	  new	  felony	  two	  years	  after	  
+release	  by	  71	  percent.1	  
+1	  Detailed	  descriptions	  of	  these
+
+## methods ##
+methods	  and
+preliminary	  results	  are	  available.	  	  	  
+Contact	  the	  author	  at	  chyla.aguiar@wsu.edu.	  
+
+Washington State Institute for Criminal Justice: 
+Research in Brief 
+Suggested citation: Aguiar, C. (2015). Research in brief: 
+Preliminary felony recidivism outcomes of the Community 
+Parenting Alternative. Spokane: Washington State Institute 
+for Criminal Justice.  
+Future	  Research	  
+Future	  research	  will	  investigate	  the	  impact	  of	  
+the	  Family	  Offender	  Sentencing	  Alternative,	  as	  
+this	  analysis	  focused	  on	  offenders	  who	  
+participated	  in	  the	  Community	  Parenting	  
+Alternative.	  It	  did	  not	  include	  outcomes	  from	  
+offenders	  who	  participated	  in	  the	  Family	  
+Offender	  Sentencing	  Alternative.	  	  Researchers	  
+from	  Partners	  for	  Our	  Children	  from	  the	  School	  
+of	  Social	  Work	  at	  the	  University	  of	  Washington	  
+will	  be	  conducting	  additional	  analyses	  on	  the	  
+FOSA	  alternative,	  as	  well	  as	  providing	  a	  cost-­‐
+benefit	  analysis	  for	  both	  alternatives	  of	  the	  
+Parenting	  Sentencing	  Alternative.	  	  
+Furthermore,	  future	  research	  will	  include	  
+analysis	  of	  additional	  indicators	  of	  program	  
+success	  based	  on	  program	  goals	  and	  objectives	  
+include	  additional	  measures	  of	  recidivism,	  and	  
+control	  for	  second-­‐level	  factors	  to	  compensate	  
+for	  the	  lack	  of	  a	  process	  analysis.	  Additionally,	  
+significant	  differences	  in	  recidivistic	  outcomes	  
+will	  be	  measured	  after	  three	  and	  five	  years	  of	  
+release	  from	  supervision.	  	  
+Finally,	  a	  more	  suitable	  comparison	  group	  must	  
+be	  identified	  for	  these	  results	  to	  be	  reliable.	  	  As	  
+this	  program	  is	  replicated	  in	  more	  locales	  and	  
+with	  more	  diverse	  populations	  of	  offenders,	  the	  
+results	  of	  this	  analysis	  will	  be	  generalizable	  to	  
+more	  offenders.	  	  Future	  research	  is	  needed	  to	  
+establish	  this	  program	  as	  evidence-­‐based.
+
+## Recommendations ##
+Recommendations	  and	  Policy	  Implications	  
+While	  this	  is	  a	  preliminary	  analysis,	  and
+
+## results ##
+results	  
+should	  be	  interpreted	  with	  caution,	  a	  significant	  
+reduction	  in	  recidivism	  among	  participants	  was	  
+observed	  two	  years	  after	  release.	  	  Additional	  
+research	  is	  needed	  to	  establish	  the	  program	  is	  
+evidence-­‐based.
+Washington State Institute for Criminal Justice was created in 2009. The Institute is 
+divided into two divisions – Policing & Security and Corrections & Sentencing. The 
+institute’s mission is to act as a resource for applied social science, and for 
+technical assistance and training for the criminal justice community in the state of 
+Washington and nationally.  
+	  412 E Spokane Falls Blvd, Suite 401 | PO Box 1495 | Spokane, WA 99210-1495 | (509) 358-7961 | wsicj.wsu.edu
+
+
+=== EXTRACTED TABLES ===
+
+=== EXTRACTED REFERENCES ===

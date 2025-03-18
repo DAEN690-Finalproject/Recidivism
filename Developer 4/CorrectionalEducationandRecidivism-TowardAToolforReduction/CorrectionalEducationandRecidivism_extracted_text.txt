@@ -1,0 +1,1203 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/318645657
+Correctional Education and Recidivism: Toward a Tool for Reduction
+Article · March 2015
+CITATIONS
+40
+READS
+10,628
+1 author:
+Lori Hall
+Virginia Tech
+3 PUBLICATIONS   78 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Lori Hall on 23 July 2017.
+The user has requested enhancement of the downloaded file.
+
+The Journal of Correctional Education 66(2) • May 2015
+4
+Correctional Education and Recidivism: 
+Toward a Tool for Reduction
+Lori L. Hall
+Please address correspondence regarding this article to Lori L. Hall,  
+Doctoral Student, Virginia Tech, 430-C Chinquapin Trail,  
+Christiansburg, VA 24073, llhall@vt.edu.
+Acknowledgments: The author would like to thank Dr. Doris Chu, Dr. Larry 
+Salinger, and Dr. Thomas Ratliff for their invaluable knowledge, comments, and 
+time throughout this project. Without their support this project would not have 
+been possible.
+Abstract
+Vast arrays of research have evaluated recidivism through a limited scope, analyzing 
+various factors independently. This study endeavors to execute a systematic review of 
+factors attributed to recidivism in order to focus the research trajectory toward the most 
+promising recidivism reduction tool. Various risk factors of recidivism have been identified; 
+however few can be utilized as a tool in reduction. Of those tools, research indicates that 
+correctional education programming appears to offer the greatest reduction outcome. 
+The importance of this research is established by reorganizing the major research findings 
+on correctional education programs from 1995 to 2010 in order to show the impact of 
+education on recidivism. To accomplish this goal, a typology of the research is created to 
+delineate the factor that is most promising in reducing recidivism, correctional education. 
+Specifically, an analysis of 10 empirical studies is performed in order to understand 
+the impact of correctional education programming on recidivism. Findings reveal 
+conclusiveness about educational programming as a reduction tool for recidivism.
+Introduction
+The incarceration rates in America far exceed all other industrialized nations, with 
+over two million inmates currently incarcerated (Brazell, Crayton, Mukamal, Solomon, &  
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+5
+Lindahl, 2009; Vacca, 2004). Approximately, 95% of those inmates will be released 
+yearly (Brazell et al., 2009). Overcrowding has become a major issue for correctional 
+facilities and has created major problems for the criminal justice system and our 
+nation (Petersilia, 2003). Further, research states that one in every one hundred 
+persons in the United States is currently incarcerated (Brazell et al., 2009). Major 
+studies (Batiuk, Lahm, McKeever, Wilcox, & Wilcox, 2005; Vacca, 2004; Gordon & 
+Weldon, 2003; Steurer, Smith, & Tracy, 2001; Hull, Forrester, Brown, Jobe, & McCullen, 
+2000; Stevens & Ward, 1997) have been conducted that work toward relieving 
+the problem of overcrowding by looking at effective correctional programming, 
+which reduces the likeliness for inmates to return to prison. These studies have all 
+unanimously concluded that correctional education, particularly college or academic, 
+has a negative correlation with recidivism (Steurer, Linton, Nally, &  
+Lockwood, 2010; Brazell et al., 2009; Batiuk et al., 2005; Vacca, 2004; Gordon & 
+Weldon, 2003; Steurer et al., 2001; Hull et al., 2000; Stevens & Ward, 1997).
+Incarceration in America is a growing problem. As can be seen in Figure 1, 
+prison populations, namely state and federal institutions, increased 55% from 
+1995 to 2010. It is this growing population of inmates that creates the need 
+for programming that closes the revolving door of correctional institutions 
+in America. The most recent recidivism study conducted in 1994 by the 
+Department of Justice reports a national recidivism rate of 68% (Langan & Levin, 
+2002). This rate applies to prior offenders who were rearrested at three years 
+post-release (Langan & Levin, 2002).
+0
+200
+400
+600
+800
+1000
+1200
+1995
+2000
+2005
+2010
+Per 100,000
+Incarceration
+Rates
+Figure 1. Incarceration Rates in America, 1995– 2010
+Source: U.S. Department of Justice, Bureau of Justice Statistics, Prisoner Series Online (http://bjs.ojp.usdoj.gov/index.
+cfm?ty=pbse&sid=40).
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+6
+A general consensus among scholars suggests that correctional education 
+plays a major role in the rehabilitation of inmates (Steurer et al., 2001; Hull et al., 
+2000; Batiuk et al., 2005; Vacca, 2004). There are various kinds of correctional 
+programs aimed at providing rehabilitation to inmates (Steurer et al., 2010). 
+Many researchers have discovered that correctional education often involves 
+various programs, meaning that the variations of educational level among 
+inmates has developed a need for many programs that serve the prospective 
+inmates (Steurer et al., 2010). According to Steurer et al. (2010), education has 
+three goals—to provide security, safety, and rehabilitation—and these goals are 
+“the entire range of correctional services.” It is this similarity of goals that offers 
+the most hope for the rehabilitation of inmates. The goals comparison, as stated 
+by Steurer et al. (2010), work toward keeping society protected from offenders, 
+insuring the security of institutions and aimed at creating functioning and 
+productive members of society. Utilizing education as a means of accomplishing 
+the goals of corrections allows for its use as a tool.
+Petersilia (2003) states that societal forces, such as lawmakers and 
+politicians, often combat the goals of correctional education by arguing that 
+inmates should not be given access to education when society is obligated 
+to pay for their education. This is often referred to as the “principle of least 
+eligibility,” which suggests ambivalence among the public in providing inmates 
+with specific programs that the general public is not granted freely (Petersilia, 
+2003). It is this societal and political influence that greatly hinders correctional 
+education as a rehabilitative tool for inmates (Petersilia, 2003). However, as 
+policy makers call for less funding for rehabilitative programs it encourages 
+increased spending for more prisons and longer prison sentences (Steurer  
+et al., 2010; Brazell et al., 2009, Batiuk et al., 2005; Petersilia, 2003; Steurer et al., 
+2001). Consequently, recidivism rates are climbing and more money is used 
+to re-incarcerate these inmates (Steurer et al., 2010; Brazell et al., 2009, Batiuk 
+et al., 2005; Petersilia, 2003; Steurer et al., 2001). According to Batiuk et al. 
+(2005), in 1997 Ohio spent over $35 million on recidivating inmates at $47 per 
+prisoner per day. Conversely, it has been reported that for every $962 spent on 
+academic education for inmates the criminal justice system will save $5,306 per 
+inmate (Brazell et al., 2009).
+Previous research has shown that correctional education reduces recidivism, 
+claiming gainful employment as the direct link to recidivism reduction (Steurer  
+et al., 2010; Brazell et al., 2009; Batiuk et al., 2005; Gordon & Weldon, 2003; 
+Steurer et al., 2001; Hull et al., 2000). However, various risk factors exist that 
+impact recidivism. This study aims to explore the relationship of correctional 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+7
+education and recidivism. To accomplish this, an examination of the risk factors of 
+recidivism was performed, looking at education as a tool in reducing recidivism. 
+Thus, a review of empirical studies analyzing correctional education programs 
+and recidivism was conducted from 1995 to 2010. Using the information gained 
+in this study as means, I propose some future goals of corrections.
+Recidivism
+Before delving into correctional education as a tool for recidivism reduction, it 
+is important to discuss recidivism. Recidivism research is often a difficult topic 
+to address. Researchers often debate the measures of recidivism in order to 
+identify the indicators that offer the best predictors. A general consensus of 
+literature identifies three measures of recidivism: re-arrest, re-conviction, and 
+re-incarceration (Jancic, 1998). All the indicators alone offer several deleterious 
+effects. Re-arrest, for example, often presumes guilt as well as assumes 
+conviction and incarceration, yet this is not always the situation. According 
+to Langan and Levin (2002), re-arrest is an incomplete measure for criminal 
+activity because it assumes re-conviction. In a similar manner, re-conviction 
+makes the supposition of re-incarceration, while other alternatives exist, 
+such as probation. In a review of the literature, Chappell (2004) concluded 
+that researchers typically define recidivism by three measures: re-arrest, re-
+conviction, and re-incarceration; however, researchers operationalize recidivism 
+as re-incarceration. Researchers often argue that re-incarceration offers the most 
+effective indicator of recidivism. However, problematic still, literature suggests 
+that re-incarceration alone fails to account for occurrences that do not result in 
+incarceration, meaning a return to crime has still occurred yet not so much as 
+to warrant incarceration. For example, occurrences that lead to re-conviction 
+but result in probation help explain the difficulties of using re-incarceration as 
+a measure. Independently, these three indicators create an ineffective measure 
+of recidivism. Nevertheless, when all indicators are integrated, a more efficient 
+measure of recidivism is created.
+In addition to understanding how researchers define recidivism, it is also 
+important to address the risk factors that influence recidivism or an offender’s 
+propensity to recidivate. Research (Steurer et al., 2010; Brazell et al., 2009; 
+Batiuk et al., 2005; Gordon & Weldon, 2003; Steurer et al., 2001; Hull et al., 
+2000) suggests many risk factors influence recidivism, specifically race, age, 
+gender, marital status, socioeconomic status (SES), educational attainment, 
+and employment status. It is imperative that each risk factor be addressed 
+independently, in order to comprehend its significance to recidivism research.
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+8
+Age
+Current literature has shown that the age of offenders has an impact on 
+recidivism (Steurer et al., 2010; Brazell et al., 2009; Batiuk et al., 2005; Gordon 
+& Weldon, 2003; Steurer et al., 2001; Hull et al., 2000). Often, age is identified 
+as a risk factor of recidivism. The most recent statistics available on recidivism 
+rates collected by the Bureau of Justice Statistics from prisoners released in 1994 
+with a three-year follow-up was utilized in this study in order to show the risk 
+factors of recidivism. According to Figure 2, as an offender ages the likelihood 
+for that offender to return to crime at six months post-release reduces from 
+38.6% to 25.9% among the 21–30 years of age group. As well, this reduction in 
+recidivism can be noted for all indicators utilizing follow-up periods ranging from 
+six months to three years.
+Understanding influences of age on recidivism is useful for predicting who 
+recidivates. However, age is only a risk factor for recidivism and is not useful as 
+a tool for reduction in that age cannot be manipulated in the same manner that 
+employment status and educational levels can be. Rather, the understanding 
+of this risk factor is vital to the prevention and reduction of recidivism. Other 
+influences exist, such as maturation, which works at explaining the effect of age 
+on recidivism. With increases in age, people often develop more stability, which 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+21 to 30
+31 to 40
+41 and over
+21 to 30
+31 to 40
+41 and over
+21 to 30
+31 to 40
+41 and over
+Re-Arrest
+Re-Conviction
+Re-Incarceration
+Recidivism Rates
+Recidivism Rates by Age Among All Indicator Categories
+6 months
+1 year
+2 years
+3 years
+Figure 2.  Recidivism Rates by Age Groups, 1997*
+Source: U.S. Department of Justice, Bureau of Justice Statistics, Recidivism Analysis Tool Online (http://bjs.ojp.usdoj.gov/
+index.cfm?ty=datool&surl=/recidivism/index.cfm#).
+*Inmates released in 1994, with a 3-year follow-up period.
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+9
+leads to a reduction in criminal activity or desistance. This maturation provides 
+some explanation of the influence of age on recidivism.
+Race
+Race is also a risk factor of recidivism, and is useful in the prediction of 
+recidivism. According to Coley and Barton (2006), among all racial categories, 
+blacks have the highest rates of incarceration. In addition, the highest rates of 
+recidivism among all racial categories can be seen among blacks. According 
+to Figure 3, among all indicator categories, blacks have the highest rates of re-
+arrest, re-conviction, and re-incarceration. Utilizing the Recidivism Analysis Tool 
+from the Bureau of Justice Statistics, we see that among the re-arrest category, 
+blacks have a recidivism rate of 77.6% at three years post-release compared to 
+69.3% recidivism among whites. Research shows other structural and cultural 
+factors exist that have created the increase in incarceration and recidivism 
+among blacks. Specifically, policies that target specific races, such as the war 
+on crime policies, reflect higher incarceration rates among black men than any 
+other racial category (Pettit & Western, 2004). Understanding the role of race in 
+the prediction of recidivism is necessary for defining a reduction tool.
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+White
+Black
+Other†
+White
+Black
+Other†
+White
+Black
+Other†
+Re-Arrest
+Re-Conviction
+Re-Incarceration
+Recidivism Rates
+Recidivism Rates by Race Among All Indicator Categories
+6 months
+1 year
+2 years
+3 years
+Figure 3. Recidivism Rates by Racial Groups, 1997*
+Source: U.S. Department of Justice, Bureau of Justice Statistics, Recidivism Analysis Tool Online (http://bjs.ojp.usdoj.gov/
+index.cfm?ty=datool&surl=/recidivism/index.cfm#).
+*Inmates released in 1994, with a 3-year follow-up period.
+†Other refers to offenders who identified themselves as non-white and non-black.
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+10
+Gender
+Gender is another important factor in recidivism prediction. A risk factor as well, 
+literature suggests that women have the lowest recidivism rates. Further, males 
+have higher rates of incarceration and higher rates of recidivism (Coley & Barton, 
+2006). According to the Bureau of Justice Statistics, it is shown that males have 
+re-arrest rates at 50.6% versus female re-arrest rates at 42.9% at one year 
+post-release. A comprehensive overview of the risk factors associated with 
+recidivism is beneficial to determining what factors influence recidivism and how 
+research should advance toward reduction tools. Importance is gained through 
+an analytical understanding of recidivism risk factors in order to develop a high 
+recidivism risk group for prediction purposes.
+Marital Status
+Research shows offenders who are married often have lower rates of recidivism 
+than single offenders. In fact, literature states marital status as reducing 
+crime and recidivism due to familial ties or bonds (Burton, Cullen, Evans, & 
+Dunaway, 1994). According to Burton et al. (1994), these social bonds are a 
+factor in reducing recidivism. Marital status as a factor of recidivism enables 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Male
+Female
+Male
+Female
+Male
+Female
+Re-Arrest
+Re-Conviction
+Re-Incarceration
+Recidivism Rates
+Recidivism Rates by Gender Among All Indicator Categories
+6 months
+1 year
+2 years
+3 years
+Figure 4. Recidivism Rates by Gender Groups, 1997*
+Source: U.S. Department of Justice, Bureau of Justice Statistics, Recidivism Analysis Tool Online (http://bjs.ojp.usdoj.gov/
+index.cfm?ty=datool&surl=/recidivism/index.cfm#).
+*Inmates released in 1994, with a 3-year follow-up period.
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+11
+researchers to understand that through increased stability crime can be reduced. 
+Comprehending the impact of these risk factors on recidivism is necessary for 
+effective programming that reduces recidivism.
+Employment/Educational Attainment
+Unemployment is often a common factor that impedes the offender, often 
+contributing to the offender’s choice of criminality. As well, offenders who 
+struggle with finding gainful employment are more prone to criminal activity 
+than those who find higher paying jobs (Chamberlain, 2011). Additionally, one 
+factor that contributes to offenders’ difficulty in finding gainful employment 
+is level of education, specifically low levels (Chamberlain, 2011). According to 
+Harlow (2003), of the national population of inmates, 41% have not completed 
+a general equivalency diploma (GED) or high school, compared to 18% of 
+the general population. Along with lower levels of education comes reduced 
+employability of offenders (Chamberlain, 2011). Employment as a risk factor 
+begins the shift toward the establishment of a tool for recidivism reduction. 
+Further, decreased opportunity for employment creates a need for offenders 
+to resort to illegitimate behavior to generate income (Burton et al., 1994). At 
+this point the risk factor of educational level arises as a factor of recidivism. 
+Educational attainment of offenders is often thought of as a risk factor of 
+recidivism among researchers. However, the distinction between educational 
+attainment and previously discussed risk factors (age, gender, race, marital 
+status, and employment) emerges in our ability to utilize education as a tool for 
+reduction. Structurally, these risk factors (age, gender, race, and marital status) 
+for recidivism allow some avenue for change. However, to accomplish this goal, 
+policies would have to be created that reduce the likelihood of these factors 
+influencing recidivism. More directly, education as a tool for recidivism reduction 
+offers a more viable path through policy changes.
+Education as a Reduction Tool
+Education as a recidivism reduction tool can provide many benefits for the 
+United States as a whole (Erisman & Contardo, 2005). Initially, the offender 
+gains the most benefit from obtaining a correctional education (Erisman & 
+Contardo, 2005). However, over time the benefit is then shared with the family, 
+the correctional institution, and society (Erisman & Contardo, 2005). This benefit 
+refers to a reduction of costs associated with incarcerating offenders, a reduction 
+of strain on the offenders and their families, and an economic boost for society 
+(Erisman & Contardo, 2005). The opportunity for education of inmates offers a 
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+12
+link between employment and reduced recidivism (Gaes, 2008). Thus, an ­ 
+in-depth look at correctional education and recidivism is necessary.
+Many states in the United States offer correctional education programs 
+to inmates during incarceration (Stevens & Ward, 1997). However, a study 
+conducted by Erisman and Contardo (2005) revealed that about 5% of inmates 
+enroll in correctional education programming. Correctional education has a 
+variety of goals that are aimed at rehabilitating inmates (Gordon & Weldon, 
+2003). These goals often include controlling inmate behavior, supporting the 
+needs of the correctional institution, and providing inmates with basic skills 
+and an opportunity to change (Gordon & Weldon, 2003). However, researchers 
+have unanimously decided that the ultimate goal of correctional education is 
+to reduce recidivism (Steurer et al., 2010; Brazell et al., 2009; Batiuk et al., 2005; 
+Gordon & Weldon, 2003; Petersilia, 2003; Steurer et al., 2001; Hull et al., 2000; 
+Stevens & Ward, 1997).
+According to the literature, correctional education significantly reduces 
+inmates’ likelihood of returning to prison (recidivism). Specifically, the level of 
+education obtained while incarcerated and whether the inmate participated or 
+completed education programming determines the rate of recidivism (Harlow, 
+2003; Wilson, Gallagher, & MacKenzie, 2000). In a meta-analysis of 15 studies, 
+researchers examined the correlation between participation and completion 
+of post-secondary correctional education and recidivism (Chappell, 2004). It 
+was shown that those inmates who completed a post-secondary correctional 
+education program had lower rates of recidivism than did participants only 
+(Chappell, 2004). The relationship between participation and completion of 
+correctional education programs is important to the role of education as a tool 
+for reduction of recidivism. Specifically, the importance of degree completion 
+while incarcerated further aids in the reduction of recidivism rather than 
+participation only.
+Methods
+This assessment of the association between correctional education 
+programming and recidivism is based on empirical research studies published 
+from 1995 to 2010. This date range was determined due to the lack of  
+analysis of the research studies conducted for this time period. Further, the 
+researcher utilized the publication date of all studies and realizes that most,  
+if not all, of the research conducted was done on samples from the 1990s.  
+In order to identify research articles, library database searches were completed 
+using date limiting (1995–2010) and keyword search limiting terms. Multiple 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+13
+combinations of search terms (recidivism, recidiv* and education, correctional 
+education programming, prison education and recidiv*)1 focusing on the concept 
+of the study were appropriated. Databases (ProQuest, JSTOR, and EBSCOhost) 
+that are relevant to the discipline of sociology and criminology/criminal justice 
+were utilized over the course of a three-year period (2010–2013) in order to 
+identify new and relevant articles. Across all searches completed, hundreds of 
+results were returned. Utilizing systematic content analysis, the researcher was 
+able to narrow the sample size to 10 articles. Specifically, criteria were used 
+to aid in this process. Two major criterions were used to eliminate research 
+studies.
+The first criterion for use was whether the article contained within it a 
+primary empirical study looking at correctional education programming. For the 
+purpose of this study, correctional education programming refers to a program 
+that leads toward a diploma, certificate, or degree of any sort. This can include 
+a high school diploma, a GED, vocational and technical training certificates, and 
+college degrees. In many studies, elimination was problematic despite the fact 
+that many empirical studies looking at correctional education programming 
+have been conducted. The difficulty in elimination of studies that appeared 
+suitable arose from the vast research on correctional education program 
+evaluation and effectiveness.
+The second criterion was whether or not the study used recidivism as 
+an outcome measure. Specifically, the studies included must have measured 
+individual recidivism of offenders while controlling for their participation 
+in a correctional education program. Recidivism as an outcome measure 
+can often be difficult to measure. Many studies exist that look at recidivism; 
+however, only studies relating to correctional education programming 
+that uses recidivism as an outcome measure were included in the study 
+to assess the influence of correctional education programs on recidivism. 
+Researchers often define recidivism as a “return to.” Customarily, recidivism 
+is measured in three ways: re-arrest, re-conviction, and re-incarceration 
+(Jancic, 1998; Chappell, 2004). Recently, researchers have included two 
+other indicators of recidivism: self-reported offenses and violations of 
+community supervision (Cecil, Drapkin, MacKenzie, & Hickman, 2000). For 
+the purpose of this study, studies including any measure of recidivism were 
+included.
+1 *Refers to truncation used by the database in order to search for all possible references to 
+recidivism, such as recidivism or recidivate.
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+14
+Limitations
+Some limitations exist in this study of correctional education and recidivism 
+research that are beyond the control of the researcher. First, inclusion of 
+only 10 studies available and appropriate for use in this review offered some 
+dissatisfaction to the researcher. Initially, searches performed offered some 
+satisfaction to the researcher due to vast amounts of results returned on 
+correctional education and recidivism research. However, once the two criterions 
+were applied, the sample size was reduced drastically. Second, another limitation 
+that is beyond the control of the researcher is the lack of empirical research 
+conducted from 2005 to 2010. Originally, the researcher allowed a date range of 
+1995 to 2010; however, no empirical studies fitting the criteria were discovered 
+since 2005. A vast array of knowledge can be derived from correctional 
+education research, often program evaluation or effectiveness is measured.  
+As stated earlier, only studies that use recidivism as an outcome measure  
+were included in the sample.
+Third, recidivism is difficult to measure and contains within it many problem 
+areas. Criminological researchers debate the issue of recidivism measures 
+frequently. Outcome measures utilized as indicators of recidivism are re-arrest, 
+re-conviction, and re-incarceration. However, Jancic (1998) argues deleterious 
+effects of the three indicators, as stated previously. Re-arrest is problematic 
+because it presumes re-conviction and re-incarceration. The critical point arises 
+due to the indicative nature of guilt offered by using re-arrest as an indicator. 
+Further, re-conviction also proves presumptuous of re-incarceration. Finally,  
+re-incarceration can be problematic to measure across jurisdictional lines, such 
+as state to state and state to federal.
+Analysis
+The sample collected includes 10 studies that examine correctional education 
+programs and recidivism. The purpose of this research is to create a 
+comprehensive, although not exhaustive, review of the empirical studies 
+conducted from 1995 to 2010 on correctional education and their findings on 
+recidivism. What follows is a detailed account of the study carried out, looking 
+at specific measures, sample size, levels of education, and the recidivism rates 
+reported. Figure 5 shows the results of this study.
+Steurer et al. (2001) conducted one of the largest studies ever that looked 
+at correctional education and recidivism. Steurer et al. (2001) used a sample of 
+3,170 inmates currently incarcerated and ready to be released between 1997 
+and 1998 with a follow-up period of three years in order to effectively measure 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+15
+Figure 5.  Studies Examining the Effect of Correctional Education Programs on Recidivism, 1995–2010
+Author/Study
+Sample 
+Size (n =)
+Independent Variable 
+(Program Level)
+Dependent 
+Variable 
+(Measure of 
+Recidivism)
+Controls
+Findings
+Stevens and 
+Ward (1997)
+60
+Associate degree, 
+Bachelor degree
+Re-incarceration
+Gender
+95% of associate degree completers did not recidivate at  
+3 years post-release
+100% of bachelor degree completers did not recidivate at  
+3 years post-release
+Batiuk et al. 
+(1997)
+318
+College, Employment
+Re-incarceration
+Nonparticipation
+Post-release employment gained through correctional 
+education reduces recidivism by 76% 
+Hull et al. 
+(2000)
+3,000
+Academic programs, 
+Vocational programs, 
+Employment
+Re-incarceration
+Gender, 
+Nonparticipation
+62% of academic participants did not recidivate
+80% of academic completers did not recidivate
+63% of vocational participants did not recidivate
+79% of vocational completers did not recidivate
+62% of participants were employed upon release
+78% of completers were employed upon release
+Kelso, Jr. 
+(2000)
+147
+High school diploma, 
+Vocational certificates, 
+Associate degree
+Re-incarceration
+Nonparticipation
+81% of high school completers had not recidivated at  
+5 years post-release
+88% of vocational certificate completers had not recidivated 
+at 5 years post-release
+91% of associate degree completers had not recidivated at  
+5 years post-release
+(continued  )
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+16
+Figure 5    (Continued )
+Author/Study
+Sample 
+Size (n =)
+Independent Variable 
+(Program Level)
+Dependent 
+Variable 
+(Measure of 
+Recidivism)
+Controls
+Findings
+Kelso, Jr. 
+(2000)
+152
+Vocational certificates, 
+Associate degrees
+Re-incarceration
+Nonparticipation
+91% of vocational certificate completers had not recidivated 
+at 5 years post-release
+85% of associate degree completers had not recidivated at  
+5 years post-release
+Burke and 
+Vivian (2001)
+64
+College
+Re-incarceration
+Age, Educational 
+level, Sentence 
+length, Race, 
+Nonparticipation
+66% of college participants at 3 years post-release had not 
+recidivated
+22% of college participants at 5 years post-release had not 
+recidivated
+Steurer et al. 
+(2001)
+3,170
+Education participation, 
+Education completion, 
+Employment
+Re-arrest, Re-
+conviction, Re-
+incarceration
+Nonparticipation, 
+Age, Gender, Race, 
+Living environment, 
+Marital status, Prior 
+criminal history, 
+Type of offender
+52% of participants had not been re-arrested at 3 years 
+post-release
+73% of participants had not been re-convicted at 3 years 
+post-release
+79% of participants had not been re-incarcerated at 3 years 
+post-release
+Brewster and 
+Sharp (2002)
+5,746
+GED
+Re-incarceration
+Age, Race, Gender, 
+Marital status
+GED participation reduces recidivism
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+17
+Gordon and 
+Weldon 
+(2003)
+350
+GED, Vocational training
+Re-incarceration
+Nonparticipation
+8.75% of vocational training completers recidivated
+6.71% of GED completers and participated in vocational 
+training recidivated
+26% of nonparticipants in correctional education recidivated
+Nuttall 
+(2003)
+16,617
+GED, Admitted with 
+a degree, Admitted 
+and released with no 
+degree
+Re-incarceration
+Nonparticipation
+68% of GED completers did not recidivate
+67% of those who entered with a degree did not recidivate
+63% of those who were admitted and released with no 
+degree did not recidivate 
+Batiuk et al. 
+(2005)
+972
+High-school, GED, 
+Vocational training, 
+College
+Re-incarceration
+Nonparticipation, 
+Age, Race, Type of 
+offender
+62% of college participants had not recidivated
+Highest among high school participants
+Some reduction among GED and vocational training 
+participants
+Drug offenders have lowest recidivism rates among other 
+types of offenders
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+18
+whether or not correctional education programs had any effect on recidivism. 
+Like other researchers looking at correctional education and recidivism, Steurer 
+et al. (2001) used a quasi-experimental design that focused on release cohorts. 
+The researchers conducted a randomized sampling technique to extract 
+inmates’ names that would be released during the study time frame from three 
+states: Minnesota, Ohio, and Maryland (Steurer et al., 2001). This process was 
+performed until each state had a sample size of 1,200 (n = 1,200) inmates. 
+Oversampling was used in order to control for early releases. Of the sample 
+drawn, 1,797 inmates had not participated in any correctional education, while 
+1,373 inmates had participated in some form of correctional education. While 
+the study has some issues with generalizability, no other study has gathered the 
+amount of information Steurer et al. (2001) have, with over 500 variables that 
+look at various factors that influence recidivism, as well as control for reliability 
+and comparability.
+The Three State Recidivism Study claims that the greatest hindrance to the 
+validity of the study is similar to all other studies that have been conducted 
+on inmates and correctional education programs, and that factor is the self-
+selection bias (Steurer et al., 2010; Brazell et al., 2009; Batiuk et al., 2005; Vacca, 
+2004; Gordon & Weldon, 2003; Steurer et al., 2001; Hull et al., 2000). Due to 
+the nature of correctional programs, in that they are offered and not mandated, 
+researchers are unable to conduct studies using truly random sampling 
+techniques due to the voluntary participation or nonparticipation of inmates in 
+these programs (Steurer et al., 2010; Batiuk et al, 2005; Steurer et al., 2001; Hull 
+et al., 2000). The outcome measures that the researchers used were re-arrest, 
+re-conviction, and re-incarceration (recidivism) (Steurer et al., 2001). This working 
+definition of recidivism as an outcome measure contains limitations in that re-
+arrest does not mean guilt and therefore could be misconstrued as recidivism if 
+measured (Jancic, 1998). As well, using re-conviction as a measure of recidivism 
+provides limitations in the research that imply re-incarceration, in which many 
+cases do not result in incarceration (Jancic, 1998). Researchers often find it 
+difficult to conclude on a working definition of recidivism. Esperian (2010) argues 
+that recidivism is “a return to criminal behavior.” However, the problem with this 
+definition is that it fails to take into account the “dark figure of crime” and only 
+allows for the measure of crime that is actually reported (Jancic, 2004).
+From the research conducted by Steurer et al. (2001), it can be concluded 
+that those inmates who participated in some form of correctional education 
+had higher rates of reduced recidivism than inmates who did not participate. 
+For Maryland and Ohio, the greatest reduction in recidivism can be seen among 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+19
+the re-incarceration rates from 37% to 31% (see Figure 5) and from 31% to 24% 
+(Steurer et al., 2001), while Minnesota saw the greatest reduction in negative 
+post-release behaviors (recidivism) among re-arrest with rates dropping from 
+54% to 42% (Steurer et al., 2001). The researchers provide no differentiation 
+between programs completed by inmates and the respective recidivism (Steurer 
+et al., 2001). Therefore, it is hard to determine what educational level has the 
+greatest impact on post-release behaviors. However, some interesting findings 
+reported by Steurer et al. (2001) were that among the two groups (participants 
+and nonparticipants), nonparticipants had completed higher levels of education 
+prior to incarceration. This leaves questions as to what relationship exists 
+between pre-incarceration education and during incarceration education on 
+recidivism.
+Other studies that sought to discover what relationship exists between type 
+of correctional education and recidivism have been conducted. More specifically, 
+Hull et al. (2000) looked at inmates who participated in academic and vocational 
+education and those who did not (Hull et al., 2000). The researchers in this study 
+also examined the effects of participation and completion of these academic 
+and vocational programs on recidivism (Hull et al., 2000). This differentiation 
+between participation and completion is an important finding in looking 
+at correctional education and recidivism. In order to better understand the 
+effects that correctional education has on recidivism it is imperative that we 
+differentiate between participation and completion of correctional education. 
+Hull et al. (2000) examined 3,000 inmates in the Virginia Department of 
+Corrections between 1979 and 1994. Of those inmates, 1,307 inmates neither 
+participated in nor completed any type of correctional education (Hull et al., 
+2000). Hull et al. (2000) also examined the relationship between academic 
+or vocational participators and academic or vocational completers, looking 
+specifically at the influence on recidivism. Interestingly, the results show that 
+completers, of either academic or vocational programs have lower rates of 
+recidivism than those inmates who only participated in these programs but did 
+not complete (Hull et al., 2000). In an examination of recidivism rates it becomes 
+evident that inmates who complete either academic or vocational correctional 
+education have lower recidivism rates than inmates who participate but do not 
+complete academic or vocational correctional education (Hull et al., 2000). More 
+specifically, inmates who participated in academic correctional education had 
+recidivism rates of 38.2% versus 19.1% for inmates who completed academic 
+correctional education programs (see Figure 5) (Hull et al., 2000). Among all 
+groups examined by Hull et al. (2000), academic completers had the lowest 
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+20
+rates of recidivism. This distinction between completers and participators offers 
+further understanding of the relationship between correctional education and 
+recidivism.
+In a study conducted by Gordon and Weldon (2003), researchers focused 
+on exploring the relationship between type of program and recidivism. Gordon 
+and Weldon (2003) examined 193 inmates in the Huttonsville Correctional 
+Facility in West Virginia from 1999 to 2000. The researchers divided inmates 
+into three groups: inmates who did not participate in any correctional education 
+programs (control group), inmates who completed a general education 
+equivalency (GED) and then participated in a vocational education program, and 
+inmates who completed a vocational program (Gordon & Weldon, 2003). The 
+rate of recidivism among the control group was 26% (Gordon & Weldon, 2003). 
+However, those inmates who completed vocational education programs had a 
+recidivism rate of 8.75% (see Figure 5) (Gordon & Weldon, 2003). This finding 
+shows that there is a relationship between correctional education and recidivism 
+and that relationship shows inmates who receive correctional education will 
+have lower rates of recidivism than inmates who receive no correctional 
+education (Gordon & Weldon, 2003). This finding is consistent with the study 
+conducted by Steurer et al. (2001), as well as other studies (Steurer et al., 2010; 
+Batiuk et al., 2005; Hull et al., 2000; Stevens & Ward, 1997).
+It is also imperative to understand the type of programs that have a greater 
+effect on recidivism. Batiuk et al. (2005) explored that relationship (type of 
+program and recidivism). In the study, Batiuk et al. (2005) selected 972 (n = 972) 
+inmates from the Ohio Department of Corrections and Rehabilitation (ODCR) 
+using a disproportionate stratified sampling technique in order to improve the 
+representativeness of the sample to the population. The researchers divided the 
+inmates into subgroups before using random sampling to extract the sample 
+groups from each (Batiuk et al., 2005). The subgroups were those inmates who 
+had participated in high school diploma/GED programs, vocational programs, 
+and college education programs; as well as a control group of inmates who had 
+not completed any correctional education programs (Batiuk et al., 2005). Once 
+the inmates had been divided into their respective subgroups, random sampling 
+procedures were used to create the sample (Batiuk et al., 2005). From the study 
+(Batiuk et al., 2005), it was determined that inmates who participate in college 
+education programs while incarcerated have lower rates of recidivism and the 
+time to recidivism is longer than any other correctional education program 
+rates, which can been seen in Figure 5. However, one limitation of the study, like 
+previous studies, is the self-selection bias (Batiuk et al., 2005). Studies (Steurer  
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+21
+et al., 2001; Hull et al., 2000; Batiuk et al., 2005; Vacca, 2004) suggest inmates 
+who choose to participate in college correctional education have more self-
+discipline and motivation than inmates who choose not to participate in 
+correctional education programming. This factor has not been examined in the 
+research and could influence the relationship between correctional education 
+and recidivism (Batiuk et al., 2005).
+In a previous study conducted a decade earlier, the same findings were 
+revealed (Stevens & Ward, 1997). Stevens and Ward (1997) argue that inmates 
+who receive a college degree while incarcerated will have lower recidivism 
+rates, as seen in Figure 5. In a study conducted by Stevens and Ward (1997) 
+of 60 inmates released in 1991 who had completed either a two-year or four-
+year degree it was revealed that the level of education significantly affects 
+recidivism. In fact, of the inmates who had received a four-year degree during 
+incarceration, none had recidivated during the three-year follow-up period 
+(Stevens & Ward, 1997). Similar findings have been discovered in other studies 
+concluding that inmates who receive a two-year or four-year degree during 
+incarceration have lower rates of recidivism (Stevens & Ward, 1997). Stevens 
+and Ward (1997) also conducted a survey of states in order to examine the 
+research on correctional education and recidivism. Only eight states returned 
+the surveys sent by Stevens and Ward (1997), yet the findings all reflect  
+that correctional education reduces recidivism. Those states were Texas,  
+New York, Illinois, Alabama, Florida, Maryland, and Oklahoma (Stevens &  
+Ward, 1997).
+The survey from Alabama revealed that of the inmates who completed a 
+post-secondary education degree while incarcerated, recidivism rates were at 
+1% compared to the overall rate of 35% (Stevens & Ward, 1997). Stevens and 
+Ward (1997) also determined from the Florida survey that inmates who received 
+some form of correctional education were 19% more likely to find employment 
+when released, arguing that employment reduces recidivism (Stevens & Ward, 
+1997). The relationship between employment and recidivism is important in 
+understanding what works in reducing recidivism. However, that research is 
+beyond the scope of this article (see Saylor & Gaes 1997; Uggen 2000; Morash & 
+Andersen 1978). Surveys conducted by Stevens and Ward (1997) from New York, 
+Maryland, Texas, Alabama, Illinois, and Oklahoma all revealed that inmates who 
+complete a college degree during incarceration have lower rates of recidivism 
+than all other inmates.
+Burke and Vivian (2001) examined inmates at the Hampden County 
+Correctional Center (HCCC) in a comparison study of those who participated in 
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+22
+college education programs and those who did not. Recidivism was measured 
+as re-incarceration, as adapted from the definition set forth by the HCCC. Using 
+a sample size of 64 inmates (n = 64) the researchers gathered information 
+from the jail management system in order to collect specific data on inmates to 
+determine inclusion of inmates in the sample. Inclusion criteria included release 
+dates of January to October 1993, serving a sentence of at least three months, 
+and completion of at least three college credits or no college credits (Burke & 
+Vivian, 2001). From the sample, two groups were created: inmates who had 
+participated in college correctional education (treatment) and inmates who had 
+not participated in college correctional education (control). The sample included 
+32 inmates in each group. From the study, it was concluded that inmates who 
+participate in college correctional education program have lower recidivism 
+rates than inmates who do not participate in college education programs 
+while incarcerated. Specifically, a 22% reduction, as seen in Figure 5, can be 
+examined among the groups (Burke & Vivian, 2001). As well, it was observed 
+that of those inmates who participate in college education programs, there is 
+a longer length of time to recidivism than those who did not participate, with 
+the average length reported at 4.38 years compared with 3.13 years (Burke & 
+Vivian, 2001). Some limitations of the study are sample size and the limitation 
+of one institution. Generally, researchers claim that sample sizes below 100 are 
+often unreliable.
+Brewster and Sharp (2002) addressed the problem of sample size by 
+examining a sample of 11,813. In order to study the effect of obtaining a GED 
+while incarcerated, looking at the impact it has on recidivism, Brewster and 
+Sharp (2002) pooled data from the Oklahoma Department of Corrections. 
+Initially, the sample of offenders released between January 1991 and December 
+1994 contained 21,268 inmates. Through inclusion criteria the researchers were 
+able to reduce the sample to a group of inmates, looking at the effects of GED 
+on recidivism (n = 5,752). Recidivism data was gathered through January 1997, 
+with a follow-up period of three years. Controlling for age, race, and marital 
+status, the researchers report a reduction in recidivism among inmates who 
+participated in GED programs while incarcerated in the Oklahoma Department 
+of Corrections (Brewster & Sharp, 2002). This finding, as well as others, leads to a 
+more thorough understanding of the impact of education on recidivism.
+In a study conducted by Kelso, Jr. (2000), two correctional education centers 
+were examined to determine the effect of educational level on recidivism. The 
+Garrett Heyns Study gathered a sample of 147 inmates who had participated in 
+high school, vocational training, or college programs before release between 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+23
+1985 to 1987 (Kelso, Jr., 2000). The researcher reported at one year post-release 
+there was a recidivism rate of 0% among those who had completed a high 
+school diploma. Further, after five years post-release of inmates in the high 
+school completion group, the recidivism rate average was 19.6% (Kelso, Jr., 
+2000). For those inmates who received a vocational certificate, recidivism rates 
+at five years post-release were reduced to 11.9%. More importantly, college 
+degree recipients were reported to have recidivism rates, as seen in Figure 5, at 
+just 10.8% at five years post-release (Kelso, Jr., 2000). In the second sample, the 
+Twin Rivers Study contained 152 inmates who completed either a vocational 
+certificate or associate degree program. Of those, the researcher reports a 
+recidivism rate of 9% among inmates obtaining an associate’s degree while 
+those obtaining a vocational certificate had a recidivism rate of 14% (Kelso, Jr., 
+2000). Overall, inmates who participated in some form of correctional education 
+programming at five years post-release had a lower recidivism rate compared 
+with the 53.7% recidivism rate of the entire population (Kelso, Jr., 2000). 
+Further, the results offer more evidence of the relationship between correctional 
+education and recidivism. Additionally, the research continues to show reduction 
+of recidivism through education as a tool.
+Nuttall, Hollmen, and Staley (2003) performed a study of inmates at the 
+New York State Department of Correctional Services (NYSDOCS) released in 
+1996 with a three-year follow-up period. The inmates were divided into three 
+groups: inmates who obtained a GED at NYSDOCS, inmates who were admitted 
+and released without a degree, and inmates who entered with a degree, with 
+a final sample size of 16,617. Of the three inmate groups, Figure 5 shows those 
+who earned a GED while in the NYSDOCS had the lowest recidivism group at 
+31.8% compared with those who did not obtain a degree at 36.6% (Nuttall et al., 
+2003). Further, those who were admitted with a degree had a recidivism rate of 
+32%. The results, like previously, provide support for the claims made by all the 
+research examined in this study that as a tool correctional education, specifically 
+college, works at reducing recidivism.
+Additionally, Batiuk, Moke, and Rountree (1997) performed a 10-year 
+follow-up study of 318 (n = 318) inmates in Ohio. Further, inmates released 
+from 1982 to 1983 and followed through 1993 were included. The researchers 
+measured recidivism as a return to prison and examined college participants 
+and employment outcomes. From the study, the researchers report an overall 
+recidivism rate of 37%. As well, the researchers discuss the effect of education 
+on recidivism indirectly through the obtainment of employment rather than 
+education as the sole factor. This provides support for further research on 
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+24
+employment, education, and recidivism of inmates. Figure 5 shows the results 
+of the study conducted by Batiuk et al. (1997). Overall, Batiuk et al. (1997) claim 
+education is a factor in the reduction of recidivism and increases the offender’s 
+employability and likelihood of obtaining gainful employment.
+From the extant research, it can be concluded that education works as a 
+reduction tool for recidivism. More importantly, it is gathered that education has 
+an indirect effect on recidivism reduction through increases in the employability 
+of inmates. For a comprehensive overview of the sample (n = 10) of empirical 
+research analyzed in this project, refer to Figure 5. From Figure 5, it becomes 
+evident education as a tool for reduction is promising. Further, a discussion 
+claiming the usefulness of education as a tool for reduction follows.
+Policy Implications
+Throughout the last 30 years, correctional education research has emerged 
+that exhibits evidence of which correctional education reduces recidivism. 
+Examination of a myriad of studies reveals conclusive results: correctional 
+education reduces recidivism (Steurer et al., 2010; Brazell et al., 2009; Batiuk 
+et al., 2005; Vacca, 2004; Gordon & Weldon, 2003; Steurer et al., 2001; 
+Hull et al., 2000; Stevens & Ward, 1997). Further, research that investigates 
+previous studies in order to reexamine the findings reveals identical results 
+(Gaes, 2008; Chappell, 2004; Wilson et al., 2000; Bouffard, MacKenzie, & 
+Hickman, 2000). The research findings from the extant research conclude 
+that all forms of correctional education reduces recidivism; more specifically, 
+college education during incarceration has the greatest impact on recidivism. 
+The issue at hand is concerned with a review of the research on correctional 
+education and the impact on recidivism, particularly the overall findings of 
+empirical research.
+Understanding the relationship between correctional programs, specifically 
+education programs, and recidivism is important for learning tools to reduction. 
+The extant research provides insight as to which educational programs aid in 
+reducing recidivism. As well, it also provides a research base for which other studies 
+can be developed to help fill the gaps. This project systematically reviewed the 
+empirical research that examined the correlation between correctional education 
+programs, looking at the factors’ influence on recidivism. It was concluded that 
+inmates who obtain a correctional education degree while incarcerated will have 
+lower rates of recidivism. The research that has been conducted brings forth 
+questions as to what else can be done to aid in the reduction of recidivism utilizing 
+education as a tool. The research explains the relationship between correctional 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+25
+education and recidivism; specifically, if we educate prisoners, recidivism will be 
+reduced. With this knowledge of education as a tool for recidivism reduction there 
+leaves the question of where we go from here.
+It is evident that education is a tool which administrators and educators 
+alike can utilize in the reduction of recidivism. Education as a correctional 
+practice has been around for over 200 years (Crayton & Neusteter, 2008). It 
+is recognized as one of the first programs in the rehabilitation of inmates and 
+continually produces reduction of recidivism through employability of inmates 
+(Crayton & Neusteter, 2008).
+The major consensus among the research concludes that correctional 
+education reduces recidivism (Steurer et al., 2001; Hull et al., 2000; Batiuk 
+et al., 2005; Vacca, 2004; Stevens & Ward, 1997). As well, higher levels of 
+education, such as two year and four-year degrees further decrease recidivism 
+of inmates (Batiuk et al., 2005; Hull et al, 2000; Stevens & Ward, 1997). It has 
+been concluded specifically that post-secondary correctional education offers 
+the greatest reduction in recidivism than any other correctional education 
+program (Batiuk et al., 2005; Hull et al., 2000; Stevens & Ward, 1997). However, 
+administrators and policy makers have failed to understand this finding and 
+continue to support the elimination of funding for inmates. This elimination 
+of funding virtually ended correctional college education programs in many 
+states (Batiuk et al., 2005). When policy makers haphazardly enact policies that 
+contradict the findings in research, they are essentially setting offenders up for 
+failure and those affected by these polices (families, institutions, society, etc.). 
+Policy makers need to re-evaluate current policies that have eliminated funding 
+for inmates to receive college education in order to reduce recidivism.
+Where we go from here
+This discussion of correctional education’s impact on recidivism leads to the 
+question: where do we go from here? The implications of this study reveal the 
+need of funding for correctional education programs for inmates. However, 
+political practices have continually sought to eliminate funding despite these 
+findings. According to Latessa (2004), political change is a difficult topic to 
+address; specifically, the idea of why political will continually seeks to eliminate 
+funding for correctional education. One claim is that politicians seek avenues of 
+little risk taking and with correctional education the risk is high (Latessa, 2004). 
+Research affirms this claim due to the lack of methodologically sound empirical 
+studies on correctional education and recidivism. Specifically, empirical studies 
+that have been conducted all contain within them methodological limitations 
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+26
+due to a lack of controls for risk factors of recidivism. Of the 10 studies used 
+in this project, none of them controlled for all the risk factors of recidivism 
+(age, race, gender, marital status, employment, and educational attainment). 
+Rather, few to little controls were used in the studies. As well, other factors 
+not addressed were motivation and discipline of inmates in their decision to 
+participate in correctional education programs.
+In order to influence political changes, research needs to be 
+methodologically sound. One solution to a methodologically sound study of 
+correctional education and recidivism research would include controls for all the 
+risk factors of recidivism. By controlling for age, race, and gender, the researcher 
+can eliminate the influence of structural inequalities that exist in the occurrences 
+of crime. Using controls for marital status, the influence of the strength of social 
+bonds or familial ties is reduced as well. Further, by controlling for employment 
+the researcher can establish whether or not strain was a factor in crime 
+commission. Without controlling for the risk factors of recidivism, causation 
+cannot be established. Thus, our research base is left with simply a correlation 
+between correctional education and recidivism.
+Additionally, determining an appropriate measure of recidivism is a key 
+factor in developing a sound methodology for recidivism research. Many 
+measures of recidivism have been indicated in the research, such as re-arrest, 
+re-conviction, and re-incarceration. However, as discussed previously, these 
+measures are often problematic in that, when measured independently, they 
+fail to account for some criminal activity. One solution is to first determine 
+an adequate definition of recidivism. Many researchers agree that recidivism 
+can be defined as a “return to” (Brazell, 2009; Chappell, 2004). Utilizing this 
+definition and applying it to the criminal justice policy of “innocent until 
+proven guilty,” researchers can develop an appropriate measure of recidivism. 
+For example, conviction is commonly the indicator of guilt in the U.S. criminal 
+justice system. Therefore, re-conviction would be the most suitable measure of 
+recidivism in that it captures (compared to the other indicators) the most crime.
+Accomplishing the task of creating a methodologically sound research study 
+of correctional education and recidivism is one step toward changing the political 
+policies that have eliminated funding. However, the influence of empirical 
+research on political changes still contains issues. First, public opinion greatly 
+influences political will and the trajectory with which policies flow. The task of 
+changing public opinion is insurmountable, especially due to the lack of influence 
+of empirical research on the views of the public. For example, despite the large 
+body of research that exists regarding the hazards of smoking, some portions 
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+27
+of the population still continue this behavior. Policy changes appear to have 
+the greatest impact on public behaviors, such as nonsmoking policies, when 
+advocates begin to vocalize their support or nonsupport of specific interests.
+There is little doubt that the politics of correctional education has 
+influenced the lack of funding for programs. In 1994, President Clinton signed 
+into law the Violent Crime Control and Law Enforcement Act (VCCLEA), which 
+was monumental in the elimination of funding for inmates to participate in 
+correctional education. Shortly after, many education programs were closed 
+by states lacking financial support of these programs (Brazell, 2009). At the 
+same time, the VCCLEA allowed funding to be allocated to other criminal 
+justice departments. The continual shifting of funds from department to 
+department is an example of the politics at work in the funding of correctional 
+education programs. However, the haphazardness of political fluctuations 
+creates many detrimental results. The issue of funding in any arena is certainly 
+a political game. In the area of corrections, the issue is heightened due to the 
+perceived population that benefits from increased funding.
+This certainly raises the question of who benefits from increased funding 
+for correctional education. Initially, the offender receives the most benefit for 
+increased education. This benefit is then shared with the offenders’ family 
+through increased contributions. The benefit continues to influence society 
+through economic boosts and through reduced costs of re-incarceration. 
+Essentially, everyone benefits from correctional education. Through this logic, 
+therefore, increased funding for correctional education benefits everyone.
+As shown, research for correctional education and the impact on recidivism 
+is still needed. Emphasis on research that is methodologically sound is 
+important in order to influence public policy to increase funding for correctional 
+education. From the research base, it can be determined that correctional 
+education reduces recidivism through increased employability. It is important for 
+researchers to explore the role of employment on recidivism. More importantly, 
+understanding the relationship between correctional employment programs 
+and recidivism is needed. A call for more research on correctional programs, 
+education and employment, and their impact on recidivism is imperative.
+References
+Batiuk, M., Lahm, K., McKeever, M., Wilcox, N., & Wilcox, P. (2005). Disentangling the effects 
+of correctional education: Are current policies misguided? An event history analysis. 
+Criminal Justice, 5(1), 55–74.
+Batiuk, M., Moke, P., & Rountree, P. (1997). Crime and rehabilitation: Correctional education 
+as an agent of change—a research note. Justice Quarterly, 167–180.
+
+The Journal of Correctional Education 66(2) • May 2015
+Correctional Education and Recidivism
+Lori L. Hall
+28
+Bouffard, J., MacKenzie, D., & Hickman, L. (2000). Effectiveness of vocational education 
+and employment programs for adult offenders: A methodology-based analysis of the 
+literature. Journal of Offender Rehabilitation, 1–41.
+Brazell, D., Crayton, A., Mukamal, D., Solomon, A., & Lindahl, N. (2009). From the classroom 
+to the community: Exploring the role of education during incarceration and reentry. 
+Urban Institute: Justice Policy Center, 1–50.
+Brewster, D., & Sharp, S. (2002). Educational programs and recidivism in Oklahoma: 
+Another look. The Prison Journal, 314–334.
+Burke, L., & Vivian, J. (2001). The effect of college programming on recidivism rates at the 
+Hampden County House of Correction: A 5-year study. Journal of Correctional Education, 
+160–162.
+Burton Jr., V., Cullen, F., Evans, T., & Dunaway, R. (1994). Reconsidering strain theory: 
+Operationalization, rival theories, and adult criminality. Journal of Quantitative 
+Criminology, 213–239.
+Cecil, D., Drapkin, D., MacKenzie, D., & Hickman, L. (2000). The effectiveness of adult basic 
+education and life-skills programs in reducing recidivism: A review and assessment of 
+the research. Journal of Correctional Education, 207–226.
+Chamberlain, A. (2012). Offender rehabilitation: Examining changes in inmate treatment 
+characteristics, program participation, and institutional behavior. Justice Quarterly, 
+183–228.
+Chappell, C. (2004). Post-secondary correctional education and recidivism: A meta-analysis 
+of research conducted 1990–1999. Journal of Correctional Education, 55(2), 148–169.
+Coley, R., & Barton, P. (2006). Locked up and locked out: An educational perspective on the U.S. 
+prison population. Princeton, NJ: Educational Testing Services.
+Crayton, A., & Neusteter, S. (2008). The state of correctional education. Unpublished 
+manuscript, John Jay College of Criminal Justice.
+Erisman, W., & Contardo, J. (2005). Learning to reduce recidivism: A 50-state analysis of post-secondary 
+correctional education policy. Washington, D C: Institute for Higher Education Policy.
+Esperian, J. (2010). The effect of prison education programs on recidivism. Journal of 
+Correctional Education, 61(4), 316–334.
+Gaes, G. (2008). The impact of prison education programs on post-release outcomes. 
+Unpublished manuscript, University of California-Irvine.
+Gordon, H., & Weldon, B. (2003). The impact of career and technical education programs 
+on adult offenders: Learning behind bars. Journal of Correctional Education, 54(4), 
+200–209.
+Harlow, C., U.S. Department of Justice, Office of Justice Programs. (2003). Education and 
+correctional populations. Washington DC: Bureau of Justice Statistics.
+Hull, K., Forrester, S., Brown, J., Jobe, D., & McCullen, C. (2000). Analysis of recidivism rates 
+for participants of the academic/vocational/transition education programs offered by 
+the Virginia Department of Correctional Education. Journal of Correctional Education, 
+51(2), 256–261.
+
+The Journal of Correctional Education 66(2) • May 2015
+Lori L. Hall
+Correctional Education and Recidivism
+29
+Jancic, M. (1998). Does correctional education have an effect on recidivism? Journal of 
+Correctional Education, 49(4), 152–161.
+Kelso Jr., C. (2000). Recidivism rates for two education programs’ graduates compared to 
+overall Washington state rates. Journal of Correctional Education, 233–236.
+Langan, P., & Levin, D. (2002). Recidivism of prisoners released in 1994. Washington DC: 
+Bureau of Justice Statistics.
+Latessa, E. (2004). The challenge of change: Correctional programs and evidence-based 
+practices. Criminology and Public Policy, 547–560.
+Morash, M., & Anderson, E. (1978). Liberal thinking on rehabilitation: A workable solution to 
+crime. Social Problems, 25, 556–563.
+Nuttall, J., Hollmen, L., & Staley, E. (2003). The effect of earning a GED on recidivism rates. 
+Journal of Correctional Education, 90–94.
+Petersilia, J. 2003. When prisoners come home: Parole and prisoner reentry. New York, NY: 
+Oxford University Press.
+Pettit, B., & Western, B. (2004). Mass imprisonment and the life course: Race and class 
+inequality in U.S. incarceration. American Sociological Review, 69(2), 151–169.
+Saylor, W., & Gaes, G. (1997). Training inmates through industrial work participation and 
+vocational and apprenticeship instruction. Corrections Management Quarterly, 1(2), 
+32–43.
+Steurer, S., Linton, J., Nally, J., & Lockwood, S. (2010). The top-nine reasons to increase 
+correctional education programs. Corrections Today, 40–43.
+Steurer, S., Smith, L., & Tracy, A. (2001). OCE/CEA three state recidivism study. Correctional 
+Education Association, 1–65.
+Stevens, D., & Ward, C. (1997). College education and recidivism: Educating criminals is 
+meritorious. Journal of Correctional Education, 48(3), 106–111.
+Uggen, C. (2000). Work as a turning point in the life course of criminals: A duration model 
+of age, employment and recidivism. American Sociological Review, 67, 529–546.
+Vacca, J. (2004). Educated prisoners are less likely to return to prison. Journal of Correctional 
+Education, 55(4), 297–305.
+Violent Crime Control and Law Enforcement Act of 1994, H.R. 3355, 103rd Congress. (1994).
+Wilson, D., Gallagher, C., & MacKenzie, D. (2000). A meta-analysis of corrections-based 
+education, vocation, and work programs for adult offenders. Journal of Research in 
+Crime and Delinquency, 347–368.
+Biographical Sketch  
+Lori L. Hall is a doctoral student in the Virginia Tech Department of Sociology. Originally 
+from Arkansas, she obtained her MA in criminal justice from Arkansas State University.  
+This manuscript was completed as a requirement for that degree.
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
+View publication stats
+

@@ -1,0 +1,903 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/232992536
+An Evidence-Based Assessment of Faith-Based Programs: Do
+Faith-Based Programs “Work” to Reduce Recidivism?
+Article  in  Journal of Offender Rehabilitation · August 2011
+DOI: 10.1080/10509674.2011.582932
+CITATIONS
+63
+READS
+4,871
+3 authors, including:
+Kimberly D. Dodson
+University of Houston - Clear Lake
+70 PUBLICATIONS   185 CITATIONS   
+SEE PROFILE
+Leann Cabage
+St. Edward's University
+14 PUBLICATIONS   98 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Kimberly D. Dodson on 14 September 2015.
+The user has requested enhancement of the downloaded file.
+
+This article was downloaded by:  [ Kimberly Dodson]
+On:  22 August 2011, At:  09: 43
+Publisher:  Routledge
+Informa Ltd Registered in England and Wales Registered Number:  1072954 Registered
+office:  Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Journal of Offender Rehabilitation
+Publication details, including instructions for authors and
+subscription information:
+http:/ / www.tandfonline.com/ loi/ wjor20
+An Evidence-Based Assessment of
+Faith-Based Programs: Do Faith-Based
+Programs “Work” to Reduce Recidivism?
+Kimberly D. Dodson a , Leann N. Cabage a & Paul M. Klenowski b
+a School of Law Enforcement & Justice Administration, Western
+Illinois University—Quad Cities, Moline, Illinois, USA
+b Department of Criminal Justice, Political Science, & Philosophy,
+Clarion University of Pennsylvania, Oil City, Pennsylvania, USA
+Available online: 22 Aug 2011
+To cite this article: Kimberly D. Dodson, Leann N. Cabage & Paul M. Klenowski (2011): An Evidence-
+Based Assessment of Faith-Based Programs: Do Faith-Based Programs “ Work”  to Reduce Recidivism?,
+Journal of Offender Rehabilitation, 50:6, 367-383
+To link to this article:  http:/ / dx.doi.org/ 10.1080/ 10509674.2011.582932
+PLEASE SCROLL DOWN FOR ARTICLE
+Full terms and conditions of use:  http: / / www.tandfonline.com/ page/ terms-and-conditions
+This article may be used for research, teaching and private study purposes. Any
+substantial or systematic reproduction, re-distribution, re-selling, loan, sub-licensing,
+systematic supply or distribution in any form to anyone is expressly forbidden.
+The publisher does not give any warranty express or implied or make any representation
+that the contents will be complete or accurate or up to date. The accuracy of any
+instructions, formulae and drug doses should be independently verified with primary
+sources. The publisher shall not be liable for any loss, actions, claims, proceedings,
+demand or costs or damages whatsoever or howsoever caused arising directly or indirectly
+in connection with or arising out of the use of this material.
+
+An Evidence-Based Assessment of Faith-Based
+Programs: Do Faith-Based Programs ‘‘Work’’
+to Reduce Recidivism?
+KIMBERLY D. DODSON and LEANN N. CABAGE
+School of Law Enforcement & Justice Administration, Western Illinois University—Quad
+Cities, Moline, Illinois, USA
+PAUL M. KLENOWSKI
+Department of Criminal Justice, Political Science, & Philosophy, Clarion University of
+Pennsylvania, Oil City, Pennsylvania, USA
+Faith-based organizations administer many of the prison-based pro-
+grams aimed at reducing recidivism. Many of these organizations
+also manage treatment programs for substance abusers, at-risk juve-
+niles, and ex-offenders. Much of the research on religiosity and delin-
+quency indicates that the two are inversely related. Therefore, it seems
+plausible that faith-based programs, which are rooted in religious
+organizations, may be effective tools for reducing deviant and crimi-
+nal behavior. However, it is unclear whether the empirical evidence
+supports such a claim. This study is an evidence-based assessment of
+the effectiveness of faith-based programs for reducing recidivism. The
+results of this study indicate that faith-based programs ‘‘work’’ to
+reduce recidivism. Directions for future research are discussed.
+KEYWORDS
+faith-based programs, prison programs, recidivism,
+religion and criminality, religiosity
+INTRODUCTION
+Throughout the history of the United States, religion has been inextricably tied to
+our penal system. The penitentiary was founded on the premise that offenders
+should not only be punished, but should have the opportunity to repent from
+their deviant behavior. Early correctional efforts centered on Judeo-Christian
+Address correspondence to Kimberly D. Dodson, School of Law Enforcement & Justice
+Administration, Western Illinois University—Quad Cities, 3561 60th St., Moline, IL 61265,
+USA. E-mail: kd-dodson@wiu.edu
+Journal of Offender Rehabilitation, 50:367–383, 2011
+Copyright # Taylor & Francis Group, LLC
+ISSN: 1050-9674 print=1540-8558 online
+DOI: 10.1080/10509674.2011.582932
+367
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+principles in an effort to reform prisoners. Upon entering the penitentiary, prison-
+ers were given a Bible and housed primarily in solitude. The goal was to allow pris-
+oners time for spiritual reflection in which they offered penitence to God and
+sought forgiveness. Spiritual transformation was considered the best defense
+against future offending; therefore, religion was the primary mechanism for
+explaining and controlling criminal behavior. By the 20th century, scientific
+knowledge replaced religion as the paradigm for explaining and controlling crimi-
+nal behavior (Clear, Hardyman, Stout, Lucken, & Dammer, 2000). As a result, reli-
+gion was no longer considered the best method for correcting or managing crime.
+During the 21st century, correctional ideology shifted back toward
+religious strategies for addressing crime. Conservative politics and the
+inability of science to ‘‘cure’’ criminal behavior were the primary catalysts
+for a ‘‘religious comeback’’ (Clear et al., 2000, p. 54). Today, religious orga-
+nizations administer many of the prison-based programs aimed at reducing
+recidivism. Additionally, many religious organizations also manage treatment
+programs for substance abusers, at-risk juveniles, and ex-offenders. How-
+ever, there is a lack of empirical evidence to support the claim that
+faith-based programs are effective in reducing recidivism or preventing crimi-
+nal behavior. The purpose of this investigation is to evaluate the effectiveness
+of faith-based programs in reducing recidivism.
+FAITH-BASED INITIATIVES
+Faith-based initiatives can best be described as social programs or services that
+are administered by an organization with some type of religious affiliation.
+Faith-based programs fall under the umbrella of what is known as ‘‘intentional
+religion.’’ Intentional religion refers to ‘‘the exposure to religion one receives
+at a particular time in life for a particular purpose’’ (Johnson, Tompkins, &
+Webb, 2002, p. 8). Stated another way, individuals are intentionally placed
+in or receive treatment within a religious organization to meet a specific need.
+Some examples include: (a) prisoners who participate in a Christian-based
+prison program that emphasizes prayer, Bible study, and spiritual transform-
+ation as a way to avoid future offending; (b) at-risk juveniles are matched with
+volunteer mentors from a religious organization with the goal of helping the
+juvenile avoid delinquent behavior; and (c) drug addicts who enroll in
+faith-based conversion drug rehabilitation programs to achieve sobriety or
+avoid relapse (Johnson et al., 2002). In summary, faith-based programs offer
+the same or similar types of rehabilitation programs and services as secular
+programs, the primary difference being some type of religious component.
+Background
+In 1996, former President Bill Clinton signed into law the Personal Res-
+ponsibility and Work Opportunity and Reconciliation Act. One of the key
+368
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+guidelines of this legislation is the Charitable Choice (Section 104) provision.
+The provision has three primary goals: (a) to encourage states to expand
+the involvement of community and faith-based organizations in the public
+antipoverty effort; (b) to protect the religious integrity and character of
+faith-based organizations that are willing to accept government funds to pro-
+vide services to underserved populations, such as the poor and needy; and
+(c) to preserve the religious freedom of individuals who seek assistance from
+faith-based organizations. Charitable Choice extended governmental funding
+to faith-based organizations, which was a radical departure from previous
+provisions that had excluded governmental funding to religious organiza-
+tions. Even so, Charitable Choice went virtually unnoticed until George W.
+Bush campaigned to expand its provisions during his 2000 presidential bid.
+As one of his first acts as president, Bush signed an executive order cre-
+ating the White House Office of Faith-Based and Community Initiatives
+(OFBCI). The primary reason for creating the OFBCI was to create ‘‘a more
+open and competitive Federal grant-making process [that would] increase
+the delivery of effective social services to those whose needs are greatest’’
+(White House Faith-Based & Community Initiative, 2001, para. 2). To facili-
+tate the faith-based initiative, centers have been established in seven federal
+agencies including the United States Departments of Justice, Agriculture,
+Labor, Health and Human Services, Housing and Urban Development,
+Education, and the Agency for International Development. The primary
+responsibility of these centers is to promote faith-based initiatives, which
+includes supporting organizations that provide assistance to people in need,
+especially organizations that serve at-risk youth, prisoners, the elderly, the
+homeless, substance abusers, and welfare-to-work families.
+The Bush Administration made the claim that federal regulations and
+restrictions resulted in faith-based organizations being discriminated against
+when seeking federal funding for their social service programs. According to
+one report, the administration accused federal agencies of discrimination
+against faith-based organizations and asserted that nonprofit organizations
+have long enjoyed a monopoly on federal grant money without having to
+prove their effectiveness (Wilhelm, 2001). The Bush Administration proposed
+that Charitable Choice provisions be expanded to include all federal social
+services programs, and that federal regulatory barriers prohibiting religious
+organizations from competing for government funds should be removed.
+In response to Bush’s effort to engage both faith-based and community-
+based organizations in social services programs, Representative J.C. Watts
+(R-Oklahoma) introduced The Community Solutions Act in 2001 (H.R. 7).
+This new legislation included the expansion of the Charitable Choice pro-
+visions. Originally, Charitable Choice only covered state programs imple-
+mented under the Temporary Assistance for Needy Families (TANF).
+Charitable Choice programs covered under this provision include food
+stamps, Medicaid, and Supplemental Security Income (SSI). In addition,
+Evidence-Based Assessment of Faith-Based Programs
+369
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+community and faith-based organizations may provide work programs (e.g.,
+on-the-job training, job-skills training, and GED programs), food programs
+(e.g., food pantries, subsidized meals, and shopping), maternity homes for
+unmarried minor mothers or expectant mothers who cannot stay with their
+parents, and medical and health services (e.g., abstinence education, drug
+and alcohol treatment, vocational rehabilitation, and health clinics). Under
+the Watts proposal, Charitable Choice would have extended assistance to state,
+community, and faith-based organizations under a variety of social services.
+It is no surprise that the proposal to expand faith-based initiatives
+sparked controversy. The primary point of contention seemed to be whether
+the federal government should allow religious-based organizations to apply
+and compete for federal grants. Opponents have argued that funding
+faith-based programs violates the constitutional principle of ‘‘separation of
+church and state’’ (Feldmann, 2003, p. 2). However, others have argued that
+Charitable Choice was consistent with the most recent ruling of the U.S.
+Supreme Court regarding separation of church and state in Mitchell v. Helms
+(2000). In a 6–3 decision, the Court held that government funded computers
+could go to parochial schools, as long as the assistance is available to public
+and private secular schools as well. The Court ruled that the government may
+support faith-based organizations if the rationale is to further a legitimate
+secular goal—improving literacy rates, for example—but not to advance reli-
+gion (Loconte & John, 2001). Faith-based initiatives do attempt to address a
+legitimate secular goal, namely crime prevention. Based on this ruling, it
+could be argued that the funding of faith-based programs does not appear
+to violate ‘‘separation of church and state.’’
+Others have argued that the Charitable Choice provision would allow
+religious organizations to discriminate in their hiring practices. For example,
+Christian institutions may retain the right not to hire individuals who do not
+profess Jesus Christ as Lord and Savior. Opponents of the bill claim this
+amounts to federally funded employment discrimination, which is unconsti-
+tutional (Loconte & John, 2001). After serious debate on the expansion of
+Charitable Choice provisions, H.R. 7 passed the House, but failed to pass
+the Senate.
+In an attempt to salvage some elements of his Faith-Based and Com-
+munity Initiatives, President Bush, along with Senators Joseph Liberman
+(D-Connecticut) and Rick Santorum (R-Pennsylvania), put forth a compro-
+mise version to H.R. 7 (S 1924), the Charity Aid, Recovery and Empowerment
+Act (CARE) of 2002. The CARE Act emphasizes tax incentives for greater
+donations to charity, rather than expanding Charitable Choice. This revised
+bill passed both the Senate and House and was touted as a Bush Administra-
+tion victory, but in reality it did very little to further the national faith-based
+initiative.
+In February 2009, President Barack Obama signed an executive order
+that changed the name of the White House Office of Faith-Based and
+370
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+Community Initiatives to the White House Office of Faith-Based and Neigh-
+borhood Partnerships. The mission of this agency is to:
+Bring together leaders and experts in fields related to the work of
+faith-based and neighborhood organizations in order to: identify best
+practices and successful modes of delivering social services; evaluate
+the need for improvements in the implementation and coordination of
+public policies relating to faith-based and other neighborhood organiza-
+tions; and make recommendations to the President, through the Execu-
+tive Director, for changes in policies, programs, and practices that
+affect the delivery of services by such organizations and the needs of
+low-income and other underserved persons in communities at home
+and around the world. (Executive Order 13199 Amended, 2009, para. 12)
+RELIGIOSITY AND CRIMINAL BEHAVIOR
+Researchers have argued that individuals who are involved in religious orga-
+nizations are less likely to be involved in criminal behavior (Burkett, 1977,
+1980; Higgins & Albrecht, 1977). However, Hirschi and Stark (1969) muddied
+the empirical waters regarding the relationship between religiosity and delin-
+quent behavior with their landmark study, ‘‘Hellfire and Delinquency.’’ The
+researchers examined a random sample (n ¼ 4,077) of students from public
+junior and senior high schools in Contra Costa County, California in 1964.
+Hirschi and Stark (1969) hypothesized that juveniles who believed in the con-
+cepts of ‘‘sin’’ and ‘‘hell,’’ and who attended church and Sunday school, were
+less likely to commit delinquent acts. Religiosity was measured by church
+attendance (e.g., frequent attendance, at least once a month, and infrequent
+attendance, less than once a month). Delinquency was measured using
+police records (i.e., official number of offenses committed in the previous
+three years) and self-report data. The self-report delinquency index consisted
+of six items (e.g., petty and grand larceny, auto theft, vandalism, drug use,
+and assault). Contrary to expectations, the researchers found that frequent
+church-goers and ‘‘students who believe in the Devil and in life after death
+are as likely to commit delinquency as are students who do not believe in
+a supernatural world’’ (Hirschi & Stark, 1969, p. 210).
+In a replication of Hirschi and Stark’s study, Burkett and White (1974)
+examined a random sample (n ¼ 855) of high school seniors from the Pacific
+Northwest. They also hypothesized that juveniles who attended church were
+less likely to be involved in delinquency. Frequency of church attendance
+was used as a measure of religiosity. Delinquency measures included
+larceny, vandalism, assault, and drug use (e.g., alcohol and marijuana use).
+Consistent with Hirschi and Stark’s study, they found partial support for
+the hypothesis that those who frequently attended church were as likely to
+Evidence-Based Assessment of Faith-Based Programs
+371
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+commit delinquent acts (e.g., larceny, vandalism, and assault). However, the
+findings revealed a moderately strong inverse relationship between church
+attendance and use of marijuana and alcohol.
+Additional studies indicate that religiosity does have a negative impact
+on deviant and criminal behavior. Higgins and Albrecht (1977), for example,
+examined the relationship between religiosity and delinquency in a random
+sample (n ¼ 1,383) of Atlanta, Georgia tenth graders. They used two items to
+measure religiosity (e.g., which church they attend and how often they
+attend church or religious services). The outcome measure of delinquent
+behavior included 17 items, which ranged from relatively minor offenses
+(e.g., skipping school) to more serious offenses (e.g., sold narcotics). The
+results indicated a modest to moderately strong negative relationship
+between church attendance and each of the 17 delinquent behaviors.
+Additional research supports the findings of Higgins and Albrecht (1977) that
+church attendance and delinquency are inversely related (see e.g., Albrecht,
+Chadwick, & Alcorn, 1977; Burkett, 1977; 1980; Jensen & Erickson, 1979).
+In another study, Evans, Cullen, Dunaway, and Burton (1995) assessed
+the impact of religiosity on adult criminal behavior using a sample (n ¼ 477)
+of white males from a midwestern, urban area.1 They used three multi-item
+dimensions of religion to measure religiosity, which included religious
+beliefs (hellfire), religious values (salience), and religious activity. They also
+included a measure of general religiosity. A 43-item scale was used as a mea-
+sure of adult criminal behavior. The authors found that three of the four mea-
+sures of religiosity were not statistically significant in reducing adult criminal
+behavior. However, religious activities had a direct effect on reducing adult
+criminal behavior. This relationship held even with the introduction of secu-
+lar controls, and it was not dependent on religious or social contexts.
+Johnson, Larson, De Li, and Jang (2000b) examined whether individual
+religiosity acted as a protective factor against drug use and other illegal activi-
+ties using a sample (n ¼ 2,358) of inner city black youths from Boston,
+Chicago, and Philadelphia. A single-item measure, church attendance, was
+used as an indicator of individual religiosity. The outcome measures included
+three crime categories: (a) nondrug crime; (b) drug use; and (c) drug selling.
+The researchers found individual religiosity was significantly related to a
+reduction in offending in all three categories.
+Additional research indicates that the relationship between religiosity
+and delinquency may be spurious. For example, a study conducted by
+Cochran, Wood, and Arneklev (1994) examined a sample (n ¼ 1,600) of high
+school students from Oklahoma to determine whether the relationship
+between religiosity and delinquency would remain when controlling for
+measures of arousal and social control theories. As noted by Cochran et al.
+(1994), the ideal indicators of arousal would be to use both neurological
+and extraneurological (i.e., physiological and self-reported) measures.
+However, the researchers were unable to use neurological and physiological
+372
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+indicators and instead settled for self-report data. The arousal scale included
+measures of thrill-seeking, impulsivity, and physicality (which were strikingly
+similar to self-control measures). Indicators of social control measures of
+internalized control (self-esteem and the California Personality Inventory
+socialization scale), parental control (parental supervision and broken-home
+status), and institutional control (school attachment and commitment) were
+included. Three measures of delinquency were examined: interpersonal
+delinquency (assault and robbery), property theft (larceny and auto theft)
+and property damage (vandalism, arson, and burglary). Religiosity was mea-
+sured by two different scales including religious participation (church attend-
+ance), and religious salience (importance of church). The findings indicated
+when controlling for both arousal and social control indicators, the effect of
+religiosity is reduced to insignificance in the case of assault, theft, vandalism,
+illicit drug use, and truancy. As a result, the authors concluded that the
+relationship between religiosity and delinquency is spurious with regard to
+assault, theft, vandalism, illicit drug use, and truancy. Both religious partici-
+pation and salience remained significant for legalized substances (e.g.,
+tobacco and alcohol).
+THE PRESENT STUDY
+The purpose of the present study is to conduct an evidence-based assess-
+ment of faith-based programs to determine whether they are effective for
+reducing recidivism. Others have attempted to assess the effectiveness of
+faith-based programs. For example, Johnson et al. (2002) completed a com-
+prehensive literature review of the effectiveness of faith-based programs. Our
+study goes beyond that of Johnson et al.’s (2002) review because we use an
+evidence-based evaluation that is considered the superior method for asses-
+sing the effectiveness of programs designed to reduce or prevent criminal
+behavior (Sherman, Farrington, Welsh, & MacKenzie, 2002).
+METHODS
+The Maryland Scientific Methods Scale (SMS) is one of the most widely
+accepted tools for assessing scholarly works in criminology. It enables crim-
+inologists to critically evaluate the effectiveness of various types of justice-
+related programs including those focusing on crime prevention strategies.
+The SMS is a 5-point scale that uses specific criteria to assess (or score) the
+methodological rigor of studies ranging from Level 1 (least rigorous) to Level
+5 (most rigorous).
+Some of the criteria used to evaluate the quality of a particular study
+include the use of pretests and posttests, randomization of the experiments,
+the use of comparison and control groups, history, selection bias, causal
+Evidence-Based Assessment of Faith-Based Programs
+373
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+order, evaluation of measurement error, statistical power, research design,
+and assessments of internal and external validity (Sherman et al., 2002). If
+a study has sufficient methodological rigor (i.e., Level 3 or higher), research-
+ers can classify the effectiveness of a program into one of four categories:
+‘‘what works, what does not work, what is promising, and what is unknown’’
+(Sherman et al., 2002, p. 18).
+Programs can be classified as ‘‘working’’ if there are at least two Level 3
+to Level 5 evaluation studies that have statistically significant results in the
+theoretically expected direction, and the preponderance of empirical evi-
+dence suggests programs are effective. Programs may be classified as ‘‘not
+working’’ if there are at least two Level 3 to Level 5 evaluations that conclude
+the effectiveness of the programs are statistically insignificant, and the pre-
+ponderance of the empirical evidence indicates the programs are ineffective.
+Those programs that can be coded as ‘‘promising’’ must have at least one
+Level 3 to Level 5 evaluation study that has found the effectiveness to be stat-
+istically significant, and the preponderance of the empirical evidence sug-
+gests that the program is effective. Programs that cannot be classified into
+one of the three other categories are defined as having ‘‘unknown’’ effects
+(Sherman et al., 2002).
+RESEARCH ON FAITH-BASED PROGRAMS
+As previously noted, the research on religiosity and delinquency indicates
+that individuals who participate in religious organizations are less likely to
+participate in deviant and criminal behavior. Thus, it seems plausible that
+faith-based programs, which are rooted in religious organizations, may be
+effective for reducing criminal offending. Proponents of faith-based initia-
+tives argue that religious organizations provide social services more effec-
+tively than public agencies (Johnson et al., 2002). To date, there is little
+empirical evidence to suggest that faith-based programs are more effective
+than their secular counterparts (see for exceptions Clear et al., 2000; Johnson
+et al., 2002). In addition, there is a general lack of empirical support for the
+claim that faith-based programs are effective in addressing many social ills,
+including criminal behavior. It is also important to note that there are a
+limited number of studies that have assessed or evaluated the role faith-
+based programs have played in the reduction of delinquent and criminal
+behavior.
+Descriptive Studies
+A total of three descriptive studies were identified and included in this evalu-
+ation of the effectiveness of faith-based programs to reduce delinquent and=
+or criminal behavior (see Table 1). Two of the studies included in this review
+374
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+TABLE 1 Faith-Based Programs
+Study & author(s)
+Sample size
+Scientific methods
+score
+Description of intervention & findings
+Prison Fellowship Ministry
+Young, Gartner, O’Connor,
+Larson, and Wright (1995)
+180=185
+4 (T and matched C)
+Multiple sites
+8- to 14-year follow-up
+Training of volunteer prison ministers.
+PFM had higher survival rates.
+Prison Fellowship Ministry
+Johnson, Larson,
+and Pitts (1997)
+201=201
+4 (T and matched C)
+Multiple sites
+1-year follow-up
+Participation in PFM programs (i.e., in-prison seminars,
+life plan seminars, and Bible studies).
+PFM inmates most active in Bible studies are less
+likely to recidivate
+Ten Point Coalition
+Winship and Berrien (1999)
+N=A
+1 (exploratory study)
+Describes a community faith-based outreach
+program of Boston.
+Teen Challenge
+Hess (1976)
+Not reported
+2 (exploratory study)
+(T and nonmatched C)
+Comparison of Teen Challenge participants with TC
+dropouts and noncompleters.
+TC group had lower recidivism and higher
+employment rates.
+Teen Challenge
+Thompson (1994)
+25
+1 (exploratory study)
+Examined recidivism in a a group of TC graduates.
+Significant long- term changes in behaviors and
+attitudes.
+Teen Challenge
+Bicknese (1999)
+59=59
+3 (T and matched C)
+Examined drug relapse in a a group of TC graduates and
+short-term inpatients.
+TC group less likely to need additional drug treatment,
+more likely to be drug-free and employed.
+Humaita Faith-Based Prison
+Johnson (2002)
+148=247
+3 (T and matched C)
+3-year follow-up
+Comparison of a faith-based and industrial prison.
+Humaita high-risk and low-risk offenders less likely
+to recidivate.
+Note. T ¼ treatment group; C ¼ control group.
+375
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+are evaluations of the effectiveness of the Christian-based Teen Challenge’s
+drug treatment programs. The first study compared a sample (n ¼ not
+reported) of graduates (i.e., those who successfully completed the program)
+with induction center dropouts (i.e., those who dropped out at the beginning
+of the program) and training center dropouts (i.e., those who were unwilling
+or unable to complete the program) between 1968 and 1975 (Hess, 1976). A
+total of 366 individuals were identified but only 198 (54%) of those com-
+pleted surveys. According to self-report data, individuals who graduated
+from the Teen Challenge center showed significant and positive behavioral
+changes when compared to the two dropout groups. Specifically, individuals
+who graduated from the Teen Challenge program were more likely to
+be employed, less likely to have sought additional drug treatment, and
+less likely to have criminal records over the 7-year follow-up period (Hess,
+1976).
+The second study surveyed former Teen Challenge participants who
+had successfully completed the four to six month induction program based
+in Chattanooga, Tennessee (Thompson, 1994). Graduates of the program
+from a 12-year period (1979–1991) were identified (n ¼ 213) and a random
+sample of 50 was subsequently surveyed. Only 50% of the potential respon-
+dents completed surveys (n ¼ 25). Thompson (1994) concluded the Teen
+Challenge graduates have experienced a significant change in both their
+behaviors and attitudes with long-term effects. This is a curious finding given
+the small sample size and the lack of a control group with which to compare
+the Teen Challenge graduates.
+Winship and Berrien (1999) investigated whether the Ten Point
+Coalition (TPC), based in Boston, Massachusetts, had an impact on the
+reduction of youth violence. The TPC, which consisted of churches and local
+police departments, joined forces in an effort to reduce youth violence. Prior
+to these organizations coming together to address youth crime, according to
+one report, the police lacked credibility in the black community (Winship &
+Berrien, 1999). When the TPC and police joined forces, many felt that the
+TPC helped to create an ‘‘umbrella of legitimacy for the police to work
+under’’ (Winship & Berrien, 1999, p. 67). Ministers within the TPC organized
+community outreach programs designed to help troubled youth avoid gang
+involvement. The ministers also began to report offenders who were
+involved in gang or criminal activity to local law enforcement.
+As primary evidence that the program ‘‘worked,’’ Winship and Berrien
+(1999) noted youth homicide rates between 1990 and 1998 had dropped sig-
+nificantly. Specifically, between 1990 and 1998, youth murders dropped from
+a high of 152 to a low of 35, which is a 78% decline. According to the Bureau
+of Justice Statistics (1994), national homicide rates were fluctuating (i.e., there
+were decreases and increases in youth homicide rates depending on the
+year) between 1990 and 1993. After 1994, national homicide rates began
+to decline across the United States (BJS, 2001). As a result, it seems more
+376
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+plausible that the Boston decline in homicide rates is likely attributed to an
+overall national decline in homicide rates during this time period.
+Multivariate Studies
+Two of the four multivariate studies identified evaluated the effectiveness of
+separate programs affiliated with the Prison Fellowship Ministries (PFM; see
+Table 1). Young, Gartner, O’Connor, Larson, and Wright (1995) used a longi-
+tudinal quasi-experimental design to examine whether a faith-based prison
+program that trained federal inmates as volunteer prison ministers was effec-
+tive in reducing long-term recidivism. The researchers compared inmates
+who received the PFM training (n ¼ 180) with a matched control group
+(n ¼ 185) over an eight to 14-year follow-up period. Inmates were fur-
+loughed to Washington, DC for an intensive two-week prison ministry sem-
+inar, provided by PFM and supported by the Federal Bureau of Prisons.
+According to Young et al. (1995, p. 101), the purpose of the training ‘‘was
+aimed at deepening the prisoners’ Christian faith and preparing them to pro-
+vide Christian fellowship and support to their fellow inmates.’’ The PFM
+training did not have the explicit purpose of reducing long-term recidivism,
+but the researchers wanted to assess whether this was an outcome of the
+program.
+The overall finding of the chi-square test and survival analysis indicated
+that the experimental group had significantly lower rates of recidivism than
+the control group, but when disaggregating the analysis some different find-
+ings emerged. The PFM training was effective for low-risk offenders, but not
+for high-risk offenders. By definition, low-risk offenders would be less likely
+to re-offend in the future than high-risk offenders. It seems that the program
+worked for individuals who were already at a lowered risk of recidivism. In
+addition, the PFM training was not effective in reducing recidivism among
+African American males. Contrary to research expectations, African American
+males in the PFM group became recidivists at a slightly higher rate than
+African American males in the control group. The findings also indicate that
+women who participated in the PFM seminar had a drop in recidivism four
+times greater than the men. As a result of these findings, one can only con-
+clude that the PFM was more effective for certain groups of offenders than
+others.
+Johnson, Larson, and Pitts (1997) examined the impact of religious pro-
+grams on institutional adjustment and recidivism rates in two matched groups
+of inmates from four adult New York State prisons. The PFM group (n ¼ 201)
+was compared to a matched control group (n ¼ 201). Both groups were simi-
+lar on measures of institutional adjustment, as measured by both general and
+serious disciplinary infractions, and recidivism, as measured by arrest data
+during a 1-year follow-up period. The programs offered by the PFM included
+in-prison seminars, life plan seminars, and Bible studies. The in-prison
+Evidence-Based Assessment of Faith-Based Programs
+377
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+seminars and Bible studies were designed to assist inmates in ‘‘their walk
+with Christ’’ and to ‘‘provide an ongoing opportunity to study God’s word
+and to enjoy Christian fellowship’’ (Johnson et al., 1997, p. 151). The life plan
+seminars were designed to help the offender to reintegrate into society and
+to enhance their success after release.
+The researchers categorized the PFM groups into high, medium, and
+low participation classifications. The findings indicate that there was no dif-
+ference in the PFM group and the non-PFM group with regard to general
+institutional infractions. Although the researchers did not find a significant
+difference in the groups, they found the high PFM participants were slightly
+less likely than their non-PFM counterparts to commit general institutional
+infractions. The findings also show that there was no significant difference
+in the PFM and non-PFM groups with regards to serious prison infractions.
+After controlling for level of PFM participation, the high PFM group was
+slightly more likely than the medium and low categories to commit serious
+institutional infractions, which was in the unexpected direction. In examining
+the recidivism data, researchers concluded that there was no significant dif-
+ference in arrest during the one-year follow-up. After controlling for level of
+PFM participation, a different pattern emerged. After the one-year follow-up,
+the high PFM participants were significantly less likely than medium or low
+PFM participants and their non-PFM counterparts to be rearrested.
+Bicknese (1999) conducted a comparative evaluation of the faith-based
+Teen Challenge drug treatment program using a one-year follow-up. Those
+who had successfully completed Teen Challenge (n ¼ 59) were compared
+to a matched control group (n ¼ 59), which was composed of clients in
+short-term in-patient (STI) programs funded by Medicaid and Medicare.
+The groups were similar with regards to demographic and background
+(e.g., drug use and prior criminal record) measures. Before and after inter-
+views were used to assess the effectiveness of the Teen Challenge program.
+The outcome measures included freedom from addictive substances, return
+to treatment, employment, and precipitants of drug use such as depression
+or cravings. Teen Challenge graduates scored as high or higher compared
+to their STI counterparts in all areas of the study. Specifically, the Teen
+Challenge group was more likely to remain sober and maintain employment
+than the STI group. In addition, fewer Teen Challenge graduates returned to
+treatment than in the STI group.
+In the final study, Johnson (2002) conducted an exploratory analysis
+comparing the recidivism rates for two Brazilian prisons. Braganca prison
+was primarily based on a vocational model and the use of prison industry
+to better prepare offenders for release and to reduce the cost of operating
+the facility. Humaita prison was the first known prison to adopt a completely
+faith-based approach to all aspects of prison administration, security, and
+programming. The Humaita prisoners (n ¼ 148) were compared to Braganca
+prisoners (n ¼ 247) on several factors including severity of offense, category
+378
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+of offense, and time incarcerated. The Humaita prisoners differed signifi-
+cantly from the Braganca prisoners on severity of offense; that is, Humaita
+prisoners’ offense severity was slightly greater (3.9) than Braganca prisoners’
+(3.4). Humaita prisoners were also more likely to have committed more viol-
+ent offenses than Braganca prisoners. This means that we would expect the
+Humaita prisoners to be at a greater risk for reoffending because of their
+more serious criminal histories.
+Recidivism rates of the two prison samples were compared over a 3-year
+postrelease period from January 1996 through December 1999. The outcome
+measure of recidivism included a two-item measure of new arrest and
+reincarceration. The findings revealed the recidivism rates for both prisons
+were relatively low, Braganca (36%) and Humaita (16%). In comparison,
+there was a 20-percentage point difference between the recidivism rates of
+the two facilities, with Humaita’s rates being lower. Additionally, this finding
+held when controlling for high-risk as well as low-risk offenders. These find-
+ings indicate that Braganca’s faith-based model has long-term treatment
+effects.
+DISCUSSION
+The purpose of this study was to assess the effectiveness of faith-based pro-
+grams for reducing recidivism. Proponents of faith-based initiatives often
+argue that religious organizations provide social service programs more
+effectively than public agencies (Johnson et al., 2002). Unfortunately,
+research indicates that there is little empirical evidence that faith-based pro-
+grams are more effective than their secular counterparts (Johnson, 2002). In
+addition, few studies have evaluated the effectiveness of faith-based pro-
+grams and their ability to reduce crime. However, Johnson et al. (2002,
+p. 21), in a comprehensive literature review of faith-based organizations,
+concluded their effectiveness to be ‘‘positive and encouraging’’ although
+his he did not conduct an evidence-based assessment. Based on limited
+research reviewed here, it appears that faith-based organizations ‘‘work’’ to
+reduce recidivism.
+All of the studies reviewed here were evaluated using the Maryland
+Scientific Methods Scale created by Sherman et al. (2002; see Appendix A).
+Three of the studies reviewed were descriptive studies with methodologically
+weak research designs (see e.g., Hess, 1976; Thompson, 1994; Winship &
+Berrien, 1999). As a result, it is impossible to draw any definitive conclusions
+regarding the effectiveness of these faith-based programs and services
+(although the researchers of these studies did draw conclusions).
+In an effort to rule out rival and=or alternative explanations, experi-
+mental designs (i.e., the random assignment of groups) are preferable
+(Shadish, Cook, & Campbell, 2002). In all of the studies included in this
+Evidence-Based Assessment of Faith-Based Programs
+379
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+review, researchers were brought in to evaluate programs after the programs
+had already been implemented, which means that random assignment was
+not an option. But it is important to note that all of the multivariate studies
+reviewed for this study were of strong methodological quality. To be more
+precise, each of the studies reviewed used quasi-experimental designs
+(Bicknese, 1999; Johnson et al., 1997; Young et al., 1995). Two studies were
+longitudinal, which can help to establish whether there are long-term treat-
+ment effects (Johnson, 2002; Young et al., 1995).
+The most serious flaw with the studies reviewed was that researchers
+failed to measure religious attachment, which is a key construct that defines
+the nature of faith-based programs (see for a similar argument Johnson et al.,
+2002). The majority of studies that investigated the relationship between
+faith-based programs and crime used ‘‘involvement’’ in church activities or
+church attendance as proxy measures of religiosity. From a social control per-
+spective, research indicates that involvement in conventional activities is the
+least empirically supported proposition of the theory. Yet research on
+faith-based programs and their ability to reduce crime indicates that those
+who are most involved in church activities or regularly attend church are less
+likely to be involved in delinquent and criminal behavior. Researchers argue
+that this relationship may be more complex than the research findings suggest.
+For example, Benda and Corwyn (1997) claim that it may actually be the attach-
+ments that people form with the church or with church members that influence
+their subsequent behavior. In other words, those individuals with strong social
+attachments would be less likely to participate in deviant behavior.
+The limitations notwithstanding, four studies were identified and
+reviewed, which had sufficient scientific rigor to draw some preliminary con-
+clusions. In evaluating the programs administered and managed by Prison
+Fellowship Ministries, the programs appear to work for certain offenders
+under certain conditions. Young et al. (1995) found that PFM training was
+effective for low-risk offenders but not for high-risk offenders. In addition,
+the program did not significantly reduce recidivism among African American
+males. The PFM training had its greatest effect with females, who had the
+most dramatic reduction in recidivism. It may be that females form strong
+attachments within the faith-based programs, which leads to a reduction in
+recidivism. Future research should investigate why the program seems to
+be more effective for certain offenders.
+Johnson et al. (1997) conducted a similar study evaluating the effective-
+ness of PFM programs to reduce institutional infractions and recidivism. They
+found no significant difference in the PFM and the non-PFM groups with
+regard to reduction in institutional infractions. Additionally, while controlling
+for level of PFM participation, individuals who reported high levels of partici-
+pation were slightly more likely to commit serious institutional infractions,
+which is the unexpected direction. However, high PFM participants were
+less likely than medium and low PFM participants and their non-PFM
+380
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+counterparts to be rearrested. Once again, researchers should investigate
+why the program seems to be more effective for certain offenders.
+Bicknese (1999) conducted a study of the Teen Challenge program and its
+ability to reduce drug use. The Teen Challenge group was more likely to remain
+sober, maintain employment, and was less likely to return to treatment than the
+comparison group. The findings indicate the Teen Challenge program had at
+least short-term effects in reducing substance use. Still a longer follow-up per-
+iod would have been preferable to assess the long-term effects of the program.
+The final study conducted by Johnson (2002) examined recidivism rates
+for two Brazilian prisons. One prison was based on a vocational model and
+the other on a faith-based model. The faith-based prison showed lower levels
+of recidivism in the 3-year follow-up period. In other words, the faith-based
+prison model showed long-term treatment effects. This finding held when
+controlling for high-risk as well as low-risk offenders, which is encouraging.
+We concluded that faith-based programs reviewed work to reduce
+recidivism. These findings should be tempered by the fact that the research
+on faith-based programs is limited and much of the research is methodologi-
+cally weak. On the other hand, it would be premature to abandon faith-based
+programs. Instead, future research should use more rigorous research
+designs to determine whether faith-based programs are indeed effective for
+reducing criminal behavior.
+NOTE
+1. There were black respondents but they were subsequently dropped from the analysis because their
+response rates were not representative of the population from which they were selected.
+REFERENCES
+Albrecht, S. L., Chadwick, B. A., & Alcorn, D. S. (1977). Religiosity and deviance:
+Application of an attitude behavior contingent consistency model. Journal of
+the Scientific Study of Religion, 16, 263–274.
+Benda, B. B., & Corwyn, R. F. (1997). Religion and delinquency: The relationship
+after considering family and peer influences. Journal for the Scientific Study
+of Religion, 36(1), 81–92.
+Bicknese, A. T. (1999). The Teen Challenge drug treatment program in comparative
+perspective
+(Unpublished
+doctoral
+dissertation).
+Northwestern
+University,
+Evanston, Illinois.
+Bureau of Justice Statistics. (1994). Selected findings from bureau of justice statistics
+violent crime: National crime victimization survey. Washington, DC: U.S.
+Department of Justice, Office of Justice Programs.
+Bureau of Justice Statistics. (2001). Criminal victimization: Changes 2000–2001
+with trends 1993–2001: National crime victimization survey. Washington,
+DC: U.S. Department of Justice, Office of Justice Programs.
+Evidence-Based Assessment of Faith-Based Programs
+381
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+Burkett, S. R. (1977). Religion, parental influence, and adolescent alcohol and mari-
+juana use. Journal of Drug Issues, 7, 263–273.
+Burkett, S. R. (1980). Religiosity, beliefs, normative standards and adolescent drink-
+ing. Journal of Studies on Alcohol, 41, 662–671.
+Burkett, S. R., & White, M. (1974). Hellfire and delinquency: Another look. Journal
+for the Scientific Study of Religion, 13, 455–462.
+Clear, T. R., Hardyman, P. L., Stout, B., Lucken, K., & Dammer, H. R. (2000). The
+value of religion in prison: An inmate perspective. Journal of Contemporary
+Criminal Justice, 16(1), 53–74.
+Cochran, J. K., Wood, P. B., & Arneklev, B. J. (1994). Is the religiosity-delinquency
+relationship spurious? A test of arousal and social-control theories. Journal of
+Research in Crime and Delinquency, 31(1), 92–123.
+Evans, T. D., Cullen, F. T., Dunaway, R. G., & Burton, V. S. (1995). Religion and
+crime reexamined: The impact of religion, secular controls and social ecology
+on adult criminality. Criminology, 33, 195–217.
+Executive Order 13199 Amended. (2009). White House Office of Faith-Based
+and Neighborhood Partnerships. Retrieved from http://www.whitehouse.gov/
+the_press_office/AmendmentstoExecutiveOrder13199andEstablishmentofthe
+PresidentsAdvisoryCouncilforFaith-BasedandNeighborhoodPartnerships/
+Feldmann, L. (2003). Faith-based initiatives quietly lunge forward. Christian Science
+Monitor, 95(50), 2.
+Hess, C. B. (1976). An evaluation of the Teen Challenge treatment program.
+Washington, DC: Service Research Report, National Institute on Drug Abuse,
+U.S. Department of Health, Education, and Welfare Public Health Service.
+Higgins, P. C., & Albercht, S. L. (1977). Hellfire and delinquency revisited. Social
+Forces, 55, 952–958.
+Hirschi, T., & Stark, R. (1969). Hellfire and delinquency. Social Problems, 17,
+202–213.
+Jensen, G. F., & Erickson, M. L. (1979). The religious factor and delinquency:
+Another look at the hellfire hypothesis. In R. Wuthnow (Ed.) The religious
+dimension: New directions in quantitative research. New York, NY: Academic
+Press.
+Johnson, B. R. (2002). Assessing the impact of religious programs and prisons indus-
+try on recidivism: An exploratory study. Texas Journal of Corrections, 28, 7–11.
+Johnson, B. R., Larson, D. B., De Li, S., & Jang, S. J. (2000b). Escaping from the crime
+of inner cities: Church attendance and religious salience among disadvantaged
+youth. Justice Quarterly, 17, 377–390.
+Johnson, B. R., Larson, D. B., & Pitts, T. G. (1997). Religious programming, insti-
+tutional adjustment and recidivism among former inmates in prison fellowship
+programs. Justice Quarterly, 14, 145–166.
+Johnson, B. R., Tompkins, R. B., & Webb, D. (2002). Objective hope: Assessing
+the effectiveness of faith-based organizations: A review of the literature.
+Philadelphia, PA: Center for Research on Religion and Urban Civil Society,
+University of Pennsylvania.
+Loconte, J., & John, D. C. (2001). H.R. 7: The community solutions act. Retrieved from
+http://www.heritage.org/Research/Reports/2001/07/The-Community-Solutions-
+Act?query=H.R.+7+The+Community+Solutions+Act
+382
+K. D. Dodson et al.
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+
+Mitchell v. Helms, 530 U.S. 793 (2000).
+Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and
+quasi-experimental designs for generalized causal inference. Boston, MA:
+Houghton Mifflin Company.
+Sherman, L. W., Farrington, D. P., Welsh, B. C., & MacKenzie, D. L. (2002).
+Evidence-based crime prevention. London, England: Routledge.
+Thompson, R. D. (1994). Teen challenge of Chattanooga, Tennessee: Survey of
+alumni. Springfield, MO: Teen Challenge National.
+White House Faith-Based, & Community Initiative. (2001). Retrieved from http://
+georgewbush-whitehouse.archives.gov/government/fbci/president-initiative.
+html
+Wilhelm, I. (2001). Faith-based fallout. The Chronicle of Philanthropy, 13(22), 39–40.
+Winship, C., & Berrien, J. (1999). Boston cops and Black churches. The Public Inter-
+est, 136, 52–68.
+Young, M. C., Gartner, J., O’Connor, T. O., Larson, D. B., & Wright, K. (1995).
+Long-term recidivism among federal inmates trained as volunteer prison minis-
+ters. Journal of Offender Rehabilitation, 22(1=2), 97–118.
+APPENDIX A
+The Maryland Scientific Methods Scale
+Research designs
+Before-after
+Control
+Multiple units
+Randomization
+Methods Score
+Level 1
+O
+O
+X
+O
+Level 2
+X
+O
+O
+O
+Level 3
+X
+X
+O
+O
+Level 4
+X
+X
+X
+O
+Level 5
+X
+X
+X
+X
+Threats to internal validity
+Causal direction
+History
+Chance factors
+Selection bias
+Methods Score
+Level 1
+X
+X
+X
+X
+Level 2
+O
+X
+X
+X
+Level 3
+O
+O
+X
+X
+Level 4
+O
+O
+O
+X
+Level 5
+O
+O
+O
+O
+Source: (Sherman, Farrington, Welsh, & MacKenzie, 2002).
+Note: X ¼ present and O ¼ absent.
+Evidence-Based Assessment of Faith-Based Programs
+383
+Downloaded by [Kimberly Dodson] at 09:43 22 August 2011 
+View publication stats
+

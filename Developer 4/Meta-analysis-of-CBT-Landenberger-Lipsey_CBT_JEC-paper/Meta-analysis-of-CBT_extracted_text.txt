@@ -1,0 +1,1641 @@
+The positive effects of cognitive–behavioral programs
+for offenders: A meta-analysis of factors associated
+with effective treatment
+NANA A. LANDENBERGER and MARK W. LIPSEY*
+Vanderbilt Institute for Public Policy Studies, 1207 18th Ave. South, Nashville, TN 37212, USA
+*corresponding author: E-mail: mark.lipsey@vanderbilt.edu
+Abstract. A meta-analysis of 58 experimental and quasi-experimental studies of the effects of
+cognitive-behavioral therapy (CBT) on the recidivism of adult and juvenile offenders conﬁrmed prior
+positive ﬁndings and explored a range of potential moderators to identify factors associated with
+variation in treatment effects. With method variables controlled, the factors independently associated
+with larger recidivism reductions were treatment of higher risk offenders, high quality treatment im-
+plementation, and a CBT program that included anger control and interpersonal problem solving but not
+victim impact or behavior modiﬁcation components. With these factors accounted for, there was no
+difference in the effectiveness of different brand name CBT programs or generic forms of CBT.
+Key words: CBT, cognitive-behavioral therapy, cognitive-behavioral treatment, criminal rehabilitation,
+evaluation, meta-analysis, offenders, recidivism, treatment effectiveness
+Several well-conducted meta-analyses have identiﬁed cognitive-behavioral therapy
+(CBT) as a particularly effective intervention for reducing the recidivism of
+juvenile and adult offenders. Pearson et al. (2002), for instance, conducted a meta-
+analysis of 69 research studies covering both behavioral (e.g., contingency
+contracting, token economy) and cognitive-behavioral programs. They found that
+the cognitiveYbehavioral programs were more effective in reducing recidivism than
+the behavioral ones, with a mean recidivism reduction for treated groups of about
+30%. Similarly, a meta-analysis by Wilson et al. (2005) examined 20 studies of
+group-oriented cognitive behavioral programs for offenders and found that CBT
+was very effective for reducing their criminal behavior. In their analysis,
+representative CBT programs showed recidivism reductions of 20Y30% compared
+to control groups.
+Although these meta-analyses provide strong indications of the effectiveness of
+cognitiveYbehavioral treatment for offenders, they encompassed considerable
+diversity within the range of offender types, outcome variables, quality of study
+design, and (especially in Pearson et al. 2002) variations in what was counted as a
+cognitiveYbehavioral treatment. A more circumscribed meta-analysis conducted by
+Lipsey et al. (2001) examined 14 experimental and quasi-experimental studies that
+emphasized cognitive change as the deﬁning condition of CBT, considered only
+effects for general offender samples, and focused on reoffense recidivism as the
+treatment outcome. The results showed that the odds of recidivating for offenders
+receiving CBT were only about 55% of that for offenders in control groups. Lipsey
+Journal of Experimental Criminology (2005) 1: 451–476
+# Springer 2005
+
+and Landenberger (2005) then focused further on an updated and overlapping set
+of 14 randomized experiments and found that the mean recidivism for the
+treatment groups in those studies was 27% lower than that of the control groups.
+Variation in effectiveness
+Meta-analysis has thus consistently indicated that CBT, on average, has signiﬁcant
+positive effects on recidivism. However, there is also signiﬁcant variation across
+studies in the effect sizes that contribute to those mean values that must be
+acknowledged. Identiﬁcation of the moderator variables that describe the study
+characteristics associated with larger and smaller effects is another kind of con-
+tribution meta-analysis can make to understanding the effectiveness of CBT with
+offenders. Of particular importance is the role such moderator analysis can play in
+ascertaining which variants of CBT are most effective and for which offenders.
+Lipsey and Landenberger (2005) identiﬁed a few factors that were related to
+variation in recidivism effects. They found that treatment of high risk offenders,
+greater levels of CBT training for treatment providers, and CBT programs set up
+for research or demonstration purposes (in contrast to Freal world_ routine practice
+programs) were associated with larger effects. What most characterized the research
+and demonstration programs, in turn, was smaller sample sizes, greater monitoring
+of offender attendance and adherence to the intervention plan (treatment ﬁdelity
+checks), and providers with mental health backgrounds. These factors suggest that
+treatment effectiveness is mainly a function of the quality of the CBT provided.
+That meta-analysis involved only a small number of studies, however, and did
+not permit much exploration of potential moderator variables. Wilson et al. (2005)
+computed mean effect sizes separately for Moral Reconation Therapy (MRT),
+Reasoning and Rehabilitation (R&R), and Fother_ CBT programs. They found that
+R&R showed somewhat smaller mean effects, but did not examine any other
+moderator variables. Pearson et al. (2002), as noted above, compared the effects of
+behavioral and cognitiveYbehavioral programs and also reported larger effects for
+better designed studies, but did not pursue further moderator analysis.
+There has thus been only limited meta-analytic investigation of factors iden-
+tiﬁable in the body of research on CBT that are associated with variation in its
+effects on offender recidivism. The most likely candidates for such factors fall into
+categories relating to the speciﬁc type of CBT program applied, the nature and
+extent of its implementation, the characteristics of the offenders to whom it is
+provided, and the study methods used to investigate its effects.
+The type of CBT program, for instance, relates, ﬁrst, to the Fbrand name_
+curriculum used, such as MRT and R&R as examined by Wilson et al. (2005).
+CBT programs also differ in the nature and mix of treatment elements included,
+e.g., whether oriented mainly toward cognitive restructuring exercises or cognitive
+skills training and whether such topics as anger management, relapse prevention,
+interpersonal problem solving and moral reasoning are covered. Another po-
+tentially important distinction is whether CBT constitutes virtually the full program
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+452
+
+offered or is combined with other services, e.g., educational classes, vocational
+training, or mental health counseling.
+Factors related to program implementation that might inﬂuence the effects of
+CBT include, most centrally, how much treatment is provided. The duration of
+CBT programs in correctional settings, for instance, varies from weeks to years and
+may involve many meetings per week or less than one. The ﬁdelity of the im-
+plementation to the curriculum speciﬁcations may also be important along with the
+degree of expertise possessed by the personnel providing the program. As men-
+tioned earlier, Lipsey and Landenberger (2005) found that programs implemented
+principally for research or demonstration purposes showed larger effects than
+routine practice programs. In these programs, the researchers themselves generally
+exercise control over the various phases and facets of implementation. The
+treatment provided to offenders in those circumstances almost certainly differs in
+important ways from that provided when the program under everyday conditions in
+criminal justice settings.
+Among the characteristics of the offenders participating in CBT that may in-
+ﬂuence the outcome are age, gender, and ethnic background as well as criminal
+history and other such risk indicators. The Frisk principle_ of Andrews et al. (1990),
+for instance, posits that effective treatment will have greater impact on higher-
+risk offenders because they have more room for improvement than lower-risk
+offenders.
+Finally, there is good reason to believe that the methods and procedures used in
+the research will inﬂuence the magnitude of the observed effects. Random
+assignment studies are expected to yield unbiased results while ﬁndings from
+nonrandomized comparisons may over or understate effects. Weisburd et al.
+(2001), for example, found larger effects in nonrandomized studies of criminal
+justice programs though, for CBT, Pearson et al. (2002) reported larger effects for
+studies of higher methodological quality. After assignment to conditions, attrition
+from outcome measurement can also bias effect estimates if, as is likely, it is not
+randomly distributed across conditions. The operationalization of the outcome
+measure is another potential source of difference. Even when the focus is on
+recidivism, some studies index it with the rate of rearrest, others by assessing
+reconvictions, incarcerations, probation or parole violations, and the like. More-
+over, the timing of recidivism measurement varies, ranging from a period close to
+the end of treatment to months or years later.
+Purpose of this meta-analysis
+The objective of this meta-analysis is to examine the relationships of selected
+moderator variables to the effects of CBT on the recidivism of adult and juvenile
+offenders. In order to have a sufﬁcient number of studies to permit examination
+of between-study differences, an especially thorough search was made of the
+available research. To assist in expanding the number of studies, and to ensure
+EFFECTS OF CBT FOR OFFENDERS
+453
+
+methodological diversity so that variation in methods could be investigated, quasi-
+experimental studies were included as well as randomized ﬁeld experiments.
+Though not all potentially interesting moderator variables are reported well enough
+in the source studies to allow systematic comparison, a detailed coding protocol
+was applied to extract as much relevant information for analysis as possible from
+each study report.
+Methods
+Criteria for inclusion of studies
+Studies were assessed and selected for this meta-analysis if they met the following
+criteria:
+Intervention
+The treatment under investigation was a variant of cognitiveYbehavioral therapy
+representing or substantially similar to such recognized Fbrand name_ CBT
+programs as Reasoning and Rehabilitation (Ross and Fabiano 1985), Moral
+Reconation Therapy (Little and Robinson 1986), Aggression Replacement
+Training (Goldstein and Glick 1987), the Thinking for a Change curriculum (Bush
+et al. 1997), and the Cognitive Interventions Program (NIC, 1996). In particular, it
+was directed toward changing distorted or dysfunctional cognitions (cognitive
+restructuring) or teaching new cognitive skills and involved therapeutic techniques
+typically associated with CBT, i.e., structured learning experiences designed to
+affect such cognitive processes as interpreting social cues, monitoring one’s own
+thought processes, identifying and compensating for distortions and errors in
+thinking, reasoning about right and wrong behavior, generating alternative
+solutions, and making decisions about appropriate behavior. If CBT was offered
+in the context of a multimodal program that simultaneously provided other
+services, the CBT must have been provided to all participants and constitute a
+major component of the program.
+Participants
+The recipients of the intervention were criminal offenders, either juveniles or
+adults, treated while on probation, incarcerated/institutionalized, or during
+aftercare/parole. Offenders were drawn from a general offender population and
+not selected for, or restricted to, those committing speciﬁc types of offenses (e.g.,
+sex offenses, DUI, drug offenses, status offenses).
+Outcome measures
+The study reported criminal offending subsequent to treatment as an outcome
+variable. Outcome results were presented in a quantitative form that permitted
+computation or reasonable estimation of an effect size statistic representing the
+difference in recidivism rates between treated and untreated offenders.
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+454
+
+Research methods
+The study used a randomized or quasi-experimental design that compared a CBT
+treatment condition with a control condition that did not include CBT treatment.
+Quasi-experimental designs were eligible only if subjects in the treatment and
+control conditions were matched or statistically controlled on pre-treatment risk-
+related variables (e.g., relevant personal, demographic, and criminal background
+characteristics) or if pre-treatment measures of criminal or antisocial behavior or
+signiﬁcant risk factors for such behavior were reported in a form that permitted
+assessment of the initial equivalence of the treatment and control groups. To
+eliminate explicit self-selection as a biasing factor in group assignment, however,
+studies were not included if the control groups were created with individuals who
+began CBT but dropped out prior to completing treatment or who were offered
+CBT and refused. Control groups could represent placebo, wait-list, no treatment,
+or Ftreatment as usual_ conditions, with the latter restricted to cases of clearly
+routine probation, institutional, or aftercare/parole practices.
+Source
+Both published and unpublished studies were eligible for inclusion, conducted in
+any country, and reported in any language.
+Search strategy
+An initial set of eligible studies came from those assembled and analyzed for the
+Lipsey et al. (2001) and Lipsey and Landenberger (2005) meta-analyses. This
+number was expanded through a comprehensive search using the following
+procedures.
+Meta-analysis databases
+The second author has constructed a meta-analysis database of coded studies for
+interventions with juvenile offenders based on a comprehensive search for studies
+reported in 2002 or earlier. All the studies in that database were reviewed for
+eligibility and an independent search was conducted for studies published after
+2002. In addition, the studies in a database of interventions with adult offenders
+that is nearing completion were reviewed for eligibility.
+Database searches
+Computerized bibliography searches were conducted for studies reported from
+1965 through 2005. To the best of our knowledge, the ﬁrst systematic applications
+of CBT to offenders were developed and published in the mid-1970s (e.g.,
+Yochelson and Samenow 1976); searching back to 1965 was aimed at ensuring that
+none were missed. The keywords for searching were concatenations of words
+describing the population (e.g., inmates, offenders), CBT treatment (e.g., cognitive,
+CBT, criminal thinking), and effectiveness research (e.g., outcomes, evaluation,
+effectiveness). The databases searched included the Campbell Collaboration
+Social, Psychological, Educational and Criminological Trials Register (C2-
+EFFECTS OF CBT FOR OFFENDERS
+455
+
+SPECTR), Dissertation Abstracts Online, ERIC, MEDLINE, The National
+Criminal Justice Reference Service (NCJRS), PsychInfo/PsychLit, Sociological
+Abstracts, and a number of others.
+Cross-referencing of bibliographies
+Relevant review articles, meta-analyses, and primary studies reviewed for
+eligibility were scanned for citations to potentially eligible studies.
+Internet searches
+Relevant government websites (e.g., NIJ, NIC, OJJDP, Home Ofﬁce) as well as
+foundation, professional associations and policy research ﬁrm websites were
+searched. In addition, keyword searches were conducted using search engines such
+as google.com.
+Journals
+Vanderbilt University subscribes to a large number of electronic journals and the
+full text of those judged relevant was searched with selected keywords. Major
+journals publishing empirical studies related to crime and delinquency were also
+hand searched for eligible studies.
+Informal sources
+Unpublished results from evaluations of two CBT programs were available from
+the ﬁrst author, and several colleagues alerted us to eligible studies that were not
+accessible through the above channels.
+The search for CBT studies on adult offenders produced 2,947 study citations
+with 771 reports judged promising enough to retrieve for closer examination. The
+search for juvenile offender studies produced 1,487 study citations with 299 reports
+retrieved. Review of the retrieved studies ultimately identiﬁed 58 studies meeting
+the criteria for inclusion in the present meta-analysis.
+Data management and extraction
+Descriptive and outcome data were coded for each of the 58 eligible studies using
+a coding protocol developed speciﬁcally for this purpose. Table 1, presented later,
+shows the major coding categories used for descriptive information. Recidivism
+outcomes were reported in several different forms but, in virtually all instances,
+either the proportions of offenders in each research condition that recidivated were
+speciﬁed or information was provided from which the proportions could be esti-
+mated. When more than one recidivism outcome was reported, only one was se-
+lected for analysis using criteria that maximized cross-study similarity on the
+variables and times of measurement. This procedure favored rearrest recidivism,
+then reconviction and incarceration in that order, and the measure taken closest to
+12 months post-treatment.
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+456
+
+Table 1. Characteristics of the studies included in the meta-analysis.
+N
+%
+Publication type
+Journal
+19
+33
+Chapter
+7
+12
+Technical report
+25
+43
+Thesis
+7
+12
+Year of publication
+1980Y1990
+10
+17
+1991Y2000
+31
+53
+2001Y2004
+17
+29
+Country
+USA
+42
+72
+Canada
+10
+17
+UK
+5
+9
+New Zealand
+1
+2
+Design
+Randomized
+19
+33
+Matched
+23
+40
+Neither
+16
+28
+Design problem
+Yes, favors control
+13
+22
+No or not noted
+41
+71
+Yes, favors treatment
+4
+7
+Attrition from posttest
+0.00
+37
+64
+0.01Y0.10
+7
+12
+0.11Y0.30
+8
+14
+90.30
+6
+10
+Intent to treat
+Yes, Tx dropouts included
+49
+84
+Cannot tell
+4
+7
+No, Tx dropouts not included
+5
+9
+Type of recidivism
+Rearrest
+29
+50
+Reconviction
+20
+34
+Incarceration
+8
+14
+Other
+1
+2
+Recidivism interval
+1Y5 mo
+2
+3
+6 mo
+9
+16
+7Y11 mo
+5
+9
+12 mo
+29
+50
+13Y24 mo
+9
+16
+25Y36 mo
+4
+7
+EFFECTS OF CBT FOR OFFENDERS
+457
+
+Sample size
+14Y50
+10
+17
+51Y100
+8
+14
+101Y200
+14
+24
+201Y500
+11
+19
+501Y3,000
+15
+26
+Sample age
+Juvenile
+17
+29
+Adult
+41
+71
+Percent male
+0
+3
+5
+50
+2
+3
+70Y98
+11
+19
+100
+36
+62
+Not reported
+6
+10
+Percent minority
+0Y25
+12
+21
+26Y50
+9
+16
+51Y75
+12
+21
+76Y100
+4
+7
+Not reported
+21
+36
+Recidivism risk rating
+Low
+18
+31
+LowYmedium
+9
+16
+Medium
+18
+31
+MediumYhigh
+7
+12
+High
+6
+10
+Program studied
+Practice
+31
+53
+Demonstration
+18
+31
+Research
+9
+16
+Treatment setting
+Correctional institution
+27
+47
+Community
+31
+53
+Treatment sessions/week
+1
+18
+31
+2
+17
+29
+3
+8
+14
+4Y5
+10
+17
+6Y10
+5
+9
+Treatment length
+5Y10 wks
+12
+21
+11Y20 wks
+26
+45
+21Y40 wks
+13
+22
+41Y104 wks
+7
+12
+N
+%
+Table 1. Continued.
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+458
+
+Proportion of treatment dropouts
+0.00
+13
+22
+0.01Y0.10
+6
+10
+0.11Y0.20
+18
+31
+0.21Y0.30
+8
+14
+9 0.30
+13
+22
+CBT treatment type
+Reasoning & Rehabilitation
+15
+26
+Moral Reconation Therapy
+11
+19
+Aggression Replacement Therapy
+6
+10
+Interpersonal Problem Solving Therapy
+4
+7
+Thinking for a Change
+5
+9
+Substance abuse focus
+5
+9
+Other manualized
+9
+16
+All other
+3
+5
+CBT emphasis
+CBT with other services
+11
+19
+CBT with some other Tx elements
+11
+19
+CBT only
+36
+62
+CBT treatment elements indicated*
+Cognitive skills
+45
+78
+Interpersonal problem solving
+45
+78
+Social skills
+43
+74
+Cognitive restructuring
+37
+64
+Anger control
+20
+35
+Substance abuse
+19
+33
+Moral reasoning
+17
+29
+Relapse prevention
+15
+26
+Behavior modiﬁcation
+11
+19
+Individual attention
+10
+17
+Victim impact
+7
+12
+Implementation monitoring
+None indicated
+17
+29
+Minimal
+20
+35
+Good
+17
+29
+Very good
+4
+7
+CBT training for providers
+Minimal
+31
+53
+Moderate
+14
+24
+Extensive
+13
+22
+Mental health background of providers
+None or minimal
+40
+69
+Moderate
+7
+12
+Extensive
+11
+19
+*Multiple elements, not mutually exclusive.
+N
+%
+Table 1. Continued
+EFFECTS OF CBT FOR OFFENDERS
+459
+
+The selected recidivism outcomes were coded as odds ratios representing the
+odds of Fsuccess_ (not recidivating) for treatment group participants relative to the
+odds for control participants. For binary outcomes, the odds ratio provides an effect
+size statistic that has favorable properties and yields readily interpretable results
+(Haddock et al. 1998). Statistical analysis with odds ratios is facilitated if they are
+represented by their log, so the logged odds ratios were used in all analyses.
+Otherwise, the statistical analysis was conducted using conventional meta-analysis
+techniques (Lipsey and Wilson 2001) with each effect size weighted by its inverse
+variance in random effects analyses.
+Results
+Table 1 summarizes the characteristics of the 58 studies included in the meta-
+analysis. Several features of this research are notable. Randomized designs,
+matched designs, and group comparisons using neither of these procedures are
+represented in roughly equal numbers and involve a wide range of sample sizes.
+Attrition from outcome measurement is virtually zero in a majority of the studies
+but ranges over 30% in some of the remaining ones. About half the programs
+studied were implemented as routine practice with the other half set up and
+implemented by researchers as either demonstration or research programs, with
+demonstration programs deﬁned as those mounted mainly for research purposes
+but at a scale and in a manner somewhat more representative of actual practice
+than those categorized as research programs. More studies were conducted with
+adult than juvenile offenders and most used only or predominately male offenders.
+Treatment was administered while the offenders were incarcerated in a correctional
+institution in nearly half the studies and generally lasted less than 20 weeks. In
+most instances, the treatment providers had little or no evident mental health
+background and had received relatively minimal training in cognitive behavioral
+therapy. The treatment was typically one of the Fbrand name_ manualized CBT
+programs and incorporated multiple treatment elements.
+Effect size variation associated with study methods
+The mean odds ratio representing the average effect of intervention was 1.53 ( p G
+0.001), indicating that the odds of success (no recidivism in the post-intervention
+interval of approximately 12 months) for individuals in the treatment group were
+more than one and a half times as great as those for individuals in the control
+group. In relation to the mean recidivism rate for the control groups of about 0.40,
+this odds ratio indicates a recidivism reduction of 25% to 0.30. There was also
+signiﬁcant variation across studies in the odds ratio for intervention effects (Q =
+214.02, df = 57, p G 0.001). We turn now to an examination of the study
+characteristics associated with that variation.
+The recidivism effects observed in the studies in this meta-analysis are
+potentially inﬂuenced by both the methodological characteristics of the studies
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+460
+
+and the substantive attributes of the treatments and the recipients. One of the
+ﬁrst steps in the analysis, therefore, was to determine which methodological
+features were correlated with the effect sizes so they could be controlled
+while examining relationships with substantive attributes. The method variables
+available from the study coding and considered relevant for this purpose were as
+follows:
+(a) Design, categorized as randomized, matched, or neither, each dummy coded to
+produce three design variables.
+(b) Design problemYindications of initial nonequivalence between groups on pre-
+treatment variables, or problems during or after the intervention that could
+have led to nonequivalence of the treatment and control group, rated by the
+coder on a three-point scale (1 = favors control group; 2 = favors neither or
+insufﬁcient evidence; 3 = favors treatment group).
+(c) Attrition proportion Y the proportion of the total initial sample (treatment plus
+control group) for which recidivism outcome data were not available.
+(d) Intent to treat, coded yes/no for whether treatment dropouts were retained in
+the treatment group for the recidivism outcome data reported in the study.
+(e) Type of recidivism, categorized as rearrests, reconvictions, incarcerations, or
+other with each dummy coded to produce four recidivism variables.
+(f) Recidivism interval represented by the number of months posttreatment over
+which recidivism was measured. Because of the possibility of more frequent
+recidivism in early months than later ones, the log of this variable was also
+used in the analysis.
+Table 2. Correlations between study method characteristics and recidivism effect sizes (N = 58).
+Method variable
+Correlation
+p
+Design
+Randomized (no/yes)
+0.04
+0.77
+Matched (no/yes)
+j0.03
+0.80
+Neither (no/yes)
+0.00
+0.98
+Design problem (favors control/no/favors Tx)
+0.19
+0.14
+Attrition proportion
+0.12
+0.35
+Intent to treat (yes/no)
+j0.24*
+0.06
+Type of recidivism
+Rearrest (no/yes)
+0.10
+0.44
+Reconviction (no/yes)
+j0.04
+0.77
+Incarceration (no/yes)
+j0.08
+0.57
+Other (no/yes)
+j0.02
+0.90
+Recidivism interval
+Linear
+j0.01
+0.93
+Log
+j0.04
+0.74
+Note: weighted random effects analysis.
+*p G 0.10
+EFFECTS OF CBT FOR OFFENDERS
+461
+
+Table 2 shows the zero-order correlation of each of the method variables with the
+recidivism effect sizes (represented as logged odds ratios). These are inverse-
+variance weighted, random effects analyses with the random effects component
+estimated using maximum likelihood techniques (Raudenbush 1994).
+As Table 2 reports, there was no signiﬁcant relationship overall between the
+effect sizes and the study design. In particular, the effects observed in randomized
+studies did not differ signiﬁcantly from those observed in matched studies or those
+with comparison groups that were neither matched nor randomly assigned. Nor
+was a signiﬁcant relationship observed for the coder’s rating of whether there was
+an evident design problem favoring the control or treatment group, that is,
+indications of nonequivalence that might affect recidivism outcomes. Similarly,
+there were no signiﬁcant correlations with the attrition proportion, the way
+recidivism was measured, or the interval over which it was measured.
+The only methodological variable that showed a signiﬁcant ( p G 0.10)
+relationship with the effect size was whether the study presented the treat-
+mentYcontrol contrast as an intent-to-treat analysis. When the treatment dropouts
+were included in the outcome recidivism, the effect sizes were smaller than when
+they were excluded, as would be expected. In light of this indication that the intent-
+to-treat variable might inﬂuence effect sizes, it was carried forward as a control
+variable for the analysis of the relationships between effect sizes and substantive
+factors relating to the treatment and recipients. As a further precaution against
+confounds with methodological characteristics, the other three method variables
+with zero-order correlations of 0.10 or greater were also included as method
+controls (design problem, attrition proportion, and rearrest recidivism).
+Effect size variation associated with the treatment and its recipients
+The relationship between the recidivism effect sizes and each of the descriptive
+variables for CBT treatment and its recipients (see listing in Table 1) was next
+examined with the four selected method variables included as controls. These
+analyses were conducted with a set of random effects multiple regressions that
+included a descriptive variable and the four control variables. These were run
+separately for each descriptive variable in this initial analysis to ensure that any
+having potentially important relationships with effect size were identiﬁed despite
+whatever correlations they had with other variables in the set. Because of the
+modest number of studies and the broad conﬁdence intervals associated with
+random effects analysis, alpha = 0.10 was set as the threshold for statistical signi-
+ﬁcance. Table 3 presents the results.
+The variables in Table 3 are grouped into categories that represent different
+aspects of the studies and the nature of the CBT treatment studied. The most
+general study characteristics (country, type of publication, and date of publication)
+showed no signiﬁcant relationships with effect size. The other candidate moderator
+variables are grouped according to a simple model that assumes that, with method
+variables controlled, treatment effects will be a function of the characteristics of
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+462
+
+Table 3. Relationships of participant and intervention characteristics to effect size with selected method
+variables controlled.
+Study characteristic
+Beta with method controlsa
+General study characteristics
+Country: U.S.(1) vs Canada/UK/NZ(2)
+j0.03
+Publication type: Report/thesis (1) vs journal/chapter (2)
+0.13
+Year of publication
+j0.11
+Participant characteristics
+Juveniles(1)/adults(2)
+j0.03
+% male
+j0.07
+% minority
+0.16
+Recidivism risk rating
+0.27**
+CBT Amount
+Sessions per week
+0.34**
+Hours per week (logged)
+0.23*
+Total hours of treatment (logged)
+0.38**
+Length in weeks (logged)
+j0.03
+Sessions per week  length in weeks (logged)
+j0.08
+Quality of CBT implementation
+Proportion of Tx dropouts
+j0.28**
+Implementation monitoring
+0.20
+CBT training for providers
+0.21
+Mental health background of providers
+j0.07
+Practice(1)/demonstration(2)/research(3) program
+0.31**
+Composite implementation factor
+0.40**
+Other program characteristics
+Treatment setting: prison(1)/community(2)
+0.20
+CBT emphasis: with other components (1)/CBT alone (3)
+j0.30**
+Speciﬁc CBT program
+Reasoning & Rehabilitation
+j0.21
+Moral Reconation Therapy
+0.04
+Aggression Replacement Therapy
+0.16
+Interpersonal Problem Solving Therapy
+j0.09
+Thinking for a Change
+0.12
+Substance abuse focus
+0.00
+Other manualized
+0.02
+All other
+0.01
+CBT treatment elements
+Cognitive skills
+0.02
+Cognitive restructuring
+0.27**
+Interpersonal problem solving
+0.04
+Social skills
+0.02
+Anger control
+0.32**
+Moral reasoning
+0.11
+Victim impact
+j0.14
+Substance abuse
+0.11
+EFFECTS OF CBT FOR OFFENDERS
+463
+
+the participants, the amount of treatment received, the quality of the treatment
+implementation, and the speciﬁc type of treatment.
+Participant characteristics
+Of the characteristics of the treatment recipients that could be coded from most
+studies, only the recidivism risk rating was signiﬁcantly related to the effect sizes.
+This rating was made by the coder on the basis of the description in the study of
+the criminal history of the treated offenders and the recidivism rate of the control
+group. That rating, in turn, was not signiﬁcantly correlated with any of the other
+variables describing the participants shown in Table 3. It is worth noting that there
+was no relationship between effect size and whether the treated offenders were
+juveniles or adults. The gender mix of the CBT recipients also showed no
+relationship to effect size but, as Table 1 shows, most of the samples were all male
+or predominately male so there was little variation on this measure.
+Amount of CBT
+Dosage variables were coded as the number of sessions per week, the number of
+hours of treatment per week, the total hours of treatment, and the number of weeks
+of treatment from beginning to end (see Table 1). The distributions for the latter
+three had long tails and the logged values of these variables were used in the
+analysis (and showed stronger relationships to effect size than the unlogged
+versions). As Table 3 shows, all these variables except length of treatment were
+signiﬁcantly related to effect size. Total hours, which showed the largest
+relationship, however, is a function of both the number of hours per week and
+the number of weeks. The study-level correlations among these variables showed
+that length of treatment was signiﬁcantly related to total hours (r = 0.51) as were
+the number of sessions per week (r = 0.58) and number of hours per week (r =
+0.75), with the latter two being highly correlated with each other (r = 0.81).
+From this pattern of relationships we concluded that the best representation of
+the amount of treatment should distinguish the number of sessions or hours per
+week from the length of the treatment. That approach allows further examination
+of the ﬁnding in Table 3 that number of sessions and hours per week are related to
+the effect size but, apparently, the duration of treatment is not. Between the
+number of sessions per week and the number of hours, sessions showed the
+Behavior modiﬁcation
+0.03
+Relapse prevention
+0.12
+Individual attention (in addition to group sessions)
+0.39**
+Note: Beta values from random effects multiple regression.
+aControlling for design problems, attrition proportion, intent-to-treat comparison, and arrest recidivism.
+*p G 0.10; **p G 0.05.
+Table 3. Continued
+Study characteristic
+Beta with method controlsa
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+464
+
+stronger relationship to effect size. Table 3 also shows the interaction between
+number of sessions and length of treatment, but it was not signiﬁcantly related to
+effect size.
+Quality of CBT implementation
+In this category we include the practice-research dimension that distinguishes
+between CBT treatments implemented on a routine basis in real-world criminal
+justice contexts, demonstration programs in similar circumstances but with
+signiﬁcant inﬂuence by the researcher, and research programs implemented by
+the researchers largely for research purposes. Our assumption is that the
+progressively greater involvement of researchers translates into better implemen-
+tation and more ﬁdelity to the treatment protocol.
+Table 4 shows that the study-level correlations were all signiﬁcant between the
+practice-research variable and the other variables assumed related to implemen-
+tation quality listed in Table 3 Y proportion of dropouts from treatment, extent of
+implementation monitoring reported, amount of CBT training indicated for
+providers, and the mental health background of the providers. Table 3 shows
+relationships in the expected direction with effect size for all these variables
+except providers’ mental health background, though only proportion of treat-
+ment dropouts and the practice-research dimension reached statistical signiﬁcance.
+To summarize the relationship of these implementation quality variables to effect
+size, a composite variable was created in the form of a factor score from a principal
+components analysis. As shown in Table 3, that composite implementation factor is
+more strongly related to the effect sizes than any of the component variables.
+Other program characteristics
+Table 3 also shows the relationship between effect size and two other program
+characteristics. One is the setting within which CBT was provided, differentiated
+Table 4. Correlations between potential moderator variables related to the quality of CBT implemen-
+tation (N = 58).
+Proportion of
+treatment dropouts
+Implementation
+monitoring
+CBT training
+for providers
+Mental health
+background of
+providers
+Implementation
+monitoring
+j0.17
+CBT training for
+providers
+j0.17
+0.40**
+Mental health background
+of providers
+0.08
+j0.07
+0.13
+Practice-demonstration-
+research program
+j0.29**
+0.44*
+0.23*
+0.24*
+*p G 0.10
+**p G 0.05
+EFFECTS OF CBT FOR OFFENDERS
+465
+
+between treatment while incarcerated and treatment in the community (e.g., for
+probationers and parolees); this variable was not signiﬁcantly related to effect size.
+The extent to which CBT was emphasized in the treatment program, on the other
+hand, did show a signiﬁcant relationship. That variable ranged across categories of
+CBT supplemented by other services, CBT with some other treatment elements, and
+CBT alone. As the negative sign on the coefﬁcient in Table 3 shows, the effects are
+signiﬁcantly larger when CBT is combined with other services. Examples of such
+components include mental health counseling, employment and vocational training,
+and educational programs.
+Speciﬁc nature of the CBT treatment
+The last two sections of Table 3 show two alternative ways of representing the
+speciﬁc nature of the CBT treatment provided. One set of dummy-coded items
+differentiates the various major named types of CBT along with a somewhat more
+generic category of CBT programs focusing on substance abuse and two residual
+categories of less common but manualized treatments and a few that do not appear
+to be manualized. None of these program variables is signiﬁcantly related to effect
+size, meaning that no brand of CBT produces effects that stand out from the
+average of the other brands.
+The other way we coded CBT treatment was in terms of the speciﬁc treatment
+elements identiﬁed in the descriptions provided in the study reports. Those de-
+scriptions varied in detail and extensiveness but when they mentioned a distinct
+treatment element, we coded it as present using a dummy code. The elements that
+appeared with sufﬁcient frequency to support analysis are shown in Table 3, de-
+ﬁned brieﬂy as follows:
+ Cognitive skills: Training on general thinking and decision-making skills such
+as to stop and think before acting, generate alternative solutions, evaluate
+consequences, and make decisions about appropriate behavior.
+ Cognitive restructuring: Activities and exercises aimed at recognizing and
+modifying the distortions and errors that characterize criminogenic thinking.
+ Interpersonal problem solving: Training in problem-solving skills for dealing
+with interpersonal conﬂict and peer pressure.
+ Social skills: Training in prosocial behaviors, interpreting social cues, taking
+other persons’ feelings into account, and the like.
+ Anger control: Training in techniques for identifying triggers and cues that
+arouse anger and maintaining self-control.
+ Moral reasoning: Activities designed to improve the ability to reason about right
+and wrong behavior and raise the level of moral development.
+ Victim impact: Activities aimed and getting offenders to consider the impact of
+their behavior on their victims.
+ Substance abuse: Application of any of the typical CBT techniques speciﬁcally
+to the issue of substance abuse.
+ Behavior modiﬁcation: Behavioral contracts and/or reward and penalty schemes
+designed to reinforce appropriate behavior.
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+466
+
+ Relapse prevention: Training on strategies to recognize and cope with high-risk
+situations and halt the relapse cycle before lapses turn into full relapses.
+ Individual attention: Any individualized one-on-one treatment element that
+supplements CBT group sessions, e.g., individual counseling.
+As Table 3 shows, the presence of some of these treatment elements in the CBT
+program was signiﬁcantly related to effect sizes. The strongest relationship appeared
+for individual attention, followed by anger control and cognitive restructuring.
+The relative inﬂuence of different moderator variables
+The results presented in Table 3 identify a number of variables describing the
+participants and the CBT interventions that are related to treatment effects with key
+method variables controlled. Each of these moderator variables represents a way to
+Table 5. Regression model for effect size moderators using speciﬁc type of CBT program.
+Variables in the model a
+B
+z
+p
+Beta
+Method controls
+Design problem
+0.11
+1.02
+0.31
+0.14
+Attrition proportion
+j0.13
+j0.21
+0.83
+j0.03
+Intent to treat
+j0.13
+j1.21
+0.23
+j0.19
+Arrest recidivism
+0.13
+1.04
+0.30
+0.15
+Participant characteristics
+Recidivism risk rating**
+0.19
+1.99
+0.05
+0.26
+CBT amount
+Sessions per week
+0.05
+1.21
+0.23
+0.22
+Length in weeks (logged)
+0.04
+0.36
+0.72
+0.06
+Sessions  length
+0.03
+0.73
+0.46
+0.12
+Quality of implementation
+Composite implementation factor**
+0.26
+2.93
+0.00
+0.45
+Other program characteristics
+CBT emphasis
+j0.10
+j0.90
+0.37
+j0.19
+Speciﬁc CBT program
+Reasoning & Rehabilitation
+j0.01
+j0.10
+0.92
+j0.02
+Moral Reconation Therapy
+0.16
+0.99
+0.32
+0.15
+Aggression Replacement Therapy
+j0.09
+j0.35
+0.73
+j0.05
+Interpersonal Problem Solving
+j0.31
+j0.82
+0.41
+j0.10
+Thinking for Change
+0.00
+0.02
+0.99
+0.00
+Substance abuse focus
+j0.19
+j0.93
+0.35
+j0.15
+aWeighted, random effects multiple regression analysis with inverse-variance weights.
+*p G 0.10
+**p G 0.05
+EFFECTS OF CBT FOR OFFENDERS
+467
+
+differentiate the circumstances of CBT treatment that yield larger and smaller
+effects on recidivism. The variable-by-variable results in Table 3, however, do not
+tell us about the relative inﬂuence of the different moderators. To examine the
+independent relationships of these variables with the others taken into account, two
+summary random effects regression analyses were conducted. These were con-
+ﬁgured to model the treatment effect sizes as a function of participant character-
+istics, the amount of CBT, the quality of the CBT, and the speciﬁc type of CBT,
+with method differences controlled.
+Drawing on the results in Table 3, the relevant participant characteristics were
+represented by recidivism risk, the only variable in that set signiﬁcantly related to
+effect size. The amount of CBT was represented by the combination of variables
+Table 6. Regression model for effect size moderators using CBT treatment elements.
+Variables in the model a
+B
+z
+p
+Beta
+Method controls
+Design problem
+j0.02
+j0.27
+0.79
+j0.03
+Attrition proportion
+0.08
+0.12
+0.90
+0.01
+Intent to treat
+0.03
+0.30
+0.77
+0.05
+Arrest recidivism
+0.01
+0.08
+0.94
+0.01
+Participant characteristics
+Recidivism risk rating**
+0.20
+2.83
+0.00
+0.27
+CBT amount
+Sessions per week
+0.01
+0.37
+0.71
+0.07
+Length in weeks (logged)
+j0.03
+j0.35
+0.72
+j0.05
+Sessions  length
+0.04
+0.74
+0.46
+0.13
+Quality of implementation
+Composite implementation factor*
+0.14
+1.82
+0.07
+0.23
+Other program characteristics
+CBT emphasis*
+j0.20
+j1.84
+0.07
+j0.41
+CBT treatment elements
+Cognitive skills
+j0.26
+j1.23
+0.22
+j0.26
+Cognitive restructuring
+0.13
+0.84
+0.40
+0.16
+Interpersonal problem solving**
+0.28
+2.16
+0.03
+0.32
+Social skills
+0.19
+1.23
+0.22
+0.19
+Anger control**
+0.32
+2.23
+0.03
+0.36
+Moral reasoning
+j0.03
+j0.17
+0.87
+j0.03
+Victim impact**
+j0.45
+j2.36
+0.02
+j0.31
+Substance abuse
+0.13
+0.87
+0.39
+0.16
+Behavior modiﬁcation*
+j0.29
+j1.70
+0.09
+j0.31
+Relapse prevention
+j0.19
+j1.32
+0.19
+j0.19
+Individual attention
+0.07
+0.37
+0.71
+0.06
+aWeighted, random effects multiple regression analysis with inverse-variance weights.
+*p G 0.10
+**p G 0.05
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+468
+
+previously designated for that purpose Y sessions per week, length in weeks, and
+their interaction. The quality of the CBT implementation was represented by the
+composite implementation factor, also described earlier. The type of CBT was
+represented in the ﬁrst analysis as the set of brand name categories (with the two
+Fother_ categories omitted as a reference set). In the second it was represented in
+terms of the speciﬁc treatment elements identiﬁed as present in the intervention. In
+both analyses, the CBT emphasis variable was also included to add information
+about the primacy of CBT in the overall intervention.
+Table 5 shows the results when the CBT was represented in brand name
+categories. Once again, no speciﬁc type of CBT program had effects signiﬁcantly
+different from the mean of all the other types. Only two moderator variables
+were individually signiﬁcant in this analysis Y recidivism risk (higher risk was
+associated with larger effects) and the composite implementation factor (higher
+quality implementation was associated with larger effects).
+Table 6 shows the parallel analysis with the CBT intervention represented in
+terms of treatment elements. As in the previous analysis, recidivism risk and high
+quality implementation were associated with better outcomes. In addition, how-
+ever, four of the individual treatment elements showed signiﬁcant relationships
+with effect size. Interpersonal problem solving and anger control were positively
+related; their presence was associated with larger effects on recidivism. Victim
+impact and behavior modiﬁcation were negatively related; they were associated
+with worse outcomes.
+Effects of FBest practice_ CBT on recidivism
+We can use the multiple regression analysis in Table 6 to explore optimal CBT
+treatment circumstances by predicting the effect size expected in a favorable
+scenario. For this purpose we assumed the best quality study method and
+measurement characteristics (no design problems, zero attrition, intent-to-treat
+analysis, and an arrest recidivism outcome). We also assumed the subject sample
+was comprised of moderately high risk offenders who received the median number
+of sessions per week (two) with high quality implementation over the median
+number of weeks (16). The CBT treatment assumed was any one of the brand
+name programs alone (not supplemented with other services), but with anger
+control and interpersonal problem-solving components included.
+When the corresponding variable values are entered into the prediction equation
+represented in Table 6, the predicted effect size is a logged odds ratio of 1.05,
+corresponding to an odds ratio of 2.86. Compared to a control group recidivism
+of 0.40 (the overall mean), this represents a decrease to a recidivism rate of 0.19
+in the treatment group, that is, a 52% decrease overall. This impressive effect is
+not a mathematical projection beyond what appears in the data. An odds ratio of
+2.86 is at the 82nd percentile of the distribution of effects for the 58 studies in this
+meta-analysis.
+EFFECTS OF CBT FOR OFFENDERS
+469
+
+Discussion
+This meta-analysis conﬁrmed the ﬁndings of positive CBT effects on the re-
+cidivism of offenders that have been reported in other recent meta-analyses (Lipsey
+et al. 2001; Lipsey and Landenberger (2005); Pearson et al. 2002; Wilson et al.
+2005). The mean odds ratio indicated that the odds of not recidivating in the 12
+months after intervention for individuals in the treatment group were 1.53 times as
+great as those for individuals in the control group. This represents a reduction from
+the 0.40 mean recidivism rate of the control groups to a mean rate of 0.30 for the
+treatment groups, a 25% decrease. The most effective conﬁgurations of CBT
+produced odds ratios nearly twice as large as the mean, corresponding to re-
+cidivism rates of around 0.19 in the treatment groups, more than a 50% decrease
+from the 0.40 rate of the average control group.
+The main emphasis of this meta-analysis, however, was the search for key
+moderator variables that would distinguish situations in which CBT produced
+larger effects from those in which it produced smaller ones. On this issue, there
+are two themes in the ﬁndings. First, a number of variables characterizing the sub-
+ject samples, amount and implementation of CBT, and the CBT treatment elements
+were signiﬁcantly correlated with the effect sizes for recidivism outcomes. In this
+regard, there are numerous moderators of the treatment effects. These are not all
+independent relationships, however. Intervention studies tend to come with bundles
+of co-occurring characteristics that are, therefore, correlated with each other across
+studies. This confounding of moderator variables with each other makes it difﬁcult
+to identify those most critical to the outcome (Lipsey 2003).
+Application of multiple regression analysis to identify the moderator variables
+with the strongest independent relationships to effect size led to the second theme
+in our ﬁndings. Of the many study characteristics that showed signiﬁcant
+relationships with effect size, relatively few remained signiﬁcant when the
+inﬂuence of the others was taken into account. The net result was that much of
+the variation in recidivism effects could be explained by a small number of
+moderator variables. The only factors independently related to the effect sizes were
+(a) the risk level of the participating offenders, (b) how well the treatment was
+implemented, and (c) the presence or absence of a few treatment elements. In the
+latter category, inclusion of anger control and interpersonal problem solving
+components in the treatment program were associated with larger effects; inclusion
+of victim impact and behavior modiﬁcation were associated with smaller effects.
+Most striking was that, controlled for other moderators, none of the major CBT
+brand name programs produced effects on recidivism that were signiﬁcantly larger
+than the average effects of the other programs.
+Though not informative for purposes of identifying the most effective treat-
+ment conditions, the relationships between characteristics of the study methods
+and the effects sizes were nonetheless interesting. The aspect of method that is
+usually of greatest concern for intervention studies is whether a randomized design
+was used. For the studies included in this meta-analysis, however, there were no
+signiﬁcant effect size differences between randomized and nonrandomized de-
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+470
+
+signs. Only the intent-to-treat variable, indicating whether treatment dropouts
+were included in the outcome measures, was signiﬁcantly related to effect size and
+that relationship dissipated when other moderators were included in the analysis.
+Implications for practice
+With the key participant and general implementation characteristics controlled, no
+signiﬁcant differences were found in the effectiveness of the different types or
+Fbrand names_ of CBT. It thus appears to be the general CBT approach, and not
+any speciﬁc version, that is responsible for the overall positive effects on recid-
+ivism. Within that framework, inclusion of distinct anger control and interper-
+sonal problem solving components in the CBT program enhance the effects while
+victim impact and behavior modiﬁcation components appear to diminish it.
+What seems to most strongly characterize effective CBT programs is high qual-
+ity implementation as represented by low proportions of treatment dropouts, close
+monitoring of the quality and ﬁdelity of the treatment implementation, and ade-
+quate CBT training for the providers. These characteristics are more closely asso-
+ciated with research and demonstration programs than with those implemented in
+routine practice. This is an encouraging picture from the standpoint of practice. It
+suggests that any representative CBT program that is well-implemented might have
+results in practice that approach the very positive effects on recidivism produced
+by the most effective programs documented in the available research studies.
+It is also encouraging that the effects of CBT were greater for offenders with
+higher risk of recidivism than those with lower risk, contrary to any presumption
+that higher risk offenders might be less amenable to treatment. The effectiveness of
+CBT with higher risk offenders is consistent with the principles of effective
+correctional treatment developed by Andrews et al. (e.g., Andrews and Bonta
+2002; Andrews et al. 1990). They argue that the best results occur when higher-risk
+offenders receive more intensive services that target criminogenic needs (e.g.,
+criminal thinking patterns) using cognitive behavioral and social learning
+approaches.
+From a practical standpoint, it is also worth highlighting a couple of variables
+that were not related to treatment effects once other relevant program character-
+istics were controlled. In particular, CBT was as effective for juveniles as adults,
+other things equal, and thus should be useful in both juvenile justice and criminal
+justice settings. The treatment setting was also not related to treatment effects.
+Offenders treated in prison (generally close to the end of their sentences) showed
+recidivism decreases comparable to those of offenders treated in the community
+(e.g., while on probation, parole or in transitional aftercare).
+Implications for research
+Of the 58 studies that met the inclusion criteria for this review, only 19 used random
+assignment designs and, of those, only 13 maintained sufﬁciently low attrition from
+outcome measurement to yield results with high internal validity. Moreover, only
+EFFECTS OF CBT FOR OFFENDERS
+471
+
+six of the random assignment studies were conducted on Freal world_ CBT practice;
+the others were research and demonstration programs. The amount of high quality
+research on CBT in representative correctional practice is not yet large enough to
+determine whether the impressive effects on recidivism found in this meta-analysis
+can be routinely attained under everyday circumstances.
+Though generalization to routine practice cannot be assured, the consistency
+and magnitude of the effects found in the research to date leave little doubt that
+CBT is capable of producing signiﬁcant reductions in the recidivism of even high
+risk offenders under favorable conditions. However, much remains to be learned
+about the optimal conﬁguration of CBT and the conditions under which it is most
+effective. In this meta-analysis we coded as much detail as possible about the
+program characteristics and context from the descriptions provided in the research
+reports. At best, those descriptions were limited and fell well short of providing
+full information about critical program details. An important direction for future
+research is to better differentiate and document the dimensions along which CBT
+varies in different applications and to identify the characteristics most critical for
+attaining optimal effects. The central issue for research on CBT with offender
+populations at this juncture is not to determine if it has positive effects, but to
+determine when and why it has the most positive effects.
+References
+References marked with an asterisk are reports of studies included in the meta-analysis.
+*Anderson, J. (2002). Overview of the Illinois DOC high-risk parolee re-entry program and
+3-year recidivism outcomes of program participants. CognitiveYBehavioral Treatment
+Review 11(1Y2), 4Y6.
+Andrews, D. A. & Bonta, J. (2002). The psychology of criminal conduct. 3rd edn.
+Cincinnati, Ohio: Anderson.
+Andrews, D. A., Zinger, I., Hoge, R. D., Bonta, J., Gendreau, P. & Cullen, F. T. (1990).
+Does correctional treatment work? A clinically relevant and psychologically informed
+meta-analysis. Criminology 28, 369Y404.
+*Arbuthnot, J. & Gordon, D. A. (1986). Behavioral and cognitive effects of a moral
+reasoning development intervention for high-risk behavior-disordered adolescents.
+Journal of Consulting and Clinical Psychology 54, 208Y216.
+*Armstrong, T. A. (2003). The effect of Moral Reconation Therapy on the recidivism of
+youthful offenders: A randomized experiment. Criminal Justice & Behavior 30(6),
+668Y687.
+*Barnoski, R. (2002a). Preliminary ﬁndings for the Juvenile Rehabilitation Administration’s
+dialectic behavior therapy program (Research Rep. No. 02-07-1203). Olympia,
+Washington: The Evergreen State College, Washington State Institute for Public Policy.
+*Barnoski, R. (2002b). Washington State’s implementation of Aggression Replacement
+Training for juvenile offenders: Preliminary ﬁndings. Olympia, Washington: The
+Evergreen State College, Washington State Institute for Public Policy.
+*Berry, S. (1998). An evaluation of the Montgomery House Violence Prevention Program.
+Hamilton, NZ: Psychological Service, Department of Corrections.
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+472
+
+*Bonta, J., Wallace-Capretta, S. & Rooney, J. (2000). A quasi-experimental evaluation of an
+intensive rehabilitation supervision program. Criminal Justice and Behavior 27(3),
+312Y329.
+*Bottcher, J. (1985). The Athena program: An evaluation of a girl’s treatment program at
+the Fresno County Probation Department’s juvenile hall. Sacramento, California:
+California Youth Authority.
+*Burnett, W. L. (1997). Treating post-incarcerated offenders with Moral Reconation
+Therapy: A one-year recidivism study. CognitiveYBehavioral Treatment Review 6, 2.
+*Bush, J. (1995). Teaching self-risk management to violent offenders. In McGuire, J. (Ed.),
+What works: Reducing reoffending (pp. 139Y154). New York, NY: Wiley.
+Bush, J., Glick, B. & Taymans, J. (1997, revised 1998). Thinking for a Change: Integrated
+cognitive behavior change program. Washington District of Columbia: National Institute
+of Corrections, U.S. Department of Justice.
+*Cann, J., Falshaw, L., Nugent, F. & Friendship, C. (2003). Understanding what works:
+Accredited cognitive skills programmes for adult men and young offenders (Research
+Finding 226). London, UK: Home Ofﬁce.
+*Coughlin, R. A., Cosby, J. & Landenberger, N. A. (2003). Thinking for a Change:
+CognitiveYbehavioral treatment with high-risk offenders on intensive supervision
+probation (Preliminary Report). Nashville, Tennessee: Public Safety Collaborative,
+Tennessee Board of Probation and Parole.
+*Culver, H. E. (1993). Intentional skill development as an interventional tool (interpersonal
+problem-solving) (Doctoral dissertation, University of Massachusetts, 1993). Dissertation
+Abstracts International, A 54(06), 2053. (University Microﬁlms No. AAT 9329590).
+*Curulla, V. L. (1991). Aggression Replacement Training in the community for adult
+learning disabled offenders (Doctoral dissertation, University of Washington, 1991).
+Dissertation Abstracts International, 53(02-A), 627. (University Microﬁlms No. AAD92-
+16113).
+*Deschamps, T. (1998). MRT: Is it effective in decreasing recidivism rates with young
+offenders? (Master’s thesis, University of Windsor, Ontario, Canada). Master’s Abstracts
+International.
+*Dowden, C., Blanchette, K. & Serin, R. (1999). Anger management programming for
+federal male inmates: An effective intervention (Research Report R-82). Ottawa, Canada:
+Research Branch, Correctional Service Canada.
+*Falshaw, L., Friendship, C., Travers, R. & Nugent, F. (2003). Searching for ’what works’:
+An evaluation of cognitive skills programmes (Research Findings 206). London, UK:
+Home Ofﬁce.
+*Finn, P. (1998). The Delaware Department of Correction life skills program. Washington,
+DC: U. S. Department of Justice, Ofﬁce of Justice Programs.
+*Friedman, A. S., Terras, A. & Glassman, K. (2002). Multimodel substance use intervention
+program for male delinquents. Journal of Child and Adolescent Substance Abuse 11(4),
+43Y65.
+*Friendship, C., Blud, L., Erikson, M., Travers, R. & Thornton, D. (2003). Cognitive-
+behavioral treatment for imprisoned offenders: An evaluation of HM prison service’s
+cognitive skills programmes. Legal and Criminological Psychology 8(1), 103Y114.
+*Golden, L. S. (2003). Evaluation of the efﬁcacy of a cognitive behavioral program for
+offenders on probation: Thinking for a Change (Doctoral dissertation, The University of
+Texas Southwestern Medical Center at Dallas, 2002). Dissertation Abstracts International,
+63(10), 4902. University Microﬁlms No. (not avail. fr. UMI).
+EFFECTS OF CBT FOR OFFENDERS
+473
+
+Goldstein, A. P. & Glick, B. (1987). Aggression Replacement Training: A comprehensive
+intervention for aggressive youth. Champaign, Illinois: Research.
+Goldstein, A. P. & Glick, B. (1994). The prosocial gang: Implementing Aggression
+Replacement Training. Thousand Oaks, California: Sage.
+*Goldstein, A. P., Glick, B., Irwin, M. J., Pask-McCartney, C. & Rubama, I. (1989).
+Reducing delinquency: Intervention in the community. 1st edn. New York: Pergamon.
+*Grandberry, G. (1998). Moral Reconation Therapy evaluation, ﬁnal report. Olympia,
+Washington: Washington State Department of Correction.
+*Greenwood, P. W. & Turner, S. (1993). Evaluation of the Paint Creek Youth Center: A
+residential program for serious delinquents. Criminology 31(2), 263Y279.
+*Guerra, N. G. & Slaby, R. G. (1990). Cognitive mediators of aggression in adolescent
+offenders: 2. Intervention. Developmental Psychology 26, 269Y277.
+Haddock, C. K., Rindskopf, D. & Shadish, W. R. (1998). Using odds ratios as effect sizes
+for meta-analysis of dichotomous data: A primer on methods and issues. Psychological
+Methods 3(3), 339Y353.
+*Hall, E., Prendergast, M. L., Wellisch, J., Patten, M. & Cao, Y. (2004). Treating drug-
+abusing women prisoners: An outcome evaluation of the Forever Free program. The
+Prison Journal 84(1), 81Y105.
+*Hanson, G. (2000). Pine Lodge intensive inpatient treatment program. Olympia,
+Washington: Planning and Research Section, WA State Department of Correction.
+*Henning, K. R. & Frueh, B. C. (1996). CognitiveYbehavioral treatment of incarcerated
+offenders: An evaluation of the Vermont Department of Corrections’ cognitive self-
+change programme. Criminal Justice and Behavior 23, 523Y541.
+*Hughey, R. & Klemke, L. W. (1996). Evaluation of a jail-based substance abuse treatment
+program. Federal Probation 60(4), 40Y44.
+*Johnson, G. & Hunter, R. M. (1995). Evaluation of the specialized drug offender program.
+In R. R. Ross & R. D. Ross (Eds.), Thinking straight (pp. 215Y234). Ottawa, Canada: AIR
+Publications.
+*Kirkpatrick, B. L. H. (1996). Cognitive restructuring: Effects on recidivism (Doctoral
+dissertation, Ball State U.). Dissertation Abstracts International, 57(6A), 2680. (University
+Microﬁlms No. AAM9632826).
+*Knott, C. (1995). The STOP Programme: Reasoning and rehabilitation in a British setting.
+In J. McGuire (Ed.), What works: Reducing reoffending (pp. 115Y126). Chichester, UK:
+Wiley.
+*Kownacki, R. J. (1995). The effectiveness of a brief cognitiveYbehavioral program on the
+reduction of antisocial behavior in high-risk adult probationers in a Texas community. In
+Ross, R. R. & R. D. Ross (Eds.), Thinking Straight: The reasoning and rehabilitation
+program for delinquency prevention and offender rehabilitation (pp. 249Y257). Ottawa,
+Canada: Air Training and Publications.
+*Landenberger (2004). Evaluation of the Tennessee Bridges program (Report to the Reentry
+Steering Committee). Nashville, Tennessee: Tennessee Department of Correction.
+*Larson, K. A. (1989). Problem-solving training and parole adjustment in high-risk young
+adult offenders. In S. Duguid (Ed.), Yearbook of correctional education: 1989 (pp.
+279Y299). Burnaby, BC, Canada: Simon Fraser University.
+*Leeman, L. W., Gibbs, J. & Fuller, D. (1993). Evaluation of a multi-component group
+treatment program for juvenile delinquents. Aggressive Behavior 19, 281Y292.
+Lipsey, M. W. (2003). Those confounded moderators in meta-analysis: Good, bad, and ugly.
+The Annals of the American Academy of Political and Social Science 587, 69Y81.
+Lipsey, M. W. & Landenberger, N. A. (2005). CognitiveYbehavioral interventions: A meta-
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+474
+
+analysis of randomized controlled studies. In B. C. Welsh & D. P. Farrington (Eds.),
+Preventing crime: What works for children, offenders, victims, and places. Springer,
+Berlin Heidelberg New York .
+Lipsey, M. W. & Wilson, D. B. (2001). Practical meta-analysis. Thousand Oaks, California:
+Sage.
+Lipsey, M. W., Chapman, G. & Landenberger, N. A. (2001). CognitiveYbehavioral programs
+for offenders. The Annals of the American Academy of Political and Social Science 578,
+144Y157.
+Little, G. L. & Robinson, K. D. (1986). How to escape your prison. Memphis, TN: Eagle
+Wing Books.
+*Little, G. L., Robinson, K. D. & Burnette, K. D. (1993). Cognitive behavioral treatment of
+felony drug offenders: A ﬁve-year recidivism report. Psychological Reports 73(3),
+1089Y1090.
+*McCracken, L., Hearn, C. & Stuckey, S. (2003). Juvenile DWI/Drug Court Albuquerque,
+NM. CognitiveYBehavioral Treatment Review 12(1), 8Y9.
+*Motiuk, L., Smiley, C. & Blanchette, K. (1996). Intensive programming for violent
+offenders: A comparative investigation. Forum on Corrections Research 8(3), 10Y12.
+*Myers, W. C., Burton, P. R. S., Sanders, P. D., Donat, K. M., Cheney, J., Fitzpatrick, T. M.
+& Monaco, L. (2000). Project Back-on-Track at 1 year: A delinquency treatment program
+for early-career juvenile offenders. Journal of the American Academy of Child and
+Adolescent Psychiatry 39(9), 1127Y1134.
+NIC (National Institute of Corrections) (1996). Cognitive interventions program: Think.
+Washington D.C.: National Institute of Corrections Information Center, U.S. Department
+of Justice.
+Pearson, F. S., Lipton, D. S., Cleland, C. M. & Yee, D. S. (2002). The effects of behavioral/
+cognitiveYbehavioral programs on recidivism. Crime and Delinquency 48(3), 476Y496.
+*Pelissier, B. M., Rhodes, W., Saylor, W. G., Gaes, G. G., Camp, S. D., Vanyur, S. D. & Wallace,
+S. (2001). TRIAD drug treatment evaluation project. Federal Probation 65(3), 3Y7.
+*Porporino, F. J., Fabiano, E. A. & Robinson, D. (1991). Focusing on successful
+reintegration: Cognitive skills training for offenders (Research Rep. No. 19). Ottawa,
+Canada: Correctional Service of Canada.
+*Pullen, S. (1996). Evaluation of the Reasoning and Rehabilitation cognitive skills
+development program as implemented in juvenile ISP in Colorado. Boulder, CO: Division
+of Criminal Justice.
+Raudenbush, S. W. (1994). Random effects models. In H. Cooper & L. V. Hedges (Eds.),
+The handbook of research synthesis (pp. 301Y321). New York: Russell Sage Foundation.
+*Robinson, D. (1995a). The impact of cognitive skills training on post-release recidivism
+among Canadian federal offenders (Research Rep. No. R-41). Ottawa, Canada:
+Correctional Service Canada.
+*Robinson, S. C. (1995b). Implementation of the cognitive model of offender rehabilitation
+and delinquency prevention (Doctoral dissertation, University of Utah, 1994). Dissertation
+Abstracts International, 55(8-A), 2582. (University Microﬁlms No. AAT9502199).
+*Robinson, D., Grossman, M. & Porporino, F. (1991). Effectiveness of the cognitive skills
+training program. From pilot project to national implementation. (Research Report No.
+B-07). Ottawa: Correctional Services of Canada, Research and Statistics Branch.
+Ross, R. R. & Fabiano, E. A. (1985). Time to Think: A cognitive model of delinquency
+prevention and offender rehabilitation. Johnson City: Institute of Social Sciences and Arts.
+*Ross, R. R., Fabiano, E. A. & Ewles, C. D. (1988). Reasoning and Rehabilitation.
+International Journal of Offender Therapy and Comparative Criminology 32, 29Y35.
+EFFECTS OF CBT FOR OFFENDERS
+475
+
+*Shivrattan, J. L. (1988). Social interactional training and incarcerated juvenile delinquents.
+Canadian Journal of Criminology 30, 145Y163.
+*Spencer, E. G., Jr. (1986). An outcome study of socialYbehavioral skill development in male
+adolescent delinquency (Doctoral dissertation, The California School of Professional
+Psychology, San Diego, 1986). Dissertation Abstracts International, 47(5), 1891A.
+(University Microﬁlms No. 8618153).
+*State of Washington, Department of Corrections. (January 1998). Evaluation of the Work
+Ethic Camp (Report to the Legislature). Olympia, WA: Washington State Department of
+Corrections.
+*T3 Associates under contract (1999). An outcome evaluation of CSC substance abuse
+programs: OSAPP, ALTO and Choices (Final Report, Volume 1). Ottawa, Canada:
+Correctional Services Canda.
+*Thambidurai, G. A. (1980). A comparative outcome study of a contract parole program for
+individuals committed to the youth correctional complex in the state of New Jersey
+(Doctoral dissertation, Rutgers University, The State University of New Jersey, 1980).
+Dissertation Abstracts International, 41(01), 371B. (University Microﬁlms No. 80-16503).
+*Van Voorhis, P., Spruance, L. M., Ritchey, P. N., Johnson-Listwan, S. & Seabrook, R.
+(2004). The Georgia cognitive skills experiment: A replication of Reasoning and
+Rehabilitation. Criminal Justice and Behavior 31(3), 282Y305.
+*Van Voorhis, P., Spruance, L. M., Ritchie, P. N., Johnson-Listwan S. Seabrook, R. &
+Pealer, J. (unknown year). The Georgia cognitive skills experiment. Outcome evaluation
+phase II. Atlanta, Georgia: Georgia Board of Pardons and Paroles and National Institute of
+Justice. (NCJRS Document Reproduction Service No. Grant #98-CE-VX-0013).
+*Walters, G. D. (1999). Short-term outcome of inmates participating in the lifestyle change
+program. Criminal Justice and Behavior 26(4), 322Y337.
+Weisburd, D., Lum, C. M. & Petrosino, A. (2001). Does research design affect study
+outcomes in criminal justice? Annals of the American Academy of Political and Social
+Science 578, 50Y70.
+Wilson, D. B., Bouffard, L. A. & MacKenzie, D. L. (2005). A quantitative review of
+structured, group-oriented, cognitiveYbehavioral programs for offenders. Journal of
+Criminal Justice and Behavior 32(2), 172Y204.
+Yochelson, S. & Samenow, S. E. (1976). The criminal personality: Vol I. A proﬁle for
+change. New York, New York: Aronson.
+About the authors
+Mark W. Lipsey is the Director of the Center for Evaluation Research and Methodology at
+the Vanderbilt Institute for Public Policy Studies. His primary research activities involve
+meta-analysis of research about risk factors for antisocial behavior and the effectiveness
+of prevention and intervention programs for antisocial behavior.
+Nana A. Landenberger is a clinical psychologist and consultant in Nashville, Tennessee.
+The focus of her consulting and research is on effective intervention programs for criminal
+offenders, including the design and delivery of cognitive-behavior programs in correctional
+institutions.
+NANA A. LANDENBERGER AND MARK W. LIPSEY
+476
+
