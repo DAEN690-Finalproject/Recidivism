@@ -1,0 +1,1 @@
+This Folder consist of code we used for Method 1 - Pdfplumber, PyMuPDF, Camelot, Stream and the output markdown and CSV Files.
