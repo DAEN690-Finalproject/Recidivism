@@ -1,0 +1,5968 @@
+CHILDREN AND FAMILIES The RAND Corporation is a nonprofit institution that helps improve policy and
+EDUCATION AND THE ARTS decisionmaking through research and analysis.
+ENERGY AND ENVIRONMENT
+This electronic document was made available from www.rand.org as a public service
+HEALTH AND HEALTH CARE
+of the RAND Corporation.
+INFRASTRUCTURE AND
+TRANSPORTATION
+INTERNATIONAL AFFAIRS
+6
+LAW AND BUSINESS Skip all front matter: Jump to Page 1
+NATIONAL SECURITY
+POPULATION AND AGING
+Support RAND
+PUBLIC SAFETY
+Purchase this document
+SCIENCE AND TECHNOLOGY
+TERRORISM AND Browse Reports & Bookstore
+HOMELAND SECURITY
+Make a charitable contribution
+For More Information
+Visit RAND at www.rand.org
+Explore the RAND Corporation
+View document details
+Limited Electronic Distribution Rights
+This document and trademark(s) contained herein are protected by law as indicated in a notice appearing
+later in this work. This electronic representation of RAND intellectual property is provided for non-
+commercial use only. Unauthorized posting of RAND electronic documents to a non-RAND website is
+prohibited. RAND electronic documents are protected under copyright law. Permission is required from
+RAND to reproduce, or reuse in another form, any of our research documents for commercial use. For
+information on reprint and linking permissions, please see RAND Permissions.
+This report is part of the RAND Corporation research report series. RAND reports
+present research findings and objective analysis that address the challenges facing the
+public and private sectors. All RAND reports undergo rigorous peer review to ensure
+high standards for research quality and objectivity.
+How Effective Is
+Correctional Education,
+and Where Do
+We Go from Here?
+The Results of a Comprehensive Evaluation
+Lois M. Davis, Jennifer L. Steele, Robert Bozick, Malcolm V. Williams,
+Susan Turner, Jeremy N. V. Miles, Jessica Saunders, Paul S. Steinberg
+Bureau of Justice Assistance
+CORPORATION U.S. Department of Justice
+CORPORATION
+How Effective Is
+Correctional Education,
+and Where Do
+We Go from Here?
+The Results of a Comprehensive Evaluation
+Lois M. Davis, Jennifer L. Steele, Robert Bozick, Malcolm V. Williams,
+Susan Turner, Jeremy N. V. Miles, Jessica Saunders, Paul S. Steinberg
+The research described in this report was sponsored by the Bureau of Justice
+Assistance and was conducted in the Safety and Justice Program, within
+RAND Justice, Infrastructure, and Environment.
+This project was supported by Grant No. 2010-RQ-BX-001 awarded by the Bureau of Justice
+Assistance to the RAND Corporation. The Bureau of Justice Assistance is a component of the
+United States Department of Justice, Office of Justice Programs. Points of view or opinions in
+this document are those of the authors and do not necessarily represent the official position or
+policies of the U.S. Department of Justice.
+Library of Congress Cataloging-in-Publication Data is available for this
+publication.
+ISBN: 978-0-8330-8493-4
+The RAND Corporation is a nonprofit institution that helps improve policy
+and decisionmaking through research and analysis. RAND’s publications do
+not necessarily reflect the opinions of its research clients and sponsors.
+Support RAND—make a tax-deductible charitable contribution at
+www.rand.org/giving/contribute.html
+R
+® is a registered trademark.
+Cover images via Fuse/Thinkstock (graduate) and viperagp/Fotolia (prison background)
+© Copyright 2014 RAND Corporation
+This document and trademark(s) contained herein are protected by law. This
+representation of RAND intellectual property is provided for noncommercial
+use only. Unauthorized posting of RAND documents to a non-RAND
+website is prohibited. RAND documents are protected under copyright law.
+Permission is given to duplicate this document for personal use only, as long as
+it is unaltered and complete. Permission is required from RAND to reproduce,
+or reuse in another form, any of our research documents for commercial use.
+For information on reprint and linking permissions, please see the RAND
+permissions page (www.rand.org/pubs/permissions.html).
+RAND OFFICES
+SANTA MONICA, CA • WASHINGTON, DC
+PITTSBURGH, PA • NEW ORLEANS, LA • JACKSON, MS • BOSTON, MA
+CAMBRIDGE, UK • BRUSSELS, BE
+www.rand.org
+Foreword
+Each year, thousands of incarcerated individuals leave the nation’s prisons and jails and return
+to their families and communities. While many successfully reintegrate into their communi-
+ties, find jobs, and become productive members of society, others may commit new crimes and
+return to jail or prison. For juveniles involved in the juvenile justice system, the rate of youth
+incarceration in the United States is more than three times the highest rates in other developed
+nations. Although many factors account for why some formerly incarcerated adults and youth
+succeed and some don’t, lack of education and skills is one key reason. This is why correctional
+education programs—both academic and vocational—are provided in correctional facilities
+across the nation. But do such correctional education programs actually work? We care about
+the answer because we want ex-prisoners to successfully reenter communities and because we
+have a responsibility to use taxpayer dollars judiciously to support programs that are backed by
+evidence of their effectiveness—especially during difficult budgetary times like these. Across
+this Administration, we are committed to investing in evidence-based programming, investi-
+gating promising practices, and making science a priority.
+Fortunately, the passage of the Second Chance Act of 2007 gave us a chance to get at
+this fundamental question because it included a specific provision to improve education in
+U.S. prisons and jails. The Office of Justice Programs’ Bureau of Justice Assistance within the
+U.S. Department of Justice, with input from the Office of Vocational and Adult Education,
+U.S. Department of Education, competitively awarded a project to the RAND Corporation
+in 2010 to comprehensively examine the current state of correctional education for incarcer-
+ated adults and juveniles, current and emerging trends in the field, and what can be done to
+improve the field moving forward. The study conducted a meta-analysis and systematic review
+to measure the effectiveness of correctional education for incarcerated adults and juveniles,
+respectively, and a survey of states’ correctional education directors to understand concerns
+and emerging trends.
+The results of the meta-analysis are truly encouraging. Confirming the results of previ-
+ous meta-analyses—while using more (and more recent) studies and an even more rigorous
+approach to selecting and evaluating them than in the past—the study shows that correctional
+education for incarcerated adults reduces the risk of postrelease reincarceration (by 13 percent-
+age points) and does so cost-effectively (a savings of five dollars on reincarceration costs for
+every dollar spent on correctional education). And when it comes to postrelease employment
+for adults—another outcome key to successful reentry—researchers find that correctional edu-
+cation may increase such employment.
+Because juvenile offenders have a right to a public education, all programs for incarcer-
+ated youth include a correctional education component. As such, effectiveness here has to focus
+on describing the balance of evidence favoring the types of interventions examined. Interven-
+tions, methods, and outcomes of interest varied a great deal across the systematic evaluation,
+with studies ultimately falling into six categories: Corrective Reading (a packaged interven-
+tion); computer-assisted instruction (comprising three other packaged reading interventions);
+iii
+iv How Effective Is Correctional Education, and Where Do We Go from Here?
+personalized instruction; other remedial instruction; vocational education; and GED comple-
+tion. Though each category included only a few studies, and though the quality and size of
+these studies were very limited, two interventions showed particular promise: Read 180 (for
+reading improvement) and a personalized and intensive approach piloted at the Avon Park
+Youth Academy in Florida (for diploma completion and postrelease employment).
+Because the landscape in which correctional education occurs has been altered by the
+recent recession, researchers surveyed state correctional education directors to help get a pulse
+on what is going on and what concerns states face. Some key insights from the survey include
+the recognition that the 2008 recession and its long aftermath have had dramatic and nega-
+tive effects on correctional education spending; that there is a growing emphasis on providing
+vocational education programming that will lead to industry or nationally recognized certifi-
+cations; that the importance of computer technology in correctional education is growing but
+use of technology is mixed and access to the Internet by incarcerated students is very limited;
+that states have significant concerns about how ready they are to implement the new 2014
+GED exam and computer-based testing; and that while a large number of states are provid-
+ing postsecondary education, most is paid for by inmates or their families, not by states or the
+federal government.
+Overall, this study shows that the debate should no longer be about whether correctional
+education is effective or cost-effective but rather on where the gaps in our knowledge are and
+opportunities to move the field forward. In that vein, the study argues for a need to fund research
+that both improves the evidence base that the study shows is lacking and gets inside the “black
+box” of interventions to answer questions about the dosage associated with effective programs,
+the most effective models of instruction and curriculum in a correctional setting, and who
+benefits most from different types of correctional education programs. Having such knowl-
+edge is key to telling us which programs should be developed and funded—which programs
+will provide the greatest return on taxpayer dollars. The study also shows the field is ripe for
+larger-scale randomized trials and natural experiments that look at the impacts of correctional
+education provided to juveniles and that can shed much-needed light on what works in these
+settings.
+And there is a need for research that investigates the impact of broader trends in cor-
+rections for correctional education in particular. These include the increasing use of privately
+operated facilities for adults and juveniles (particularly for juveniles), efforts by states to reduce
+the size of their state prison population at the “front end” (for example, by reducing prison
+admissions) and the “back end” (such as by parolee revocations), and the trend of keeping
+youth in the community if at all possible instead of placing them in correctional institutions
+and of keeping them at the local versus the state level.
+While much still remains to be done, the results are encouraging, and the findings and
+recommendations in this study are intended to ensure that moving forward we understand
+how to best leverage academic and vocational education programs to improve the reentry out-
+comes of incarcerated adults and juveniles. We are pleased to have been able to work coopera-
+tively with the RAND staff to offer this important information.
+Denise E. O’Donnell, J.D.
+Director, Bureau of Justice Assistance
+Office of Justice Programs
+U.S. Department of Justice
+Preface
+The Second Chance Act of 2007 (Pub. L. 110-199) is a historic piece of legislation designed to
+improve outcomes for and provide a comprehensive response to the increasing number of indi-
+viduals who are released from prisons, jails, and juvenile residential facilities and returning to
+communities upon release. The Second Chance Act’s grant programs are funded and admin-
+istered by the Office of Justice Programs within the U.S. Department of Justice. In 2010, for
+the first time, funding was set aside for a comprehensive study of correctional education. The
+Office of Justice Programs’ Bureau of Justice Assistance awarded the RAND Corporation
+a cooperative agreement to undertake a comprehensive examination of the current state of
+correctional education for incarcerated adults and juveniles, where it is headed, which cor-
+rectional education programs are effective, and how effective programs can be implemented
+across different settings. Our first report, published in 2013—Evaluating the Effectiveness of
+Correctional Education: A Meta-Analysis of Programs That Provide Education to Incarcerated
+Adults—presented a comprehensive review of the scientific literature and a meta-analysis that
+synthesized the findings from multiple studies on the effectiveness of correctional education
+programs in helping to reduce recidivism and improve postrelease employment outcomes for
+incarcerated adults (Davis et al., 2013).
+This final report to the U.S. Attorney General first presents a summary of the findings
+from our earlier literature review and meta-analysis on the effectiveness of correctional educa-
+tion programs for incarcerated adults. It also provides three new sections. The first of these is a
+systematic review of correctional education programs for juveniles. The second is the results of
+a national survey of state correctional education directors, which provide an up-to-date picture
+of what the field of correctional education looks like today in the United States and explores
+the use of computer technology, preparations for the new 2014 GED exam, and the impact of
+the 2008 recession. We conclude with a set of recommendations, as part of our original charge
+for this study, on improvements needed to further the field of correctional education.
+These results will be of interest to federal and state policymakers; administrators of state
+departments of corrections, public safety, and education; correctional educators and college
+educators; career technical training providers; and other organizations that provide educa-
+tional services and training to the currently incarcerated or formerly incarcerated. These results
+will also be of interest to those in the U.S. Departments of Justice and Education who are com-
+mitted to ensuring the availability and quality of correctional education programs for incarcer-
+ated adults and juveniles.
+v
+vi How Effective Is Correctional Education, and Where Do We Go from Here?
+The RAND Safety and Justice Program
+The research reported here was conducted in the RAND Safety and Justice Program, which
+addresses all aspects of public safety and the criminal justice system, including violence, polic-
+ing, corrections, courts and criminal law, substance abuse, occupational safety, and public
+integrity. Program research is supported by government agencies, foundations, and the private
+sector.
+This program is part of RAND Justice, Infrastructure, and Environment, a division of
+the RAND Corporation dedicated to improving policy and decisionmaking in a wide range of
+policy domains, including civil and criminal justice, infrastructure protection and homeland
+security, transportation and energy policy, and environmental and natural resource policy.
+Questions or comments about this report should be sent to the project leaders, Lois
+M. Davis, Ph.D. (Lois_Davis@rand.org) and Robert Bozick, Ph.D. (Robert_Bozick@rand.
+org). For more information about the Safety and Justice Program, see http://www.rand.org/
+safety-justice or contact the director at sj@rand.org
+Contents
+Foreword ........................................................................................................ iii
+Preface ............................................................................................................ v
+Figure and Tables .............................................................................................. xi
+Summary .......................................................................................................xiii
+Acknowledgments ........................................................................................... xxv
+Abbreviations ................................................................................................xxvii
+ChAPTer One
+Introduction ..................................................................................................... 1
+Overview .......................................................................................................... 1
+The Evolution of Correctional Education in the United States ............................................. 4
+Organization of This Report .................................................................................... 6
+ChAPTer TwO
+how effective Is Correctional education for Incarcerated Adults? ................................... 7
+Introduction ...................................................................................................... 7
+Previous Meta-Analyses on Correctional Education ......................................................... 7
+Lipton, Martinson, and Wilks (1975) ....................................................................... 8
+Wilson, Gallagher, and MacKenzie (2000) ................................................................. 9
+MacKenzie (2006) ............................................................................................. 9
+Aos, Miller, and Drake (2006) ..............................................................................10
+Approach .........................................................................................................10
+Approach to Conducting the Systematic Review of the Literature .....................................10
+Approach to Conducting the Meta-Analysis ..............................................................12
+Meta-Analysis Findings ........................................................................................13
+The Relationship Between Correctional Education and Recidivism ...................................13
+The Relationship Between Correctional Education and Postrelease Employment ....................15
+The Relationship Between Correctional Education and Test Scores ...................................15
+Results of Comparing Correctional Education and Reincarceration Costs ..............................16
+Summary .........................................................................................................18
+ChAPTer Three
+A Systematic review of Correctional education Programs for Incarcerated Juveniles...........21
+Introduction .....................................................................................................21
+Purpose and Organization of the Chapter ................................................................ 23
+Approach ........................................................................................................ 24
+vii
+viii How Effective Is Correctional Education, and Where Do We Go from Here?
+Document Identification .................................................................................... 24
+Eligibility Assessment ........................................................................................25
+Scientific Review ............................................................................................. 27
+Synthesis of Eligible Studies ................................................................................ 28
+Results ........................................................................................................... 30
+Corrective Reading ...........................................................................................31
+Computer-Assisted Instruction ..............................................................................35
+Personalized and Intensive Instruction .................................................................... 38
+Other Remedial Instruction Programs .................................................................... 44
+Vocational/Career Technical Education ...................................................................47
+GED Completion ............................................................................................ 50
+Discussion ........................................................................................................52
+Limitations of Our Approach ...............................................................................52
+Key Insights for the Research Community ................................................................53
+Key Insights for Policymakers and Practitioners ......................................................... 54
+ChAPTer FOur
+rAnD Correctional education Survey ...................................................................57
+Introduction .....................................................................................................57
+Approach .......................................................................................................57
+Results ............................................................................................................59
+Overview of Correctional Education Programs Today ...................................................59
+Funding of Correctional Education and Impact of the 2008 Recession ...............................61
+Postsecondary Education ................................................................................... 66
+Use of Technology and Preparedness for Implementation of the 2014 GED Exam ................. 68
+Outcome Indicators and Postrelease Measures of Success ...............................................72
+Discussion ....................................................................................................... 77
+Variation in Correctional Education Programming Across the States ................................ 77
+Impact of the 2008 Recession .............................................................................. 77
+Use of Information Technology .............................................................................78
+Readiness for the 2014 GED Exam and Computer-Based Testing .....................................79
+Postsecondary Education ................................................................................... 80
+ChAPTer FIve
+Conclusions and recommendations .......................................................................81
+Introduction .....................................................................................................81
+Correctional Education for Adults ............................................................................81
+Correctional Education for Juveniles ........................................................................ 84
+Improving the Evidence Base for Adult and Juvenile Correctional Education ..........................85
+Apply Stronger Research Designs ...........................................................................85
+Measure Program Dosage ................................................................................... 86
+Identify Program Characteristics .......................................................................... 86
+Examine More-Proximal Indicators of Program Efficacy ............................................... 87
+Implications of Broader Trends in Corrections for Correctional Education ............................ 88
+Concluding Thoughts ......................................................................................... 90
+Contents ix
+APPenDIxeS
+A. Summary of Studies for the Juvenile Correctional education review ...........................91
+B. rAnD Correctional education Survey Questionnaire ............................................ 99
+Appendix C: Juvenile Scientific Review Protocol is available online at
+http://www.rand.org/pubs/research_reports/RR564.html
+references ..................................................................................................... 117
+Figure and Tables
+Figure
+3.1. Eligibility Assessment of Potential Documents for Inclusion in the Systematic
+Review .............................................................................................. 28
+Tables
+2.1. Summary of Meta-Analysis Findings by Outcome ............................................14
+3.1. Operational Definitions of Evidence Rating Categories on the What Works
+Clearinghouse and Maryland Scientific Methods Scales for the Juvenile Systematic
+Review .............................................................................................. 26
+3.2. Summary of Findings for Reading Interventions ..............................................31
+3.3. Summary of Findings for Other Juvenile Correctional Interventions .......................41
+4.1. Number of States Offering Educational Programs to Adult State Prisoners,
+by Type of Program ............................................................................... 60
+4.2. Number of States Offering Nationally or Industry-Recognized Certifications ............61
+4.3. Degree to Which Participation in Correctional Education Programs Is Mandatory ......62
+4.4. Mean Change in State Correctional Education Budgets Between FY2009 and
+FY2012 ..............................................................................................62
+4.5. Number of States Reporting Decrease in Funding Between FY2009 and FY2012 .......63
+4.6. Mean Change in States’ Correctional Education Budgets per Student Between
+FY2009 and FY2012 ..............................................................................63
+4.7. Of Those States That Reported a Decrease in Funding Between FY2009 and
+FY2012, Changes Made in Staffing Levels and Capacity in Response to Budget Cuts .. 64
+4.8. Change in Number of Students Enrolled in Academic Programs and Vocational
+Education/CTE Programs, FYs 2009 and 2012 ...............................................65
+4.9. Change in the Number of Employee or Contract Teachers by Type of Program,
+FYs 2009 and 2012 ................................................................................67
+4.10. Funding Sources Used to Pay for Adult Inmates’ Postsecondary Education or
+College Courses ................................................................................... 68
+4.11. Types of Technology Hardware and Networks Used in States’ Correctional
+Education Systems .................................................................................69
+4.12. Instruction Methods for Academic Programs or Vocational Education/CTE
+Courses ..............................................................................................70
+xi
+xii How Effective Is Correctional Education, and Where Do We Go from Here?
+4.13. Number of States Offering Access to the Internet for Correctional Education
+Programs ............................................................................................70
+4.14. Professional Development Training for Teachers/Instructors to Prepare Them to
+Teach the New 2014 GED Exam ................................................................72
+4.15. Concerns About Forthcoming Changes to the 2014 GED Exam and the Move to
+Computer-Based Testing ..........................................................................73
+4.16. Outcome Indicators Tracked by States’ Correctional Education Systems ..................74
+4.17. Postrelease Indicators States Consider to Be Important Outcome Measures for
+Correctional Education ...........................................................................75
+4.18. Federal, State, or Private Grant Programs States’ Correctional Education Systems
+Participate in .......................................................................................76
+4.19. Amount of Funding States’ Correctional Education Programs Received in 2012
+from the Workforce Investment Act, Perkins Act, and States’ Higher
+Educational/Aid Resources .......................................................................76
+A.1. Summary of Studies, Samples, and Effects in the Systematic Review ...................... 92
+Summary
+Introduction
+Each year, more than 700,000 incarcerated individuals leave federal and state prisons; within
+three years of release, 40 percent will have committed new crimes or violated the terms of their
+release and be reincarcerated. Although a number of factors impede the ability of ex-offenders
+to successfully reintegrate into communities and, thus, affect recidivism rates, one key factor
+is that many ex-offenders do not have the knowledge, training, and skills to support a success-
+ful return to their communities. Research, for example, shows that ex-offenders, on average,
+are less educated than the general population: 37 percent of individuals in state prisons had
+attained less than a high school education in 2004, compared with 19 percent of the general
+U.S. population age 16 and over; 16.5 percent of state prisoners had just a high school diploma,
+compared with 26 percent of the general population; and 14.4 percent of state prison inmates
+had at least some postsecondary education, compared with 51 percent of the general U.S. adult
+population. Moreover, literacy levels for the prison population also tend to be lower than that
+of the general U.S. population.
+This lower level of educational attainment represents a significant challenge for ex-
+offenders returning to local communities, because it impedes their ability to find employ-
+ment. A lack of vocational skills and a steady history of employment also have an impact, with
+research showing that incarceration impacts unemployment and earnings in a number of ways,
+including higher unemployment rates for ex-offenders and lower hourly wages when they are
+employed. Also, individuals being released to the community face a very different set of job
+market needs than ever before, given the growing role of computer technology and the need
+for at least basic computer skills.
+Given these gaps in educational attainment and vocational skills and the impact they
+have on ex-offenders, one strategy is to provide education to inmates while they are incarcer-
+ated, so that they have the skills to support a successful return to their communities. Histori-
+cally, support for educational programs within correctional settings has waxed and waned over
+time as the nation’s philosophy of punishment has shifted from rehabilitation to crime control.
+Although there is general consensus today that education is an important component of
+rehabilitation, the question remains: How effective is it in helping to reduce recidivism and
+improve postrelease employment outcomes? The question is especially salient as the nation
+as a whole and states in particular have struggled with the need to make spending cuts to all
+social programs due to the recession of 2008 and its long aftermath. With funding from the
+Second Chance Act of 2007 (Pub. L. 110-199), the U.S. Justice Department’s Bureau of Justice
+Assistance awarded RAND a cooperative agreement in 2010 to comprehensively examine the
+current state of correctional education for incarcerated adults and juveniles, where it is headed,
+xiii
+xiv How Effective Is Correctional Education, and Where Do We Go from Here?
+which correctional education programs are effective, and how effective programs can be imple-
+mented across different settings.
+The study was designed to address the following key questions of importance to the field
+of correctional education:
+1. What is known about the effectiveness of correctional education programs for incarcer-
+ated adults?
+2. What is known about the effectiveness of correctional education programs for juvenile
+offenders?
+3. What does the current landscape of correctional education look like in the United
+States, and what are some emerging issues and trends to consider?
+4. What recommendations emerge from the study for the U.S. Department of Justice and
+other federal departments to further the field of correction education, and where are
+there gaps in our knowledge? What promising practices, if any, emerge from this review
+and evaluation?
+To address these questions, we used a mixed-methods approach. This report first presents
+a summary of the prior systematic literature review and meta-analysis of adult correctional
+education programs (Davis et al., 2013), which included studies completed between 1980 and
+2011. It then presents two new sections: a systematic literature review of primary studies of
+correctional education programs for juveniles and a nationwide web-based survey of state cor-
+rectional education directors. We conclude with a set of recommendations for moving the field
+forward.
+For purposes of our study, we defined correctional education for incarcerated adults as
+including the following:
+• Adult basic education: basic skills instruction in arithmetic, reading, writing, and, if
+needed, English as a second language (ESL)
+• Adult secondary education: instruction to complete high school or prepare for a cer-
+tificate of high school equivalency, such as the General Education Development (GED)
+certificate
+• Vocational education or career technical education (CTE): training in general employ-
+ment skills and in skills for specific jobs or industries
+• Postsecondary education: college-level instruction that enables an individual to earn col-
+lege credit that may be applied toward a two- or four-year postsecondary degree.
+To meet our definition of correctional education, the program had to be administered at least
+partly within a correctional facility. Programs that also included a postrelease transition com-
+ponent remained eligible as long as part of the program was administered in a correctional
+setting.
+For the juvenile program systematic review, we define incarcerated youth as individuals
+under age 21 who are legally assigned to correctional facilities as a result of arrest, detainment
+for court proceedings, adjudication by a juvenile court, or conviction in an adult criminal
+court (Office of Juvenile Justice and Delinquency Prevention, 2013). We define correctional
+education as any academic or vocational education/CTE program provided within the correc-
+tional facility setting, regardless of jurisdiction. As with our adult review, we permitted eligible
+Summary xv
+interventions for juveniles to include an aftercare (postrelease) component, but the interven-
+tions had to be delivered primarily in the correctional facility.
+How Effective Are Correctional Education Programs for Incarcerated Adults?
+In terms of the effectiveness of correctional education programs for incarcerated adults, early
+reviews in this area found inconclusive evidence to support their efficacy—a finding that con-
+tributed to the popular belief that “nothing works” in prisoner rehabilitation; however, this
+conclusion may have been premature, given that appropriate analytic techniques had not been
+developed. More recent reviews, using meta-analysis techniques, question the conclusions of
+the earlier work, finding evidence of a relationship between correctional education program
+participation before release and lower odds of recidivating after release (Wilson, Gallagher,
+and MacKenzie, 2000; MacKenzie, 2006; Aos, Miller, and Drake, 2006). However, the most
+recent meta-analyses (Aos, Miller, and Drake, 2006; MacKenzie, 2006) did not consider
+employment outcomes; thus, whether program participation is associated with postrelease suc-
+cess in the labor market remained unclear.
+These earlier reviews provide the context for the current systematic review and meta-
+analysis. Our systematic review scanned the universe of potential documents to compile all
+available empirical research studies that examine the effect of correctional education programs
+on the three outcomes of interest—recidivism, postrelease employment, and reading and math
+scores. This search yielded 1,112 documents, of which 267 were identified as primary empirical
+studies. To be in our meta-analysis, the study needed to meet three eligibility criteria: (1) evalu-
+ate an eligible intervention, defined here as an educational program administered in a jail or
+prison in the United States published (or released) between January 1, 1980, and December 31,
+2011; (2) measure the effectiveness of the program using an eligible outcome measure, which for
+our meta-analysis included recidivism, postrelease employment, and achievement test scores;
+and (3) have an eligible research design, which, for our purposes, is one where there is a treat-
+ment group comprising inmates who participated in or completed the correctional education
+program and a comparison group of inmates who did not.
+Of the 267 primary empirical studies, 58 met all three eligibility criteria.1 With respect
+to recidivism, based on the higher-quality research studies, we found that, on average, inmates
+who participated in correctional education programs had a 43 percent lower odds of recidivating
+than inmates who did not, thus indicating that correctional education is an effective strategy
+for reducing recidivism.2 This estimate is based only on nine effect sizes from studies that met
+higher levels of rigor (i.e., earned 4s or 5s on the Maryland Scientific Methods Scale), but the
+results were very similar even when the lower-quality studies were included in the analysis. This
+translates to a reduction in the risk of recidivating of 13 percentage points for those who partici-
+pated in correctional education programs versus those who did not.
+1 Our recidivism analysis is based on 71 effect sizes from 50 studies, our employment analysis is based on 22 effect sizes
+from 18 studies, and our test score analysis is based on nine effect sizes from four studies.
+2 We define recidivism a number of ways in the individual studies reviewed, including reoffending, rearrest, reconviction,
+reincarceration, technical parole violation, and successful completion of parole. In our pool of 50 studies that had recidi-
+vism outcomes, the majority used reincarceration as the outcome measure (n = 34).
+xvi How Effective Is Correctional Education, and Where Do We Go from Here?
+When aggregating across 18 studies that used employment as an outcome, we found that
+the odds of obtaining employment postrelease among inmates who participated in correctional edu-
+cation (either academic or vocational/CTE programs) were 13 percent higher than the odds for those
+who did not. However, the findings are only suggestive about whether correctional education
+is an effective strategy in improving postrelease employment outcomes because only one of the
+18 studies was of higher quality (level 4 or higher), thus limiting our ability to make a more
+definitive statement.
+When aggregating across four studies that used achievement test scores as an outcome, we
+found that learning gains in both reading and math among inmates exposed to computer-assisted
+instruction were similar to learning gains made by inmates taught through traditional (face-to-face)
+instruction methods.3
+Although doing a formal cost-effectiveness analysis was beyond the scope of this study,
+we wanted to provide some context for what the meta-analysis findings mean. Focusing on the
+outcome of recidivism and using a hypothetical pool of 100 inmates, we compared the direct
+costs of correctional education programs and of incarceration itself. We found that the direct
+costs of reincarceration were far greater than the direct costs of providing correctional education.
+More specifically, for a correctional education program to be cost-effective—or breakeven—we
+estimated that it would need to reduce the three-year reincarceration rate by between 1.9 per-
+centage points and 2.6 percentage points. Given that our findings indicate that participation
+in correctional education programs is associated with a 13-percentage-point reduction in the
+risk of reincarceration three years following release, correctional education programs appear to far
+exceed the break-even point in reducing the risk of reincarceration. We also note that the results
+are likely to be conservative, because they do not include the indirect costs of reincarceration.
+How Effective Are Correctional Education Programs for Juvenile Offenders?
+When it comes to assessing correctional education programs for juvenile offenders, we face a
+fundamental difference between juvenile and adult correctional policy: Juveniles in the United
+States have a right to a public education. Therefore, all programs for incarcerated youth include
+an educational component. This means that the question facing policymakers is not whether
+to provide education services for juveniles in correctional facilities, but which types of programs
+are most effective. The meta-analytic approach in our adult analysis included many types of cor-
+rectional education, each of which was compared with a no-correctional-education scenario.
+However, that approach is less well suited to studying the effectiveness of juvenile correctional
+education programs, because correctional education programs are typically present in all juve-
+nile facilities. Instead, our approach to synthesizing research on juvenile correctional educa-
+tion was to undertake a systematic review, in which we screened and evaluated articles using
+the same criteria as we used in our adult meta-analysis. But rather than aggregating estimated
+effect sizes across studies that are testing widely different hypotheses for treatment versus com-
+parison groups, we focus on describing the balance of evidence favoring the types of interven-
+tions examined in the literature we reviewed.
+Altogether, the document search process resulted in 1,150 citations for title-and-abstract
+screening, which, in turn, led to 157 manuscripts eligible for full-text screening. Of those,
+3 Three of the four studies, representing seven effect sizes, were of higher quality.
+Summary xvii
+18 studies were deemed eligible for the systematic review by having met three criteria: (1) be
+an eligible intervention, defined as any academic or vocational education/CTE intervention
+program, with an eligible population, defined as consisting primarily of individuals age 20 or
+below, in an eligible setting, defined as any facility regardless of jurisdiction (i.e., local, state) to
+which juveniles are confined because of arrest, court proceedings, or adjudication/conviction;
+(2) use eligible outcome measures, defined as any measure of recidivism (e.g., rearrest, reconvic-
+tion, or reincarceration), postrelease employment, academic attainment (e.g., GED or high
+school completion), and academic performance (e.g., test scores in reading and mathematics);
+and (3) have an eligible research design. This includes a comparison-group design in which a group
+of incarcerated juveniles who received an intervention is compared with a group of incarcerated
+juveniles who did not, or who received a different version of the treatment. We also included a
+class of approaches called single-case designs, which involve systematically introducing an inter-
+vention with one or a few students in an effort to demonstrate causal effects on outcomes such
+as participant behavior or learning. These studies typically include a large number of pre- and
+post-intervention outcome measurements, allowing students to function as their own controls.
+Because these designs usually focus on only a handful of participants, they typically preclude
+traditional hypothesis testing. This means that their findings cannot be generalized to a larger,
+hypothetical population of interest.
+Our systematic review reveals great heterogeneity in terms of interventions, methods,
+and outcomes of interest. Among the 18 eligible studies we identified (16 comparison-group
+studies and two well-executed single-case design ones), we classified the interventions into
+six categories—Corrective Reading (a commercially packaged curriculum), computer-assisted
+instruction, personalized instruction, other remedial education, vocational education, and
+GED completion. Studies in the first two categories focused on packaged and branded read-
+ing interventions (Corrective Reading, Read 180, Fast ForWord, and TUNEin to READING)
+and focused on reading performance as the dependent variables of interest. Studies in the latter
+three categories focused on a broader set of outcomes, including not only reading and math-
+ematics performance but also measures such as diploma completion, postrelease employment,
+and postrelease recidivism.
+Given the small number of studies in each category, we cannot easily extrapolate the
+effects of differential dosages or implementation approaches. However, taken in conjunc-
+tion with the broader research literature on each of the interventions examined, our system-
+atic review does identify two interventions that show particular promise: Read 180 (for reading
+improvement) and Florida’s Avon Park Youth Academy (for diploma completion and postrelease
+employment). Both of these interventions are supported by a large and rigorous study within
+juvenile correctional settings, and the effectiveness of Read 180 is further substantiated by sev-
+eral large and well-executed studies outside of correctional facilities. Beyond these compelling
+studies, we find that evidence for two other packaged interventions, Corrective Reading and
+TUNEin to Reading, is positive, but the underlying studies are too small to warrant general-
+ization. Evidence concerning vocational education/CTE and GED completion is also positive,
+but the underlying research designs are vulnerable to selection bias. This limits the quality of
+conclusions that can be drawn about these programs.
+xviii How Effective Is Correctional Education, and Where Do We Go from Here?
+What Is the Current Correctional Education Landscape and What Trends Are
+Important?
+When we began the correctional education study, we recognized early on that the 2008 reces-
+sion had a substantial effect on the field of correctional education, with many states reporting
+cuts in funding for programs and changes to their delivery models for educating incarcer-
+ated adults. This means that today correctional education in the United States likely looks
+very different from correctional education during the time that many of the studies in the
+meta-analysis and adult systematic review were undertaken. Understanding these differences
+helps us to put our review results in context and provides the basis for forward-looking policy
+recommendations.
+In July 2013, we fielded the RAND Correctional Education Survey to help fill a critical
+void in our understanding of the organization and delivery of academic and vocational educa-
+tion/CTE to incarcerated adults. This web-based survey of correctional education directors in
+all 50 states provides us with insights into how states dealt with the recession of 2008, how
+correctional education is currently provided to incarcerated adults in the United States, what
+technology is being used, and how states fund correctional education. We also gathered infor-
+mation on preparations for the new 2014 GED exam. We classified the size of state by the
+adult prison population in 2012 and considered small states to have an adult prison population
+in the range 1–24,999; medium states, in the range 25,000–49,999; and large states, 50,000
+or more adult prisoners. The overall response rate was 46 out of 50 states, or 92 percent. Of
+these 46, 42 completed the entire questionnaire, and four provided only partial responses to
+the survey. Forty of the respondents had responsibility for both adult correctional education
+and vocational training in their state; five respondents for academic education only; and one
+respondent for vocational training only.
+Variation in Correctional Education Programming Across the States
+In 2013, most states offered adult basic education, GED courses, and vocational education/
+CTE programs, and most reported having special education courses available. Higher-level
+educational programming such as adult secondary education and postsecondary education was
+offered in 32 of the states, although smaller states were less likely to do so. Postsecondary edu-
+cation courses today in 28 states are primarily paid for by the individual inmate or by family
+finances; in 16 states, state funding is used to cover the costs of postsecondary education, and
+12 states reported using college or university funds.
+Participation in correctional education programs is mandatory in 24 states for adult
+inmates without a high school diploma or GED, and in 15 states it is mandatory for adults
+below a certain grade level, with smaller states less likely to require mandatory participation.
+An emerging trend is a growing emphasis on providing vocational education/CTE pro-
+gramming that will lead to industry or nationally recognized certifications. Smaller states were
+more likely to emphasize vocational education/CTE training for state prisoners than medium-
+sized or large states.
+Impact of the 2008 Recession
+The effect of the 2008 recession was an overall 6 percent decrease on average in states’ cor-
+rectional education budgets between fiscal years (FYs) 2009 and 2012. The largest impact on
+budgets was felt by medium-sized and large states (on average, a 20 percent and 10 percent
+Summary xix
+decrease, respectively). Overall, the mean dollars spent per student for correctional educa-
+tion was $3,479 in FY2009, compared with $3,370 in FY2012—this represented a 5 percent
+decrease on average in the dollars spent per student.
+The result was a contraction in the capacity of academic education programs and an overall
+decrease of 4 percent on average in the number of adult students who participated in these
+programs, with medium-sized and large states experiencing somewhat larger decreases (10 per-
+cent and 8 percent, respectively, compared with a 1 percent decrease for small states). In addi-
+tion, 20 states reduced the number of course offerings for academic programs during this time
+period.
+The effect of the staffing and capacity cost-cutting measures on teachers for academic
+programs was particularly felt in medium-sized and large states. Overall, there was, on aver-
+age, a 4 percent decrease in the number of academic teachers who were employees. The largest
+decrease occurred in medium-sized and large states (on average, 44 percent and 20 percent,
+respectively, compared with a 5 percent decrease for small states).
+Vocational education/CTE programs seemed to have fared somewhat better during the reces-
+sion than academic programs in terms of reductions in the number of students enrolled in
+vocational education/CTE programs and in the number of instructors. On average, there was
+a 1 percent increase in the number of students enrolled in vocational/CTE programs between
+FYs 2009 and 2012. However, this appears to be largely driven by an increase, on average, of
+7 percent within the smaller states. In comparison, the medium-sized and large states experi-
+enced a reduction in the number of students in vocational education/CTE programs, on aver-
+age, of 4 percent and 11 percent, respectively. There also appears to have been a modest expan-
+sion of vocational education/CTE programs in small and medium-sized states during this time
+period, as evidenced by a modest increase between FYs 2009 and 2012 in the number of voca-
+tional education/CTE instructors who were employees (on average 8 percent and 24 percent,
+respectively for small and medium-sized states). Still, 38 percent of small states and 50 percent
+of medium-sized states reported that they had reduced the number of course offerings for voca-
+tional education/CTE programs in response to budget cuts.
+Use of Information Technology
+One of the major trends that will shape the future of work in the 21st century is the growing
+role of information technology in society, with technological change resulting in an increased
+demand for a skilled workforce (Karoly, 2013). Further, distance learning and online instruc-
+tion are growing trends in the United States, with increasingly more educational courses being
+offered online by either colleges or virtual high schools. Computer-assisted instruction is also
+appealing in offering the opportunity to tailor instruction and coursework to the needs of the
+individual student.
+The importance of computing skills for today’s job market is recognized by state correc-
+tional education directors, as reflected by the fact that 24 states reported offering a Microsoft
+Office certification as part of their vocational education/CTE programs. However, our survey
+results indicate that the role of computer technology in correctional education is a mixed story.
+We found that the use of computers for instructional purposes is common, with 39 states
+reporting the use of desktop computers (either standalone or networked) and 17 states report-
+ing the use of laptops. However, access to the Internet and the use of Internet-based instruction
+(one-way or interactive) is reported to be limited in states’ correctional facilities. Thirty states
+reported that only teachers and instructors have access to live Internet technology. In 26 states,
+xx How Effective Is Correctional Education, and Where Do We Go from Here?
+inmate students lack access to any Internet technology, and in only 16 states do inmate stu-
+dents have access to simulated Internet programs. In terms of instructional methods that use
+some type of technology, only ten states reported that they had closed-circuit television, and
+only a few states reported using it to provide one-way or interactive video/satellite instruction.
+Readiness for the 2014 GED Exam and Computer-Based Testing
+The GED is the predominant way that inmates earn their high school equivalency diplomas
+(Harlow, 2003), and GED completion is often a prerequisite for many vocational training
+programs. The 2014 GED exam not only represents a more rigorous test, being aligned with
+the Common Core State Standards (CSS), but will also rely on a new test delivery model—
+namely, computer-based testing to replace the old paper-and-pencil exam (Lockwood et al.,
+2013). This represents a profound change to states and one that presents some key challenges.
+GED completion rates were seen as an important outcome indicator to track by 40 states
+that took part in our survey. Yet, of the 31 states planning to implement the 2014 GED exam,
+14 states expected that the more rigorous GED exam and the use of computer-based testing
+may have a negative effect on the number of adult inmates who will be prepared to take the
+new exam, and 16 states expected a negative effect on GED completion rates. This was particu-
+larly true for the medium-sized and large states.
+All but two of the 31 states planning to implement the 2014 GED exam expressed con-
+cerns about the new exam and computer-based testing. Nineteen states were concerned about
+their teachers being adequately prepared to teach the new GED exam, and 24 of the states were
+concerned about the length of time it may take to prepare students for the more rigorous exam.
+In addition, 12 of the states reported concerns that limited access to computers may preclude
+some students from taking the new GED exam. Also, responding directors in 14 of the states
+reported concerns that their teachers may not be adequately prepared to implement computer-
+based testing. Other concerns expressed were the cost to the individual student and the cost
+of the new GED exam to their institutions, with some states considering the adoption of
+alternative high school equivalency exams. In general, smaller states expressed fewer concerns;
+however, our survey results suggest that states with the majority of the prison population (i.e.,
+medium-sized and large states) expect to encounter a number of challenges in implementing
+the new GED exam and test delivery system.
+What Are Some Key Recommendations for Moving Forward?
+This study’s key finding is that correctional education is effective in reducing recidivism for
+incarcerated adults and that there is some evidence that it also is effective, especially vocational
+education/CTE programs, in improving individuals’ likelihood of postrelease employment.
+Also, our cost analysis showed that correctional education is highly cost-effective for incarcer-
+ated adults: For every dollar spent on correctional education, five dollars are saved on three-
+year reincarceration costs. But the available literature provides less certainty on the effective-
+ness of correctional education for incarcerated juveniles—some practices are clearly promising,
+but the knowledge base is thin. Still, the debate should no longer be about whether correctional
+education is effective or cost-effective; rather, the debate should focus on where the gaps in our
+knowledge are and opportunities to move the field forward.
+Summary xxi
+We offer some recommendations and next steps that are drawn from our evaluation
+results; while this report is to the U.S. Attorney General, these recommendations will also be
+of interest to other federal departments and agencies focused on reentry. These recommenda-
+tions are intended to provide a roadmap for building on the gains made to date in educating
+incarcerated individuals to improve their chances of success upon release and reentry into local
+communities.
+Correctional Education for Adults
+Our survey results provide solid evidence about the dramatic impact the 2008 recession had on
+correctional education in the United States. The recession and its long aftermath led to a reduc-
+tion in correctional education spending and a decrease in the number of incarcerated adults
+who participate in these programs. This raises the question of whether the trade-offs we are
+making in terms of cost savings today with reductions in educational programming are worth-
+while, considering the future costs of reincarceration and the effect that such lost opportunities
+may have on individuals’ chances of finding employment and being successful in reintegrating
+back into society. State corrections directors want to know how they can modify their models
+of education to trim their budgets while still maintaining the effectiveness of their programs.
+The results of our meta-analysis (Davis et al., 2013) show that correctional education programs
+are dramatically effective in reducing recidivism, and there is some evidence of improvements
+to postrelease employment outcomes. We also showed that correctional education programs
+are highly cost-effective for incarcerated adults. But because of limitations in quality of the evi-
+dence base, we cannot answer the other critical questions needed to inform discussions about
+modifications to educational programming in a resource-constrained environment. We concur
+with MacKenzie’s (2008) assessment that we still are unable to get at what is inside the “black
+box” of what works in correctional education, to answer such questions as:
+• What dosage is associated with effective programs, and how does it vary for different
+types of academic programs and students?
+• What models of instruction and curriculum delivery (e.g., one-on-one, traditional class-
+room lectures, computer-based learning) are most effective in a correctional environment?
+• Who benefits most from different types of correctional education programs?
+• What principles from adult education and learning may be applicable to correctional
+education?
+Thus, we recommend the following to help address these concerns:
+• Focus research and evaluation efforts at the federal and state levels to address these ques-
+tions so that policymakers and state correctional education directors can make informed
+trade-offs in budget discussions.
+• Have federal and state governments and philanthropy fund (1) evaluations of programs
+that illustrate different educational instructional models, with the goal of getting inside
+the black box; (2) evaluations of programs that are trying innovative strategies to imple-
+ment technology and leverage distance learning in the classroom; and (3) an analysis of
+what lessons from the larger literature on adult education may be applied to correctional
+education.
+xxii How Effective Is Correctional Education, and Where Do We Go from Here?
+• Have the federal government monitor and assess the impact of the new GED and com-
+puter-based testing on correctional education implementation and outcomes. Consider
+opportunities to provide technical assistance to states in helping educators teach the
+material for the more-rigorous content in the new GED. In juvenile correctional settings,
+technical assistance for implementing the new Common Core State Standards, which
+have influenced the move toward a more-rigorous GED, is also likely to be needed.
+• Conduct new research on instructional quality in correctional education settings, and
+on ways to leverage computer technology to enhance instruction in correctional settings.
+• Given the changes in the U.S. economy and the shifting needs of the 21st century work-
+force, conduct an assessment at the federal and state levels about what such changes mean
+for the criminal justice–involved population. Consider a summit at the state and federal
+levels with private industry about what opportunities are available to formerly incarcer-
+ated individuals and what skills will be needed in the future.
+Correctional Education for Juveniles
+Based on our systematic review of the literature on education provided to juveniles in institu-
+tional settings, we believe that the field is ripe for larger-scale randomized trials. Two of the
+studies we reviewed, Loadman et al.’s (2011) Read 180 study and the National Council on
+Crime and Delinquency’s (2009) Avon Park study, suggest that such studies, though chal-
+lenging to undertake, are feasible. The literature is also ripe for rigorous evaluations of natural
+experiments, such as Aizer and Doyle’s (2013) study of the effects of juvenile incarceration
+using naturally occurring random assignment to harsh judges. Studies that take advantage
+of rigorous causal methods in juvenile settings can shed much-needed light on what works in
+these settings. Several of the smaller randomized trials we include in our review have noted
+the difficulties of high student turnover in correctional facilities and of simply gaining permis-
+sion to undertake research in these facilities (Shippen et al., 2012; Calderone et al., 2009). As
+such, we recommend that the focus be on developing larger-scale randomized trials and
+rigorous evaluations of natural experiments. Such research efforts will clearly take time to
+develop and execute. They will ideally be realized through long-term partnerships between
+researchers and correctional facilities. Because such partnerships take time to establish, there
+may also be a federal role in galvanizing them. The U.S. Department of Education Institute of
+Education Science’s recent grant program for supporting research partnerships between school
+systems and researchers offers one potential model. Informed by such partnerships, facilities
+can make increasingly evidence-based decisions that not only improve their students’ prospects
+but also reduce the social incidence of crime and delinquency.
+Improving the Evidence Base
+In our meta-analytic report (Davis et al., 2013), we laid out a number of recommendations
+to improve the evidence base for adult correctional education. Those recommendations also
+pertain to juvenile correctional education and merit summarizing here. we recommend that
+the federal and state governments and philanthropy invest in well-designed evaluations
+of correctional education programs and use funding and grant mechanisms to encour-
+age improvements in four areas to further develop the evidence base for correctional
+education:
+Summary xxiii
+• Apply stronger research designs to help establish a causal relationship between cor-
+rectional education participation and successful outcomes for inmates to help rule out
+the possibility of selection bias. In this context, identifying the appropriate comparison
+groups is important, as is establishing a study registry to help sort out the different effect
+sizes found across studies.
+• Measure program dosage to help put the findings from individual studies in their
+proper contexts. The lack of dosage information means that there is little to no empirical
+evidence that can help inform policymakers on “how much” correctional education is
+necessary to produce a change in the desired outcomes.
+• Identify program characteristics to help policymakers identify promising or evidence-
+based programs that could be potentially replicated in other settings and specific exem-
+plary programs.
+• examine more proximal indicators of program efficacy to help better refine the pro-
+cess through which correctional education helps shape how former inmates re-integrate
+into the community. This includes understanding how improving the skills and abilities
+of inmates (i.e., “human capital” in economics parlance) could, in turn, improve former
+inmates’ chances of continuing education/training upon release and then finding gainful
+employment.
+In addition, a study registry of correctional education evaluations would further
+aid in developing the evidence base in this field to help inform policy and programmatic
+decisionmaking.
+Implications of Broader Trends in Corrections for Correctional Education
+Several trends in the field of adult and juvenile corrections have important implications for
+correctional education that merit further consideration. First, many states are undertaking mea-
+sures to reduce the size of their state prison population using a variety of means. This includes both
+“front-end” strategies—such as reducing prison admissions, diverting offenders to county-
+rather than state-level institutions, or changing felonies to misdemeanors—and “back-end”
+strategies—such as reducing sentence lengths through earned credits or good time and revoca-
+tions for probationers and parolees. All these changes in the correctional landscape have impli-
+cations for how we think about providing academic education and vocational education/CTE
+to incarcerated adults. For example, there is California’s Public Safety Realignment, where
+county jails now have some inmates serving sentences of two, three, or more years instead of
+the typical length of stay of two to three months. However, county jails are not set up to pro-
+vide rehabilitative services over the long term, including academic programs and vocational/
+CTE programs. The result of various states and localities implementing strategies to keep low-
+level offenders at the local level is that, in some instances, we may end up with a two-tiered
+system of education where, ironically, more serious offenders who serve their sentence in state
+prison may have better access to correctional education programs than low-level offenders
+who serve their sentences in county jails. Such policy changes also raise other questions: Are
+there differences in access to academic education and vocational education/CTE programs
+depending on the setting where one serves one’s sentence? Are there differences in educational
+and employment outcomes for offenders who serve their time at the local level compared with
+offenders serving their sentence in state prison systems?
+xxiv How Effective Is Correctional Education, and Where Do We Go from Here?
+Second, a long-term trend in the field of juvenile corrections is to keep youth in the community
+if at all possible instead of placing them in correctional institutions, and to keep them at the local
+versus the state level. Our systematic review focused on what works with incarcerated youth in
+part because the broader literature on educational interventions for juvenile offenders outside
+of correctional facilities is even more nebulous. An important direction for future research
+is to identify interventions that improve juveniles’ educational, employment, and recidivism
+outcomes in less-restrictive settings, such as alternative schools or traditional schools. To guide
+policy improvements, stronger federal reporting requirements about local correctional educa-
+tion practices could help facilitate improved state and local comparisons of program effects.
+Whether collected federally or privately, a central repository of such information (e.g., staff-
+ing levels and expertise, curriculum used, hours of instruction provided, types of programs
+offered) would provide a valuable tool to policymakers and researchers alike.
+we recommend that policymakers seek to assess and understand the implications
+of these trends in the field of corrections with respect to their impact on correctional
+education.
+Concluding Thoughts
+There are more than 2 million adults incarcerated in the United States. This study demon-
+strates that education programs can help adults get back on their feet upon release from prison
+and help juveniles involved with the juvenile justice system to continue with their education.
+Education programs are also highly cost-effective in helping to reduce recidivism. States will
+continue to operate in a reduced funding environment for the near future. The findings and
+recommendations we present here are intended to ensure that, moving forward, we understand
+how best to leverage academic education and vocational education/CTE programs to improve
+the reentry outcomes of incarcerated adults and juveniles.
+Acknowledgments
+We are particularly grateful for the guidance and feedback provided throughout this project
+by our Bureau of Justice Assistance project officers, Gary Dennis, senior policy advisor for cor-
+rections, and Thurston Bryant, policy advisor. We are also grateful for the valuable input and
+feedback provided by Brenda Dann-Messier, assistant secretary for vocational and adult edu-
+cation, and John Linton, director, Office of Correctional Education, Office of Vocational and
+Adult Education, U.S. Department of Education. We also appreciate the support and insights
+provided by Steve Steurer, executive director of the Correctional Education Association.
+The overall direction of the project was guided in part by a steering committee that
+included John Dowdell (director of the Gill Center for Business and Economic Education at
+Ashland University and co-editor of the Journal of Correctional Education), William Sondervan
+(professor and director of Criminal Justice, Investigative Forensics, and Legal Studies at the
+University of Maryland University College), Stephen Steurer (executive director of the Correc-
+tional Education Association), and Susan Turner (professor of criminology, law, and society at
+the University of California–Irvine).
+We wish to express our appreciation to the state correctional education directors who
+throughout this project gave of their time and provided thoughtful input in numerous discus-
+sions as well as through their participation in the RAND Survey of State Correctional Educa-
+tion Directors. Their survey responses provided valuable information and insights on the field
+of correctional education today. We also wish to thank the Correctional Education Associa-
+tion’s State Council of Directors and especially Tammy Barstad for their assistance with the
+survey. John Linton, John Dowdell, Steve Steurer, and Jerry McGlone reviewed several drafts
+of the questionnaire.
+In addition, a number of individuals within and outside RAND contributed to vari-
+ous aspects of the project. The Scientific Review Team members helped guide the selection of
+intervention characteristics to be abstracted and served as independent reviewers in abstract-
+ing the study information that were inputs for the adult meta-analysis. They included Cathryn
+Chappell (Ashland University), John Dowdell (Ashland University), Joseph Gagnon (Univer-
+sity of Florida), Paul Hirschfield (Rutgers University), Michael Holosko (University of Georgia),
+David Houchins (Georgia State University), Kristine Jolivette (George State University), Larry
+Nackerud (University of Georgia), Ed Risler (University of Georgia), and Margaret Shippen
+(Auburn University). RAND members of the Scientific Review Team included Ramya Chari,
+Sarah Greathouse, Lisa Sontag-Padilla, and Vivian Towe. Before manuscripts were sent to
+the Scientific Review Team, they were screened for preliminary eligibility by Pardee RAND
+Graduate School students, including Nono Ayivi-Guedehoussou, Stephanie Chan, Megan
+Clifford, Russell Lundberg, Shannon Maloney, Christopher McLaren, and Nicole Schmidt.
+One screener, Lopamudra Das, also provided invaluable assistance in the abstraction of juve-
+xxv
+xxvi How Effective Is Correctional Education, and Where Do We Go from Here?
+nile outcome data. Within RAND, the web-based survey was programmed and fielded by Julie
+Newell and Diana Malouf of RAND’s Multimode Interviewing Capability (MMIC), and
+RAND’s Correctional Education website was developed by Sue Phillips. Dionne Barnes-Proby
+provided project management and research assistance, Jamie Greenberg summarized statistics
+on justice-involved youth, and Judy Bearer provided administrative support. The project ben-
+efited from suggestions by Paul Heaton, Susanne Hempel, Brian Jackson, and Becky Kilburn
+at RAND, and from the editing and publications production support provided by James Torr
+and Jocelyn Lofstrom.
+Finally, we appreciate the insights provided by our technical reviewers, Lynn Karoly, a
+senior economist at RAND, and Gerald Gaes, visiting faculty, Florida State University.
+Abbreviations
+BJA Bureau of Justice Assistance
+BOP Federal Bureau of Prisons
+CCSS Common Core State Standards
+CTE career technical education
+ESL English as a second language
+FY fiscal year
+GED General Education Development
+IDEA Individuals with Disabilities Act
+IQ intelligence quotient
+Maryland Scale Maryland Scientific Methods Scale
+MMIC Multimode Interviewing Capability
+RD regression discontinuity
+RIO-Y Re-Integration of Offenders–Youth
+RYEF Regional Youth Educational Facility
+SCA Second Chance Act
+TiR TUNEin to READING
+WWC U.S. Department of Education’s What Works Clearinghouse
+xxvii
+CHaptEr OnE
+Introduction
+Overview
+Each year, more than 700,000 incarcerated individuals leave federal and state prisons; within
+three years of release, 40 percent will have committed new crimes or violated the terms of their
+release and be reincarcerated. Although a number of factors impede the ability of ex-offenders
+to successfully reintegrate into communities and, thus, affect recidivism rates, one key factor is
+that ex-offenders do not have the knowledge, training, and skills to support a successful return
+to their communities. Research, for example, shows that ex-offenders, on average, are less edu-
+cated than the general population:
+• 37 percent of individuals in state prisons had attained less than a high school education in
+2004, compared with 19 percent of the general U.S. population age 16 and over.
+• 16.5 percent of state prisoners had a high school diploma, compared with 26 percent of
+the general population.
+• 14.4 percent of state prison inmates had at least some postsecondary education, compared
+with 51 percent of the general U.S. adult population (Crayton and Neusteter, 2008).
+Moreover, literacy levels for the prison population also tend to be lower than that of the
+general U.S. population. The 2003 National Assessment of Adult Literacy (NAAL) assessed the
+English literacy of 1,200 inmates (ages 16 and older) in state and federal prisons and a sample
+of 18,000 adults (ages 16 and older) living in U.S. households. On average, adult inmates had
+lower scores on all three literacy scales—prose, document, and quantitative—than the general
+U.S. population (Greenberg, Dunleavy, and Kutner, 2007).
+This lower level of educational attainment represents a significant challenge for ex-
+offenders returning to local communities, because it impedes their ability to find employ-
+ment. A lack of vocational skills and a steady history of employment also have an impact, with
+research showing that incarceration impacts unemployment and earnings in a number of ways,
+including higher unemployment rates for ex-offenders and lower hourly wages when they are
+employed.
+The dynamics of prison entry and reentry make it difficult for this population to accumu-
+late meaningful, sustained employment experience (Raphael, 2007–2008). For example, using
+data from the Fragile Families and Child Wellbeing Study, an analysis of the effects of incar-
+ceration on the earnings and employment in a sample of poor fathers found that the employ-
+ment rates of formerly incarcerated men were about 6 percentage points lower than those for a
+similar group of men who had not been incarcerated (Gellar, Garfinkel, and Western, 2006).
+1
+2 How Effective Is Correctional Education, and Where Do We Go from Here?
+The stigma of having a felony conviction on one’s record also is often a key barrier to
+postrelease employment (Pager, 2003). Holzer, Raphael, and Stoll (2003) conducted a series
+of surveys of employers in four major U.S. cities and found that employers were much more
+averse to hiring ex-offenders than they were in hiring any other disadvantaged group. Willing-
+ness to hire ex-offenders was greater for jobs in construction or manufacturing than for those
+in the retail trade and service sectors; employers’ reluctance was greatest for violent offenders as
+opposed to nonviolent drug offenders.
+Finally, individuals being released to the community face a very different set of demands
+for skill sets in today’s job market than ever before, with the growing importance of informa-
+tion technology and the need for basic computer skills (Karoly, 2013).
+Given these gaps in educational attainment and vocational skills and the impact they
+have on ex-offenders, one strategy is to provide education to inmates while they are incarcer-
+ated so that they have the skills to support a successful return to their communities. Prisoner
+education (or correctional education) in the United States dates back more than 200 years.
+Support for educational programs within correctional settings has waxed and waned over time
+as the nation’s philosophy of punishment has shifted back and forth from rehabilitation to
+crime control.
+Although the general consensus today is that education is a useful component of the reha-
+bilitation process, the question remains, how useful is it? This question has been particularly
+salient as the nation as a whole and states have struggled with the need to make spending cuts
+to all social programs throughout the recession of 2008 and its long aftermath.
+On April 9, 2008, the Second Chance Act (SCA) (Pub. L. 110-199) was signed into law.
+This important piece of legislation was designed to improve outcomes for individuals who are
+incarcerated, most of whom will ultimately return to communities upon release. The SCA’s
+grant programs are funded and administered by the Office of Justice Programs within the U.S.
+Department of Justice. In 2010, funding was set aside under the SCA to, for the first time,
+conduct a comprehensive study of correctional education. The Office of Justice Programs’
+Bureau of Justice Assistance (BJA) awarded the RAND Corporation a cooperative agreement
+to comprehensively examine the current state of correctional education for incarcerated adults
+and juveniles, where it is headed, which correctional education programs are effective, and how
+effective programs can be implemented across different settings.
+Our study was designed to address the following key questions of importance to the field
+of correctional education:
+1. What is known about the effectiveness of correctional education programs for incarcer-
+ated adults?
+2. What is known about the effectiveness of correctional education programs for juvenile
+offenders?
+3. What does the current landscape of correctional education look like in the United
+States, and what are some emerging issues and trends to consider?
+4. What recommendations emerge from the study for the U.S. Department of Justice and
+other federal departments to further the field of correction education and where are
+there gaps in our knowledge? What promising practices, if any, emerge from this review
+and evaluation?
+Introduction 3
+To address these questions, we used a mixed-methods approach. This included system-
+atically identifying, screening, and reviewing available evaluations of correctional education
+programs for incarcerated adults or juveniles completed in the United States between 1980
+and 2011. Using eligible studies of correctional education programs for adults, we conducted a
+meta-analysis to synthesize the estimated effects of correctional education programs on three
+kinds of outcomes: recidivism, employment, and academic skills. We published the results of
+the literature review and meta-analysis of adult correctional education programs in an ear-
+lier report (Davis et al., 2013), and we summarize them in this report. This report also pres-
+ents three new sections. First, for incarcerated juveniles, we systematically summarized the
+literature about the estimated effects of six types of programs on academic, employment, and
+recidivism outcomes, but we did not have enough studies testing common hypotheses to con-
+duct a formal meta-analysis. Second, we conducted a nationwide survey of state correctional
+education directors to gather information on how correctional education is provided today,
+and about the impact that the global financial recession has had on correctional education pro-
+grams in the United States. Finally, this report presents our recommendations.
+For this study, we define correctional education to include the following:
+• Adult basic education: basic skills instruction in arithmetic, reading, writing, and, if
+needed, English as a second language (ESL)
+• Adult secondary education: instruction to complete high school or prepare for a certifi-
+cate of high school equivalency, such as the General Education Development (GED)
+• Vocational education or career technical education (CTE): training in general employ-
+ment skills and in skills for specific jobs or industries1
+• Postsecondary education: college-level instruction that enables an individual to earn col-
+lege credit that may be applied toward a two- or four-year postsecondary degree.
+To meet our definition of correctional education, the program had to be administered at least
+partly within a correctional facility. Programs that also included a postrelease transition com-
+ponent remained eligible as long as part of the program was administered in a correctional
+setting. Although some may consider life skills programs a part of correctional education, in
+conjunction with BJA, we agreed to focus specifically on the four types of academic and voca-
+tional education/CTE programs summarized above. We also restricted our scope to focus on
+correctional education programs provided in the institutional setting, as opposed to postrelease
+or community-based programs.
+For the juvenile program systematic review, we define incarcerated youth as individuals
+under age 21 who are legally assigned to correctional facilities as a result of arrest, detainment
+for court proceedings, adjudication by a juvenile court, or conviction in an adult criminal
+court (Office of Juvenile Justice and Delinquency Prevention, 2013). We define correctional
+education to include any academic or vocational education/CTE program provided within the
+correctional facility setting, regardless of jurisdiction. As with our adult review, we permitted
+eligible interventions for juveniles to include an aftercare (postrelease) component, but the
+interventions had to be delivered primarily within the correctional facility.
+1 Vocational education is now commonly called career technical education. “Vocational education” is the term we used in
+our adult meta-analysis (Davis et al., 2013), and it is used in most of the studies we reviewed. We use the term “vocational
+education/CTE” throughout this report.
+4 How Effective Is Correctional Education, and Where Do We Go from Here?
+Finally, our focus is on correctional education programs provided to incarcerated adults
+in state prison and to juveniles in the institutional setting at the state and local levels. These
+foci enable us to address the question of what is known about the effectiveness of correctional
+education—specifically, academic programs and vocational education/CTE programs—for
+incarcerated adults and juveniles in the United States.
+In the remainder of this chapter, we provide an overview of the evolution of the field of
+correctional education in the United States and describe a roadmap for the remaining chapters.
+The Evolution of Correctional Education in the United States
+To understand where correctional education stands today, it is useful to briefly consider the
+history of correctional education in the United States. Educational programs for incarcerated
+individuals were first introduced in in the United States when clergyman William Rogers
+began offering instruction at Philadelphia’s Walnut Street Jail in 1789 (Chlup, 2005). The first
+schools in prisons were known as “Sabbath schools,” created by the Boston Prison Discipline
+Society in 1833 and focused on moral and religious instruction (Gehring, 1997).
+Support for educational programs within correctional settings has waxed and waned over
+time as the nation’s philosophy of punishment has shifted from rehabilitation to crime control
+and then back again. For example, during Andrew Jackson’s presidency (1824–1837), Ameri-
+cans believed that crime was posing a fundamental threat to the stability and order of society
+(Chlup, 2005), and the general belief was that a primary purpose of punishment was rehabili-
+tation to change an individual’s behaviors (F. Allen, 1981; Chlup, 2005). The period between
+1901 and 1920 (known as the Progressive Era) was a period of social activism and political
+reform in the United States, including a focus on prison reform and an emphasis on educating
+prisoners (Chlup, 2005).
+In 1965, the Survey for the President’s Commission on Law Enforcement and Adminis-
+tration of Justice, carried out by the National Council on Crime and Delinquency, found that
+many institutions did little to prepare prisoners for reentry (Chlup, 2005), that a high number
+of offenders were “severely handicapped educationally,” and that many had dropped out of
+school (President’s Commission on Law Enforcement and Administration of Justice, 1967). In
+addition, the survey found that offenders tended to have unstable work records and lacked a
+vocational skill. The commission recommended that correctional institutions upgrade educa-
+tional and vocational training programs, extending them to all inmates who could profit from
+them, and that states should, with federal support, establish programs to recruit and train aca-
+demic and vocational instructors to work in correctional institutions.
+One large-scale program, started in 1965 and continuing through the 1970s with funding
+support from the U.S. Department of Education, facilitated the development of plans and cur-
+ricula for adult basic education in prisons in 45 states as well as the training of prison personnel
+in the implementation and evaluation of correctional education (Ryan and McCabe, 1994).
+In 1971, the inmate uprising at the Attica Correctional Facility in Attica, New York,
+resulted in the deaths of 11 prison employees and 32 unarmed prisoners (Chlup, 2005). The
+prisoners’ demands for political rights and better living conditions included the provision of
+rehabilitative programming and access to educational programs.
+The 1970s are often considered the “Golden Age” of correctional education (Ryan and
+McCabe, 1994, p. 451). During this period, education was regarded as the most important tool
+Introduction 5
+for successful rehabilitation. Adult basic education and GED programs were being provided,
+vocational training programs were being given a high priority, and postsecondary education
+programs were being offered through prison release and correspondence courses (Ryan and
+McCabe, 1994). However, by the 1980s support among the public and policymakers for cor-
+rectional education once again waned, and funding for education in prison suffered dramatic
+cuts (Lillis, 1994). Approximately half of correctional systems made cuts in inmate education
+programs, especially in vocational and technical training, with corrections officials citing state
+budget cuts as the main reason for most program reductions (Lillis, 1994).
+In the 1980s, the Federal Bureau of Prisons (BOP) initiated mandatory education starting
+with the establishment of its first mandatory adult basic education program in 1982 and fol-
+lowed by a requirement in 1983 that each institution have its own qualified reading specialist
+or special educator instructor (Ryan and McCabe, 1994). By 1986, the standard for mandatory
+education in the BOP system was an eighth-grade achievement level. Subsequently, a number
+of states followed the BOP’s example in requiring that inmates attend school for a minimum
+number of months if they did not have a specified reading level or had not received a high
+school diploma or GED (Steurer et al., 2010).
+The Higher Education Act, passed in 1965, provided student loans via Pell college tuition
+grants to any qualified students (including incarcerated individuals) to help pay for their post-
+secondary education (Crayton and Neusteter, 2008). However, in the mid-1990s the Violent
+Crime Control and Law Enforcement Act of 1994 (Pub. L. 103-332) eliminated federal and
+state inmate eligibility for Pell college tuition grants, thus, affecting many college programs for
+inmates (Taylor, 2005). Additionally, limitations were placed on the amount of federal adult
+education and vocational education/CTE funds available for correctional education programs
+(Coley and Barton, 2006). Within one year of eliminating Pell Grant access to prisoners,
+participation in postsecondary correctional education programs dropped 44 percent (Marks,
+1997).
+In 2007, the Second Chance Act (SCA) (Pub. L. 110-199) was enacted to improve out-
+comes for and provide a comprehensive response to the increasing number of individuals who
+were released from prisons, jails, and juvenile residential facilities and returning to communi-
+ties upon release. The SCA is a historic piece of legislation focusing on reentry programs as an
+interagency priority at the federal level. In 2010, the SCA for the first time set aside dedicated
+funding for correctional education, which led to this RAND study.
+The 2008 recession deeply affected correctional systems. States were forced to curtail
+spending of all kinds, with correctional expenditures especially attractive targets for state belt-
+tightening. During FY2010, 31 of the 50 state departments of corrections had mid-year cuts,
+totaling $806 million (NGA/NASBO, 2010). Strategies to reduce correctional expenditures
+and achieve operational efficiencies included closing prisons, reducing staff, and curtailing
+services and programming. Correctional education (and other rehabilitative) programs expe-
+rienced deep budget cuts in a number of states, resulting in some dramatic reductions in the
+number of programs offered, the size of classes, and in the number of inmates who participate
+in these programs, as well as changes to the models of delivery.
+In 2012, anecdotal evidence suggests an uptick in funding for correctional education in
+some states based on informal reports from state correctional education directors citing either
+no further funding cuts or even some minor increases in funding—a situation that has enabled
+them in some cases to begin modestly rebuilding programs (authors’ personal communications
+with the Correctional Education Association Leadership Forum). However, most state correc-
+6 How Effective Is Correctional Education, and Where Do We Go from Here?
+tional education directors expect to face a reduced funding environment for correctional edu-
+cation programs and the continuing need to demonstrate a return on investment. In the face of
+budgetary pressures, and to inform future budget decisions, state legislatures and departments
+of corrections are asking fundamental questions: How effective are these programs? What
+return on investment do they provide?
+Researchers have attempted to answer these questions before. In 1975, Lipton, Martinson,
+and Wilks published a systematic review of 231 studies of prisoner rehabilitation programs and
+concluded that there was no conclusive evidence that correctional education was beneficial.
+This assertion was later challenged by Wilson, Gallagher, and MacKenzie in 2000. In the next
+chapter, we provide a more up-to-date and comprehensive assessment.
+Organization of This Report
+The remainder of this report is organized to address the major research questions listed above.
+In Chapter Two, we summarize the results of our previously published meta-analysis (Davis
+et al., 2013) conducted as part of our BJA cooperative agreement examining the effectiveness
+of correctional education for incarcerated adults and present the results of a cost analysis. In
+Chapter Three, we present the results of a systematic review of the evidence about the effec-
+tiveness of educational interventions implemented within juvenile correctional facilities. In
+Chapter Four, we present the results of a national survey of state correctional education direc-
+tors that describes the current landscape of correctional education and explores the impact of
+the 2008 recession. A thorough explanation of the approach for the meta-analysis, systematic
+review, and survey are included in the relevant results chapters. In Chapter Five, we summarize
+our study’s key findings and discuss their policy implications and directions for future research.
+CHaptEr tWO
+How Effective Is Correctional Education for Incarcerated Adults?
+Introduction
+As mentioned in Chapter One, the centerpiece of RAND’s evaluation of correctional educa-
+tion for BJA entailed determining how effective correctional education is in improving out-
+comes for incarcerated adults. We focused on three outcomes of interest: reducing recidivism,
+promoting postrelease employment, and improving learning in reading and in math among
+adults. To measure effectiveness, we carried out a comprehensive systematic review of exist-
+ing literature to identify relevant studies of correctional education effectiveness, followed by a
+meta-analysis of the relevant studies identified—a statistical method that synthesizes findings
+across multiple studies. Also, to put the effectiveness results in some context, we performed a
+basic cost-effectiveness analysis based on the assessed effectiveness of correctional education for
+reducing recidivism.
+This chapter provides an overview of our review and synthesis of 58 identified and rel-
+evant studies published during the past three decades to assess what the existing research base
+has to say about the effectiveness of correctional education relative to the three outcomes. The
+full set of findings appears in our earlier report, Evaluating the Effectiveness of Correctional Edu-
+cation: A Meta-Analysis of Programs That Provide Education to Incarcerated Adults (Davis et al.,
+2013), which is available on the RAND website at http://www.rand.org/pubs/research_reports/
+RR266.html.
+In this chapter, we briefly describe the history of meta-analyses in correctional educa-
+tion to help readers understand how our work builds on previous efforts. Then, we discuss our
+approach to identifying and evaluating individual studies, followed by a summary of the main
+findings from the meta-analysis. We conclude with the results of our basic cost-effectiveness
+analysis. The earlier meta-analytic report (Davis et al., 2013) contains extensive technical infor-
+mation on the search process and the statistical underpinnings of the meta-analysis. Readers
+interested in those details are encouraged to read the earlier report.
+Previous Meta-Analyses on Correctional Education
+Understanding the role that correctional education plays in rehabilitating incarcerated adults
+and improving their reentry into society is a key goal of our study and of the meta-analysis
+we conducted. Given the long history of correctional education in the United States, previous
+studies have examined its effectiveness through meta-analyses of available evidence. As a back-
+drop to our study, we first synthesized findings from previous meta-analyses of correctional
+7
+8 How Effective Is Correctional Education, and Where Do We Go from Here?
+education programs in the United States. In keeping with our study goals, we synthesized
+only meta-analyses that explicitly focused on education programs administered primarily to
+adult offenders in correctional facilities. According to our review, three major published meta-
+analyses meet these criteria: Wilson, Gallagher, and MacKenzie (2000); MacKenzie (2006);
+and Aos, Miller, and Drake (2006).1These studies differ in their parameters, methods, and
+conclusions. We review the findings from each in turn, focusing first on the systematic review
+of correctional education programs conducted by Lipton, Martinson, and Wilks (1975) that set
+the stage for the current policy discourse and research direction in the field.2
+Lipton, Martinson, and Wilks (1975)
+In 1975, Douglas Lipton, Robert Martinson, and Judith Wilks published a systematic review
+of 231 studies of prisoner rehabilitation programs spanning the years 1945 to 1967—a review
+that provided the first major effort to take stock of the potential efficacy of correctional edu-
+cation. Within their sample of 231 programs, Lipton and his team identified a subset of
+“skill-development programs,” which consisted of academic and/or vocational training. They
+summarized comparisons of program participants and nonparticipants in studies that used
+recidivism and employment as outcomes. In their review, they discussed differences in meth-
+odological quality, highlighting (where appropriate) studies with carefully or poorly selected
+comparison groups. However, this variation in research design did not factor into how they
+tallied statistically significant program effects. As long as the study had a group exposed to
+correctional education (a treatment group) and a group that was not exposed to correctional
+education (a comparison group), it was included in their review. None of the studies reviewed
+employed random assignment.
+Across eight studies that assessed recidivism, three showed significantly lower rates of
+recidivism among program participants, and one showed significantly higher rates of recidi-
+vism among program participants. The other four studies showed no differences between the
+treatment and comparison groups. In two studies that examined employment as an outcome,
+offenders who participated in vocational training programs fared worse than nonparticipants
+after being released. Overall, their review found no conclusive evidence that correctional educa-
+tion was beneficial and that, in some cases, it might even be harmful. Lipton et al.’s systematic
+review is notable, in part, because it set the tone for future research and policy discourse in
+the field—establishing the belief that “nothing works” in prisoner rehabilitation. However, the
+three more recent meta-analyses have turned that belief around.
+1 The studies included in these meta-analyses are largely based on studies of correctional education programs in the
+United States. However, a handful of international studies are also included.
+2 Since the publication of the landmark Lipton, Martinson, and Wilks study in 1975, there have been other systematic
+reviews of adult correctional education that do not apply meta-analytic methods (e.g., Gaes, 2008), and there have been
+meta-analyses of correctional education programs administered to juvenile offender populations (e.g., Lipsey, 2009). With
+the exception of the Lipton, Martinson, and Wilks study, which is important to acknowledge because of its seminal role
+in the field, we discuss only meta-analyses of adult correctional education programs, because their methods, findings, and
+conclusions are most relevant for providing context to our study. Additionally, readers should note that we are aware of two
+dissertations (Chappell, 2003; Wells, 2000) that have used meta-analytic techniques to assess the relationship between cor-
+rectional education and recidivism. We do not review their analyses in depth here, but their findings, by and large, accord
+with those of Wilson, Gallagher, and MacKenzie (2000); MacKenzie (2006); and Aos, Miller, and Drake (2006).
+How Effective Is Correctional Education for Incarcerated adults? 9
+Wilson, Gallagher, and MacKenzie (2000)
+Twenty-five years after Lipton et al.’s work, in 2000, David Wilson, Catherine Gallagher, and
+Doris MacKenzie (2000) at the University of Maryland revisited Lipton et al.’s work, conduct-
+ing a meta-analysis that included 33 studies of correctional education programs administered
+to adults published after 1975—a period that broadly covered the time since the Lipton et al.
+study was released. Wilson and his team sought to address some limitations in Lipton et al.’s
+work, in particular by using formal meta-analytic techniques (techniques that were not yet
+developed when the Lipton et al. study was conducted), which average findings of multiple
+studies into a single parameter of program or “treatment group” efficacy. Additionally, they
+rated each study using a scale that they and their colleagues at the University of Maryland
+developed specifically for systematic reviews of correctional programs (Sherman et al., 1997).
+This scale, referred to as the Maryland Scientific Methods Scale, ranges from 1 to 5, and
+accords the highest rating (5) to well-executed randomized control trials and the lowest rating
+(1) to studies that lack a comparison group. Wilson and his colleagues dropped all studies that
+lacked a comparison group and used the Maryland Scale rating as a statistical control in their
+analysis. Only three of the 33 studies included employed random assignment. Whereas the
+Lipton et al. study documented mostly mixed results, the Wilson et al. study found that correctional
+programs were beneficial, by and large. In their meta-analysis, they showed that participation
+in academic programs—including adult basic education, GED, and postsecondary education
+programs—was associated with an average reduction in recidivism of about 11 percentage
+points. Thus, Wilson and his team’s findings, based on more recent programs and more rigor-
+ous methods of analysis, questioned the claim that “nothing works.”3
+MacKenzie (2006)
+A few years later in 2006, Doris MacKenzie, a co-author of the Wilson study, updated
+the Wilson et al. study’s meta-analysis to include a handful of newer studies, to limit the
+sample to only those studies published after 1980, and to those studies that had stronger
+study designs. Specifically, to be included in MacKenzie’s re-analysis, the study needed to
+employ one of the following three research designs: a well-executed randomized, controlled
+trial; a quasi-experimental design with very similar treatment and comparison groups; or a
+quasi-experimental design with somewhat dissimilar treatment and comparison groups, but
+reasonable controls for differences. Only one of the 13 studies included employed random
+assignment. In her re-analysis, she again found that academic program participation appeared
+beneficial: The odds of not recidivating were 16 percent higher among academic program par-
+ticipants than nonparticipants. However, with the new sample parameters in place, she now
+found that vocational program participation was also associated with a reduction in recidivism:
+The odds of recidivating were 24 percent lower among vocational program participants than
+nonparticipants. She did not update the analysis of employment.
+3 Since the publication of the Lipton, Martinson, and Wilks (1975) study, a number of criminologists and policymakers
+questioned the claim that “nothing works.” However, it was not until the Wilson, Gallagher, and MacKenzie (2000) study’s
+meta-analysis that a comprehensive evaluation of the literature was synthesized in a systematic way to directly challenge the
+conclusion of the Lipton, Martinson, and Wilks (1975) study.
+10 How Effective Is Correctional Education, and Where Do We Go from Here?
+Aos, Miller, and Drake (2006)
+Finally, also in 2006, Steve Aos, Marna Miller, and Elizabeth Drake of the Washington State
+Institute for Public Policy conducted a meta-analysis of 571 offender rehabilitation programs
+for adults and for juveniles, ranging from counseling to boot camps to education. They lim-
+ited their sample to studies conducted from 1970 onward and, like MacKenzie’s meta-analysis
+published the same year, included only studies that met the same design criteria as MacKenzie
+(listed above). The number of studies reviewed that employed random assignment is not clearly
+stated in Aos et al.’s documentation. In analyzing 17 studies of academic education programs
+and four studies of vocational education/CTE programs administered to adults, they found
+results that largely agreed with MacKenzie’s: On average, participants had lower rates of recidi-
+vism than their nonparticipant peers. Specifically, they found that academic program participa-
+tion was associated with a 7 percent reduction in recidivism, and vocational program participa-
+tion was associated with a 9 percent reduction in recidivism.
+In sum, then, early reviews of correctional education programs administered to adults
+found inconclusive evidence to support their efficacy—a finding that contributed to the popu-
+lar belief that “nothing works” in prisoner rehabilitation; however, this conclusion may have
+been premature, given that appropriate analysis techniques had not been developed (Slavin,
+1984). More recent reviews using meta-analysis techniques question the conclusions of the
+earlier work, finding evidence of a relationship between correctional education program par-
+ticipation before release and lower odds of recidivating after release. However, the most recent
+meta-analyses (Aos, Miller, and Drake, 2006; MacKenzie, 2006) did not consider employ-
+ment outcomes; thus, whether program participation is associated with postrelease success in
+the labor market remained unclear.
+Approach
+In this section, we discuss the two-part approach we took to conducting our evaluation, start-
+ing the systematic review of the literature to identify and narrow down the relevant research
+from the published and gray literature and then turning to the meta-analysis of the relevant
+research results.
+Approach to Conducting the Systematic Review of the Literature
+As discussed in Chapter One, correctional education is a highly varied approach to reha-
+bilitating inmates, the administration of which depends on state and federal resources, the
+infrastructure and staffing in place at the facility, and the skills and abilities of the inmate
+population (e.g., some inmates require basic literacy and quantitative skills, while some are
+able to take college-level courses). Given all these variables, practitioners take a variety of pro-
+grammatic approaches to rehabilitation, which, in turn, means that researchers who seek to
+empirically study how effective correctional education is vary in their research designs and in
+their study foci.
+To accommodate this variation in both programming and research methods, we took as
+inclusive an approach as possible to evaluating the existing literature base so that our evalua-
+tion findings would generalize to the broadest set of programs. Thus, our analysis was intended
+to provide an overall empirical examination of correctional education’s effectiveness based on the
+array of programs and systems in place during the past three decades, and was not a program-
+How Effective Is Correctional Education for Incarcerated adults? 11
+by-program evaluation. To be as informative as possible to policymakers and practitioners, we
+restricted our focus to correctional education programs administered to adults in the United
+States. There were not enough studies of correctional education administered to juveniles that
+met our methodological standards to produce a sound meta-analysis. Hence, we instead pro-
+vide a systematic review of the juvenile correctional education literature, presented in Chapter
+Three of this report.
+We began our search by scanning the universe of potential documents to compile all
+available empirical research studies that examine the effect of correctional education programs
+on the three outcomes of interest—recidivism, postrelease employment, and reading and math
+scores. This included a search of relevant research databases; a gray literature search of online
+repositories maintained by research organizations, think tanks, and universities; and a bib-
+liographic scan of all major literature reviews, systematic reviews, thematic policy overviews,
+and existing meta-analyses of inmate rehabilitation programs. This search yielded 1,112 docu-
+ments, of which 267 were identified as primary empirical studies. We define a primary empiri-
+cal study as one in which the authors were directly responsible for the research design, data
+analysis, and the reporting of the findings.
+To be included in our meta-analysis, the study needed to meet three eligibility criteria.
+First, it needed to evaluate an eligible intervention, defined here as an educational program
+administered in a jail or prison in the United States published (or released) between January 1,
+1980, and December 31, 2011. We define an educational program as one that includes an aca-
+demic or vocational curriculum taught by an instructor, designed to lead to the attainment of
+a degree, license, or certification. The instruction needed to occur while the participant was
+incarcerated; thus, postrelease/parolee-focused programs were not eligible. Also, instructional
+programs that did not explicitly address academic or vocational skills—for instance, life skill
+programs or cognitive-behavioral programs—were not eligible.
+Second, the study needed to measure the effectiveness of the program using an eligible
+outcome measure, which for our meta-analysis included recidivism, postrelease employment,
+and achievement test scores.
+Finally, the study needed to have an eligible research design, which, for our purposes, is
+one where there is a treatment group comprising inmates who participated in or completed the
+correctional education program and a comparison group of inmates who did not. Two doc-
+toral students from the Pardee RAND Graduate School of Public Policy reviewed each study
+independently to determine whether studies met each of the three criteria. A project team
+member (Ph.D.-level) reviewed and reconciled cases where the students did not agree on their
+assessments.
+Of the 267 primary empirical studies, 58 met all three eligibility criteria and were then
+subjected to a full scientific review conducted by a team of ten faculty members from vari-
+ous academic departments across the country who had substantive expertise in correctional
+education, criminal justice, and/or social services for at-risk populations. Each team member
+independently reviewed each study and extracted key pieces of information about the program
+being evaluated and about the study’s setting, participants, and design. Two project team
+members reviewed and reconciled cases where the review team did not agree on their assess-
+ments. For additional quality control, in addition to the aforementioned external review, all
+outcome metrics were independently assessed and verified by two Ph.D. researchers who were
+members of the project team.
+12 How Effective Is Correctional Education, and Where Do We Go from Here?
+Once all data were abstracted and verified, each study was rated in terms of its scientific
+rigor. A key metric of scientific rigor is the degree to which the researchers who conducted the
+studies effectively mitigated the threat of selection bias. This form of bias occurs either when
+program participation is voluntary or when inmates are selected to participate by program offi-
+cials based on objective measures of academic readiness (e.g., literacy level, Test for Adult Basic
+Education (TABE) scores, preincarceration grade level proficiency) and/or subjective percep-
+tions of the inmate’s competencies. When such nonrandom selection occurs, if inmates receiv-
+ing correctional education are more motivated, more academically prepared, and in better
+health than their peers who do not participate in the program, then any difference observed
+on outcomes between treatment and comparison groups may reflect the types of inmates who
+participate in the program and not necessarily the effect of the program on the inmate.
+To mitigate this form of bias as much as possible, we partitioned our findings two ways:
+(1) findings aggregated across all eligible studies, and (2) findings aggregated across only those
+studies with the most rigorous research designs. The former includes all studies that met our
+eligibility criteria, while the latter includes only those studies that used either a well-executed
+randomized controlled trial or a quasi-experimental design with very similar treatment and
+comparison groups.4 When possible, we focused our analytic attention on the latter set of stud-
+ies, because they are least likely to be affected by selection bias and, thus, best positioned to
+estimate the true effect of participating in a correctional education program.
+Approach to Conducting the Meta-Analysis
+Meta-analysis is a statistical technique applied to data obtained from a systematic review in
+which findings of multiple studies are averaged into a single parameter that measures how
+much program participants (the treatment group) differ from nonparticipants (the comparison
+group) on pre-selected outcomes. We constructed our treatment and comparison groups as
+conservatively as possible, following an intent-to-treat approach. In an intent-to-treat approach,
+every subject who was assigned to the treatment group is analyzed on the outcome of interest
+as a member of the treatment group, regardless of whether or not they received the full dosage
+of the treatment through completion. We conducted three separate meta-analyses correspond-
+ing to our three outcomes of interest: recidivism, postrelease employment, and achievement
+test scores. Our recidivism analysis is based on 50 studies, our employment analysis is based
+on 18 studies, and our achievement test score analysis—which looks at reading and math score
+tests—is based on four studies.5 These add up to more than the 58 studies that emerged from
+the systematic analysis, because some studies used both recidivism and postrelease employment
+4 To classify studies according to how much they mitigated selection bias, we used the Maryland Scientific Methods
+Scale, a well-regarded rating scheme of research designs in the social sciences developed by criminologists at the Univer-
+sity of Maryland (Farrington et al., 2002; Sherman et al., 1997). The scale has five levels: Level 5 indicates a well-executed
+randomized controlled trial with low attrition; Level 4 is a quasi-experimental design with very similar treatment and
+comparison groups; Level 3 is a quasi-experimental design with somewhat dissimilar treatment and comparison groups but
+reasonable controls for differences; Level 2 is a quasi-experimental design with substantial baseline differences between the
+treatment and comparison groups that may not be well-controlled for; and Level 1 is a study that does not have a separate
+comparison group receiving the treatment. In our partitioning of the findings, we consider those studies as having the high-
+est degree of rigor if they received either a Level 4 rating or a Level 5 rating. More specific information on the properties
+of the Maryland Scientific Methods Scale and how we applied it to our 58 studies is included in the full companion report
+(Davis et al., 2013).
+5 Across the 58 studies, we were able to extract a total of 102 effect sizes. The number of effect sizes exceeds the number
+of studies, because a study could contain multiple treatment and comparison groups, and thus multiple comparisons. Our
+How Effective Is Correctional Education for Incarcerated adults? 13
+as outcomes and, thus, contribute to both the recidivism and the employment meta-analysis.
+All four of the studies that used achievement test scores as the outcome variable evaluated the
+effects of computer-assisted instruction. Therefore, although our analyses of recidivism and
+postrelease employment outcomes look at a broad range of correctional education programs,
+our analysis of achievement test scores is narrowly focused on programs with computer-assisted
+instruction. For more information on the details of the meta-analysis and how it was con-
+ducted, see our earlier meta-analytic report (Davis et al., 2013).
+Meta-Analysis Findings
+In this section, we present the results of our meta-analysis. Table 2.1 provides a summary of the
+findings across the outcome domains. In the table, we interpret the difference in each outcome
+between the treatment and comparison group for all studies regardless of the quality of the
+study design and then only for the most rigorous studies. We note the total number of studies
+that contributed to the finding (n) and whether the finding was statistically significant at con-
+ventional levels (p < 0.05) or not statistically significant (n.s.). We then summarize the overall
+effectiveness of correctional education for each outcome. In the remainder of this section, we
+discuss the recidivism, postrelease employment, and achievement score findings in the table in
+more detail.
+The Relationship Between Correctional Education and Recidivism
+Recidivism is one of the most commonly used measures of effective prisoner rehabilitation in
+criminal justice research, because it conveniently indicates how much individuals are able to
+successfully re-integrate back into their communities and desist from further criminal activity.
+Thus, it is not surprising that the majority (n = 50) of our eligible studies used recidivism as the
+primary outcome measure.
+However, when we looked across studies, we found that recidivism was defined a number
+of ways; these definitions included reoffending, rearrest, reconviction, reincarceration, techni-
+cal parole violation, and successful completion of parole. We used whatever form of recidivism
+the study authors reported so that we could be as inclusive as possible. In addition to how they
+defined recidivism, studies varied in the time period through which they followed the study
+participants after release from prison, ranging from six months to over ten years. When there
+were multiple outcomes and/or time periods reported, we gave preference to reincarceration
+(because this represents the modal definition of recidivism used by the authors of the studies;
+n = 34) and recidivism measured within one year of release or as close as possible to one year
+of release (because this represents the modal time period used by the authors of the studies;
+n = 13).
+For our analysis of recidivism, the treatment group consisted of inmates who participated
+in or completed a correctional education program and the comparison group consisted of
+inmates who did not participate in or complete the correctional education program.
+The top row of Table 2.1 summarizes the results of our recidivism meta-analysis. When
+we aggregated across all 50 studies—which represent 32 years of empirical assessments of the
+recidivism analysis is based on 71 effect sizes from 50 studies, our employment analysis is based on 22 effect sizes from 18
+studies, and our test score analysis is based on nine effect sizes from four studies.
+14 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 2.1
+Summary of Meta-Analysis Findings by Outcome
+Summary of Meta-Analysis Results
+Outcome All Eligible Studies Most Rigorous Studies Overall Effectiveness
+recidivism Inmates who participated Inmates who participated Correctional education is an
+in correctional education in correctional education effective strategy for reducing
+programs had a 36% lower programs had a 43% lower recidivism.
+odds of recidivating than odds of recidivating than
+inmates who did not. inmates who did not.
+n = 50 studies, p < 0.05 n = 7 studies, p < 0.05
+postrelease the odds of obtaining the odds of obtaining Correctional education is
+Employment employment among employment among potentially an effective strategy
+inmates who participated inmates who participated for improving the postrelease
+in correctional education in correctional education employment prospects of
+programs are 13% higher programs are 48% higher inmates.
+than the odds of obtaining than the odds of obtaining
+employment among inmates employment among inmates
+who did not. who did not.
+n = 18 studies, p < 0.05 n = 1 study, p < 0.05
+achievement test Scores
+reading the overall effect of computer- not applicable Learning gains in reading
+achievement assisted instruction relative to among inmates exposed to
+test Scores traditional instruction is 0.04 computer-assisted instruction
+grade levels, or about 0.36 are similar to learning gains in
+months of learning in reading. reading among inmates taught
+via traditional instruction
+n = 4 studies, not significant methods.
+Math the overall effect of computer- not applicable Learning gains in math among
+achievement assisted instruction relative to inmates exposed to computer-
+test Scores traditional instruction is 0.33 assisted instruction are similar
+grade levels, or about 3 months to learning gains in math among
+of learning in math. inmates taught via traditional
+instruction methods.
+n = 3 studies, not significant
+effects of correctional education and which have analyses ranging in methodological quality
+and rigor—we find that inmates who participated in correctional education programs had a
+36 percent lower odds of recidivating than inmates who did not. This relationship is statisti-
+cally significant at p < 0.05.
+Because many correctional education programs select inmates to participate based on
+their level of academic preparedness or motivation, it could be the case that lower recidivism
+rates among treatment group members reflect preexisting differences between the treatment
+and comparison groups and not the effect of program participation—a selection bias that
+could be reflected in the studies with the least rigorous research designs. However, this rela-
+tionship remained robust when we restricted our analysis to the seven studies with the most
+rigorous research designs: Inmates who participated in correctional education programs had a
+43 percent lower odds of recidivating than inmates who did not. This relationship is statistically
+significant at p < 0.05. This suggests that selection bias is not driving our findings. Given that
+we find significantly lower rates of recidivism among treatment group members when looking
+How Effective Is Correctional Education for Incarcerated adults? 15
+at all eligible studies as well as when looking only at those studies with the strongest research
+designs, we conclude that correctional education is an effective strategy for reducing recidivism.6
+The Relationship Between Correctional Education and Postrelease Employment
+Postrelease employment is an important measure of correctional education’s effectiveness
+because it indicates how much the training and skills received while incarcerated prepare indi-
+viduals to enter and succeed in the formal labor market. However, unlike the case with recidi-
+vism, fewer eligible studies used employment as the outcome (n = 18).
+Like recidivism, postrelease employment was defined a number of ways, including having
+ever worked part-time since release, having ever worked full-time since release, having been
+employed for a specified number of weeks since release, and employment status at the time of
+data collection. Additionally, studies varied in the time period through which they followed
+the study participants after release from prison, ranging from three months to 20 years. When
+there were multiple outcomes and/or time periods reported, we gave preference to having
+ever worked full- or part-time since release (because this represents the modal definition of
+postrelease employment used by the study authors; n = 9) and employment measured within
+one year of release (because this represents the modal time period used by the study authors;
+n = 7).
+For our analysis of postrelease employment, the treatment group consisted of inmates who
+participated in or completed a correctional education program, and the comparison group con-
+sisted of inmates who did not participate in or complete the correctional education program.
+The second row of Table 2.1 summarizes the results of our postrelease employment meta-
+analysis. When aggregating across all 18 eligible studies, we find that the odds of obtaining
+postrelease employment among inmates who participated in correctional education programs
+are 13 percent higher than the odds of obtaining postrelease employment among inmates
+who did not. This relationship is statistically significant at p < 0.05. Unlike with our analy-
+sis of recidivism, we cannot assess how much this finding is robust to the threat of selection
+bias, because there is only one study that can be classified as having a rigorous research design.
+Although this one study (which used matching to create a comparison group) did find statisti-
+cally significant higher rates of postrelease employment among treatment group members, it
+assessed only one program, and, thus, it is not possible to generalize this finding to the array of
+programs in operation. Given that we find significantly higher rates of postrelease employment
+among treatment group members when looking at all eligible studies but cannot rule out the
+possibility of selection bias, the evidence is only suggestive that correctional education is poten-
+tially an effective strategy for improving the postrelease employment prospects of inmates.7
+The Relationship Between Correctional Education and Test Scores
+Test scores—reading and math—measure the immediate cognitive gains that result from
+exposure to educational programming and are common metrics used in studies that seek to
+measure educational effectiveness. Unfortunately, only four studies in our systematic review
+used test scores as an outcome. As mentioned earlier, these four studies specifically evaluated
+6 In additional analyses not shown, we find that this relationship holds across academic (adult basic education, high
+school/GED programs, postsecondary) programs, and vocational certification programs.
+7 In additional analyses not shown, we find that this relationship holds across academic (adult basic education, high
+school/GED programs, postsecondary) programs, and vocational certification programs.
+16 How Effective Is Correctional Education, and Where Do We Go from Here?
+the effects of computer-assisted instruction; as such, they provide evidence about the effective-
+ness of this particular instructional approach, one that is becoming increasingly common in
+correctional facilities. Three of the four studies used rigorous research designs (specifically, ran-
+domization), but because there are so few studies, we pool them all together and do not disag-
+gregate by the quality of the research design. All four studies used reading test scores as an out-
+come, and three of the four studies used math test scores as an outcome, as shown in Table 2.1.
+We converted the outcomes into grade equivalents, where one unit is equal to a single
+nine-month academic year of learning in a particular content area. This metric typically refers
+to a standard scholastic setting rather than a correctional education setting, in which students
+receive approximately one hour of instruction in each of six to seven content areas for five days
+per week. Unlike the studies of recidivism and employment, the treatment groups for these
+four studies include those who were taught through computer-assisted instruction and the
+comparison groups included those who were taught through traditional face-to-face methods.
+The third row of Table 2.1 summarizes the results of our reading test score meta-analysis,
+and the fourth row of Table 2.1 summarizes the results of our math test score meta-analysis.
+In both sets of analyses, we find that inmates receiving computer-assisted instruction have
+greater gains than inmates receiving traditional face-to-face instruction. Specifically, we find
+that the overall effect of computer-assisted instruction relative to traditional instruction is equiva-
+lent to about 0.36 months of learning in reading and three months of learning in math. However,
+because neither of these gains is statistically significant, we conclude that learning gains in both
+reading and math among inmates exposed to computer-assisted instruction are similar to learning
+gains made by inmates taught through traditional instruction methods.
+Because computer-assisted instruction can be self-paced and can be supervised by a
+person other than a licensed classroom teacher, it may be less costly to administer and could
+even allow correctional facilities to expand their instructional course offerings. For these rea-
+sons, the finding of no statistically significant difference between computer-assisted and tra-
+ditional (face-to-face) instruction suggests that, based on current evidence, computer-assisted
+instruction may be a reasonable alternative to traditional, face-to-face classroom instruction in
+correctional facilities. It is also true that the technology underlying computer-assisted instruc-
+tion has improved (and will continue to improve) over time relative to the four studies assessed;
+this suggests that the effect of computer-assisted technology relative to traditional instruction
+methods may be larger than it appears in our assessment. Given that we only had four studies,
+the most recent of which was published in 2000, more research is needed to understand the
+efficacy of this instructional approach as it is currently being implemented.
+Results of Comparing Correctional Education and Reincarceration Costs
+Although our meta-analysis shows that correctional education is effective at reducing recidi-
+vism, is it cost-effective? For example, it could be that the gains in reduced recidivism are
+outweighed by the costs of providing the correctional education programs. Although a formal
+cost-effectiveness analysis was beyond the scope of our study, to place our meta-analytic find-
+ings into context, we undertook a basic cost analysis using estimates of the costs of correctional
+How Effective Is Correctional Education for Incarcerated adults? 17
+education and those of incarceration.8The cost analysis is done for a three-year window after
+release from prison. The detailed methodology of how we created the cost estimates can be
+found in Chapter Three of our earlier report (Davis et al., 2013).
+To estimate the direct costs of providing education to inmates, we obtained three inputs.
+First, we derived an estimate of the cost per year per inmate for correctional education. We
+used data from Bazos and Hausman (2004), who calculated the average cost of correctional
+education programs per inmate participant using information from the Three States Study,
+which assessed the relationship between correctional programs and recidivism in Maryland,
+Minnesota, and Ohio for approximately 3,170 inmates (Steurer, Smith, and Tracy, 2003). We
+also used data from the 2007 Corrections Compendium Survey Update on Inmate Education
+Programs (Hill, 2008). These two sources estimated that the average annual cost of correc-
+tional education programs per inmate participant was $1,400 and $1,744, respectively.
+Second, the reincarceration rate affects the cost-effectiveness of the intervention: The
+higher the reincarceration rate, the greater the potential cost savings. We used the three-year
+reincarceration rate estimates for correctional education participants and nonparticipants. Spe-
+cifically, we used the most conservative reincarceration rate estimates based on the Pew Chari-
+table Trust’s most recent national estimate of reincarceration based on 41 states: 43.3 percent
+for individuals who did not receive correctional education, and 30.4 percent for those who
+did—a risk difference of 12.9 percentage points, as estimated from our meta-analysis (Pew
+Center on the States, 2011).
+Third, we used data on the average annual cost per inmate of incarceration from the
+Bureau of Justice Statistics’ (Kyckelhahn, 2012) analysis of state corrections’ expenditures9 and
+the Vera Institute of Justice’s study on the price of prisons (Henrichon and Delaney, 2012),
+which collected cost data from 40 states using a survey; these two studies estimated the average
+annual cost per inmate to be $28,323 and $31,286, respectively.10 Assuming a mean incarcera-
+tion length of stay of 2.4 years (Pastore and Maguire, 2002), we calculated the average incar-
+ceration costs as between $67,975 and $75,086, respectively, based on the two studies. For
+more information on the details of the cost analysis and how it was conducted, see the meta-
+analysis report (Davis et al., 2013).
+Focusing on a hypothetical pool of 100 inmates, the direct costs of correctional education
+programs and of incarceration itself, and using a three-year reincarceration rate, we estimate
+that the direct costs of providing education to inmates range from $140,000 to $174,400 for
+the pool of 100 inmates (or $1,400 to $1,744 per inmate) using the two sources mentioned
+above. The three-year reincarceration costs for those who did not receive correctional education
+would be between $2.94 million and $3.25 million, versus $2.07 million and $2.28 million for
+8 Although our meta-analysis incorporated a range of indicators to construct our measure of recidivism (e.g., reincarcera-
+tion, rearrest, parole revocation rates), here we are able to base our cost analysis on estimates of cost for three-year reincar-
+ceration rates.
+9 Expenditure data were extracted from the U.S. Census Bureau’s Annual Survey of State Government Finances, available
+on the U.S. Census Bureau’s website at http://www.census.gov/govs.
+10 Ideally, one would use marginal costs rather than average costs in this calculation, but the extent to which marginal cost
+differs from average cost is likely to depend on the scale of the intervention, and there is no natural scale here—depending
+on the intervention, one could apply a correctional education program to a very small number of inmates or throughout an
+entire state prison system. For simplicity in what follows, we imagine an intervention of sufficient magnitude so as to allow
+for shifts in quasi-fixed factors such as the amount of housing needed for inmates or the number of prison staff, in which
+case average costs might offer a good approximation for marginal costs.
+18 How Effective Is Correctional Education, and Where Do We Go from Here?
+those who did. Reincarceration costs are thus $870,000 to $970,000 less for those who receive
+correctional education. Thus, we found that the direct costs of reincarceration were far greater
+than the direct costs of providing correctional education.
+Another way to look at the cost-effectiveness of providing correctional education is to cal-
+culate the break-even point—defined as the risk difference in the reincarceration rate required
+for the cost of correctional education to be equal to the cost of incarceration. For a correc-
+tional education program to be cost-effective—or break even—we estimated that a program
+would need to reduce the three-year reincarceration rate by between 1.9 percentage points and
+2.6 percentage points. In fact, our meta-analytic findings indicate that participation in cor-
+rectional education programs is associated with a 13 percentage-point reduction in the risk of
+reincarceration three years following release. Thus, correctional education programs appear to
+far exceed the break-even point in reducing the risk of reincarceration. Given that some programs
+appear more effective than others, the exact ratio of costs to benefits will naturally depend on
+the effectiveness of a particular program. Future investments in correctional education would
+ideally be designed to allow for rigorous identification of effective programs’ features.
+Because the analysis above accounts only for direct costs and not for indirect costs, such
+as the financial and emotional costs to crime victims and costs to the criminal justice system as
+a whole, this is a conservative estimate of the broader effect correctional education could yield.
+Summary
+In this chapter, we provided an overview of our systematic review and meta-analysis of studies
+of correctional education programs administered to adults. As part of our review, we identi-
+fied 58 studies of educational programs administered in a jail or prison in the United States
+published (or released) between January 1, 1980, and December 31, 2011, that used recidi-
+vism, postrelease employment, or achievement test scores as outcome measures and that had
+adequate treatment and comparison groups.
+Based on the higher-quality research studies, we found that, on average, inmates who
+participated in correctional education programs had 43 percent lower odds of recidivating than
+inmates who did not. This translates to a reduction in the risk of recidivating of 13 percentage
+points, suggesting that correctional education is an effective strategy for reducing recidivism.
+When aggregating across 18 studies that used employment as an outcome, the odds of
+obtaining employment postrelease among inmates who participated in correctional education
+(either academic or vocational education/CTE programs) were 13 percent higher than the odds
+for those who did not. However, only one of the 18 studies had a high-quality research design,
+limiting our ability to draw conclusions about the effectiveness of correctional education in
+this area.
+Lastly, when aggregating cross four studies that used achievement test scores as an out-
+come, we found that learning gains in both reading and in math among inmates exposed to
+computer-assisted instruction are similar to learning gains made by inmates taught through
+traditional (face-to-face) instruction methods.
+Our meta-analysis of correctional education builds off a series of past meta-analyses.
+While the first meta-analysis in the field had mixed results and led to the belief that “nothing
+works” in the field of prisoner rehabilitation, it had some limitations. Three more recent meta-
+analysis, including newer studies and better meta-analytic techniques, reverse those earlier
+How Effective Is Correctional Education for Incarcerated adults? 19
+results, showing that providing correctional education to inmates does reduce recidivism and
+improve other outcomes. Our meta-analysis, which uses more recent studies and an even more
+rigorous approach, confirms what the past three meta-analyses have shown about the effective-
+ness of correctional education.
+Finally, although doing a formal cost-effectiveness analysis was beyond the scope of this
+study, we performed a basic cost comparison, in which we compared the direct costs of provid-
+ing correctional education to inmates against the direct costs of reincarceration, taking into
+account the effect of correctional education on reincarceration rates. We found that providing
+correctional education to prisoners is cost-effective compared with the direct costs of reincar-
+ceration. We also note that the results are likely to be conservative, because they do not include
+the indirect costs of reincarceration.
+CHaptEr tHrEE
+A Systematic Review of Correctional Education Programs for
+Incarcerated Juveniles
+Introduction
+In 2011, about 61,000 individuals below age 21 were incarcerated on any given day in the
+United States. This figure represents roughly a quarter of 1 percent of the population age
+15–20 in the United States (U.S. Census Bureau, 2011; Sickmund et al., 2013). By comparison,
+roughly 1 percent of the U.S. adult population was being held in prisons and jails in the same
+year (Glaze and Parks, 2012, U.S. Census Bureau, 2011), so the rate of juvenile incarceration
+is markedly lower than that for adults. In addition, the number of incarcerated youth in the
+United States has declined steadily in the past decade and a half, dropping from about 105,000
+in 1997 (Sickmund et al., 2013). Despite this promising trend, incarceration rates among juve-
+niles are still far higher in the United States than in other developed nations. In 2002, the
+proportion of incarcerated juveniles among 12 developed nations ranged from a hundred-
+thousandth of a percent in Japan to about seven-hundredths of a percent in New Zealand and
+South Africa (Hazel, 2008).1 The rate of youth incarceration in the United States is therefore
+more than three times the highest rates in other developed nations.
+In this chapter, we define incarcerated youth as individuals under age 21 who are legally
+assigned to correctional facilities as a result of arrest, detainment for court proceedings, adju-
+dication by a juvenile court, or conviction in an adult criminal court (Office of Juvenile Justice
+and Delinquency Prevention, 2013). It is important to note, however, that correctional facili-
+ties are themselves a heterogeneous category. As of 2011, the largest share of incarcerated youth
+were housed in short-term detention centers (34 percent), followed by group homes (30 per-
+cent) and long-term secure facilities (27 percent).2 A smaller proportion were confined in ranch
+or wilderness camps (4 percent), shelters (2 percent), reception centers (2 percent), and boot
+camps (1 percent) (Sickmund et al., 2013). Importantly, these proportions exclude a nontrivial
+number of juveniles tried in adult criminal courts or confined in adult facilities. As of 2011, an
+estimated 10,000 youth on any given day were being held in adult jails and prisons (National
+Juvenile Justice Network, 2011).
+Among individuals incarcerated in juvenile correctional facilities in the United States in
+2011, about 86 percent were male, and the population included a marked overrepresentation
+of youth of color (Sickmund et al., 2013). Forty percent of incarcerated youth were black and
+1 In terms of nations similar to the United States, the rate was reported to be about five-hundredths of a percent in Eng-
+land and Wales and about half that in Australia. Data for Canada were not reported.
+2 Long-term secure facilities included training and reform schools as well as other juvenile correctional facilities.
+21
+22 How Effective Is Correctional Education, and Where Do We Go from Here?
+23 percent were Hispanic, as compared with about 13 percent and 17 percent, respectively, in
+the U.S. population at large. White, non-Hispanic youth made up 32 percent of the incarcerated
+juvenile population, as compared with 63 percent of the U.S. population (Sickmund et
+al., 2013, U.S. Census Bureau, 2013). About 30 percent of youth incarcerated in juvenile
+correctional facilities in 2011 were under the age of 16. Another 55 percent were ages 16 or 17,
+and 14 percent were ages 18 to 20 (Sickmund et al., 2013).3
+Juvenile offenders hail disproportionately from challenging circumstances. According to
+2003 data from the nationally representative Survey of Youth in Residential Placement, 56 per-
+cent of incarcerated youth reported that they had been living with only one parent at the time
+of commitment, and 26 percent reported that they had been living with neither parent. Nine
+percent of surveyed youth reported that they, themselves, were already parents (Sedlak and
+McPherson, 2010). Ninety percent of the incarcerated youth were found to have some type of
+emotional problem, and 71 percent had multiple emotional problems. A striking 20 percent
+of surveyed males and 40 percent of females reported that they had previously attempted sui-
+cide (Snyder and Sickmund, 2006). In addition, substance use history is much higher among
+incarcerated youth than among other youth in the population. Among incarcerated youth in
+2003, 84 percent reported having used marijuana in their lifetimes, and 30 percent said they
+had used cocaine or crack; the corresponding numbers among non-incarcerated youth were
+30 percent and 6 percent, respectively (Sedlak and McPherson, 2010).
+Beyond these environmental and psychological risk factors, the problems facing juvenile
+offenders are compounded by comparatively weak academic skills. The average reading abil-
+ity of incarcerated youth has been estimated at the fourth-grade level, placing them five years
+behind average grade-level targets (Project READ, 1978). Though this estimate is widely cited,
+it is based on data collected between 1976 and 1978; it is not clear how or whether the average
+literacy skills of juvenile offenders have changed during the past three decades. Incarcerated
+youth are also more likely than their counterparts to be learning disabled. In a 2003 synthesis
+of the research on youth with disabilities, Mears and Aron (2003) summarized evidence sug-
+gesting that between 30 and 50 percent of incarcerated youth have special education disabili-
+ties, as compared with approximately 10 percent of non-incarcerated youth. They also approxi-
+mated that the proportion with emotional disabilities exceeded 50 percent, that as many as
+20 may have severe emotional disturbances, and that as many as 12 percent may be mentally
+retarded. However, they noted that reporting on these percentages is quite difficult, given that
+screening procedures and diagnostic criteria are applied inconsistently across contexts and that
+students’ disability records are not consistently transferred from their regular schools to their
+correctional education programs. This is important because under the Individuals with Dis-
+abilities Education Act (IDEA) (Pub. L. 101-476), minors with disabilities have a legal right
+to a free, appropriate public education in the least restrictive environment, including appro-
+priate accommodations (U.S. Department of Education, n.d.). Due to the need for accom-
+modations and regulatory documentation, students with disabilities who qualify for services
+under IDEA cost approximately 1.9 times as much to educate as those without disabilities
+(Chambers, Parrish, and Harr, 2004). Given the disproportionate representation of students
+with disabilities in juvenile correctional facilities and the cost of educating these students, juve-
+3 Figures for incarcerated youth are based on 2011 data; comparison data for the U.S. population come from 2012.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 23
+nile correctional facilities often struggle to adequately serve the special needs of their students
+(Leone, 1994; Pasternak, Portillos, and Hoff, 1988).
+Nationally, the long-term outlook for youth who commit crimes as juveniles is somewhat
+unclear because states track juvenile recidivism using different metrics and different subsets
+of offenders, and some states do not make such data available at all. According to a 2006
+report that used data from Florida, New York, and Virginia, the 12-month rearrest rate among
+released juvenile offenders in either the juvenile or adult system was 55 percent. Using data
+from eight states, the same report estimated that 33 percent of juvenile offenders were re-
+adjudicated in a juvenile court or reconvicted in an adult criminal court within 12 months
+after release from a juvenile facility (Snyder and Sickmund, 2006).
+One important determinant of juvenile offenders’ prognosis appears to be incarceration
+itself. A recent study examined ten years of administrative data from Chicago and capitalized
+on plausibly random variation in juveniles’ appearance before judges inclined to assign incar-
+ceration (Aizer and Doyle, 2013). Adjusting for demographic and crime severity variables,
+the study found that juvenile incarceration reduced offenders’ high school completion rates
+by 13 percentage points and increased their adult incarceration rates by 22 percentage points.
+The authors suggested that expansion of less-restrictive penalties such as electronic monitoring
+and home confinement may be an especially effective—as well as cost-effective—strategy for
+reducing future criminality among juvenile offenders.
+Purpose and Organization of the Chapter
+Given that juveniles have the right to a publicly funded education, policymakers face the ques-
+tion of how best to provide educational services that will lower young offenders’ risk of future
+crime and increase their chance of success in the legitimate economy. This question is particu-
+larly acute for offenders assigned to correctional facilities. Since incarcerated youth cannot take
+advantage of the public education systems available in their communities, correctional facilities
+must provide an alternative educational system to serve them. In educating juveniles, correc-
+tional facilities must serve a highly transient population of students who bring a widely varied
+set of educational and emotional needs (Sedlak and McPherson, 2010).
+This chapter systematically reviews evidence about the effectiveness of educational inter-
+ventions implemented within juvenile correctional facilities. Though, as noted above, some
+juveniles are tried and incarcerated as adults, our discussion and analysis in this chapter is lim-
+ited to education in juvenile correctional facilities. This is because our extant meta-analysis of
+correctional education programs for adults has already examined the research on educational
+programs for individuals held in adult facilities (Davis et al., 2013) and because juvenile cor-
+rectional facilities constitute a distinct and separate part of the correctional system with their
+own sets of policy conditions and constraints (Gagnon et al., 2009).
+In this chapter, we first present our methodological approach to the systematic review. We
+then summarize the results for the eligible studies identified, which we classify into six inter-
+vention types—Corrective Reading (a commercially packaged curriculum), computer-assisted
+instruction, personalized academic instruction, remedial academic instruction, vocational edu-
+cation, and GED completion. Based on the dependent variables in the eligible studies, we
+summarize available evidence for five types of outcomes: reading skills, mathematics skills,
+diploma completion, postrelease employment, and postrelease recidivism. For each interven-
+tion type reviewed, we contextualize our discussion of the eligible articles in terms of the wider
+body of literature that is not eligible for the systematic review (due to population, setting,
+24 How Effective Is Correctional Education, and Where Do We Go from Here?
+methods, etc.) but that does address the effectiveness of the intervention under consideration.
+We conclude the chapter with a broad summary of findings, a discussion of methodological
+limitations, and suggestions for research and policy.
+Approach
+A fundamental difference between correctional education for juvenile and adult populations is
+that juveniles in the United States have a right to a public education. Therefore, all programs
+for incarcerated youth include a correctional education component. In other words, the ques-
+tion facing policymakers is not whether to provide education services for juveniles in correc-
+tional facilities, but which types of programs are most effective. The meta-analytic approach
+in our adult analysis included many types of correctional education, each of which was com-
+pared against a no-correctional-education scenario. A meta-analysis works best when you have
+a relatively homogeneous intervention (i.e., prison education) tested among many arenas and
+settings. For adults, we were able to conduct a meta-analysis by comparing individuals who
+received some form of correctional education to those who did not. However, that approach is
+less well suited to studying the effectiveness of juvenile correctional education programs, since
+programs with an absence of correctional education are typically not present in the United
+States context on which our study is focused. Instead, our approach to synthesizing research
+on juvenile correctional education is to undertake a systematic review, in which we screen and
+evaluate articles using the same criteria as we employed in the adult meta-analysis. Yet, we now
+summarize the findings of the research as a literature review rather than aggregating estimated
+effect sizes across studies that are testing widely different hypotheses for the treatment versus
+nontreatment groups. We focus on describing the balance of evidence favoring the types of
+interventions examined in the literature we reviewed.
+Document Identification
+Our comprehensive search for articles and reports pertaining to juvenile correctional educa-
+tion was nearly identical to the search process we undertook for the adult meta-analysis. We
+employed the same databases in our search, which were the Education Resources Informa-
+tion Center (ERIC), Education Abstracts, Criminal Justice Abstracts, National Criminal Jus-
+tice Reference Service Abstracts, Academic Search Elite, EconLit, Sociological Abstracts, and
+Google Scholar. As was true for the adult meta-analysis, our juvenile search was limited to
+studies conducted in the United States and released from 1980 through 2011. However, the
+search terms we employed in this case were specific to correctional education for juveniles. Our
+searches required one of the following descriptors from each set of terms:
+• youth or juvenile
+• juvenile justice, prison, jail, incarcerat* [where the asterisk serves as a wildcard, allowing
+for different word endings], detention center or corrections
+• some indication of program type, including education, academic, diploma, GED, lit-
+eracy, math, reading, science, job skills, job training, apprentice*, vocational education,
+voc tech, occupational education, career technical education, workforce [or work force]
+development, workforce training, workforce preparation, or school to work.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 25
+We then supplemented this list with manuscripts cited by other literature reviews on the
+topic of juvenile education. Altogether, the document search process resulted in 1,150 citations
+for title-and-abstract screening, as shown in Figure 3.1, which summarizes our search and
+screening process.
+Eligibility Assessment
+The documents collected through the database searches were then screened for eligibility by
+two graduate students at the Pardee RAND Graduate School who had been trained in screen-
+ing procedures for the project. The manuscript screening procedures were identical to those
+described for the adult meta-analysis report (Davis et al., 2013), except that for the juvenile
+review, the manuscripts were required to describe the effects of an academic or vocational
+intervention on incarcerated juveniles, where the definition of juveniles was permitted at that
+stage to be defined by the manuscripts themselves or to include participants under age 21. As
+in the adult meta-analysis, the manuscripts were also required to be primary, empirical studies
+rather than literature reviews or opinion pieces. Each manuscript was screened independently
+by two screeners, and conflicts were resolved by a senior member of the research team. The
+screening process yielded 157 manuscripts eligible for full-text screening.
+The full-text screening process involved an independent review of the full manuscripts—
+not just their titles and abstracts—by two graduate students. As was true for the adult meta-
+analysis, disagreements between the two screeners were resolved by a senior member of the
+research team. To pass full-text screening and be deemed eligible for inclusion in the systematic
+review, the study was required to meet three criteria:
+• evaluate an eligible intervention within an eligible population and setting
+• measure success of the program using an eligible outcome measure
+• employ an eligible research design.
+For this systematic review of the juvenile literature, an eligible intervention was defined
+as any academic or vocational education/CTE intervention program. An eligible population—
+namely, juveniles—was defined for our purposes as consisting primarily of individuals age 20
+or below. An eligible setting was any facility, regardless of jurisdiction (state, local, etc.), to
+which juveniles were confined due to arrest, court proceedings, or adjudication/conviction.
+Eligible interventions were limited to academic or vocational education/CTE programs. Eli-
+gible interventions were permitted to include an aftercare (i.e., postrelease) component, but the
+interventions had to be delivered primarily within the correctional facility setting. Interven-
+tions that did not provide instruction in academic or vocational skills—for instance, mentor-
+ing programs, substance abuse programs, and mental health programs—were excluded from
+the definition of an eligible intervention.
+We define eligible outcome measures as any measure of recidivism (e.g., rearrest, reconvic-
+tion, or reincarceration), postrelease employment, academic attainment (e.g., GED or high
+school completion), or academic performance in reading and mathematics (e.g., test scores).
+Measures of academic performance and completion could be gathered during incarceration or
+postrelease.
+Finally, we included two types of studies in the definition of eligible research design. The
+first and most common type was a comparison-group design in which a group of incarcerated
+juveniles who received an intervention was compared with a group of incarcerated juveniles
+26 How Effective Is Correctional Education, and Where Do We Go from Here?
+who did not, or who received a different version of the intervention. The second type was a
+single-case design, which is a research approach discussed later in this section.
+For comparison-group designs, as in our adult meta-analysis, we rated the rigor of the
+juvenile studies using two scales that closely correspond to one another—the Maryland Sci-
+entific Methods Scale and the U.S. Department of Education’s What Works Clearinghouse
+(WWC) scale. On both, assessments of rigor reflect the extent to which the designs protect
+against selection bias, or unobserved differences between the treatment and comparison groups
+that are correlated with the outcome of interest. Table 3.1 summarizes the standards employed
+for both scales. Randomized trials with low attrition constitute the most rigorous of these
+types of designs, because randomizing the two groups renders the treatment and comparison
+group alike in expectation. We assigned these designs a 5 (the highest rating) on the Mary-
+land Scale, and a “Meets Standards” rating on the WWC scale. Studies that demonstrate very
+close matches between treatment and comparison groups on relevant observable characteris-
+tics (at minimum, age, prior offenses, baseline education level, and time to data collection)
+are awarded a 4 on the Maryland Scale and a “Meets Standards with Reservations” rating on
+the WWC scale. Studies that do not demonstrate strong baseline matches (within a 20th of a
+standard deviation for the aforementioned variables) but that attempt to control for observed
+baseline differences earn a 3 on the Maryland Scale, but “Does Not Meet Standards” on the
+WWC scale. Studies that do not attempt to control for observed baseline differences between
+the treatment and comparison groups earn a 2 on the Maryland Scale, and do not meet WWC
+standards. The Maryland Scale assigns a rating of 1 to studies that do not include a compari-
+son group because they include no way to estimate even roughly what would have happened to
+the treatment group in the absence of treatment, and these studies are not eligible for WWC
+review. Consistent with our adult meta-analysis, we formally exclude Maryland level-1 stud-
+ies from those juvenile studies we deem eligible for our systematic review of evidence in this
+chapter. However, unlike in our adult meta-analysis, we do include brief descriptions of level-1
+studies that are relevant to the interventions under discussion, insofar as they help to contex-
+Table 3.1
+Operational Definitions of Evidence Rating Categories on the What Works Clearinghouse and
+Maryland Scientific Methods Scales for the Juvenile Systematic Review
+What Works Maryland
+Clearinghouse Scientific
+Scale Methods Scale Joint Operational Definition
+Meets standards 5 randomized, controlled trial with attrition below the liberal WWC
+threshold, or single-case designs with well established pre- and post-
+intervention trends.
+Meets standards 4 Quasi-experimental design (or high-attrition randomized controlled trial)
+with reservations in which the treatment and comparison groups are matched (within about
+1/20th of a standard deviation) at baseline on at least age, prior offenses,
+baseline educational level, and time to data collection. Or single-case
+designs with moderately established trends.
+Does not meet 3 treatment and comparison groups are matched on 1–2 variables other
+standards than gender, and/or there are statistical controls for at least some baseline
+differences between groups other than gender.
+2 no random assignment for matching, and no statistical controls for baseline
+differences between treatment and comparison groups.
+1 no separate comparison group.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 27
+tualize findings from the eligible studies. We make mention of relevant level-1 studies because
+these studies are often cited in the broader literature on what works in juvenile correctional
+education (e.g., Houchins et al., 2008; Wexler et al., 2013). Our aim in briefly mentioning
+level-1 studies as part of the research context while excluding them from our discussion of
+eligible studies is to acknowledge the centrality of some of these studies to the correctional
+education literature, while also highlighting why their designs do not warrant even limited
+inferences about program impact.
+We make one notable exception to the comparison-group requirement, and that is for
+studies that use a class of approaches called single-case designs. Single-case designs are com-
+monly employed in special education research, where large samples are often unavailable for
+intervention evaluation (Kratochwill et al., 2010). They involve systematically introducing an
+intervention with one or a few students in an effort to demonstrate causal effects on outcomes
+such as participant behavior or learning. These studies typically include a large number of
+pre- and post-intervention outcome measurements, allowing students to function as their own
+controls. In this way, they do include a comparison condition, but the comparison condition is
+the sustained pre-intervention state of the group that eventually receives treatment. Focusing
+on one or a handful of participants, these designs typically lack statistical power for conven-
+tional hypothesis testing. However, insofar as it is possible to establish a clear trend for student
+performance in the absence of the intervention, then clear deviations from that trend in the
+presence of the intervention can be causally attributed to the intervention itself. The WWC has
+therefore established specific standards for the rigor of single-case design studies (Kratochwill
+et al., 2010). We follow these standards when rating the single-case designs included in our sys-
+tematic review. This means that we assign a level-5 rating on the Maryland Scale to studies that
+receive the highest rating (“Meets Standards”) under WWC standards for single-case designs,
+because these studies demonstrate a strong basis for inferring that observe effects are causal.
+This is consistent with our overall use of the Maryland Scale/WWC ratings as measures of
+internal validity (freedom from selection bias) rather than external validity (generalizability to
+broader populations). Still, because single-case design studies are very small and do not permit
+hypothesis testing, we caveat our level-5 ratings for single-case design studies with asterisks in
+Appendix Table A. This reflects the fact that the studies conform to a parallel set of internal
+validity standards established by the WWC for these designs. We acknowledge that the ability
+to generalize from such studies is limited by the very small samples they include.
+Among the 157 studies eligible for full-text screening, nine could not be located. Another
+12 were duplicates. This resulted in 136 that received full-text screening, of which 27 were
+deemed eligible for detailed review by our Scientific Review Team. Figure 3.1 illustrates the
+winnowing process, from the initial search through title-and-abstract screening and full-text
+screening. It also summarizes the reasons for exclusion among the articles that received a full-
+text screening.
+Scientific Review
+The 27 studies that passed full-text screening were then reviewed independently by two Ph.D.-
+level researchers specifically trained in the data extraction protocol, as described in Chapter
+Two of the meta-analytic report (Davis et al., 2013). The scientific review team for the juvenile
+systematic review comprised a subset of review team members from the adult meta-analysis
+who brought specific expertise in correctional education for juveniles. As such, it included
+five faculty members from academic departments across the country, who received two days
+28 How Effective Is Correctional Education, and Where Do We Go from Here?
+Figure 3.1
+Eligibility Assessment of Potential Documents for Inclusion in the Systematic
+Review
+Not primary empirical research on
+1,150 documents identified juvenile correctional education
+(n = 993)
+Primary research on
+juvenile correctional education
+(n = 157)
+Documents procured
+Not able to locate Duplicate documents
+for full text review
+(n = 9) (n = 12)
+(n = 136)
+118 studies excluded from systematic review
+• Ineligible research design (n = 32)
+• Ineligible intervention (n = 8) 18 studies
+• Ineligible intervention and dependent variables (n = 3) included in
+• Ineligible research design and dependent variables (n = 27) systematic review
+• Ineligible research design and intervention (n = 13)
+• Ineligible research design, intervention, and dependent
+variables (n = 35)
+RAND RR564-3.1
+of training in the data extraction process, with a subsequent online evaluation for norming,
+and with periodic norming feedback via email. The data extraction protocol for the juvenile
+systematic review was modified slightly from the protocol for the adult meta-analysis, in that
+a question was added about the standalone or integrated nature of the correctional education
+program, and a checkbox option for special education was added to the intervention content
+item. In addition, the scientific review team was asked only to identify the outcomes and base-
+line variables collected in the study rather than collecting the actual values of the variables,
+which were instead extracted by a graduate student on the project, with detailed checking and
+confirmation by a senior member of the research team. A copy of the juvenile scientific review
+protocol, including the main worksheet, the outcomes worksheet, the baseline characteristics
+worksheet, and the glossary, is shown in Appendix C.
+Synthesis of Eligible Studies
+Based on the extracted data, each study was rated for rigor on the Maryland Scale and WWC
+scale. Eighteen of the 27 studies that underwent scientific review were deemed eligible for
+formal inclusion in the analysis. Data from the 18 eligible studies were organized and sum-
+marized by intervention type; summaries of each are shown in Table A.1 in Appendix A.
+This table includes information about each study, including its citation, a description of the
+treatment and comparison conditions it examines, a listing of the demographics of the study
+population and the size of the treatment and comparison groups, a brief description of inter-
+vention duration and frequency, where reported, and quantitative summaries of the effect sizes
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 29
+reported or inferable in each of the studies. In cases where we had to calculate effect sizes on
+test score outcomes, we subtracted pre-post changes for the comparison group from pre-post
+changes for the treatment group, and divided by the pooled standard deviation of the pretest
+score. For dichotomous outcomes such as diploma completion rates, employment rates, and
+recidivism rates, we define effects as the percentage for the treatment group minus the per-
+centage for the comparison group. The Maryland Scale rating reflects the extent to which the
+research design and analysis mitigated selection bias in the effect size estimate. In studies that
+employed random assignment, we report on the intent-to-treat effects, meaning the differences
+between participants assigned to the treatment and control groups, regardless of their compli-
+ance and persistence in the intervention. For randomized trials, a Maryland Scale rating of 5
+means that the attrition rates of the treatment and control groups fell below the more liberal
+of the two attrition thresholds established by the WWC for a study to “Meet Standards.” We
+provide additional details about the calculation we used for this threshold in our adult meta-
+analytic report (Davis et al., 2013).
+Summaries of the nine studies that were deemed ineligible due to research design (i.e.,
+level-1 studies) are still shown—but are shaded—in Table A.1. Because of the small number
+of eligible studies within each category and because the hypotheses tested within a category
+of intervention types were not always uniform, our findings for each analytic category are
+described qualitatively rather than aggregated quantitatively across studies, as they were in the
+meta-analysis for adults. In the results section that follows, we present a synthesis of findings
+for each intervention category.
+We begin our discussion of each intervention category by discussing the broader litera-
+ture pertaining to that intervention, even if that literature focuses on noncorrectional settings
+or populations. Our discussion of the research contexts also includes a few studies (those in
+shaded rows in Table A.1) that were conducted in juvenile correctional facilities but were rated
+a level 1 on the Maryland scientific methods scale because they lacked an adequate comparison
+condition.
+After briefly presenting the research context for each intervention, we discuss the find-
+ings of studies that were eligible for the systematic review. Where sufficient data are available,
+we report effect sizes in pooled pretest standard deviation units for assessment results, and in
+percentage point differences for recidivism and employment rates. For single-case design stud-
+ies, we calculate and report mean differences in performance before and after intervention
+administration.4 We conclude each intervention subsection with a summary of what can be
+said about that intervention in juvenile correctional settings, based on the preponderance of
+extant evidence.
+Distinctions from Other Reviews of Interventions for Juvenile Offenders
+Our systematic review is intended to complement other reviews that have examined the evi-
+dence on educational interventions for juvenile offenders. Lipsey (2009) has conducted a com-
+prehensive meta-analysis on interventions designed to reduce juvenile delinquency. His study
+differed from ours, however, in that it included a wide array of interventions beyond education
+4 Kratochwill et al. (2010) acknowledge the difficulty of presenting summary statistics for single-case design studies,
+where determinations of evidence are based on visual examination of trends rather than conventional hypothesis testing.
+They discuss reporting the percentage of non-overlapping data points as a way of describing effects, but this approach still
+says little about the substantive magnitude of effects. We report mean gains to help clarify the magnitudes in a way that is
+comparable to our reporting for comparison-group studies.
+30 How Effective Is Correctional Education, and Where Do We Go from Here?
+and was not limited to studies conducted within correctional facilities. He also limited his
+analysis to studies that focused on recidivism as the dependent variable of interest. Sander and
+colleagues (2012) also examined the effects of a broad array of interventions for juvenile offend-
+ers, including educational and non-educational interventions, and including studies conducted
+within and outside of correctional facilities, but they diverged from Lipsey in that they focused
+on academic rather than recidivism outcomes. In contrast to both of those studies, we limit our
+review to studies of academic and vocational education/CTE interventions implemented with
+juveniles incarcerated in correctional facilities.
+Building on a small review of reading interventions in correctional settings by Krezmien
+and Mulcahy (2008), Wexler et al. (2013) undertook a review that focused only on academic
+interventions undertaken in juvenile correctional facilities, and that looked exclusively at aca-
+demic outcomes. Though our review partially overlaps with that of Wexler et al. (2013), it
+differs in three key ways. First, similar to our meta-analysis of adult interventions, we include
+both academic and vocational education/CTE interventions rather than academic interven-
+tions only. Second, we consider not only academic achievement outcomes but also employment
+and recidivism outcomes. Third, we include studies regardless of whether or not they are pub-
+lished in peer-reviewed journals. We do this in order to be broadly inclusive of reports, disserta-
+tions, and other ways in which research findings are often reported, and also to minimize pub-
+lication bias, which may result if studies with positive findings are more likely to be published
+in journals than those with negative or null findings (Borenstein et al., 2009). We nevertheless
+take care to rate the rigor of studies using the Maryland Scale, which we operationalize using
+rules from the WWC scale, as described above. This clarifies the extent to which results are
+internally valid and free of likely selection bias. To address the issue of external validity—that
+is, generalizability—we report on sample sizes, sample demographics (where given) and, where
+possible, on the statistical significance of the effects.
+Results
+The 18 studies formally included in this systematic review, which are summarized in Table A.1,
+address six different categories of interventions: Corrective Reading (again, a commercially
+available curriculum), computer-assisted instruction, personalized academic instruction, reme-
+dial academic instruction, vocational training, and passing the GED test. We limit the sys-
+tematic review to studies in which these interventions are administered within correctional
+facilities serving juveniles. The studies examine four types of outcomes: reading skills, diploma
+completion, postrelease employment, and recidivism, as measured by rearrest or reincarcera-
+tion. It is notable that passing the GED assessment (GED Testing Service, 2013) serves as
+both an independent and dependent variable of interest in our review. This is because two of
+the studies examine the relationship between intensive, personalized instruction and academic
+attainment (including earning a GED), while two others examine the relationship between
+GED completion in a juvenile facility and postrelease employment and recidivism. Given that
+many correctional educators in workshops and individual discussions have pointed to imple-
+mentation of the new online GED assessments as a current and pressing challenge (see Chapter
+Four), the evidence examining the effect of receipt of the GED was of particular interest to the
+research team.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 31
+Table 3.2 summarizes results for the two intervention categories—Corrective Reading
+and computer-assisted instruction—that use measures of reading skill as dependent variables.
+Table 3.3 summarizes results for the other three categories—personalized academic instruc-
+tion, vocational training, and earning a GED—that focus on diploma completion, employ-
+ment, and/or recidivism outcomes. Table A.1 presents additional, study-level details about each
+of the studies summarized in Tables 3.2 and 3.3.
+Corrective Reading
+Research Context
+Corrective Reading is a commercially available, intensive reading program designed for students
+whose reading skills are below grade-level. The curriculum, which emphasizes direct instruc-
+tion over inductive or student-driven approaches, includes an instructional strand focused on
+decoding skills (i.e., identifying unfamiliar words) and another strand focused on comprehen-
+sion, though the two strands can also be taught together (McGraw Hill Education, n.d.).
+In 2007, the WWC evaluated Corrective Reading and deemed it to have potentially posi-
+tive effects on alphabetics (e.g., phonics and decoding) and fluency (e.g., rate and accuracy),
+but no discernible effects on comprehension (What Works Clearinghouse, 2007). This evalua-
+Table 3.2
+Summary of Findings for Reading Interventions
+Intervention Studies and Maryland
+Type Scale Ratings Reading Effects Preponderance of Evidence
+Corrective n Studies = 4 average gains of 9 to 36 words the preponderance of evidence
+reading n participants = 49 read correctly per minute in two about Corrective reading in juvenile
+level-5 single-case design studies correctional settings is positive for
+Level-5 studies: 3 (no hypothesis test) reading skills based on two level-5
+(1 randomized controlled single-case designs and 1 level-3
+trial, 2 single-case) nonsignificant gain of 0.66 of a study, but samples are small in all
+standard deviation across reading cases. Level-5 studies should be
+Level-3 studies: 1 domains in level-3 study (p = 0.36) largely free of selection bias, but
+none of the level-5 studies provides
+nonsignificant gain of 0.21 of a a hypothesis test of the overall
+standard deviation across reading effects of Corrective reading.
+domains for group size of 4 versus
+12 in level-5 randomized trial
+(p = 0.65)
+Computer- n Studies = 3 Gain of 0.21 of a standard the preponderance of evidence
+assisted n participants = 1,399 deviation in reading for read 180 about read 180 in juvenile
+instruction relative to default curriculum in correctional settings is positive
+Level-5 studies: 3 level-5 study (p < 0.001) for reading. the preponderance
+of evidence about Fast ForWord is
+nonsignificant decrease of 0.17 of slightly negative but statistically
+a standard deviation across reading nonsignificant for reading. the
+domains for Fast ForWord relative preponderance of evidence
+to default curriculum in level-5 on tUnEin to rEaDInG is
+study (p > 0.05) slightly positive but statistically
+nonsignificant for reading. all
+nonsignificant gain of 0.21 of estimates should be largely free of
+a standard deviation in reading selection bias.
+for tUnEin to rEaDInG relative
+to FCat Explorer in level-5 study
+(p > 0.05)
+nOtE: We do not provide Maryland Scale or WWC effectiveness ratings, because the number of studies is small
+and some have very few students. thus, we think it is premature to declare any of these interventions effective
+or ineffective based on available evidence. Instead, we provide a column reporting on the preponderance of
+existing evidence, which may be positive, mixed, or negative for each outcome examined.
+32 How Effective Is Correctional Education, and Where Do We Go from Here?
+tion was based on a randomized trial undertaken in third-grade classrooms at eight elementary
+schools and thus did not focus on correctional education settings per se (Torgesen et al., 2006).
+The other 24 Corrective Reading studies screened in the WWC review did not meet WWC
+evidence standards. However, the WWC review occurred before the WWC had established
+separate standards for single-case design studies. This is important because two of the studies
+screened out in that review—those by Drakeford (2002) and Allen-DeBoer, Malmgren, and
+Glass (2006)—were single-case design studies that we include in our systematic review because
+they were undertaken in juvenile correctional facilities and now comply with the set of WWC
+standards for single-case designs (Kratochwill et al., 2010). In addition, the WWC review
+screened out a study that we evaluate to be a level 2 on the Maryland Scale and thus include
+in our systematic review (Scarlato and Asahara, 2004). Most of the Corrective Reading studies
+reviewed by the WWC did not focus on incarcerated youth.
+In our systematic review of Corrective Reading implemented in juvenile correctional
+facilities, we consider four studies that meet an evidence level of 2 or higher on the Maryland
+Scale. All of the studies focus on reading skills as the dependent variables of interest. The
+studies’ findings are reported in Table 3.2, and additional details about each study appears in
+Table A.1. Three of the studies compare Corrective Reading to the default reading intervention
+in the juvenile facility. These include two well-implemented single-case design studies (Allen-
+DeBoer, Malmgren, and Glass, 2006; Drakeford, 2002) that each warrant a WWC “Meets
+Standards” rating, and thus we give them a corresponding Maryland Scale rating of 5.5 The
+other, by Scarlato and Asahara (2004), is a nonrandomized comparison group study that does
+adjust for baseline performance, and so rates a level 3 on the Maryland Scale. In addition, we
+examine a randomized trial with low attrition by Houchins and colleagues (2008), which rates
+a 5 on the Maryland Scale but differs from the others in that it compares two approaches to
+Corrective Reading implementation—one implemented with a small group of four students,
+and another with a larger group of twelve students.
+Studies with Ineligible (Level-1) Designs in Juvenile Correctional Settings
+Before we turn to the eligible studies, it is worth noting that the research context includes two
+studies conducted in juvenile correctional education settings that did not meet our systematic
+review standards because they used pre/post measures without a comparison group, rendering
+them a level 1 on the Maryland Scale. As noted, we reference these studies (and include them
+in shaded rows of Table A.1) because they are often cited as part of the evidence base on Cor-
+rective Reading. However, because they lack comparison conditions within the study, we do
+not consider them to be part of our systematic review of the evidence base for the intervention.
+A study by Coulter (2004) focused on 12 students, age 15 on average, with baseline read-
+ing levels of grades one to six. The students were assigned to a nine-week program of one-to-
+one tutoring using direct instruction (Carnine, Silbert, and Kameenui, 1997) and Corrective
+Reading (Engelmann et al., 1999) strategies. The average instructional dosage received was 21
+sessions, or about a month of instruction, and the average gains during that time were nine
+months on the combined rate-and-accuracy subtest of the Gray Oral Reading Test, 3rd edi-
+tion, and nine months on the comprehension subtest. In addition, the gain in words read cor-
+5 The original Maryland Scale did not consider single-case designs, but the inclusion of these designs is relevant for the
+juvenile correctional education literature, so we continue our practice of operationalizing the WWC and Maryland Scales
+in corresponding ways.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 33
+rectly per minute was 3.57 per week, which the authors compared to an expected gain of 1
+word per week for students on a fourth-to-sixth grade level receiving intensive instruction. In
+addition, a study of Corrective Reading implemented in a juvenile facility in combination with
+whole-language instruction (Malmgren and Leone, 2000) found statistically significant gains
+in the Gray Oral Reading Test rate-and-accuracy score (0.35 of a standard deviation) as well
+as a statistically nonsignificant gain in comprehension (0.34 of a standard deviation), among
+45 juveniles ages 13–18 exposed to a six-week summer reading program for about three hours
+per day, five days per week. As with Coulter (2004), this study is not eligible for our system-
+atic review because it did not include a comparison group. Unlike Coulter’s study, Malmgren
+and Leone (2000) did not present their findings in terms of national or other norms, so it is
+especially difficult to estimate whether similar gains would have been made using a different
+instructional approach over the same period of time. Still, the findings suggest that oral read-
+ing gains ranging from a third to a half of a pretest standard deviation are feasible within six
+to nine weeks for incarcerated students receiving Corrective Reading instruction in combina-
+tion with whole-language teaching. We turn now to evidence from studies that were formally
+eligible for the systematic review.
+Eligible Studies in Juvenile Correctional Settings: Single-Case Designs
+As noted above, we consider single-case designs to meet strong evidence standards (i.e., to
+merit a 5 on the Maryland Scale in terms of the strength of their causal inferences) if they meet
+the single-case design standards set forth by the WWC. The two single-case design studies that
+examine Corrective Reading met that standard in terms of establishing clear pre- and post-
+intervention performance trends in at least three cases (Kratochwill et al., 2010). Moreover,
+the two single-case studies of Corrective Reading, both using multiple-baseline designs, show
+positive effects of the Corrective Reading intervention on the number of words read correctly
+per minute.6 The mean gain for the Allen-DeBoer, Malmgren, and Glass (2006) study, imple-
+mented for an average of 30 30-minute lessons with four students ages 16–18, was 35.8 words
+per minute. This was relative to a mean baseline of about 93 words per minute, suggesting a
+roughly 38 percent gain on average. Single-case designs, though they allow for causal infer-
+ence, do not permit hypothesis testing or the calculation of traditional effect sizes (Kratochwill
+et al., 2010). The study, however, showed no evidence of an effect on word errors per minute.
+The mean gain for the Drakeford (2002) study, which was undertaken with six students ages
+12–21 for an average of 20 one-hour lessons, was 9.2 words read correctly per minute, on a
+mean baseline of about 77 words per minute. Relative to the baseline level, this represents
+about a 12 percent gain.
+Pooling the two estimates, the mean gain associated with Corrective Reading in the two
+studies appears to be 1.66 words read correctly per minute for every hour of Corrective Read-
+ing instruction, though this value is a rough average at the study-level and is, of course, based
+on very small samples. Though single-case designs are considered a rigorous method for under-
+taking studies with small samples (such as small groups of learning-disabled students), they do
+pose a challenge for generalizability, since they require extrapolation from very small groups of
+students and do not permit traditional hypothesis testing.
+6 In a multiple-baseline design, the intervention is introduced to multiple students but at staggered starting points, to
+separate any secular time trend from the treatment effect.
+34 How Effective Is Correctional Education, and Where Do We Go from Here?
+Eligible Studies in Juvenile Correctional Settings: Comparison-Group Designs
+Two studies of Corrective Reading used eligible comparison-group designs. As noted, one was
+an observational study that adjusted for baseline differences in test scores and thus merited a
+3 on the Maryland Scale. This 19-week study by Scarlato and Asahara (2004) compared 180
+minutes per week of Corrective Reading to 345 minutes of weekly specialist-directed reading
+instruction in the comparison group among nine students ages 16–17. The study found sub-
+stantial positive effects of Corrective Reading on subscales of the Woodcock Reading Mastery
+Test Revised, ranging from about 0.3 of a standard deviation in word identification and word
+comprehension, to about 0.9 in passage comprehension and total reading. However, the com-
+parison group showed lower reading skills at baseline than the treatment group, so it is possible
+that the groups also differed in unobserved ways. Moreover, the treatment effects were due in
+part to the substantial losses (as large as 0.5 of a standard deviation) made by the comparison
+group who worked with a reading specialist. Whether this is due to the particular skills of that
+reading specialist in the comparison condition is unclear. In other words, the design makes it
+difficult to disentangle treatment effects from effects of the types of students who were selected
+to receive the treatment and the particulars of the comparison condition. For this reason, the
+results should be interpreted with caution. Moreover, none of the observed effects, despite their
+large magnitude, was statistically significant, which is the result of the very small sample size
+of nine students.
+Houchins et al.’s (2008) randomized trial comparing Corrective Reading with smaller
+versus larger instructional groups included 20 students ages 13–17 receiving instruction for
+about 21 one-hour sessions. The findings for use of Corrective Reading in smaller groups (1:4
+instead of 1:12) were substantial and positive for several outcomes, including word identifica-
+tion, word attack, and silent reading (0.6, 0.5, and 0.7 of a standard deviation, respectively),
+but were not statistically significant. (The word identification coefficient was reported to be
+significant at the 1-percent level, but the p-value increased to 0.058 when we adjusted for mul-
+tiple comparisons using the formula 1–(1–p)k, where p is the p-value, and k is the number of
+comparisons.) The findings were positive but very small and statistically nonsignificant for oral
+reading at the third grade level, and negative but nonsignificant for oral reading at the fourth
+and fifth grade levels. The size of the small Corrective Reading group in this particular evalu-
+ation (four per group) appears similar to that in the aforementioned studies, based on the size
+of the treatment groups examined, which ranged from four to six across the studies.
+Because Houchins et al.’s (2008) study was a rigorously designed randomized trial with
+low attrition, it merited a 5 on the Maryland Scale. Its results are therefore likely free from
+unobserved differences between treatment and comparison groups. However, because the
+study did not include a condition without Corrective Reading, it permits only an assessment of
+the program with a smaller group relative to a larger group. It is possible that the positive effects
+of the smaller group size are not specific to the Corrective Reading curriculum but would have
+been observed with other curricula as well. Still, the findings suggest that for those seeking to
+use Corrective Reading, smaller instructional groups may be warranted.
+Summary
+Taken together, the preponderance of evidence on Corrective Reading in correctional set-
+tings suggests that the intervention’s effects are positive for reading skills. The evidence seems
+strongest for basic skills like word identification and decoding, since positive evidence for
+comprehension comes only from the Scarlato and Asahara (2004) study, which merits only a 3
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 35
+on the Maryland Scale. In addition, none of the studies was large enough to yield statistically
+significant effects. This makes it difficult to generalize broadly from these findings. Based on
+these four eligible studies, it would be difficult to state definitively that Corrective Reading is
+an effective reading program for incarcerated juveniles. However, taken in conjunction with
+the literature in the research context section, and in the absence of better-supported remedial
+reading alternatives for correctional settings, Corrective Reading shows some promise. This
+promise is best substantiated with lower-level skills like word identification and decoding.
+Computer-Assisted Instruction
+Research Context
+Meta-analyses of the effects of computer-assisted learning outside of correctional education
+settings have produced mixed signals about the effectiveness of these programs for raising stu-
+dent achievement. In a meta-analysis of 17 studies spanning kindergarten through 12th grade
+and published in 1982 through 1999, Soe, Koki, and Chang (2000) found positive effects of
+computer-assisted instruction on reading achievement. The average impact estimate was 0.132
+of a standard deviation, though the estimates ranged widely, from a low of 0.045 to a high of
+0.762 of a standard deviation. In a more recent systematic review of computer-assisted instruc-
+tion effects on reading, Slavin et al. (2008) found a weighted mean effect of 0.1 of a standard
+deviation across eight eligible studies. Importantly, all of these studies focused on computer-
+assisted instructional packages as standalone, supplemental interventions rather than as com-
+ponents of integrated, blended curricula.7 In our own analysis of computer-assisted instruc-
+tion in adult correctional education settings, we found no statistically significant difference
+between computer-assisted and face-to-face instruction in math and reading, though the esti-
+mates were based on only four relatively underpowered studies, and the effects were generally
+positive in magnitude (Davis et al., 2013).
+However, computer-based instructional interventions vary widely, which makes it diffi-
+cult to generalize about them as a class of interventions. We therefore focus our discussion in
+this section on the three computer-assisted interventions that were eligible for inclusion in our
+juvenile correctional education systematic review: Read 180, Fast ForWord, and TUNEin to
+READING (TiR).
+Read 180, published by Scholastic, is a complete reading curriculum for upper elementary
+through high school–aged students that includes an adaptive, computer-assisted component,
+but also includes teacher-led direct instruction and independent and small-group reading com-
+ponents. The prescribed dosage is typically 90 minutes per day, five days per week (Loadman
+et al., 2011; Scholastic, n.d.). It is part of a class of interventions that Slavin et al. (2008) refer
+to as “mixed-methods models” and what others call “blended learning” models (Horn and
+Staker, 2011), but, given that it prominently features an adaptive, computer-based component,
+we classify it as a computer-assisted approach in our analysis. Based on seven studies that meet
+evidence standards with reservations (comparable to a level 4 on the Maryland Scale), the
+WWC found potentially positive effects for the impact of Read 180 relative to comparison
+curricula on comprehension, with an average increase of 0.11 of a standard deviation, or 4 per-
+centile points, and on general literacy achievement, with an average increase of 0.31 of a stan-
+dard deviation, or 12 percentile points. Based on eight studies, four of which overlapped with
+7 We use the term “blended” to refer to curricula that incorporate both computer-based and face-to-face instructional
+methods (see, for instance, Horn and Staker, 2011; also, Childress, 2013).
+36 How Effective Is Correctional Education, and Where Do We Go from Here?
+the WWC analysis, Slavin et al. (2008) provide a weighted mean effect of 0.24 of a standard
+deviation for Read 180 relative to comparison curricula. However, none of the studies included
+in Slavin et al.’s systematic review of computer-assisted instruction, or in the WWC review of
+Read 180, was conducted in correctional education settings.
+The Fast ForWord software-based intervention is published by Scientific Learning Corpo-
+ration. Unlike Read 180, a middle-grade-oriented reading program in which computer-assisted
+instruction is one component, Fast ForWord is a completely computer-based curriculum and is
+designed for beginning readers (Scientific Learning Corporation, 2004). It is intended for use
+five days per week, for 30–100 minutes per day over a 4–16-week time period (What Works
+Clearinghouse, 2013). In a review of seven studies that met its evidence standards and two that
+met standards with reservations (comparable to a level 4 on the Maryland Scale), the WWC
+found positive effects of Fast ForWord on alphabetics (e.g., decoding), no effect on reading
+fluency (e.g., rate and smoothness), and mixed (i.e., both positive and negative) effects on read-
+ing comprehension. However, none of these studies was conducted in correctional education
+settings.
+The final computer-assisted intervention eligible for consideration in our systematic review
+is TiR, which was developed in 2005 and is published by Electronic Learning Products. The
+TiR software, which contains more than 600 songs analyzed for readability level, promotes
+reading fluency by teaching students to sing written words with the correct pitch and tone
+(Calderone et al., 2009). Prior to being studied in a juvenile correctional education setting, the
+intervention, known at the time as Carry-a-Tune, was evaluated for 90 minutes a week over
+nine weeks in a rural west Florida middle school. The study, which was undertaken by Biggs
+and colleagues (2008), found that the 24 students in the treatment group improved by 0.98
+of a pooled pretest standard deviation, as compared with no change in the performance of the
+22 matched-comparison group students who were assigned to required reading for the same
+amount of time (p < 0.001). Though the study was small, its substantial effects and use of a
+matched comparison group (warranting a level 4 on the Maryland Scale) suggested the prom-
+ise of this intervention with struggling adolescent readers.
+Studies with Ineligible (Level 1) Designs in Correctional Settings
+As part of our consideration of the research context, we did find one study of the aforemen-
+tioned interventions that was administered in a correctional setting for juveniles, but with a
+design that made it ineligible for the systematic review. The developer of Fast ForWord, Scien-
+tific Learning Corporation (2004), conducted a study of the intervention with 29 youth incar-
+cerated by the Virginia Department of Correctional Education. Focusing on 18 students at one
+of the two schools in the study, evaluators found that students improved by 1.5 grade equiva-
+lents on average over a ten-month time period on the Woodcock Johnson Tests of Achieve-
+ment–Broad Reading. In the other participating school, the 11 students in the study gained
+nearly 1.5 grade equivalents in a four-month time period as measured by the STAR Reading
+assessment. Both sets of pre-to-posttest gains were statistically significant at the 5 percent
+level. However, because neither subgroup included a comparison group, this study is rated as a
+level-1 design on the Maryland Scale, we do not officially include it in our systematic review,
+and it therefore appears in a shaded row within Table A.1.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 37
+Eligible Studies in Juvenile Correctional Settings
+The three studies of computer-assisted instruction that qualified for the systematic review
+focused on the three aforementioned interventions: Read 180, Fast ForWord, and TiR. Results
+for the studies are synthesized in Table 3.2 and are summarized in greater detail in Table A.1.
+In the largest of the three studies, Loadman et al. (2011) conducted a randomized, controlled
+trial of Read 180 with students incarcerated in eight correctional facilities run by the Ohio
+Department of Youth Services facilities.8 The study randomized five cohorts of students, for
+an initial sample of 1,982 students. Because the final rates of overall and differential attrition
+(37.2 percent and 2.5 percentage points, respectively) fell beneath the liberal threshold of the
+WWC, the study merited a 5 in our operationalization of the Maryland Scale. The final ana-
+lytic sample included 1,245 students, ranging in age from 14 to 22. The students randomly
+assigned to receive 90 minutes of daily instruction with the Read 180 curriculum instead of
+the same amount of instruction with the default language arts curriculum showed gains on the
+Scholastic Reading Inventory that were 0.21 of a standard deviation higher than the control
+group at the end of the 20-week intervention, a statistically significant difference (p < 0.001).
+Moreover, among the 243 students still enrolled at the correctional institution a year after
+baseline testing, the gains at that time were 0.26 of a standard deviation greater on the Cali-
+fornia Achievement Test than for the control group. The latter difference was also statistically
+significant (p = 0.011), though the one-year effect could be rated only a 4 on the Maryland
+Scale due to the small proportion of the sample still enrolled a year after baseline testing. Still,
+the Read 180 study represents one of the largest and most well-executed studies we uncovered
+within a juvenile correctional education setting, and should be viewed as a model for future
+efforts.
+Fast ForWord was also evaluated in a randomized, controlled trial in juvenile correctional
+setting, in this case in a long-term, maximum-security juvenile facility in Alabama (Shippen
+et al., 2012). The study, which we rated a 5 on the Maryland Scale due to its complete lack of
+attrition, involved 51 students ages 11–20. The study estimated the impact of exposure to Fast
+ForWord reading relative to a default individualized instructional program. The duration of
+the program was 45 minutes per day, five days per week, for 11 weeks, though in practice the
+average exposure duration was only 24 days. The study found a positive impact on spelling
+skills of 0.23 of a standard deviation, but a negative effect on the Test of Word Reading Effi-
+ciency (–0.14 of a standard deviation) and on the Woodcock Reading Mastery Test-Revised/
+Normative Update (–0.21 of a standard deviation). Due to the study’s limited statistical power,
+none of the estimates was statistically distinguishable from zero, but the magnitude and direc-
+tion of the reading effects suggest that Fast ForWord was not an effective tool for raising read-
+ing achievement within the study population.
+Finally, Calderone et al. (2009) undertook a randomized trial in which TiR was com-
+pared against the default language arts instruction program in six juvenile correctional facili-
+ties in Florida. The default control-group curriculum was FCAT Explorer, which is another
+computer-assisted program, but one focused largely on drill and practice for the Florida Com-
+prehensive Assessment Test. The study randomized 138 incarcerated males in grades 7 through
+11 to TiR versus the control condition within each site. After attrition, which fell beneath
+8 The findings for the first two cohorts, which were similar, though slightly smaller in magnitude, were reported in Zhu
+et al. (2010). The findings discussed above reflect the full five-year study documented in the project’s final report to the
+Institute of Education Sciences.
+38 How Effective Is Correctional Education, and Where Do We Go from Here?
+even the conservative boundary of the WWC (at 25.4 percent overall and a differential rate of
+0.6 percentage points), the analytic sample included 103 students, and we rated the study a 5
+on the Maryland Scale. Students received computer-assisted instruction for 45 minutes, two
+times per week, for nine weeks and were assessed with a computer-adaptive cloze (i.e., fill-in-
+the-blank) reading assessment developed by TiR but validated against the Qualitative Read-
+ing Inventory (Leslie and Caldwell, 2000) and the FCAT.9 Students in the treatment group
+showed gains that were 0.21 of a pooled pretest standard deviation greater than those of the
+control group. This is a positive effect of nontrivial magnitude, though, given the small sample
+size, the effect estimate did not approach statistical significance (p = 0.3).10
+Summary
+The three eligible studies that focused on computer-assisted instruction in juvenile correctional
+settings were all well-executed, low-attrition randomized trials. Taken together, they showed
+mixed results with regard to students’ reading skills. The evidence from correctional settings
+comports with the larger bodies of evidence for Read 180 and Fast ForWord, respectively,
+in that the extant evidence for Read 180 suggests that it raises achievement more than com-
+parison interventions, and Loadman et al. (2011) found a clear positive effect of the curricu-
+lum. Meanwhile, the larger body of evidence for Fast ForWord is indeterminate regarding its
+effectiveness, and the Shippen et al. (2012) study conducted in a juvenile correctional setting
+showed positive effects for spelling and negative effects for reading, none of which was signifi-
+cant. The TiR study in a correctional setting did show a positive effect, but the effect was not
+statistically significant and was much smaller in magnitude than what had been found in the
+pilot study conducted in a regular middle school setting (Biggs et al., 2008). In light of these
+studies and the larger body of extant evidence, there is little evidence to currently support the
+use of Fast ForWord in a correctional setting, and larger studies are needed to strengthen the
+research base on TiR. Considered in combination with the large and favorable body of research
+outside of correctional settings, the evidence in favor of using Read 180 is the strongest for any
+of the interventions considered in this review.
+Personalized and Intensive Instruction
+Research Context
+Personalized learning is a broad term in the education literature, indicating that instruction is
+adjusted to fit the unique needs and developmental trajectories of each student. The Bill and
+Melinda Gates Foundation’s director of Next Generation Learning recently defined it as mean-
+ing that “students’ learning experiences are tailored to their individual needs, skill levels, and
+interests” (Childress, 2013). The term can serve as a loose synonym for several related concepts,
+including student-centered instruction and differentiated instruction, and it shares many fea-
+tures with competency-based education (U.S. Department of Education, 2011). This is espe-
+cially true among the three studies in the juvenile correctional education systematic review,
+each of which is described as including competency-based attributes. Competency-based learn-
+ing is an approach in which students progress at their own pace, earning credit not for the time
+9 The correlations were reported to be 0.7 with QIR and 0.56 with the FCAT, and test/retest reliability was estimated at
+0.86.
+10 Wexler et al.’s (2013) systematic review reports a negative effect for Calderone et al. (2009), possibly due to transposing
+the estimates for the treatment and comparison groups.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 39
+spent in a course but for mastering a specified sequence of content targets (Sturgis and Patrick,
+2010; Priest et al., 2012). Given the high mobility and highly variable skill levels of students
+in juvenile correctional facilities (Leone, Meisel, and Drakeford, 2002), personalized and com-
+petency-based approaches may be particularly well suited for correctional education settings.
+Competency-based models are well established in settings that serve students with atypical
+academic progression. They are mainstays of “credit recovery” programs that help students who
+lack the credits to graduate to catch up with their peers on via an accelerated schedule (Sturgis
+et al., 2010; U.S. Department of Education, 2011).
+Nevertheless, systematic evidence about the effectiveness of personalized and compe-
+tency-based instructional models is quite limited, with a literature focused largely on anec-
+dotes (Priest et al., 2012). A few high-performing charter schools, such as Carpe Diem in Ari-
+zona (NBC News and the Hechinger Report, 2013) and Young Women’s Leadership Charter
+School in Chicago (U.S. Department of Education, 2010) have outperformed similar schools
+on aggregate measures, and a few other schools of choice that use competency-based measures
+have also shown stronger academic performance than demographically similar schools (Steele
+et al., 2013). But it in all cases, it is difficult to attribute these differences to the competency-
+based models themselves rather than to unmeasured characteristics of the schools themselves
+and the families that choose them.
+Studies with Ineligible (Level 1) Designs in Correctional Settings
+Our examination of the research context includes two studies that were conducted in correc-
+tional education settings that were not eligible for inclusion in the systematic review because
+they did not include appropriate comparison groups. As with other relevant studies that we
+rated a 1 on the Maryland Scale, these ineligible studies appear in shaded rows in Table A.1.
+The first of these is a very small study of personalized instruction within a juvenile cor-
+rectional setting conducted by Muse (1998). The study was ineligible for the systematic review
+because it was based on student-level data only for the treatment group, and its comparison
+condition used aggregate, school-level data from four comparison schools. Given the lack of
+a same-level comparison group, we assign it a rating of 1 on the Maryland Scale. The study
+focused on the GED completion rates in academic classes taught by the author in one North
+Carolina juvenile correctional facility (about 66 students in total), relative to the average com-
+pletion rate of students at four other North Carolina juvenile correctional facility schools in the
+state in the same years. Students in the study ranged in age from 12 to 17 years old. Examining
+GED completion rates over a three-year period, the author reported that 67.1 percent of his
+students earned GEDs, as compared with 8.0 percent of students in the other schools, though
+it is not clear that the groups were comparable in terms of risk levels, age, length of stay, and so
+forth. Though the effect size is substantial, it is difficult to say how much of the 59.1 percent-
+age-point difference in completion rates was due to the intensive, personalized instructional
+method as opposed to other factors. Results should therefore be viewed with great caution.
+The other study of personalized instruction that was relevant to the research context but
+rated a 1 on the Maryland Scale was by Hill, Minifie, and Minifie (1984). They undertook a
+program of diagnostic evaluation and personal tutoring as an 18-hour (nine-week) supplement
+to traditional classroom instruction for 31 incarcerated juveniles in South Carolina who were
+defined as handicapped. They found that students improved by about three months in silent
+reading, one month in oral reading, and an unspecified amount in mathematics, but in the
+absence of a comparison condition, it is not possible to say how much improvement the stu-
+40 How Effective Is Correctional Education, and Where Do We Go from Here?
+dents would have made without treatment during the same time period. For this reason, the
+study does not meet eligibility standards for the systematic review.
+Eligible Studies in Juvenile Correctional Settings
+Among the 18 studies that were eligible for the systematic review, four focused on personal-
+ized or individualized instructional models in which adult instructors worked intensively with
+students, tailoring instruction to the individual needs of each student. In each of these stud-
+ies, the comparison groups received the default instructional programming for students in
+their respective correctional systems. These studies are synthesized in Table 3.3, and additional
+details about each study are provided in Table A.1.
+The largest and most rigorous of the studies was a randomized trial by the National Coun-
+cil on Crime and Delinquency (2009) evaluating the Avon Park Youth Academy operated by
+the Florida Department of Juvenile Justice. The study randomized 714 youth ages 16–18 who
+were incarcerated in Florida to either the Avon Park program or to a control condition was
+incarceration in a default juvenile justice program in Florida. Unlike the default program,
+which featured traditional academic instruction, the Avon Park Youth Academy used an inten-
+sive, personalized, competency-based instructional model tailored to each student’s academic
+development. It also included vocational programming through the Home Builder’s Institute,
+and aftercare upon release. The study was not able to disentangle the vocational and aftercare
+effects from the program’s personalized overall approach. However, because the randomized
+groups were tracked with administrative data, there was no attrition from the randomiza-
+tion sample, meaning the study earned a level 5 on the Maryland Scale and a WWC “Meets
+Standards” rating. Despite randomization, however, the dosages of the treatment and control
+models were different; students in Avon Park were incarcerated for an average of 14.2 months,
+versus an 11.2-month average for the comparison group. The study examined three different
+outcomes: rates of diploma completion at release, employment one year postrelease, and recidi-
+vism (defined here as rearrest) within a year after release. With regard to diploma completion,
+it found a 26.9 percentage point higher rate among the treatment group relative to the control
+group (44.1 versus 22.0 percent, p < 0.01), where diploma completion was defined as earn-
+ing a high school diploma, a GED, or a special diploma for students with special education
+needs. Differences were pronounced and statistically significant in all three diploma categories,
+though they were greatest in the GED and special diploma categories. The study also found an
+eight percentage-point difference in employment one year postrelease, with an average employ-
+ment rate of 72.4 percent among the treatment group and 64.4 percent among the control
+group (p < 0.05). However, it found no statistically significant difference in recidivism rates.
+Within a year after release, the treatment and comparison groups were rearrested at compa-
+rable rates (57.2 percent, and 56.2 percent, respectively).
+The second study we identified as focusing on personalized instruction in a juvenile cor-
+rectional facility was considerably smaller than the Avon Park study and did not use a random-
+ized design. Skonovd, Krause, and Troy (1991) examined recidivism rates six months after
+release among 45 youth ages 16–17 who were incarcerated in San Bernardino County. Twenty-
+five youth were assigned to the Regional Youth Educational Facility (RYEF), which was an
+intensive, competency-based education program that included six months of education within
+the juvenile facility, followed by four to six months of aftercare supervision by a probation offi-
+cer familiar with the youth through RYEF. (The standard caseload for the probation officers
+was reduced from 65 to 15 for the Avon Park program.) The comparison group of 20 students
+a
+Systematic
+review
+of
+Correctional
+Education
+programs
+for
+Incarcerated
+Juveniles
+41
+Table 3.3
+Summary of Findings for Other Juvenile Correctional Interventions
+Intervention
+Type Academic Effects Employment Effects Recidivism Effects Preponderance of Evidence
+personalized n Studies = 3 n Studies = 1 n Studies = 2 the preponderance of evidence
+and intensive n participants = 895 n participants = 714 n participants = 759 about personalized instructional
+instruction approaches in juvenile correctional
+Level-5 studies: 1 Level-5 studies: 1 Level-5 studies: 1 settings is positive for degree
+Level-3 studies: 2 Level-2 studies: 1 completion, based on one level-5
+Effect: 8.0 percentage-point study. It is also positive for
+Effects: 27.1 percentage-point increase in employment 1 year Effects: 1 percentage-point increase employment based on one level-5
+increase in diploma completion in postrelease (p < 0.02) in rearrest within a year in level-5 study. It is mixed for recidivism
+level-5 study (p < 0.01); 2 months study (p > 0.05); 29 percentage- avoidance, based on one level-5 and
+of total achievement gain (math, point reduction in rearrest within 6 one level-2 study. the level-5 study
+reading, language) in level-3 study months in level-2 study (p < 0.05) should be largely free of selection
+(no hypothesis test); nonsignificant bias.
+effect of –0.045 of a standard
+deviation for peer- versus teacher-
+managed approach in level-3 study
+(p > 0.05)
+Other remedial n Studies = 1 n Studies = 2 the preponderance of evidence
+instruction n participants = 63 n participants = 568 about other remedial programs
+is positive for reading, based on
+Level-3 studies: 1 Level-3 studies: 1 one level-3 study. It is mixed for
+Level-2 studies: 1 recidivism based on one level 3 and
+Effect: 0.38 SD reading gain per 10 one level-2 study. Selection bias
+hours of instruction with Orton/ Effects: 22 percentage-point remains a likely threat.
+Gillingham reading curriculum reduction in level-3 study (p =
+relative to default 0.015); 9.4 percentage-point
+(no hypothesis test) increase in level-2 study (p < 0.05)
+42
+How
+Effective
+Is
+Correctional
+Education,
+and
+Where
+Do
+We
+Go
+from
+Here?
+Table 3.3—continued
+Intervention
+Type Academic Effects Employment Effects Recidivism Effects Preponderance of Evidence
+Vocational n Studies = 1 n Studies = 1 n Studies = 1 the preponderance of evidence
+education/CtE n participants = 1,046 n participants = 1,502 n participants = 1,905 about vocational education/CtE
+participation while in a juvenile
+Level-2 studies: 1 Level-3 studies: 1 Level-3 studies: 1 facility is positive for diploma
+Level-2 studies: 1 completion based on one level-2
+Effect: 7.6 percentage-point Effect: 39 percent increase in study and is positive for employment,
+increase in GED pass rates (p < the odds of employment 1 year Effects: nonsignificant 3 percent based on one level-3 study. It is
+0.001). postrelease (p < 0.01). reduction in odds of rearrest within mixed for recidivism avoidance,
+a year in level-3 study (p = 0.8); based on one level-3 and one level-2
+17.1 percentage-point reduction study. Selection bias remains a likely
+in reincarceration within 5 years in threat.
+level-2 study (p < 0.05)
+GED completion n Studies = 2 the preponderance of evidence
+n participants = 2,266 about GED completion while in
+a juvenile facility is positive for
+Level-3 studies: 1 recidivism avoidance, based on one
+Level-2 studies: 1 level-3 study and one level-2 study,
+but selection bias remains a likely
+Effects: 5.8 percentage-point threat.
+reduction in reincarceration within
+a year in level-3 study (p < 0.1);
+12.5 percentage-point reduction
+in rearrest within 3 years in level-2
+study (p < 0.001)
+nOtE: We do not provide Maryland Scale or WWC effectiveness ratings, because the number of studies is small and some have very few students. thus, we think it is
+premature to declare any of these interventions effective or ineffective based on available evidence. Instead, we provide a column reporting on the preponderance of
+existing evidence, which may be positive, mixed, or negative for each outcome examined.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 43
+received the default educational program in the county. Assignment to treatment or compari-
+son group was determined by the juvenile courts, and the comparison group was constructed
+so that it met RYEF eligibility criteria, even though the students in the comparison group had
+not been referred to RYEF by the courts. The treatment and comparison groups consisted
+only of students who successfully completed either the treatment or default program. Students
+who changed programs or failed to complete were excluded from the analysis, and the aver-
+age length of stay for the control group was two months longer than for the treatment group.
+Though baseline risk indices were similar for the two groups, no statistical adjustments were
+made for observed demographic differences between treatment and comparison-group stu-
+dents. For these reasons, the study rates a level 2 on the Maryland Scale. The study found that
+rates of rearrest or probation violation within six months after release were only 16 percent in
+the treatment group, versus 45 percent in the comparison group. Despite the small sample size,
+this 29 percentage-point difference was large enough to be statistically significant (p < 0.05).
+We also identified two studies of personalized learning that focused on academic test
+scores as the dependent variables of interest. Mayer and Hoffman (1982) compared pretest
+to posttest gains on the California Achievement Test Total Battery for 68 incarcerated stu-
+dents assigned to individualized instruction with the gains for 75 students assigned to group
+instruction. The total battery score included mathematics, reading, and language skills. In the
+individualized scenario, lessons and activities were tailored to students’ prior skill assessments;
+in the group approach, classes of about 12 students received daily instruction appropriate to
+their assigned grade level. During a ten-month period, students in the individualized pro-
+gram showed nine months of academic growth on average, while those in the group program
+made seven months of growth, for a relative treatment effect of two months. Because effects
+accounted for the baseline performance of each student, the study merits a 3 on the Maryland
+Scale. However, the study did not provide information for assessing the statistical significance
+of this difference, nor did it provide extensive information about other institutional and sample
+differences between groups. For these reasons, it is difficult to attribute the difference in gains
+to the individualized program itself, and the results must be interpreted with caution.
+The final eligible study we identified that focused on personalized instruction did not
+actually assess the personalization itself, but rather, compared a personalized instructional
+model managed by a peer tutor to a similar model managed by a classroom teacher. This study,
+conducted by Kane and Alley (1980), is relevant insofar as a peer-tutoring model may offer a
+cost-effective alternative to a teacher-directed approach. Twenty-one students in the study were
+assigned to a peer-managed classroom, in which the ratio of peer tutors to students was 1:1 or
+1:2, and 17 were assigned to a teacher-managed classroom, in which the teacher-student ratio
+ranged from 1:3 to 1:7. Importantly, the mean pretest math grade level of the tutors was 11.7,
+as compared with a mean of 6.0 for the students, and the curriculum was the SRA Computa-
+tion Skills Development Kit published by Science Research Associates. The SRA kits provided
+self-paced, competency-based instruction that allowed each student to demonstrate mastery
+of content at his or her own pace (Proctor and Johnson, 1965). Therefore, in both the peer-
+managed and teacher-managed conditions, student progress was largely self-paced, and the
+peer tutor or teacher served to help keep students on track and answer their questions rather
+than to lead whole-class instruction. After 38 lessons of 45 minutes each, researchers found
+that students in the peer-managed classrooms made less mathematics progress than their peers,
+as measured by the SRA assessment survey, with a relative change of –0.045 of a standard devi-
+ation. Because this effect was not statistically significant at the 5 percent level, the researchers
+44 How Effective Is Correctional Education, and Where Do We Go from Here?
+suggested that there was no difference in performance between the peer-managed and teacher-
+managed classrooms. However, given that the study was underpowered with only 38 students,
+only a large effect would be sufficient to reject the null hypothesis. Thus, the fact that the effect
+estimate was negative in magnitude provides a tentative cautionary note about the use of peer
+tutors as opposed to classroom teachers. Also, because the study did not adjust for between-
+group differences other than baseline performance, it merits a 3 on the Maryland Scale and
+suggests mainly that more evidence is needed on the merits of peer- versus teacher-managed
+classrooms in correctional settings.11
+Summary
+The eligible literature on personalized instruction for juveniles in correctional facilities includes
+one large, no-attrition randomized trial: the Avon Park study conducted by the National Coun-
+cil on Crime and Delinquency. Though it is just one study, it provides a convincing endorse-
+ment for the effectiveness of the kind of intensive and personalized approach that the Avon
+Park program employed in improving diploma completion and employment rates. However,
+evidence for the effect of personalized and intensive learning on recidivism is mixed: The Avon
+Park study found no effect on rates of recidivism within a year, while the less rigorous RYEF
+study found a large and statistically significant reduction in recidivism. Given that the Avon
+Park study was 15 times as large as the RYEF study and that the latter used a less-rigorous,
+level-2 design, evidence of a positive relationship between intensive instruction and recidivism
+reduction remains thin at best. One possibility is that some as-yet-undetermined threshold of
+impact on skills or employment must be reached before such programs yield a reduction in
+recidivism.12
+Regarding the effects of personalized learning on academic achievement, the Mayer and
+Hoffman (1982) study showed a positive effect with unclear statistical significance, and the
+Kane and Alley (1980) study showed a slight negative—but not statistically significant—effect
+for peer-managed personalized learning relative to teacher-managed personalized learning.
+It is important to note that the definition of personalized learning varies not only in the
+current education literature but also among these four studies. In the Avon Park and RYEF,
+the intervention itself was multifaceted, encompassing competency-based academic instruc-
+tion, targeted services for special needs students, vocational education, and aftercare supervi-
+sion by a probation officer familiar with the students’ progress while incarcerated. However,
+in the studies by Mayer and Hoffman (1982) and Kane and Alley (1980), the intervention was
+much narrower, focusing mainly on self-paced classroom instruction. The field would benefit
+from studies that compared simpler and more-complex personalized models using common
+outcome metrics, and also that considered the relative costs of each model.
+Other Remedial Instruction Programs
+Research Context
+In recent years, a growing body of literature has questioned the effectiveness of remedial educa-
+tion for improving student outcomes. However, this literature has largely focused on postsec-
+ondary education, where remedial education can slow a student’s progress and increase the cost
+11 Wexler et al.’s (2013) review described the effect as positive rather than negative but did not adjust for the baseline
+between-group differences reported in the article.
+12 We thank a peer reviewer for raising this point.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 45
+of earning a degree, thereby acting as a potential deterrent to degree completion (Martorell and
+McFarlin, 2011; Caldagno and Long, 2008; Scott-Clayton and Rodriguez, 2012). In second-
+ary education, the need to remediate the learning gaps of students who fall behind seems less
+controversial, the question being how best to do so. In many ways, the aforementioned catego-
+ries of Corrective Reading, computer-assisted instruction, and personalized learning each offer
+answers to that question. All of the interventions in these categories aimed, at least in part, to
+remediate the low academic achievement of students in juvenile correctional facilities. How-
+ever, our systematic review also uncovered two studies of remedial programs that did not fit
+directly into one of the aforementioned categories, and we consider evidence for those studies
+in this section.
+Studies with Ineligible (Level 1) Designs in Correctional Settings
+Interestingly, the number of studies of remedial education models that we deemed ineligible
+for the systematic review but relevant to the research context—four—was twice the number of
+studies in this category that were eligible for the systematic review. This is perhaps because our
+“other remedial intervention” category acts as a catch-all for small studies that have examined
+various remediation efforts on a small scale, without the benefit of robust research designs.
+These four studies, which appear in shaded rows within Table A.1 due to their ineligibility, col-
+lectively examine the effects of teaching efforts for reading road signs (Murph and McCormick,
+1985), completing a job application (Heward, McCormick, and Joynes, 1980), using metacog-
+nitive learning strategies (Platt and Beech, 1994), and using three distinctive writing prompts
+(Sinatra, 1984). All are small studies, and all show gains in the target behaviors, but none uses
+a comparison group. Because all four ineligible studies are included in the recent systematic
+review by Wexler et al. (2013), we consider them here in some detail.
+Two of the studies focus on students with very low reading levels who have been clas-
+sified, based on IQ testing, as having mild mental retardation. These two studies, by Murph
+and McCormick (1985) and Heward and colleagues (1980), use single-case designs and focus
+on improvement in fundamental, reading-related life skills—namely, reading nine road signs
+in the former study and filling out an entry-level job application in the latter. The study by
+Heward does not meet WWC single-case design evidence standards because it does not estab-
+lish long enough baseline trends (i.e., with at least four or five observations per phase) before
+introducing the intervention, but it does show that students taught to fill out the applications
+raised their average accuracy rate by 18 fill-in-the-blank items (out of 35) during 11 45-minute
+instructional sessions. The study by Murph and McCormick does meet WWC standards in
+terms of the number and length of pre- and post-intervention phases, but it suffers from what
+the WWC terms an over-alignment of instruction and assessment (What Works Clearing-
+house, 2008): After 9–24 instructional sessions of 15 minutes each, students who are repeat-
+edly drilled in reading nine road signs are able to read all of them. Though an effect of instruc-
+tion is clearly established, the measure of reading is simply too narrow to be construed as a
+measure of reading skill, and the intervention itself is also too narrow to generalize to other
+contexts in which reading must be taught. Though the authors justify the reading of road signs
+as a necessary life skill for driving, it seems unlikely that 16-to-18-year-olds who struggle to
+identify common road signs will be able to read and pass a written driving test—a fact that
+undermines the authors’ assertion about the relevance of the task to their lives.
+The two other studies deemed ineligible in this category also have serious design flaws.
+A study by Platt and Beech (1994) used a single-case design approach, but with only one pre-
+46 How Effective Is Correctional Education, and Where Do We Go from Here?
+test observation in each case, meaning that it does not meet WWC standards for single-case
+designs. The authors show mean gains of 12 percentage points in words read correctly and
+19 percentage points in passage comprehension after an unspecified amount of instruction in
+metacognitive learning strategies. However, they selectively present data for only five of the
+students taught by the 27 educators trained to use the method, noting that only the “most
+complete” reports were presented. Overall data for all students exposed to the method are
+not presented, nor are any data presented about the number and demographics of the student
+sample. In other words, the data should be construed as anecdotal at best.
+Finally, Sinatra (1984) considers the effects of a writing intervention implemented in
+his own classroom, in which struggling readers were given structured writing prompts that
+focused on visual, imagery, and report-writing tasks. He finds a noteworthy gain of 16 per-
+centage points on students’ writing assignments after several months of instruction, but it is
+unclear how well the students would have fared with writing instruction that did not include
+those prompts.
+In short, the research context on remedial instruction for struggling incarcerated learners
+is replete with research designs that, despite the benevolent intentions of authors and teachers,
+do little to advance the field’s understanding of what works in remediation.
+Eligible Studies in Juvenile Correctional Settings
+We turn now to two studies of remedial interventions that had comparison groups and
+were deemed eligible for the systematic review. Results from these studies are synthesized in
+Table 3.3 and are shown in greater detail in Table A.1. A study by Simpson, Swanson, and
+Kunkel (1992) examined the effects of a structured remedial reading program, the Orton/
+Gillingham reading curriculum, as compared with the default language arts program in two
+juvenile youth detention facilities. The Orton/Gillingham program was described in the article
+as phonics-based, with a focus on reading, writing, and spelling, and incorporating auditory,
+visual, and kinesthetic learning modes. Researchers identified 55 learning disabled students
+for treatment, 32 of whom persisted to analysis, and asked teachers to recommend a similar
+set of 61 students for the comparison group, 31 of whom persisted to analysis. The treatment
+group received the Orton/Gillingham curriculum for 90 minutes a day in groups of 1–6; the
+comparison group students received default language arts instruction for only 45 minutes a
+day in classes of about 12. Thus, the treatment group received a larger instructional dosage
+per week and in smaller classes. Treatment students may also have been released sooner, given
+that their mean instructional hours were reported as 51.9 (about 35 days) versus 46.0 hours
+(about 61 days) for the control group. Students in the analysis were tested at pretest and again
+before release using the Woodcock Johnson Test of Reading Mastery, and their rearrest rates
+were tracked within the first year after release. Those in the treatment group gained 0.86 years
+of growth in reading more than the control group, and the difference was statistically signifi-
+cant (p = 0.007), though the treatment group also received a greater instructional dosage and
+in smaller classes. To eliminate the instructional dosage confound, the authors estimated that
+the treatment group gained 0.38 years of growth more than the treatment group for every ten
+instructional hours, though they did not provide a hypothesis test for this estimate. Finally,
+they found a substantial relationship between the treatment condition and recidivism avoid-
+ance; those in the treatment group had a one-year rearrest rate of 41 percent, versus 63 percent
+in the comparison group, and this difference was statistically significant (p = 0.015). Because
+the treatment and comparison groups were both identified (at least by teachers) as learning dis-
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 47
+abled and shared similar baseline reading scores (4.3 vs. 4.6) and ages of first arrest (13.7 and
+13.8), and because the reading analysis adjusts for baseline scores, we give the study a rating
+of 3 on the Maryland Scale. However, it does remain vulnerable to unobserved differences
+between groups. For instance, given that the treatment students appear to have been released
+sooner, on average, it is possible that they also had a lower baseline risk of rearrest that was not
+accounted for in the study.
+The other eligible study of remedial education, by Archwamety and Katsiyannis (2000),
+focused only recidivism outcomes, measured between one and seven years after release. The
+study compared 339 youth ages 12–18 enrolled in a mathematics or reading remedial program
+(not both) while incarcerated to 166 students who were not enrolled in a remedial program.
+Students who were assigned to remediation were at least one grade level behind at baseline in
+the remedial subject, and had a lower mean baseline IQ than their nonremediated peers (91.8
+versus 99.3). The authors found that students assigned to remediation were actually 9.4 per-
+centage points more likely to recidivate (definition unspecified) within 1–7 years after release.
+Their recidivism rate was 23.3 percent in the treatment group versus 13.9 percent in the com-
+parison group, and the difference was statistically significant (p < 0.05). However, the study
+did not adjust for baseline differences, resulting in a rating of 2 on the Maryland Scale. In
+other words, given that the treatment group clearly demonstrated higher baseline risk than the
+comparison group in terms of weaker academic and cognitive skills, the study does not provide
+convincing evidence that remediation caused higher recidivism among the treatment group,
+and it would be inappropriate to draw conclusions about the impact of remediation based on
+this study.
+Summary
+The two studies in the systematic review yield different conclusions about the relationship
+between remedial education and recidivism. Though the Simpson, Swanson, and Kunkel
+(1992) study of the Orton/Gillingham remedial curriculum was only about one-eighth the size
+of the Archwamety and Katsiyannis (2000) study, it showed stronger equivalence at baseline
+and also provided clearer details about differences between the treatment and control condi-
+tions. As such, it makes a more convincing case that students remediated with the Orton/
+Gillingham program rather than receiving standard language arts instruction improved faster
+in their reading skills and were less likely to be rearrested. Nevertheless, it leaves open the pos-
+sibility that treated students may have had shorter sentences or other unobserved differences
+that may at least partially explain the treatment effects, and thus the evidence supporting the
+Orton/Gillingham program remains underdeveloped. Archwamety and Katsiyannis’s study is
+highly vulnerable to selection bias and thus says little about the relationship between reme-
+diation and recidivism. Beyond the evidence presented in previous sections about Corrective
+Reading, computer-assisted instruction, and personalized instruction, it is difficult to draw
+broad conclusions about the effectiveness of other remedial programs in juvenile correctional
+settings.
+Vocational/Career Technical Education
+Research Context
+Among the population of U.S. secondary school students at large, the prevalence of vocational
+training—now commonly termed career technical education (CTE)—declined between 1982
+and 2004, with CTE credits accounting for 21 percent of the credits earned by high school
+48 How Effective Is Correctional Education, and Where Do We Go from Here?
+graduates in 1982, versus only 14 percent in 2004 (U.S. Department of Education, 2013).13
+In part, this was a response to concerns that lower-achieving students were being tracked into
+vocational pathways that did not prepare them to succeed in an increasingly competitive and
+dynamic labor market (U.S. Department of Education, 2013). Evidence on the effectiveness of
+vocational education/CTE in raising academic outcomes is somewhat mixed. Using a nation-
+ally representative sample of high school students tested in 10th and 12th grade, Bozick and
+Dalton (2013) found no evidence that CTE course-taking improved or hurt students’ math-
+ematics performance. Studies that have used lottery-based random assignment have also found
+little to no impact on test scores, though they have found benefits in terms of other outcomes.
+For example, Kemple and Willner (2008) randomized New York high school students to career
+academies that provided both vocational and academic training in combination with intern-
+ships; they found positive effects on high school persistence, as well as subsequent earnings
+benefits for males. Neild, Boccanfuso, and Byrnes (2013) capitalized on students’ lottery-based
+random assignment to five CTE high schools in Philadelphia, finding that students assigned
+to CTE had higher rates of college preparatory mathematics coursework and higher graduation
+rates, though they performed no better than their peers on mathematics and reading assess-
+ments. Insofar as a lack of marketable skills increases the appeal of criminal behavior (Becker,
+1968), it is possible that juveniles involved in the criminal justice system may be especially
+likely to benefit from programs that emphasize vocational skills.
+In a meta-analysis of 548 effect estimates from 361 studies focused on juvenile offend-
+ers, Lipsey (2009) considered evidence about a variety of programs designed to reduce recidi-
+vism. His study, which included studies published between 1958 and 2002, differed from
+ours in that it included both education and non-education programs, it focused on recidi-
+vism as the sole outcome of interest, and only 22 percent of the estimates in his analysis were
+based on programs administered within correctional facilities. Lipsey found that skill-building
+interventions—defined to include behavior management, cognitive-behavioral therapy, social
+skills training, challenge programs, academic training, and job-related interventions including
+vocational training—reduced subsequent recidivism by about 6 percentage points, though the
+effect was not statistically significant at the 5 percent level. He also found that the effects of
+skill-building interventions did not depend on the implementation context—whether in juve-
+nile correctional facilities or with non-incarcerated offenders. Disaggregating skill-building
+effects by program subtype, he estimated that job-related training programs reduced recidi-
+vism by about 2.8 percentage points; however, this estimate was not statistically significant and
+was smaller in magnitude than the 6 percentage-point estimate for the skill-building category
+as a whole.
+Our own meta-analysis of adult correctional education also looked in particular at the
+effects of correctional vocational education/CTE for adults, finding that participation in voca-
+tional education/CTE programs while incarcerated reduced adults’ odds of recidivism by
+36 percent relative to no participation in correctional education (Davis et al., 2013).
+Eligible Studies in Juvenile Correctional Settings
+Our systematic review identified three eligible studies that examined the effects of partici-
+pation in a standalone vocational education/CTE program in a juvenile correctional facil-
+13 We use the term “vocational education/CTE” for consistency with our adult meta-analysis, and to reflect the language
+in the studies we are able to synthesize in this section, though CTE is the more-contemporary term.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 49
+ity. These are summarized in Table 3.3, and additional details about each are provided in
+Table A.1. Roos (2006) examined the employment and recidivism rates for participants of the
+Re-Integration of Offenders–Youth (RIO-Y) career development course operated by the Texas
+Youth Commission. The sample included 1,502 incarcerated individuals ages 18–21, an age
+group classified as juveniles within the program. Five hundred eight-two of these juveniles par-
+ticipated in the 30-day RIO-Y program; another 920 received no career development course
+or other instruction of note during that time period. (The RIO-Y study is unique in our sys-
+tematic review in that the comparison group did not receive an alternative instructional pro-
+gram during the intervention period. This is possible because all were 18 years of age or older.)
+Students were not randomly assigned to the program, but the analysis adjusted for 17 baseline
+demographic and risk-related covariates, so it warrants a level 3 rating on the Maryland Scale.
+The study reported that the odds of employment one year after release were 39 percent higher
+among the treatment than the comparison group, and the difference was statistically signifi-
+cant (p < 0.01). This would correspond to about a 7.1 percentage point increase in the probabil-
+ity of employment, using the 64.4 percent employment base rate one year postrelease reported
+in the aforementioned National Council on Crime and Delinquency (2009) Avon Park study.
+(Roos’s study does not report a base rate.) The study also found that the odds of rearrest within
+a year after release were 3 percent lower in the treatment group, but this very small effect did
+not approach statistical significance (p = 0.8), so the author concluded that the program had
+affected employment but not recidivism.
+Wilson (1994) also investigated the effects of vocational education/CTE in a juvenile cor-
+rectional facility. This study examined the rearrest rates within five years after release among
+403 juveniles, ages 11–18, incarcerated by the Colorado Division of Youth Services. Two hun-
+dred sixty of the students participated in a vocational education/CTE training program while
+incarcerated, and 143 did not. The study did not provide details about program attributes or
+dosage levels. Assignment to treatment status was not random, and the analysis did not adjust
+for baseline differences, so the study merits a level 2 rating on the Maryland Scale. Bearing
+in mind that there was no adjustment for selection, the study found a statistically significant
+17.2 percentage point reduction in rearrest rates, from 78.3 percent in the comparison group to
+61.2 percent in the treatment group (p < 0.05).
+Finally, DelliCarpini (2010) examined the effect of offering a new vocational education/
+CTE program to youth ages 16–21 within a county jail in New York State. The new program
+augmented the existing academic instructional program with classes in business, drafting, and
+carpentry. All youth incarcerated in the facility were enrolled in the program (though dosage
+information was not reported), and outcomes for the first-year cohort (2008–2009) of 465
+students were compared with outcomes for the prior-year cohort of 581 students. The rate at
+which students earned a GED increased by 7.6 percentage points from 5.5 to 13.1 percent—a
+statistically significant gain (p < 0.001). The gain was driven in part by an 8.2 percentage point
+increase in eligibility to test (from 7.1 to 15.3 percent), as determined by scores on a practice
+test, and also by an 8 percentage point increase in pass rates (from 78 to 86 percent) among
+those who took the GED. The study rates a level 2 on the Maryland Scale because it did not
+adjust for (or report on) baseline differences between the two cohorts, and because it did not
+adjust for secular time trends that may have accounted for differences in outcomes between
+two sequential cohorts.
+50 How Effective Is Correctional Education, and Where Do We Go from Here?
+Summary
+Based on these three studies, the preponderance of evidence for vocational education/CTE
+in a juvenile correctional facility is positive for GED completion and postrelease employment
+and mixed for avoidance of recidivism. None of the studies are impervious to selection bias,
+but the Roos (2006) study does attempt to mitigate such bias through statistical controls, and
+it is also the largest study. Bearing that in mind, the positive evidence for employment effects
+seems firmer than for GED completion or recidivism effects. Still, the results from these stud-
+ies are not sufficiently rigorous to be considered definitive. Taken as preliminary evidence, the
+preponderance of extant research on vocational education/CTE in correctional settings does
+appear to support further study of such programs, preferably with rigorous methods that allow
+for causal inferences about their effects.
+GED Completion
+Research Context
+Two of the studies in our systematic review examine the relationship between earning a GED
+while incarcerated and subsequent recidivism. Among adult incarcerated populations, our
+meta-analysis found that completion of education while incarcerated reduced inmates’ odds
+of recidivating by about 43 percent. Among the 22 studies (and 28 effect size estimates) that
+focused in particular on high school credential or GED programs in correctional facilities, the
+corresponding rate reduction in odds was about 30 percent (p < 0.05). However, these studies
+pertain to the approximately 37 percent of adults in prisons who lack high school diplomas
+(Crayton and Neusteter, 2008).14 In contrast, nearly all juveniles in correctional facilities lack
+diplomas because most are still of high school age. The question, then, among the studies in
+juvenile facilities that have focused on GED completion, is whether juveniles who earn a GED
+while incarcerated are subsequently less likely to recidivate. The question is very difficult to
+answer in a causal sense—that is, does earning a GED reduce recidivism?—because juveniles
+remain in the facilities for very different lengths of time, and their ability to complete a GED
+during that time may depend on many factors, including their length of stay, their overall
+academic preparedness, and their opportunities to pursue a traditional high school diploma
+instead of a GED. Unfortunately, these and other potential confounds are not fully captured
+in the studies we consider, and thus it is not appropriate to view the two studies, which rate at
+levels 2 and 3, respectively, on the Maryland Scale, as estimating the causal impact of the GED
+on recidivism. Still, the studies help to illuminate the association between GED completion
+and postrelease recidivism.
+The broader evidence on GED attainment is mixed with regard to educational and eco-
+nomic outcomes. In the general population of high school dropouts, Heckman and Rubinstein
+(2001) found that earning a GED is negatively related to subsequent earnings, hourly wages,
+and levels of additional schooling, after controlling for cognitive ability as measured by the
+Armed Forces Qualifying Test. They attributed this negative effect to lower levels of noncog-
+nitive skills, such as persistence, planning, and adaptability, among those who earned GEDs
+relative to other individuals who did not complete high school. This still raises the question
+of what the value of the GED credential is, holding all else constant, including motivation to
+pursue a GED. Tyler, Murnane, and Willett (2000) exploited between-state variation in GED
+14 This figure applies to state prisons in 2004. The comparable figure for the general U.S. population ages 16 and older is
+19 percent, according to the same report.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 51
+passing scores to separate the effects of the GED credential from the underlying ability and
+motivation levels among high school dropouts who take the GED. They found that the GED
+credential itself improved white recipients’ earnings five years later by 10–19 percent, though it
+appeared to have no effect on recipients from other racial/ethnic groups.
+However, the aforementioned studies did not estimate the effects of GEDs earned in
+prison settings. In a rigorously executed follow-up study by Tyler and Kling (2007), the authors
+found that, among incarcerated adults, earning a GED in prison yielded earning gains of
+15 percent in the first two years after release, though this benefit was concentrated among non-
+white GED earners and dissipated after the second year. In addition, they found that most of
+the benefit came from participating in a GED education program rather than from actually
+earning the GED itself. The implication is that incarcerated individuals may benefit more from
+the human capital they acquire by participating in a GED program than from the credential
+itself. In other words, the acquisition of skills is what matters.15 This finding is consistent with
+our own meta-analysis of adult correctional education, in which we found that participation in
+an academic educational program while incarcerated increased the odds of postrelease employ-
+ment by 8 percent, and that participating in a high school diploma or GED program, in par-
+ticular, reduced the odds of recidivism by 30 percent (Davis et al., 2013).
+Eligible Studies in Juvenile Correctional Settings
+Given that all juveniles are expected to pursue a high school diploma or GED while incarcer-
+ated, we did not identify studies that specifically examined the effects of GED program par-
+ticipation (relative to no participation) for juvenile offenders. However, we did identify two
+comparison-group studies that examined the effects of earning a GED while incarcerated in
+a juvenile correctional facility. We summarize our findings about these studies in Table 3.3,
+and we provide additional details about each study in Table A.1. Unlike the aforementioned
+GED literature, which focused mainly on postrelease earnings, the two GED studies in our
+systematic review examined the relationship between earning a GED in a juvenile facility and
+the probability of recidivating after release. The larger study, by Jeffords and McNitt (1993),
+examined reincarceration rates within a year after release among 1,717 juveniles ages 16–21
+held in the Texas Youth Commission or Gulf Coast Trades Center correctional facilities in
+Texas. Among the 475 youth who earned GEDs while incarcerated, the estimated rate of rein-
+carceration was 5.8 percentage points lower than among the 1,242 youth who did not, though
+the difference was significant at only the liberal 10-percent level. Though students were not
+randomized to their GED completion status, this estimate is based on a regression model that
+controls for gender, ethnicity, age at release, risk classification, previous felony referrals, previ-
+ous adjudications and incarcerations, and severity of most recent offense. For this reason, it
+merits a level 3 on the Maryland Scale. The unadjusted difference without controls was 9 per-
+centage points (p < 0.1), which suggests that including the controls mitigated some selection
+bias that exaggerated the GED effect.
+The second study, by Katsiyannis and Archwamety (1999), examined reincarceration
+rates within three years after release among 549 youth who had been incarcerated for at least
+four months in a Nebraska rehabilitation and treatment facility. Two-hundred eighty-four of
+15 As one reviewer noted, it is possible that the availability of the credential is a factor that motivates inmates to acquire the
+skills, and that they would learn less if the credential were not available to them. These studies do not address the role of the
+credential in motivating learning.
+52 How Effective Is Correctional Education, and Where Do We Go from Here?
+the students completed GEDs while incarcerated, and 265 did not. The reincarceration rate
+among those who earned GEDs was 47.5 percent, versus 60.0 percent among those who did
+not. The 12.5 percentage point difference was statistically significant (p < 0.01). The study
+also fits a logistic regression model with a subset of 260 students that controls for age at first
+commitment and improvements in test scores. Though that analysis shows a positive and sig-
+nificant effect, its sample restriction and inclusion of post-baseline controls lead us to use the
+unadjusted rates instead. The comparison is rated a level 2 on the Maryland Scale.
+Summary
+The preponderance of evidence for earning a GED while incarcerated suggests that juveniles
+who do so experience lower rates of reincarceration within one to three years after they are
+released. This effect was estimated at 12.5 percentage points in the level-2 study by Katsiyannis
+and Archwamety (1999), but it was only 5.8 percentage points in the level-3 study by Jeffords
+and McNitt (1993). Given that the Jeffords and McNitt study found larger effect in the unad-
+justed model, their more-rigorous estimate of 5.8 percentage points is likely a better true esti-
+mate of the GED benefit, and even that may be positively biased by selection on unobservable
+characteristics. Because GED completion is at least partly a function of student motivation
+and aptitude rather than of differences in institutional programming, estimates of the impact
+of GED completion are especially vulnerable to selection bias. A more convincing approach
+would capitalize on external forces affecting incarcerated students’ access to GED testing,
+while holding academic skills and other observable attributes constant. In the absence of more-
+rigorous GED studies in juvenile correctional settings, we can conclude only that those who
+succeed in earning a GED while incarcerated appear less likely to recidivate after release. The
+extent to which obtaining the GED causes this difference remains an open question.
+Discussion
+Limitations of Our Approach
+Our systematic review of correctional education interventions for incarcerated juveniles reveals
+great heterogeneity in terms of interventions, methods, and outcomes of interest. Among the
+18 eligible studies we identified, we classified the interventions into six categories: Corrective
+Reading, computer-assisted instruction, personalized instruction, other remedial education,
+vocational education, and GED completion. Studies in the first two categories focused on
+packaged and branded reading interventions (Corrective Reading, Read 180, Fast ForWord,
+and TiR) and focused on reading performance as the dependent variables of interest. Studies
+in the latter three categories focused on a broader set of outcomes, including not only read-
+ing and mathematics performance but also measures such as diploma completion, postrelease
+employment, and postrelease recidivism. The wide variety of hypotheses tested in the studies,
+the broad array of outcomes examined, and the small number of studies in each hypothesis-
+by-outcome category make it difficult to synthesize the findings into statements about the rela-
+tive effectiveness of each approach. In fact, because the number of studies eligible for review is
+quite small, and because many of the studies are themselves very small in terms of sample sizes,
+we mostly refrain from giving definitive pronouncements or ratings about the effectiveness of
+any particular type of intervention. Instead, we comment on the preponderance of evidence
+for each intervention category, based on the 16 comparison-group studies and the two well-
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 53
+executed single-case design studies featured in the evidence summary tables, Tables 3.2 and
+3.3. To contextualize those studies, we have also provided short descriptions of the broader
+research context for each intervention type.
+The effectiveness of any one of the intervention types in the study is likely to depend on
+how well the program is implemented and for what period of time. Given the small number
+of studies in each category, we cannot easily extrapolate the effects of differential dosages or
+implementation approaches. However, the review does include a couple of exceptions. One of
+the Corrective Reading studies was specifically designed to measure the effects of instructional
+group size; it found a positive but statistically nonsignificant impact of smaller groups relative
+to larger groups that were using the Corrective Reading curriculum (Houchins et al., 2008).
+And one of the studies of personalized instruction found a small but statistically nonsignificant
+negative effect of a peer-managed versus teacher-managed approach (Kane and Alley, 1980).
+We are also unable to extrapolate differential effects by participant characteristics. The
+studies vary in the level of detail they provide about participant characteristics, and we lack
+enough common studies testing the same hypothesis to examine differential effects by sub-
+group. Still, to facilitate policy decisionmaking among those using this review, we do report in
+Table A.1 on the demographic and baseline achievement features of the samples in each study,
+insofar as that information was present in the source material.
+Key Insights for the Research Community
+We found that the methods employed in the studies varied markedly by intervention type.
+Studies of the packaged reading interventions were generally fairly small, because these studies
+involve administering particular curricula at the classroom or student level, as well as adminis-
+tering pre- and post-tests to individual students. Two of the Corrective Reading studies utilized
+single-case designs that involved just four and six students each, but even the two comparison-
+group studies included only nine and 20 students, respectively. The designs of these studies
+were fairly robust, with one level-5 randomized trial and two level-5 single-case designs, but
+the small size of the studies and limited power for hypothesis testing still makes it difficult
+to generalize broadly from their findings. The studies of computer-assisted instruction also
+employed well-executed randomized trials, though the two studies varied in size. The Fast For-
+Word randomized trial included only 51 students, again providing limited statistical power,
+but the Read 180 randomized trial was well powered, with 1,245 students; it was able to detect
+a positive and statistically significant effect using a rigorous design that was fairly impervious
+to selection bias. Additional studies of this type within juvenile correctional facilities should be
+encouraged where possible.
+The two studies of personalized and intensive instructional approaches were heteroge-
+neous in size and design; the National Council on Crime and Delinquency’s Avon Park study
+was a well-powered and well-executed randomized trial that included 714 youth and was able
+to examine diploma completion, employment, and recidivism-related outcomes, finding posi-
+tive and statistically significant effects on the first two variables. The San Bernardino County
+study was much smaller, with only 45 students, and was more vulnerable to selection bias,
+which may have in part accounted for the substantial recidivism reduction effect it uncovered.
+The vocational education/CTE and GED studies were similar in that they took advan-
+tage of large, administrative datasets to compare students exposed to particular treatments
+while incarcerated (vocational programs, or GED credential completion) to those who were
+not similarly exposed. In both categories, one study employed an array of statistical controls
+54 How Effective Is Correctional Education, and Where Do We Go from Here?
+to adjust for observed differences between treatment and comparison groups, earning a level 3
+rating on the Maryland Scale. The other studies in each category compared those exposed to
+those not exposed without adjusting for selection, and thus warranted a rating of 2. Compar-
+ing the estimates of the level-3 and level-2 studies in the same intervention category and on a
+common outcome (namely, recidivism) suggests that selection bias may, indeed, have inflated
+the estimates in the level-2 studies, and even level-3 studies cannot adjust for selection on
+unobserved characteristics.
+It is also notable that none of the studies in the systematic review earned a level-4 rating,
+which requires that the treatment and comparison groups be nearly identical on relevant base-
+line characteristics, as is sometime achieved by propensity score matching or other matching
+methods (Rosenbaum and Rubin, 1983; Shadish, Clark, and Steiner, 2008). Instead, the stud-
+ies in the systematic review can be generally characterized as small-to-mid-scale randomized
+trials or as large observational studies with minimum-to-moderate use of statistical methods to
+adjust for unobserved differences.
+This suggests that the field is ripe for larger-scale randomized trials. The Loadman et al.
+(2011) Read 180 study and the National Council on Crime and Delinquency’s (2009) Avon
+Park study suggest that such studies, though challenging to undertake, are feasible. The lit-
+erature is also ripe for rigorous evaluations of natural experiments such as Aizer and Doyle’s
+(2013) study of the effects of juvenile incarceration using naturally occurring random assign-
+ment to harsh judges. Studies that take advantage of rigorous causal methods in juvenile set-
+tings can shed much-needed light on what works in these settings. Several of the smaller
+randomized trials we include here have noted the difficulties of high student turnover in cor-
+rectional facilities, and of simply gaining permission to undertake research in these facilities
+(Shippen et al., 2012; Calderone et al., 2009). Such research efforts will clearly take time to
+develop and execute. They will ideally be realized through long-term partnerships between
+researchers and correctional facilities. Because such partnerships take time to establish, there
+may also be a federal role in galvanizing them. The U.S. Department of Education Institute of
+Education Science’s recent grant program for supporting research partnerships between school
+systems and researchers offers one potential model. Guided by such partnerships, facilities can
+make increasingly evidence-based decisions that not only improve their students’ prospects but
+also reduce the social incidence of crime and delinquency.
+Key Insights for Policymakers and Practitioners
+Taken in conjunction with the broader research literature on each of the interventions exam-
+ined, our systematic review does identify two interventions for which the evidence base is
+strongest: Read 180 (for reading improvement) and the kind of personalized and intensive
+intervention administered at the Avon Park Academy (for diploma completion and postrelease
+employment). Both of these interventions are supported by a large and rigorous study within
+juvenile correctional settings, and the effectiveness of Read 180 is further substantiated by
+several large and well-executed studies outside of correctional facilities. Beyond these strong
+bodies of research, we find that evidence for Corrective Reading and TiR is positive but based
+on very small studies from which it is difficult to generalize. Our review also highlights a few
+juvenile correctional education interventions, such as the Fast ForWord software program and
+peer-managed instruction, for which the current (though limited) body of knowledge offers
+little support at the present time.
+a Systematic review of Correctional Education programs for Incarcerated Juveniles 55
+We are more reluctant to offer even cautious endorsement for interventions in which
+the strongest studies are rated 3 or below on the Maryland Scale, even if they show positive
+effects, as is the case with the Orton/Gillingham remedial education program. This limitation
+in research quality also applies to the personalized interventions we reviewed other than Avon
+Park, the vocational education/CTE interventions, and GED completion as an intervention.
+In fact, the benefits of earning a GED while incarcerated, though estimated as positive in
+the systematic review, remain especially unclear, since these studies’ comparisons of students
+who earn a GED with those who do not are especially vulnerable to selection bias at the stu-
+dent level. The most rigorous research from the literature on incarcerated adults suggest that
+it is the education acquired in GED programs rather than the GED credential itself that con-
+fers the greatest postrelease benefits (Tyler and Kling, 2007; Davis et al., 2013). This finding
+is largely consistent with the GED research outside of correctional settings as well (Heckman
+and Rubinstein, 2001).
+Though the evidence base about what works in juvenile correctional education remains
+incomplete, the existing research does offer guidance about promising directions for future
+programmatic investments. In the interim, program directors who make decisions based on
+extant evidence can play a critical role in documenting their interventions and reporting on the
+outcomes by using the most rigorous methods at their disposal.
+CHaptEr FOUr
+RAND Correctional Education Survey
+Introduction
+When we began our correctional education study, we recognized early on that the 2008 reces-
+sion had a substantial effect on the field of correctional education, with many states reporting
+cuts in funding for programs and changes to their delivery models for educating incarcerated
+adults, including such changes as shortening the length of time individuals spent in programs,
+reducing the number of teachers, reducing the number of program slots, and cutting some pro-
+grams altogether. Such changes mean that today correctional education in the United States
+likely looks very different from correctional education during the time that many of the studies
+in our meta-analysis were undertaken. Understanding these differences helps us to put in con-
+text the meta-analytic results described in Chapter Two and to provide the basis for forward-
+looking policy recommendations presented in Chapter Five.
+In July 2013, we fielded the RAND Correctional Education Survey to better under-
+stand the key issues facing correctional education today. State correctional education direc-
+tors’ responses to this survey provide us with insights into how states dealt with the recession
+of 2008, how correctional education is currently provided to incarcerated adults in the United
+States, what information technology is being used, and how states fund correctional education.
+We also gathered information on preparations for the new 2014 GED exam.
+In this chapter, we first summarize our approach for the survey and then present the
+results of the survey analyses, concluding with a discussion of what the survey results inform
+us about the field of correctional education for incarcerated adults.
+Approach
+Survey Design
+The purpose of the RAND Correctional Education Survey was to gather information about
+the organization and delivery of correctional education for incarcerated adults in U.S. state
+prisons, about the use of computer technology and preparations for the 2014 GED exam, and
+about the impact of the 2008 recession on the field. The intent of this national survey was to
+help fill a critical void in our understanding of the organization and delivery of academic and
+vocational education/CTE to incarcerated adults and of how the landscape of correctional
+education is changing.
+To inform the development of the survey, we held discussions with experts in the field and
+conducted four 90-minute focus groups with state correctional education directors responsible
+for adult education, adult vocational education/CTE, and/or juvenile correctional education.
+Specifically, we conducted two focus groups on adult academic programs, one focus group on
+57
+58 How Effective Is Correctional Education, and Where Do We Go from Here?
+vocational education/CTE programs for adults, and one focus group on juvenile correctional
+education. The participants were recruited in advance using a purposive sampling design to
+attain geographic representation and to include representatives from states considered to be
+leaders in field. A total of 30 individuals participated in these focus groups, which were con-
+ducted at the 2011 Correctional Education Association Leadership Forum. The focus group
+discussions identified several key themes facing the field. The purpose of these group discus-
+sions was to help us identify some of the key trends in this field. During the focus group discus-
+sions, we learned about a number of issues that were facing the field of correctional education,
+including the effects of budget cuts as a result of the 2008 recession, the need to gain efficien-
+cies in providing education to incarcerated adults and juveniles, the increasing role of computer
+technology in academic education and vocational education/CTE, and the challenges of the
+new 2014 GED exam and computer-based testing. We leveraged the insights and information
+from these discussions to inform the development of the specific survey items, which were
+designed by the project team and then underwent several reviews by our research partners
+at the Correctional Education Association and the U.S. Department of Education. The final
+questionnaire was loaded into a web survey and fielded using RAND’s Multimode Interview-
+ing Capability (MMIC) system, whose staff programmed and fielded the web survey.
+Sample
+The survey was distributed to the state correctional education directors in all 50 states. The
+contact list was generated by searching public documents and verified by the Correctional
+Education Association.
+Fielding the Survey
+An advance letter from RAND accompanied by a letter by the BJA and the U.S. Department
+of Education explaining the importance of the survey was sent to each director approximately
+two weeks before the survey was fielded in July 2013. This was followed by an email invite to
+the directors to participate in the web survey, which provided them with the web link and their
+unique login name and password. In addition, we made available a PDF version of the web
+survey for those directors that preferred to fill out a paper version of the survey or who asked
+for a copy so they could see what information they would need to collect to complete the web
+survey.
+We sent several follow-up email reminders to those directors who had not yet completed
+or begun the web survey. In addition, the Director of the State Council of Directors, Cor-
+rectional Education Association, assisted us in sending out several reminders to their mem-
+bership encouraging participation. Two team members also called individual directors whose
+states that had not yet started or completed the web survey to encourage participation. Survey
+responses were accepted through October 2013.
+Measures
+Shaped by our discussions with correctional education leaders across the country, the survey
+(see Appendix B for the questionnaire) included questions about the following topics:
+• Key components of correctional education programs within each state
+• Capacity of correctional education programs and how it changed between 2009 and 2012
+• Impact of budget cuts or other fiscal pressures
+• Use of technology
+ranD Correctional Education Survey 59
+• Preparations for the 2014 GED exam and computer-based testing
+• Outcome and performance indicators tracked by states’ correctional education programs
+• Budget and financing.
+Data Cleaning and Analysis
+As a result of the various forms of outreach, data came to RAND in several different forms.
+Most data were received through the MMIC system, but respondents also sent emails or added
+information in an open-ended comment field at the end of the survey to provide data on spe-
+cific items or to otherwise clarify responses. Once the survey was closed, data cleaning involved
+identifying the data provided through these methods and merging these with the final dataset.
+Because skip patterns were built directly into MMIC, the logic of responses that depend on
+earlier responses was maintained. However, respondents sometimes added information to the
+“other” category that could be coded as a previously listed response. In these cases, we recoded
+responses for consistency.
+We appended to the dataset information on the size of each state’s adult prison popula-
+tion in 2009 and 2012 using data from the Bureau of Justice Statistics (Carson and Sabol,
+2012; Carson and Golinelli, 2013). We undertook a descriptive analysis and present the results
+overall, by size of state and by type of lead agency responsible for administering adult correc-
+tional education within states. Because this is a census of all state correctional education pro-
+grams, we do not calculate inferential statistics. Using data from the Bureau of Justice Statistics
+(Maruschak, 2012), we classified states by the size of their adult prison populations in 2012.
+We consider small states to have had an adult prison population in the range of 1–24,999,
+medium states to have had an adult prison population in the range of 25,000–49,999, and
+large states to have had 50,000 or more adult prisoners in 2012.
+Results
+The overall response rate for the survey was 46 out of 50 states, or 92 percent, and impor-
+tantly included at least partial participation from all of the states with large prison popula-
+tions (n = 50,000 adult inmates or greater). In addition, 40 of the respondents (87 percent)
+had responsibility for both academic education and vocational training for incarcerated adults
+within their state. Only five respondents were responsible for academic education only, and one
+respondent was responsible for vocational training only. Of the state directors who responded,
+only four stopped before completing the entire questionnaire. The number of states on which
+the findings are based is noted for each table and figure presented below.
+Overview of Correctional Education Programs Today
+For most responding states (36), the majority of correctional education program authority is
+vested within one central state agency; it is shared among several state agencies in three states.
+In 30 of the states, the authority for correctional education programs resides primarily within
+their states’ departments of corrections or public safety; only four states indicated that the pri-
+mary authority was a state department of education or department of adult education, and one
+respondent indicated that it resided within their state department of labor (data not shown).
+Table 4.1 summarizes the types of educational programs available to adult state prison-
+ers. Most states (44) reported offering adult basic education, general education development
+60 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.1
+Number of States Offering Educational Programs to Adult State Prisoners, by Type of Program
+By Size of State
+Overall Small Medium Large
+Type of Program (N (%)) (N (%)) (N (%)) (N (%))
+adult basic education 44 27 10 7
+(96%) (93%) (100%) (100%)
+adult secondary education 32 19 7 6
+(70%) (66%) (70%) (86%)
+GED test preparation 44 27 10 7
+(96%) (93%) (100%) (100%)
+adult postsecondary education/ 32 18 9 5
+college courses (70%) (62%) (90%) (71%)
+Vocational skills training/CtE 44 27 10 7
+(96%) (93%) (100%) (100%)
+English as a second language 33 22 7 4
+(ESL) courses (72%) (76%) (70%) (57%)
+Special education 40 25 9 6
+(87%) (86%) (90%) (86%)
+Other 17 12 3 2
+(37%) (41%) (30%) (29%)
+total number of states
+46 29 10 7
+responding
+nOtE: percent represents the percentage for each column of the number of states who responded.
+(GED) courses, and vocational skills training/CTE. Forty states also reported offering special
+education. Thirty-two states also offered adult secondary education and/or adult postsecond-
+ary education, and 33 states offered ESL courses. Smaller states were somewhat less likely to
+offer adult secondary education and postsecondary education courses. In addition, 30 out of
+46 states indicated that within their state’s prison system correctional education is considered
+to be an offender work assignment (data not shown), meaning that work assignments are also
+considered part of correctional education.
+In recent years, there has been an increasing emphasis on offering vocational educa-
+tion/CTE programs that lead to a nationally or industry-recognized certificate. The data in
+Table 4.2 provide insights as to what types of vocational training programs are currently being
+provided to adult inmates. Construction and automotive training were two important trades
+in which instruction was provided. Overall, the trade certifications most commonly reported
+were in construction (28 states), occupational safety (20 states), plumbing or electrical appren-
+ticeships (20 states), automotive service (19 states), and welding certification (14 states). The
+perceived importance of general computing skills is underscored by the reports that 24 states
+out of the 42 states that responded to this question also offered Microsoft Office certification.
+Very few states indicated that no nationally or industry-recognized certifications were offered
+to adult inmates.
+Overall, participation in correctional education programs is mandatory in 24 states for
+adult inmates without a high school diploma or GED and mandatory in 15 states for adult
+inmates below a certain grade level (Table 4.3). We hypothesized that as a result of the 2008
+ranD Correctional Education Survey 61
+Table 4.2
+Number of States Offering Nationally or Industry-Recognized Certifications
+By Size of State
+Overall Small Medium Large
+Certification Offered (N (%)) (N (%)) (N (%)) (N (%))
+national Center for Construction 28 16 7 5
+Education and research (67%) (57%) (88%) (83%)
+Microsoft Office certification 24 15 5 4
+(57%) (54%) (63%) (67%)
+Occupational Safety and Health 20 13 4 3
+administration training programs (48%) (46%) (50%) (50%)
+apprenticeship cards (e.g., 20 11 5 4
+plumbing, electrical) (48%) (39%) (63%) (67%)
+national Institute for automotive 19 12 4 3
+Service Excellence (45%) (43%) (50%) (50%)
+american Welding Society 14 11 1 2
+(33%) (39%) (13%) (33%)
+Our state does not offer 2 2 0 0
+nationally or industry-recognized (5%) (7%) (0%) (0%)
+certificates
+total number of states 42 28 8 6
+responding
+nOtE: percent represents the percentage for each column of the number of states who responded.
+recession and budget cuts, some states might change their requirements to make correctional
+education voluntary as one way of trimming costs. In fact, 32 out of 35 states indicated that
+they had not changed their state’s policy from mandatory to voluntary participation (data not
+shown).
+Funding of Correctional Education and Impact of the 2008 Recession
+Overall, the recession resulted in a decrease on average in the size of states’ correctional educa-
+tion budgets. In 2009, the mean correctional education budget reported by survey respondents
+was $114,546,927, and this dropped to $100,760,235 in 2012 (Table 4.4). Overall, 36 states
+reported that between FYs 2009 and 2012 their state’s correctional education programs (aca-
+demic and/or vocational education/CTE) experienced a decrease in funding (Table 4.5). The
+average change in the total correctional education budget in each state between 2009 and 2012
+was a decrease of 6 percent, but there were differences by size: Small states experienced a 2 per-
+cent increase on average, whereas medium states experienced an average decrease of 20 percent
+and large states an average decrease of 10 percent (Table 4.4).
+Another way to examine the decrease in states’ correctional education budgets is to calcu-
+late the mean change in dollars spent per student. In FY2009, the mean dollars spent per stu-
+dent in correctional education programs was $3,479, and this decreased to $3,370 in FY2012
+(Table 4.6). Overall, the average change in the mean correctional education dollars spent per
+student was a decrease of 5 percent between 2009 and 2012. Similar to the results shown in
+Table 4.4, medium-sized states experienced the largest average decrease, 16 percent in the
+mean dollars spent per student.
+62 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.3
+Degree to Which Participation in Correctional Education Programs Is Mandatory
+By Size of State
+Overall Small Medium Large
+(N (%)) (N (%)) (N (%)) (N (%))
+24 14 5 5
+participation is mandatory for
+(52%) (48%) (50%) (71%)
+adult inmates without a high
+school diploma or GED
+15 6 7 2
+participation is mandatory for
+(33%) (21%) (70%) (49%)
+adult inmates below a certain
+grade education level
+21 16 3 2
+participation in correctional
+(46%) (55%) (30%) (29%)
+education programs is voluntary
+for all inmates (i.e., not
+mandated by state policy or by
+legislation)
+2 1 0 0
+Other
+(4%) (3%) (0%) (0%)
+total number of states
+46 29 10 7
+responding
+nOtES: respondents were asked to check all that apply. therefore, there is overlap in the responses between
+the first two categories (mandatory for adults without a high school diploma or GED and mandatory for adult
+inmates below a certain grade level). For the “Overall” column, the “other” category included two responses
+that education was mandatory based on age.
+Table 4.4
+Mean Change in State Correctional Education Budgets Between FY2009 and FY2012
+By Size of State
+Total Correctional Education
+Budget Overall Small Medium Large
+Mean budget in FY2009 $114,546,927 $7,281,225 $18,444,125 $633,014,800
+(number of states) (n = 30) (n = 17) (n = 8) (n = 5)
+Mean budget in FY2012 $100,760,235 $6,567,571 $15,550,286 $529,846,167
+(number of states) (n = 34) (n = 21) (n = 7) (n = 6)
+Mean change in budgeta –6% 2% –20% –10%
+(number of states the calculation (n = 29) (n = 17) (n = 7) (n = 5)
+is based on)
+a Mean changes in budget are calculated as the mean of each state’s change in budget from FYs 2009 to 2012.
+Figures are calculated on the sample of states that provided valid data in FYs 2009 and 2012 and thus, may not
+represent the average change for all states.
+We asked respondents specifically about the impact of budget cuts or other fiscal pres-
+sures on different aspects of their states’ correctional education systems. Of the 36 states that
+reported a decrease in funding for their correctional education systems, 27 states reported a
+reduction in the number of teachers for academic programs, and 25 states reported a reduction
+in the number of instructors for vocational educational/CTE programs (Table 4.6).
+In response to reduced budgets, states in general reduced their staffing levels and the
+capacity of their correctional education programs. Of the 36 states that reported a decrease in
+funding for their state’s correctional education programs (Table 4.6), a major cost-cutting mea-
+sure for 31 states was to not fill vacant teaching or instructor positions (Table 4.7). Other cost-
+cutting measures included the implementation of hiring freezes (21 states), delayed or canceled
+ranD Correctional Education Survey 63
+Table 4.5
+Number of States Reporting Decrease in Funding Between FY2009 and FY2012
+By Size of State
+Change Implemented in
+Response to Budget Cuts or Overall Small Medium Large
+Other Fiscal Pressures (N (%)) (N (%)) (N (%)) (N (%))
+36 21 9 6
+number of states reporting a
+(84%) (75%) (100%) (100%)
+decrease in funding for their
+state’s correctional education
+programs between FYs 2009 and
+2012
+43 28 9 6
+total number of states
+responding
+31 16 9 6
+number of states that indicated
+(86%) (76%) (100%) (100%)
+changes were made to the
+number of teachers or instructors
+36 21 9 6
+total number of states
+responding
+reduction in the number of teachers or instructors
+27 14 8 5
+number of teachers for
+(87%) (88%) (89%) (83%)
+academic programs
+25 11 8 6
+number of instructors for
+(81%) (69%) (89%) (100%)
+vocational education/ CtE
+programs
+31 16 9 6
+total number of states
+responding
+Table 4.6
+Mean Change in States’ Correctional Education Budgets per Student Between FY2009 and FY2012
+By Size of State
+Overall Small Medium Large
+Mean dollars per student in $3,479 $1,710 $1,213 $10,794
+FY2009 (n = 24) (n = 13) (n = 6) (n = 5)
+(number of states)
+Mean dollars per student in $3,370 $1,590 $1,666 $10,711
+FY2012 (n = 21) (n = 19) (n = 6) (n = 6)
+(number of states)
+Mean change in dollars per –5% 4% –16% –1%
+studenta (n = 23) (n = 13) (n = 5) (n = 5)
+(number of states the change
+calculation is based on)
+a Mean changes in dollars per student are calculated as the mean of each state’s change in mean dollars per
+student from FYs 2009 to 2012. Figures are calculated based on the sample of states that provided valid data in
+FYs 2009 and 2012 and thus may not represent the average change for all states.
+pay increases for staff (20 states), staff furloughs (11 states), reductions in the number of course
+offerings for academic programs (20 states) and for vocational education/CTE programs (16
+states), and reductions in or elimination of contracts with community colleges or technical
+schools (17 states). Further, ten states reported that they anticipated additional budget cuts to
+correctional education programs in FY2013 (data not shown).
+64 How Effective Is Correctional Education, and Where Do We Go from Here?
+Smaller states appear to have been less likely than medium-sized and larger states to have
+reduced the number of course offerings for academic and vocational education/CTE programs
+(Table 4.7). In general, smaller states appeared to be less likely to use the range of cost-cutting
+measures listed in Table 4.7 than medium-sized or large states. It may be that smaller states had
+less leeway to reduce staff or course offerings than other states. We did not ask whether teach-
+ers or instructors were given additional duties instead, though this may help explain why fewer
+smaller states did not employ the full range of cross-cutting measures listed.
+The impact of these budget cuts was a reduction in the mean number of students partici-
+pating in academic education and vocational education/CTE programs, particularly within
+medium-sized and large states (Table 4.8). In 2009, the mean number students enrolled in
+academic programs was about 8,300. By 2012, the mean dropped to 6,918. Between FYs 2009
+and 2012, the average change reported by states was an overall decrease of 4 percent. Medium-
+sized and large states in particular saw reductions in the number of students in academic pro-
+grams. Among small states, the average change in the number of students enrolled in academic
+programs was a decrease of 1 percent, but medium and large states reported larger average
+decreases (10 percent and 8 percent, respectively).
+Table 4.7
+Of Those States That Reported a Decrease in Funding Between FY2009 and FY2012, Changes Made
+in Staffing Levels and Capacity in Response to Budget Cuts
+By Size of State
+Overall Small Medium Large
+Type of Program (N (%)) (N (%)) (N (%)) (N (%))
+Did not fill vacant teaching/ 31 17 8 6
+instructor positions (89%) (81%) (100%) (100%)
+Hiring freeze of teachers/ 21 9 7 5
+instructors was implemented (60%) (43%) (88%) (83%)
+Delayed and/or canceled pay 20 10 6 4
+increases for teachers/instructors (57%) (48%) (75%) (67%)
+Staff furloughs of teachers/ 11 6 3 2
+instructors were made (31%) (29%) (38%) (33%)
+reduced salaries and/or benefits 6 2 2 2
+for teachers/instructors (17%) (10%) (25%) (33%)
+reduced or eliminated contracts
+17 8 5 4
+with community or technical
+(49%) (38%) (63%) (67%)
+colleges
+reduced the number of course 20 10 5 5
+offerings for academic programs (57%) (48%) (63%) (83%)
+reduced the number of
+16 8 4 4
+course offerings for vocational
+(46%) (38%) (50%) (67%)
+education/CtE programs
+8 5 2 1
+Other
+(23%) (24%) (25%) (17%)
+1 0 1 0
+none
+(3%) (0%) (13%) (0%)
+total number of states 35 21 8 6
+responding
+ranD Correctional Education Survey 65
+The average number of vocational education/CTE students in each state was smaller
+(3,935 in 2009; 3,402 in 2012) than that for academic education programs (Table 4.8). On
+average, there was a 1 percent increase in the number of students enrolled in vocational educa-
+tion/CTE programs (Table 4.8).1 It appears that this was largely due to an increase of 7 percent
+in the mean number of students enrolled in vocational education/CTE programs within small
+states; whereas the medium-sized and large states reported on average a decrease of 4 percent
+and 11 percent, respectively, in the number of students enrolled.
+Based on our discussions with state correctional education directors, we hypothesized
+that the recession would result in a decrease in the number of teachers and instructors who
+were employees and a possible increased reliance on contract personnel. The effect of the staff-
+ing and capacity changes summarized in Table 4.7 was an overall decrease in the mean number
+of academic teachers who were employees from an average of 110 in 2009 to an average of 85
+in 2012—representing on average a 24 percent decrease (Table 4.9). This decrease was largely
+driven by what was occurring in the medium-sized and large states. Small states experienced a
+modest average decrease of 5 percent; however, medium-sized and large states on average expe-
+rienced a 44 percent and 20 percent decrease, respectively. At the same time, we expected to see
+an increased reliance on contract academic teachers. On average, states experienced a decrease
+of 1 percent in the number of academic teachers who were contract personnel. When we look
+Table 4.8
+Change in Number of Students Enrolled in Academic Programs and Vocational Education/CTE
+Programs, FYs 2009 and 2012
+By Size of State
+Impact on Students Overall Small Medium Large
+Mean number of students enrolled in academic programs
+FY2009 8,321 3,524 10,180 21,656
+(n = 31) (n = 19) (n = 6) (n = 6)
+FY2012 6,918 3,356 8,985 19,002
+(n = 39) (n = 25) (n = 8) (n = 6)
+Mean change in academic –4% –1% –10% –8%
+program enrollmenta
+Mean number of students enrolled in vocational education/CtE programs
+FY2009 3,935 1,683 5,352 8,663
+(n = 30) (n = 17) (n = 7) (n = 6)
+FY2012 3,402 1,777 4,807 7,758
+(n = 37) (n = 23) (n = 8) (n = 6)
+Mean change in vocational 1% 7% –4% –11%
+education/CtE studentsa
+nOtE: For one small state, we set the value for number of students enrolled in academic programs in 2009
+to missing because of uncertainty in the data the state reported. as a result, this state is not included in the
+calculation of the mean change in academic program enrollment.
+a Calculated as the mean of each state’s change in the number of students from FYs 2009 to 2012. It is calculated
+on the sample of states that provided valid data in FYs 2009 and 2012 and may not represent the average change
+for all states.
+1 The overall mean shows a decrease (3,935 to 3,402), likely because the average decrease in the larger states offsets the
+small increase in the smaller states.
+66 How Effective Is Correctional Education, and Where Do We Go from Here?
+at size of state, both the small and large states experienced a decrease on average of 20 percent
+and 40 percent, respectively. The large increase of 136 percent reported by the medium-sized
+states in the mean number of academic teachers who were contract personnel was largely
+driven by what was occurring within a few states in this size category.
+In terms of instructors for vocational education/CTE, on average, states reported an increase
+of 8 percent in the mean number of instructors who were employees between 2009 and 2012
+and reported (Table 4.9). In the small and medium-sized states, we see on average an increase
+of 8 percent and 24 percent, respectively in the number of instructors who were employees,
+which suggests a modest expansion of vocational education/CTE programs in these states.
+At the same time, the large states reported a 7 percent decrease, on average, in the number of
+vocational instructors that were employees. In general, the large percentage changes among
+academic contract personnel and vocational contract personnel among medium-sized states
+reflect very large changes by a couple of states, but relatively minor changes in the others. For
+example, one state increased its academic contract personnel from zero to more than 70 teach-
+ers; another state increased its vocational contract personnel from zero to more than 30 during
+this time period.
+Other changes to instructional support included an increased reliance on inmates as peer
+tutors in the classroom. Between FYs 2009 and 2012, 14 out of 36 states reported increasing
+their use of inmate/peer tutors in the classroom. Of those that did, 14 states used inmates as
+peer tutors to assist students with coursework, nine states had inmates assist with vocational
+education/CTE programs, eight states had inmates assist with administrative tasks, and three
+states had inmates help oversee computer labs (data not shown).
+Postsecondary Education
+Historically, a key piece of legislation that helped to make postsecondary education more avail-
+able to incarcerated adults is the Higher Education Act of 1965 (Pub. L. 89-329), which pro-
+vided student loans to any qualified student, including prisoners, for postsecondary educa-
+tion. In part due to this federal funding, in the 1970s through the 1980s there was a growth
+in the number of state prison systems offering postsecondary education courses. However,
+in the early 1990s, Congress excluded prisoners from the Pell Basic Education Opportunity
+Grant with passage of the Violent Crime Control and Law Enforcement Act of 1994 (Pub. L.
+103-322). The elimination of Pell Grant funding for prisoners led to the closure of approxi-
+mately half of the existing postsecondary correctional education programs within correctional
+facilities (Taylor, 2005).
+The result was a decrease in the percentage of state prison facilities that offered college
+courses from 30 percent in 1995 to 26 percent in 2000 (Crayton and Neusteter, 2008). Par-
+ticipation by state prison inmates in college courses also declined over time from 14 percent in
+1991 to 7 percent in 2004 (Crayton and Neusteter, 2008).
+Our survey results provided an update on these historical trends. In 2013, as noted in
+Table 4.1, 32 states reported offering postsecondary education or college courses2 to adult
+inmates, with the medium and larger states more likely to offer such courses than the smaller
+states. With the Pell Grant exclusion, our survey results indicate that today postsecondary edu-
+cation or college courses in many states (28) are paid for primarily by the individual inmate
+2 One should keep in mind that postsecondary education can include courses that lead to a vocational certificate as well
+as college coursework in general.
+ranD Correctional Education Survey 67
+Table 4.9
+Change in the Number of Employee or Contract Teachers by Type of Program, FYs 2009 and 2012
+By Size of State
+Number of Teachers or
+Instructors Overall Small Medium Large
+Mean number of academic teachers who are employees
+FY2009 110 34 165 342
+(n = 38) (n = 24) (n = 8) (n = 6)
+FY2012 85 39 96 275
+(n = 41) (n = 27) (n = 8) (n = 6)
+Mean change in number of –24% –5% –44% –20%
+academic teachers who are
+employeesa
+Mean number of academic teachers who are contract personnel
+FY2009 11 15 6 5
+(n = 35) (n = 22) (n = 8) (n = 5)
+FY2012 12 12 13 5
+(n = 41) (n = 27) (n = 9) (n = 5)
+Mean change in number of –1% –20% 136% –40%
+academic teachers who are
+contract personnela
+Mean number of vocational instructors who are employees
+FY2009 56 18 105 152
+(n = 39) (n = 25) (n = 8) (n = 6)
+FY2012 56 19 116 141
+(n = 43) (n = 28) (n = 8) (n = 6)
+Mean change in number of 8% 8% 24% –7%
+vocational instructors who are
+employeesa
+number of vocational instructors who are contract personnel
+FY2009 2 3 2 0
+(n = 37) (n = 24) (n = 9) (n = 5)
+FY2012 4 3 9 0
+(n = 41) (n = 28) (n = 8) (n = 5)
+Mean change in number of 27% –10% 250% n/a
+vocational instructors who are
+contract personnela
+nOtE: n/a indicates that there were no such instructors in either year.
+a Mean change calculated as the mean of each state’s change in the number of teachers (by type) from FYs 2009
+to 2012. It is calculated on the sample of states that provided valid data in both FYs 2009 and 2012 and may not
+represent the average change for all states.
+or through the use of family finances, or by private funding such as foundations or individual
+donations (20 states) (Table 4.10). State funding is used by 16 states. Only 12 states use col-
+lege or university funding to cover the costs of postsecondary education, and very few states
+use inmate benefits or welfare funds. Larger states are less likely to rely on inmates’ personal or
+68 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.10
+Funding Sources Used to Pay for Adult Inmates’ Postsecondary Education or College Courses
+By Size of State
+Overall Small Medium Large
+Funding Sources (N (%)) (N (%)) (N (%)) (N (%))
+personal or family finances 28 17 8 3
+(62%) (61%) (80%) (43%)
+private funding (e.g., 20 12 6 2
+foundations, religious/ (44%) (43%) (60%) (29%)
+community group, individual
+donation)
+State funding (e.g., department 16 7 5 4
+of corrections’ budget (36%) (25%) (50%) (57%)
+allocation)
+College or university funding 12 5 4 3
+(27%) (18%) (40%) (43%)
+Inmate benefits or welfare funds 7 4 2 1
+(16%) (14%) (20%) (14%)
+not applicable, our state does 7 5 1 1
+not offer postsecondary/college (16%) (18%) (10%) (14%)
+courses to adult inmates
+total number of states 45 28 10 7
+responding
+nOtE: respondents were asked to mark all that apply and so the column totals exceed 100 percent.
+family finances and more likely to use state funding or college or university funding to cover
+postsecondary education costs.
+Use of Technology and Preparedness for Implementation of the 2014 GED Exam
+A growing trend in the field of education and in correctional education is the use of computer
+technology. Gorgol and Sponsler (2011) surveyed 43 states on their postsecondary correctional
+education programs and concluded that correctional educators looked to technology as an
+innovative way to improve the delivery of postsecondary education and to increase access.
+Based on the insights from the focus groups we conducted and discussions with key
+experts, we included specific questions in our survey of state directors to gather data on what
+type of computer technology is currently being used for educating adult inmates, on instruc-
+tion methods that leverage technology, and the degree of access to the Internet by teachers and
+inmate students. Forty-one states reported that at least one of their state’s prison facilities had
+a computer lab, with the median number of facilities with a computer lab being 11 (data not
+shown).
+The use of computers in correctional education programs is common. Thirty-nine states
+reported use of desktop computers (either standalone or networked), and 17 states reported
+use of laptops for their correctional education programs (Table 4.11). The use of tablets, such
+as Kindles or iPads, was reported by only two of the small states, and 13 states reported the
+use of other technology (specifically, eight states reported the use of smart boards). In terms
+of networks, 26 states (62 percent) reported their correctional education program utilized a
+local area network (LAN), and 11 states (26 percent) reported using a statewide or wide area
+ranD Correctional Education Survey 69
+network (WAN). Only ten states reported using closed-circuit television for correctional edu-
+cation instruction.
+Small states were more likely to rely on desktop computers (standalone or networked),
+whereas medium-sized and large states were more likely to utilize laptops (Table 4.11). Medium-
+sized states were more likely to report use of smart boards and closed-circuit television for
+instruction.
+In terms of methods of instruction, 42 states reported use of on-site instruction to pro-
+vide academic or vocational/CTE courses, and 15 states reported the use of correspondence
+courses (Table 4.12). Although ten states reported that they had closed-circuit television
+(Table 4.11), few states actually used it to provide one-way or interactive video/satellite instruc-
+tion (Table 4.12). The use of the Internet-based instruction (one-way or interactive) was only
+reported by one state.
+In general, student access to the Internet is very limited in most states. Thirty states
+(73 percent) reported that only teachers and instructors have access to live Internet technology
+in the classroom (Table 4.13). In 26 states, students do not have access to any Internet technol-
+ogy, and in 16 states students have access to only simulated Internet programs. Use of simu-
+lated Internet programs appeared to be more prevalent in medium-sized states.
+Our survey results are further supported by the findings from a recent survey of state cor-
+rectional executives. The Association of State Correctional Administrators (ASCA) asked their
+membership about whether their agency planned to provide their state prison inmate popu-
+lation access to online education courses to obtain a GED diploma or advance degree. Only
+four states indicated their agency planned to provide inmates with access to online education
+courses for the GED, two states indicated so for inmates to earn advanced degrees, and two
+states for inmates to earn professional or vocational certification (ASCA, 2013).
+Table 4.11
+Types of Technology Hardware and Networks Used in States’ Correctional Education Systems
+By Size of State
+Type of Hardware or Networks Overall Small Medium Large
+Used (N (%)) (N (%)) (N (%)) (N (%))
+Desktop computers (standalone 39 27 7 5
+or networked) (93%) (96%) (88%) (83%)
+Local area network (Lan) 26 15 5 6
+(62%) (54%) (63%) (100%)
+Mobile laptops 17 9 5 3
+(40%) (32%) (63%) (50%)
+Statewide or wide area network 11 7 2 2
+(Wan) (26%) (25%) (25%) (33%)
+Closed-circuit tV 10 5 4 1
+(24%) (18%) (50%) (17%)
+tablets (e.g., Kindles, ipads) 2 2 0 0
+(5%) (7%)
+Other technology 13 6 5 2
+(31%) (21%) (63%) (33%)
+total number of states 42 28 8 6
+responding
+70 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.12
+Instruction Methods for Academic Programs or Vocational Education/CTE Courses
+By Size of States
+Overall Small Medium Large
+Instruction Methods Used (N (%)) (N (%)) (N (%)) (N (%))
+On-site instruction 42 28 8 6
+(100%) (100%) (100%) (100%)
+Correspondence courses 15 9 4 2
+(36%) (32%) (50%) (33%)
+Interactive video/satellite 3 1 2 0
+instruction (7%) (4%) (25%) (0%)
+One-way video/satellite 2 1 1 0
+instruction (5%) (4%) (13%) (0%)
+One-way Internet-based 1 1 0 0
+instruction (2%) (4%) (0%) (0%)
+Interactive Internet-based 1 1 0 0
+instruction (2%) (4%) (0%) (0%)
+Other technology 4 2 1 1
+(10%) (7%) (13%) (17%)
+total number of states 42 28 8 6
+responding
+Table 4.13
+Number of States Offering Access to the Internet for Correctional Education Programs
+By Size of State
+Overall Small Medium Large
+Type of Access to the Internet (N (%)) (N (%)) (N (%)) (N (%))
+Only teachers/instructors have 30 21 7 2
+access to live Internet technology (73%) (75%) (88%) (40%)
+in correctional education
+classrooms
+total number of states 41 28 8 5
+responding
+Student access to the Internet
+Students do not have access 26 18 5 3
+to any Internet technology (62%) (64%) (63%) (50%)
+Students may only use 16 10 4 2
+simulated Internet programs (38%) (36%) (50%) (33%)
+Students have restricted 6 4 1 1
+access to live Internet (14%) (14%) (13%) (17%)
+total number of states 42 28 8 6
+responding
+ranD Correctional Education Survey 71
+2014 GED Preparedness
+In 2014, a new GED assessment will be implemented. The new, more rigorous test will be
+aligned with the Common Core State Standards (CCSS) and will use a new test delivery
+model—computer-based testing to replace the paper-and-pencil examination. These two
+changes have important implications for correctional administrators and educators in terms of
+preparing for and implementing the new test. Educators will need to be prepared to teach the
+CCSS and prepare students for a more rigorous GED test that will require students to demon-
+strate high-level thinking skills and exhibit deeper levels of knowledge in four subject areas. In
+addition, the new test delivery model will require educators to prepare students to have a level
+of computer literacy and skills necessary to successfully navigate the test using a computer.
+These changes, in turn, have implications when it comes to agency budgets and professional
+development needs of educators and present a number of logistical concerns when it comes to
+preparing to implement computer-based testing. We asked correctional education directors
+about their preparations for the new GED exam and for their views regarding early concerns
+about what these changes might mean for their correctional education systems.
+Thirty-one states reported that their state planned to implement the 2014 GED exam,
+with nine states indicating that their state was exploring other high school equivalency exams
+and two states indicating their state did not plan to implement the new GED exam (data not
+shown).
+Of those that planned to implement the 2014 GED exam, on average 14.5 of their state’s
+correctional facilities (median was 11 facilities) were currently set up or were expected to be set
+up by January 1, 2014, to implement the exam (data not shown).
+Of those planning to implement the 2014 GED exam, 17 states planned to use a com-
+bination of computer workstations and laptops for inmates to take the exam. Eight states
+indicated that they planned to use only computer workstations, and two states planned to use
+laptops only (data not shown).
+Of the 31 states who planned to implement the 2014 GED exam, all but one indicated
+that they would provide professional development training for their teachers and instructors to
+prepare them to teach the new GED exam; the one exception indicated no such training would
+be provided (data not shown). Table 4.14 summarizes the type of professional development
+training states are providing or plan to provide to assist teachers and instructors in preparing
+to teach and implement the 2014 GED exam and computer-based testing. Most states planned
+to conduct training on the testing process, test protocols, and test security requirements. Most
+states also planned to train on instruction aligned with the common core standards and on
+computer literacy.
+State correctional education directors are concerned about the more rigorous 2014 GED
+exam and the implementation of computer-based testing. In our survey, 14 states expected that
+these changes may have a negative effect on the number of adult inmates who will be prepared
+to take the new exam, 13 states expected a negative effect on the amount of time needed to
+prepare for the exam, and 16 states expected a negative effect on GED completion rates (data
+not shown). Our findings are similar to that of a recent survey by the Association of State Cor-
+rectional Administrators in which 21 states reported that they anticipated a sizable drop in
+their pass rate for inmate students as a result of the switch to computer-based testing for the
+GED (Association of State Correctional Administrators, 2013).
+Table 4.15 summarizes what concerns, if any, state correctional education directors have
+with respect to the 2014 GED exam and the move to computer-based testing. Of the 31 states
+72 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.14
+Professional Development Training for Teachers/Instructors to Prepare Them to Teach the New 2014
+GED Exam
+By Size of State
+Overall Small Medium Large
+Topics Training Will Address (N (%)) (N (%)) (N (%)) (N (%))
+training on instruction aligned 29 21 3 5
+with the common core standards (97%) (100%) (75%) (100%)
+training on the testing process 28 20 3 5
+(93%) (95%) (75%) (100%)
+training on the test protocols 26 18 3 5
+(87%) (86%) (75%) (100%)
+training on test security 26 18 3 5
+requirements (87%) (86%) (75%) (100%)
+training on computer literacy 25 17 3 5
+(83%) (81%) (75%) (100%)
+Other 2 1 1 0
+(7%) (5%) (25%) (0%)
+total number of states 30 21 4 5
+responding
+planning to implement the 2014 GED exam, 24 expressed concerns about the length of time
+it may take to prepare students to take the new GED exam, and 22 were concerned about the
+cost to their institution or correctional education program to prepare for computer-based test-
+ing. Teachers being adequately prepared to teach the new exam (19 of the states) and to imple-
+ment computer-based testing (14 of the states) were concerns for a number of states. Twelve
+of the states reported concerns that limited access to computers may possibly preclude some
+students from taking the new GED exam, and ten of the states were concerned about the cost
+of the 2014 GED exam to the individual student. Only two of the states indicated they had no
+concerns about the new exam or computer-based testing.
+Smaller states tended to express fewer concerns about the 2014 GED exam and computer-
+based testing than medium-sized or larger states. All of the medium-sized and large states that
+answered this question were concerned about the cost of the new GED exam, about whether
+their teachers would be prepared to teach the new exam, and the length of time it would take
+to prepare students. In addition, most of the large states were concerned that teachers may not
+be prepared to implement computer-based testing and that limited access may preclude some
+students from taking the exam. These results suggest that states with larger prison populations
+may encounter more challenges in terms of implementing the new GED exam and that smaller
+states may fare better.
+Outcome Indicators and Postrelease Measures of Success
+Another area of interested that we asked state correctional education directors about is what
+outcome indicators and measures of postrelease success for correctional education programs
+are of value to both (1) assess student progress and attainment and (2) meet correctional goals
+of increased safety within the institution and reductions in recidivism.
+ranD Correctional Education Survey 73
+Table 4.15
+Concerns About Forthcoming Changes to the 2014 GED Exam and the Move to Computer-Based
+Testing
+By Size of State
+Overall Small Medium Large
+Areas of Concern (N (%)) (N (%)) (N (%)) (N (%))
+Length of time it will take to 24 16 3 5
+prepare students to take the GED (83%) (76%) (100%) (100%)
+exam
+Cost to the institution or 22 14 3 5
+program of preparing for (76%) (67%) (100%) (100%)
+computer-based testing
+teachers may not be prepared 19 11 3 5
+to teach the new GED exam’s (66%) (52%) (100%) (100%)
+components
+teachers may not be prepared 14 8 2 4
+to implement computer-based (48%) (38%) (67%) (80%)
+testing
+Limited access to computers may 12 7 1 4
+preclude some students from (41%) (33%) (33%) (80%)
+taking the GED exam
+Cost of the 2014 GED exam to the 10 6 1 3
+student (34%) (29%) (33%) (60%)
+Security concerns about access to 7 4 1 2
+the Internet for the GED exam (24%) (19%) (33%) (40%)
+Other 6 3 1 2
+(21%) (14%) (33%) (40%)
+no concerns 2 2 0 0
+(7%) (10%) (0%) (0%)
+total number of states 29 21 3 5
+responding
+Table 4.16 summarizes which outcome indicators states’ correctional education systems
+track. A majority of states (40) track GED certificates and nationally or industry-recognized
+certificates earned (36 states). Thirty-two states also tracked gains in reading or math skills,
+and about half of states tracked academic program completions. College credits earned and
+degrees were tracked by 17 and 18 states, respectively. Other outcome indicators tracked by
+states’ correctional education systems included reading level performance, the Wide Range
+Achievement Test (WRAT) scores, the Test of Adult Basic Education (TABE), WorkKeys cer-
+tificates awarded, vocational training program completions, reductions in discipline, and state
+and local vocational certificates.
+By size of state, tracking of GED certificates earned, nationally or industry-recognized
+certificates, and gains in reading or math skills were reported by a number of the states in
+each size category (Table 4.16). Medium-sized states were nearly twice as likely to report also
+tracking college credits and college degrees earned, suggesting that perhaps college coursework
+and contracting with community colleges to provide courses might be more prevalent in these
+states.
+74 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.16
+Outcome Indicators Tracked by States’ Correctional Education Systems
+By Size of State
+Overall Small Medium Large
+Indicator (N (%)) (N (%)) (N (%)) (N (%))
+GED certificates earned 40 27 8 5
+(95%) (96%) (100%) (83%)
+national or industry-recognized 36 22 8 6
+certificates awarded (86%) (79%) (100%) (100%)
+Gains in reading or math skills 32 20 7 5
+(76%) (71%) (88%) (83%)
+academic program completions 23 15 5 3
+(e.g., adult basic education, adult (55%) (54%) (63%) (50%)
+secondary education, ESL)
+High school degrees awarded 21 15 3 3
+(50%) (54%) (38%) (50%)
+College credits earned 17 10 5 2
+(40%) (36%) (63%) (33%)
+College degrees earned (e.g., 18 11 5 2
+associate degrees) (43%) (39%) (63%) (33%)
+Other 7 4 2 1
+(17%) (14%) (25%) (17%)
+total number of states 42 28 8 6
+responding
+We also asked state correctional education directors what postrelease indicators they con-
+sidered to be important outcome measures of academic or vocational education/CTE program
+success. The majority indicated reductions in recidivism and postrelease employment as being
+two important measures to track. Many states also cited enrollment in vocational training pro-
+grams and in postsecondary education/college courses. Less cited were postrelease indicators
+of college attainment or degrees awarded. Other postrelease indicators mentioned included
+Department of Labor statistics for their population and continued skill training, and one
+respondent noted that all of the indicators listed in Table 4.17 are important but cannot be
+tracked at this time.
+Medium-sized states were more likely to consider enrollment in vocational training pro-
+grams and in postsecondary education/college courses as well as college attainment and degree
+awarded as being important outcome measures (Table 4.17). These results are consistent with
+the findings in Table 4.16 that medium-sized states also were more likely than the small or
+large states to track college credits and college degrees earned.
+Participation in Federal, State, Local, and Private Grant Programs
+In addition to funding from states, correctional education programs also can benefit from
+federal funding such as from Title I, Part D, of the Elementary and Secondary Education Act
+of 1965 (ESEA) (Pub. L. 89-10) to be used to improve educational services for children and
+ranD Correctional Education Survey 75
+Table 4.17
+Postrelease Indicators States Consider to Be Important Outcome Measures for Correctional
+Education
+By Size of State
+Overall Small Medium Large
+Indicator (N (%)) (N (%)) (N (%)) (N (%))
+recidivism 41 27 8 6
+(98%) (96%) (100%) (100%)
+postrelease employment 38 24 8 6
+(90%) (86%) (100%) (100%)
+Job retention 29 18 5 6
+(69%) (64%) (63%) (100%)
+Enrollment in vocational training 24 15 6 3
+programs (57%) (54%) (75%) (50%)
+Enrollment in postsecondary 22 14 6 2
+education/ college courses (52%) (50%) (75%) (33%)
+College attainment 16 10 4 2
+(38%) (36%) (50%) (33%)
+Degrees awarded 12 7 4 1
+(29%) (25%) (50%) (17%)
+Other 3 3 0 0
+(7%) (11%) (0%) (0%)
+total number of states 42 28 8 6
+responding
+youth in local and state institutions for neglected or delinquent children and youth.3 Further,
+federal grant programs and foundation funding can be used to support specific programs or
+research efforts.
+Twenty-seven state correctional education programs reported participation in ESEA,
+Title I, Part D and the Workforce Investment Act (Pub. L. 105-220), Title II programs
+(Table 4.18). Regardless of size, approximately two-thirds of states participated in the ESEA
+Title I, Part D and Workforce Investment Act, Title II programs. Only nine states indicated
+that their correctional education programs had received funding under the SCA and six states
+from foundations such as the Sunshine Lady Foundation.4
+Of those states (n = 18) that received Workforce Investment Act, Title II dollars, the mean
+amount received was $26,014,500 in FY2012 (Table 4.19). In terms of the Perkins Act fund-
+ing, states (n = 30) that received funding under this grant program received a mean amount
+3 The purposes of Title I, Part D are to (1) improve educational services for children and youth in local and state institu-
+tions for neglected or delinquent children and youth so that they have the opportunity to meet the same challenging state
+academic content and State student achievement standards that all children in the State are expected to meet; (2) provide
+these children with services to enable them to transition successfully from institutionalization to further schooling or
+employment; and (3) prevent at-risk youth from dropping out of school as well as to provide dropouts and children and
+youth returning from correctional facilities or institutions for neglected or delinquent children and youth, with a support
+system to ensure their continued education (U.S. Department of Education, 2006).
+4 Other foundations and specific grant programs mentioned included the Bill and Melinda Gates Foundation, the Open
+Society Foundations, the Perkins Leadership grant program, and one state’s Department of Labor career technical grants.
+76 How Effective Is Correctional Education, and Where Do We Go from Here?
+Table 4.18
+Federal, State, or Private Grant Programs States’ Correctional Education Systems Participate in
+By Size of State
+Overall
+(n = 42) Small Medium Large
+Type of Program (N (%)) (N (%)) (N (%)) (N (%))
+ESEa, title I, part D 27 17 5 5
+(64%) (61%) (63%) (83%)
+ESEa, title II, part a 4 1 1 2
+(10%) (4%) (13%) (33%)
+Workforce Investment act, 24 16 5 3
+title II (also known as the adult (57%) (57%) (63%) (50%)
+Education Family Literacy act)
+Federal Second Chance act (SCa) 9 4 2 3
+grants (21%) (14%) (25%) (50%)
+Office of Juvenile Justice and 1 1 0 0
+Delinquency prevention (OJJDp) (2%) (4%) (0%) (0%)
+grants
+Bureau of Justice assistance (BJa) 3 0 1 2
+grant funding (other than Second (7%) (0%) (13%) (33%)
+Chance act)
+national Institute of Justice (nIJ) 1 0 0 1
+grants (2%) (0%) (0%) (17%)
+Foundations (e.g. Sunshine Lady) 6 4 2 0
+(please specify) (14%) (14%) (25%) (0%)
+none/don’t know 4 3 1 0
+(10%) (11%) (13%) (0%)
+number of states responding 42 28 8 6
+Table 4.19
+Amount of Funding States’ Correctional Education Programs Received in 2012 from the
+Workforce Investment Act, Perkins Act, and States’ Higher Educational/Aid Resources
+Type of Program Mean Median
+Workforce Investment act, title II (also known as $26,014,500 $284,000
+the adult Education Family Literacy act) (n = 18)
+Carl D. perkins Career and $4,114,150 $69,000
+technical Education act (perkins act) (n = 28)
+States’ higher education/aid resources (n = 6) $1,306,031 $596,125
+of $4,114,150. Eight states also reported receiving the states’ higher education/aid resources in
+FY2012, with the mean amount being $1,306,031.
+ranD Correctional Education Survey 77
+Discussion
+Variation in Correctional Education Programming Across the States
+In 2013, most states offered adult basic education, GED courses, and vocational skills train-
+ing. In addition, most states also reported having special education courses available. Higher-
+level educational programming, including adult secondary education and postsecondary edu-
+cation, is offered in about 70 percent of states (32 states and 33 states, respectively). However,
+we found that smaller states were less likely to offer such courses, suggesting that inmates in
+smaller states have fewer opportunities for adult secondary and postsecondary education. In 24
+states, participation in correctional education programs is mandatory for adult inmates with-
+out a high school diploma or GED, and in 15 states mandatory for adults below a certain grade
+level. However, smaller states were less likely than medium-sized and large states to require
+mandatory participation in correctional education programs. Smaller states though were more
+likely to emphasize vocational education/CTE training for state prisoners than medium-sized
+or large states.
+An emerging trend is a growing emphasis on providing vocational education/CTE pro-
+gramming that will lead to industry or nationally recognized certifications. For example, 28
+states reported offering the National Center for Construction Education and Research certifi-
+cation. Our survey suggests that more than half of reporting states offer certification training
+in construction and in Microsoft Office skills. Occupational safety and plumbing and electri-
+cal apprenticeships are offered in nearly half of reporting states, and welding is offered in about
+a third of them.
+Impact of the 2008 Recession
+The effect of the 2008 recession was a 6 percent decrease on average in states’ correctional edu-
+cation budgets between FYs 2009 and 2012. However, the effect of the recession differed by
+size of state. The largest decrease in budgets was felt by medium-sized and large states. On aver-
+age, small states experienced a 2 percent increase in their state’s correctional education budget,
+compared with a 20 percent and 10 percent decrease in medium and large states. Another way
+to look at this is to calculate the dollars spent per student during this time period. Overall, the
+mean dollars spent per student for correctional education was $3,479 in FY2009, compared
+with $3,370 in FY2012—a 5 percent decrease on average in the dollars spent per student.
+The reductions in states’ correctional education budgets reportedly led to a dramatic con-
+traction in the capacity of academic education programs, and to a reduction in the number
+of students on average who participated in these programs. For academic programs, these
+budget cuts and resulting cost-cutting measures yielded, on average, a 4 percent decrease in the
+mean number of adult students enrolled in academic programs between FYs 2009 and 2012.
+Medium-sized and large states on average experienced a larger decrease in the number of adult
+students enrolled in academic programs (10 percent and 8 percent decrease, respectively) than
+did small states who reported an average decrease of 1 percent in the number of students in
+these programs.
+The effect of the staffing and capacity cost-cutting measures on teachers was particularly
+felt in medium-sized and large states. Overall, there was on average a 24 percent decrease in
+the number of academic teachers who were employees, from an average of 110 in 2009 to an
+average of 85 in 2012. All size states experienced a decrease in the number of teachers who were
+78 How Effective Is Correctional Education, and Where Do We Go from Here?
+employees, but the largest decrease occurred in medium-sized (44 percent) and large states
+(20 percent).
+In addition, 20 states also reduced the number of course offerings for academic programs
+during this time period; this was especially true in the larger states. In the short run, these
+cuts saved states money by reducing the direct costs of correctional education programming.
+However, in the long run they may have added to the future costs of reincarceration, given that
+inmates are now returning to local communities having had fewer educational opportunities
+while incarcerated. Long-term costs are important to bear in mind. Our meta-analysis results
+in Chapter Two suggest that participation in correctional education programs is associated
+with a 13-percentage point reduction in recidivism, and that for every dollar spent on correc-
+tional education programs, five dollars are saved in three-year reincarceration costs.
+Vocational education/CTE programs seem to have fared somewhat better during the
+recession than academic programs in terms of reductions in the number of students enrolled in
+vocational training programs, and in the number of instructors. On average, there was a 1 per-
+cent increase in the number of students enrolled in vocational/CTE programs between 2009
+and 2012. However, this appears to be largely driven by an increase on average of 7 percent in
+smaller states. In comparison, the medium-sized and large states experienced a reduction on
+average of 4 percent and 11 percent, respectively, in the number of students enrolled in these
+programs. Small and medium-sized states in fact saw a modest increase between FYs 2009
+and 2012 in the mean number of vocational education/CTE instructors who were employees
+(8 percent and 24 percent, respectively). Combined, this suggests a modest expansion of voca-
+tional education/CTE programs in small and medium-sized states during this time period.
+Still, 38 percent of small states and 44 percent of medium-sized states reported that in response
+to budget cuts they had reduced the number of course offerings for vocational education/CTE
+programs.
+Use of Information Technology
+One of the major trends that will shape the future of work in the 21st century is the grow-
+ing role of information technology in our society, with technological change resulting in an
+increased demand for a skilled workforce (Karoly, 2013). In today’s job market, basic computer
+skills are virtually a necessity in searching for job opportunities, applying online for jobs or
+benefits, and undertaking simple clerical tasks in the workplace. The importance of computing
+skills for today’s job market is recognized by state correctional education directors and reflected
+by the fact that 24 states reported offering a Microsoft Office certification as part of their voca-
+tional education/CTE programs.
+Further, distance learning and online instruction are growing trends in the United States,
+with increasingly more educational courses being offered online by either colleges or virtual
+high schools. These online courses are appealing in that they offer an opportunity to address
+key barriers that correctional educators face in terms of limited classroom space and the need to
+scale back on instructional staff in recent years. In addition, the frequent movement of inmates
+from facility to facility makes it difficult to ensure continuity of coursework and learning
+opportunities, while distances between facilities (especially in rural states) make it difficult to
+provide instruction in all facilities. Computer-assisted instruction is also appealing in offering
+the opportunity to tailor instruction and coursework to the needs of the individual student.
+Yet, our survey results indicate that the role of computer technology in correctional
+education is complicated. We found that the use of computers for instructional purposes is
+ranD Correctional Education Survey 79
+common, with 39 states reporting the use of desktop computers (either standalone or net-
+worked) and 17 states reporting the use of laptops. However, access to the Internet, and the use
+of Internet-based instruction (one-way or interactive), is reported to be limited in most states’
+correctional facilities. Thirty states reported that only teachers and instructors have access to
+live Internet technology. In 26 states, inmate students lack access to any Internet technology,
+and in only 16 states do inmate students have access to simulated Internet programs. In focus
+group discussions, state correctional education directors cited corrections’ opposition to access
+to computer or to the Internet as a key barrier to using technology in the classroom. In terms of
+instructional methods that use some type of technology, only ten states reported that they had
+closed-circuit television, and only a few states reported using it to provide one-way or interac-
+tive video/satellite instruction.
+Readiness for the 2014 GED Exam and Computer-Based Testing
+The GED is the predominant way that inmates earn their high school equivalency diplomas,
+and GED completion is often a prerequisite for many vocational training programs (Harlow,
+2003; Lockwood et al., 2013).
+The new 2014 GED exam and the move to computer-based testing will further push cor-
+rectional education systems to use information technology in the classroom and to find solu-
+tions to some of these barriers. Of the 31 states planning to implement the 2014 GED exam, 17
+plan to use a combination of computer workstations and laptops for inmates to take the exam.
+The 2014 GED exam not only represents a more rigorous test, being aligned with the
+Common Core State Standards (CSS), but also will rely on a new test delivery model—namely,
+computer-based testing to replace the old paper-and-pencil exam (Lockwood et al., 2013). This
+represents a profound change to states and at the same time presents some key challenges.
+GED completion rates are seen as important outcome indicator to track by 95 percent of states
+that took part in our survey. Of the 31 states planning to implement the 2014 GED exam, 14
+states expected that the more rigorous GED exam and the use of computer-based testing may
+have a negative effect on the number of adult inmates who will be prepared to take the new
+exam, and 16 states expected a negative effect on GED completion rates. This was particularly
+true for the medium-sized and large states. Nineteen states were concerned about their teach-
+ers being adequately prepared to teach the new exam, and 24 states were concerned about the
+length of time it may take to prepare students for the more rigorous exam.
+In recent discussions with state correctional education directors at a 2013 Correctional
+Education Association conference and workshop we facilitated a discussion on preparations for
+the 2014 GED exam. One of the issues the state directors debated was how to assess whether
+an inmate student had sufficient computer skills to take the timed exam. Anecdotal reports
+from state correctional education directors with early experience with computer-based test-
+ing were that some inmate students did not have adequate computer skills to finish the test
+within the allocated amount of time. In addition to keyboarding tasks, the new GED exam
+and computer-based testing require a range of computing skills, such as knowledge of how to
+access tool bars, navigate “HOT SPOTS,” use “drag and drop” and “point and click” skills,
+and use a drop-down online calculator (Lockwood et al., 2013). The directors discussed pos-
+sible workarounds to help students, including the use of standalone calculators and having stu-
+dents practice writing in long-hand their essays before typing their answers on the computer.
+The directors also mentioned including as part of the GED preparation time in the computer
+lab for students. In our survey, 12 states reported concerns that limited access to computers
+80 How Effective Is Correctional Education, and Where Do We Go from Here?
+may preclude some students from taking the new GED exam. Also, responding directors in
+14 states reported concerns that their teachers may not be adequately prepared to implement
+computer-based testing.
+Only two states reported no concerns about the new exam or computer-based testing.
+In general, smaller states expressed fewer concerns; however, our survey results suggest that
+states with the majority of the prison population (i.e., medium-sized and large states) expect
+to encounter a number of challenges in implementing the new exam and test delivery system.
+Given these concerns, the survey results suggest that the United States may experience
+a dramatic drop in the number of GED completion rates for incarcerated adults, which will
+merit close monitoring and an assessment of the long-term implications for this population in
+terms of effects on their opportunities to participate in vocational training programs and post-
+secondary education, as well as effect on employment opportunities. These results also suggest
+that states may need technical assistance in preparing teachers and students for the new GED
+exam. The fact that not all states will be using the GED exam as a high school equivalency
+test raises questions about whether the use of alternative exams will be accepted by vocational
+training programs and college programs.
+Postsecondary Education
+As noted earlier, the history of postsecondary education for incarcerated adults is one of an
+initial growth in the number of programs and then a significant reduction in response to the
+elimination of Pell grants in the 1990s for this population.
+Our survey results provide updated information about these trends. Our survey did not
+ask about the number of inmates in postsecondary courses but does provide information on
+the degree to which states offer them and how inmate students are paying for these courses. We
+found that in 2013, 32 states reported offering postsecondary education or college courses to
+adult inmates (especially true of medium-sized and larger states). However, these courses today
+are primarily paid for by the individual inmate or by family finances. In 16 states, state funding
+from the department of corrections, for example, is used to cover the costs of postsecondary
+education. Only 12 states reported using college or university funds to pay for these courses.
+Our survey results suggest that reinstatement of the Pell grants for this population may have a
+substantial effect in expanding postsecondary opportunities for state prisoners.
+In recent years, there has been a growing interest in providing postsecondary education
+to inmates in state prison. Such programs as the Bard College Initiative and the Prison Uni-
+versity projects are two examples. Importantly, a group of foundations recently joined together
+to fund a demonstration project in three states called Pathways from Prison to Postsecondary
+Education led by the Vera Institute of Justice to support postsecondary education and degree
+attainment for individuals who are within two years of release. Of particular note is that
+these various initiatives are focused on degree attainment, whereas traditionally courses offered
+within prisons often were not aimed at credential attainment or building a core of courses that
+would allow individuals to continue and, ultimately, obtain a postsecondary education degree
+either while incarcerated or upon release from prison.
+CHaptEr FIVE
+Conclusions and Recommendations
+Introduction
+The key finding from this comprehensive study of correctional education in the United States
+is that correctional education is effective in reducing recidivism for incarcerated adults and that
+there is reasonable evidence that it is also effective, especially vocational training, in improv-
+ing individuals’ likelihood of postrelease employment. Our cost analysis further showed that
+correctional education is highly cost-effective for incarcerated adults—for every dollar spent
+on correctional education, five dollars are saved on three-year reincarceration costs. Our report
+also provides the most comprehensive systematic review we are aware of on what works in
+correctional education for incarcerated juveniles. For example, we found compelling—if still
+preliminary—evidence for Scholastic’s computer-enhanced reading intervention, Read 180,
+and for the highly intensive and personalized education model exemplified by Florida’s Avon
+Park Youth Academy.
+Thus, the debate should no longer be about whether correctional education is effective or
+cost-effective; rather, the debate should focus on where the gaps in our knowledge are and oppor-
+tunities to move the field forward.
+In this chapter, we offer some recommendations and next steps, drawn from our evalua-
+tion results; while this report is to the U.S. Attorney General, these recommendations will also
+be of interest to other federal departments and agencies focused on reentry and are intended to
+provide a roadmap for building on the gains made to date in educating incarcerated individu-
+als to improve their chances of success upon release and reentry into local communities.
+Correctional Education for Adults
+Our survey results provide solid evidence about the dramatic impact the 2008 recession had
+on correctional education in the United States. Specifically, the results show that as budgets
+were reduced, the reported capacity for academic programs contracted, which led to a cor-
+responding drop in the number of incarcerated adults participating in these programs and
+in the number of teachers who were employees. In the long run, such a lack of educational
+opportunities may contribute to future reincarceration trends and future incarceration costs.
+This raises the question of whether the trade-offs we are making in terms of cost savings today
+with reductions in educational programming are worthwhile considering the future costs of
+reincarceration as well as the effect that such lost opportunities have on individuals’ chances of
+finding employment and being successful in reintegrating back into society.
+81
+82 How Effective Is Correctional Education, and Where Do We Go from Here?
+Throughout this project, at various conferences, workshops, and as part of individual dis-
+cussions with state correctional education directors, these directors have repeatedly said that
+their legislature or department of corrections is asking them for evidence about how effective
+their programs are to inform budget decisions and that they now are providing correctional
+education programming with fewer dollars. The directors strongly desired information on how
+they might modify their models of education to trim their budgets while still maintaining
+the effectiveness of their programs. The results of our meta-analysis answers the first question
+about effectiveness—correctional education programs are dramatically effective in reducing
+recidivism, and there is modest evidence of improvements in postrelease employment out-
+comes. Our findings also clearly indicate that correctional education programs are highly cost-
+effective for incarcerated adults.
+However, because of limitations in quality of the evidence base (as discussed further
+below), we cannot answer the other critical questions needed to inform discussions about mod-
+ifications to educational programming in a resource-constrained environment. We note, as did
+MacKenzie (2008), that we are unable to get at what is inside the “black box” of what works in
+correctional education, to answer such questions as:
+• What dosage is associated with effective programs, and how does it vary for different
+types of academic programs and students?
+• What models of instruction and curriculum delivery (e.g., one-on-one, traditional class-
+room lectures, computer-based learning) are most effective in a correctional environment?
+• Who benefits most from different types of correctional education programs?
+• What principles from adult education and learning may be applicable to correctional
+education?
+Thus, we recommend focusing research and evaluation efforts at the federal and state
+levels to address these questions so that policymakers and state correctional education
+directors can make informed trade-offs in budget discussions. Where feasible, researchers
+should be encouraged to make as much use of administrative data as possible to help reduce
+evaluation costs.
+Apart from this limitation, our survey results underscore that how correctional education
+is being provided today is very different from how it was provided when many of the studies in
+the meta-analysis were undertaken. This includes different models of instruction and delivery,
+reductions in the number of teachers who are employees, the increased use of peer tutors, and
+the growing role of computer technology in the classroom and in instruction. Thus, a program
+provided ten years ago may be operating today in a different context altogether and under a dif-
+ferent set of budget constraints. Thus, moving forward, we recommend that federal and state
+governments and philanthropy fund (1) evaluations of programs that illustrate different
+educational instructional models with the goal of getting inside the black box, (2) evalu-
+ations of programs that are trying innovative strategies to implement technology and
+leverage distance learning in the classroom, and (3) an analysis of what lessons from the
+larger literature on adult education may be applied to correctional education.
+The new 2014 GED exam, which requires implementing computer-based testing, repre-
+sents a profound change for the field of correctional education. The GED certificate continues
+to be an important mechanism by which many inmates earn their high school equivalency and
+is a key outcome indicator tracked by departments of corrections. Yet, because the updated
+Conclusions and recommendations 83
+exam is more rigorous than its predecessor and because of the new requirement of computer-
+based testing, the majority of state correctional education directors expect to see a negative
+impact of the new GED exam on completion rates and on the number of inmates prepared to
+take the new exam.
+These directors also have expressed concern that lower GED completion rates will hurt
+educational and recidivism outcomes more broadly. However, existing research suggests that
+this concern may be overstated because it appears that it is the skills inmates acquire while pre-
+paring for the GED, more than the credential itself, that reduces their postrelease recidivism
+(Tyler and Kling, 2007), and this finding is corroborated by broader evidence that the GED’s
+effect as a signal of worker quality is quite limited (Heckman and Rubenstein, 2001; Tyler,
+Murnane, and Willett, 2000). Consistent with that conclusion, our own meta-analysis also
+found a positive impact of GED preparation, though it was not possible to disentangle prepa-
+ration from completion in some of the less-rigorous studies (Davis et al., 2013). As such, it is
+possible that a more-rigorous GED will actually improve the long-term outcomes of inmates
+who pursue it. What is clear is that well-designed research is needed to estimate and docu-
+ment the impact of the new GED on inmates’ educational skills, attainment, employment, and
+recidivism, as well as the implementation challenges it imposes on the correctional facilities
+themselves. we recommend that the federal government monitor and evaluate the impact
+of the new GeD and computer-based testing on the field and consider opportunities to
+provide technical assistance to states and training to help prepare educators to teach the
+more rigorous GeD exam and to implement computer-based testing.
+The role of computer technology in correctional education is a growing trend, and the
+new computer-based testing requirement for GED exam administration is likely to accelerate
+the adoption of computer technology in correctional settings. Given these changes, it will be
+important to document how correctional settings overcome security and resource challenges
+to computer-based testing and how they maintain their technology infrastructure in resource-
+constrained environments. These lessons are important as computer-enhanced instruction
+becomes increasingly commonplace in the broader secondary and postsecondary educational
+landscape nationally. With the rise of blended learning technologies and massively open online
+courses (MOOCs), the question is not whether computers should play a substantial role in edu-
+cating incarcerated adults, but how best to facilitate their adoption and use. Further, educators
+need assistance in measuring readiness for the GED exam including computer literacy, as well
+as assistance in adopting computer-aided instruction and incorporating online courses into the
+correctional education curriculum. In addition, there is a need for in-depth case studies and
+evaluation of innovative examples of the use of computer technology in the classroom to aid
+in identifying exemplary practices. An analysis of the larger literature on the use of computer
+technology in adult education may be informative here as well. Thus, we recommend further
+evaluation and research on the use of computer technology in the correctional education
+setting to help answer such questions.
+States are increasingly offering nationally and industry-recognized certificates, which is a
+positive trend as corrections focuses increasingly on training programs that will lead to mean-
+ingful credentials and enable individuals to earn a living wage. However, it is not yet clear to
+the degree to which these certificates will enhance the post-employment prospects of those
+leaving prison, given the historically difficult time former inmates have getting hired in jobs
+that provide a living wage—particularly in the sub-baccalaureate labor market. We need to
+assess the effectiveness of these programs, and the credentials they provide, in helping returning
+84 How Effective Is Correctional Education, and Where Do We Go from Here?
+individuals find and sustain employment and to assess the degree to which existing barriers to
+employment persist that may dampen the effects of having these changes in vocational training
+programs. Given the changes in the U.S. economy and the 21st century workforce needs, we
+recommend an assessment at the federal and state levels about what such changes mean
+for the criminal justice–involved population and that a summit at the state and federal
+levels with private industry be supported to explore what opportunities are available to
+formerly incarcerated individuals and what skills will be needed in the future.
+Finally, when we began this study, we conducted a wide search to identify what other
+surveys had been conducted on this topic. We found very little information available, and
+what was available tended to be out-of-date and limited in scope. The nationwide survey we
+conducted of state correctional education directors can serve as a baseline moving forward.
+repeating a nationwide survey of correctional education annually or biennially would
+enable the field and policymakers to assess progress in specific areas and the impact of
+different policies.
+Correctional Education for Juveniles
+For juveniles, a key question is how best to provide services that will lower young offenders’
+risk of future crime and increase their chance of success in the legitimate economy. In educat-
+ing juveniles, correctional facilities must serve a highly transient population of students who
+bring a widely varied set of educational and emotional needs (Sedlak and McPherson, 2010;
+Meisel et al., 1998; Leone, Meisel, and Drakeford, 2002). Further, youth with learning dis-
+abilities tend to be overrepresented in juvenile correctional facilities (Meisel et al., 1998). The
+literature in this area reflects the reality of what correctional education looks like for juveniles
+in the United States.
+We focused our systematic review on education provided to juveniles in institutional set-
+tings. Overall, the 18 studies in our systematic review can be generally characterized as small-
+to-mid-scale randomized trials or as large observational studies with minimum-to-moderate
+use of statistical methods to adjust for unobserved differences. We found that the methods
+employed in the studies on juvenile correctional education varied markedly by intervention
+type. For example, studies of the packaged reading interventions were generally fairly small,
+because these studies involve administering particular curricula at the classroom or student
+level, as well as administering pre- and post-tests to individual students. The designs of these
+studies were fairly robust, but the small sample sizes of the studies and limited power for
+hypothesis testing makes it difficult to generalize broadly from their findings. This suggests
+that the field is ripe for larger-scale randomized trials.
+The field is also ripe for rigorous evaluations of natural experiments such as Aizer and
+Doyle’s (2013) study of the effects of juvenile incarceration using naturally occurring random
+assignment to harsh judges. Studies that take advantage of rigorous causal methods in juvenile
+settings can shed much-needed light on what works in these settings. Several of the smaller
+randomized trials we include here have noted the difficulties of high student turnover in cor-
+rectional facilities, and of simply gaining permission to undertake research in these facili-
+ties (Shippen et al., 2012; Calderone et al., 2009). As such, we recommend that the focus
+be on implementing larger-scale randomized trials and rigorous evaluations of natural
+experiments. Such research efforts will clearly take time to develop and execute. They will
+Conclusions and recommendations 85
+ideally be realized through long-term partnerships between researchers and correctional facili-
+ties. Informed by such partnerships, facilities can make increasingly evidence-based decisions
+that not only improve their students’ prospects but also reduce the social incidence of crime
+and delinquency.
+Taken in conjunction with the broader research literature on each of the interventions
+examined, we did identify two interventions that show particular promise: a blended learning
+reading curriculum by Scholastic called Read 180, which combines teacher-directed instruc-
+tion with computer-enhanced, self-paced instruction, and the Avon Park Youth Academy in
+Florida, which is a highly intensive program that includes personalized academic instruction
+and consistent mentoring during and after incarceration by the same parole officer (who is
+given a markedly reduced caseload). Beyond these stronger studies, we found positive effects
+from very small studies of Corrective Reading and TUNEin to READING, but we think it is
+premature to generalize from such small samples.
+Finally, the benefits of earning a GED while incarcerated, though estimated as positive
+in the systematic review, remain especially unclear, since these studies’ comparisons of stu-
+dents who earned a GED with those who did not are particularly vulnerable to selection bias
+at the student level. Further, as noted above, the most rigorous research from the literature on
+incarcerated adults suggests that it is the education acquired in GED programs rather than
+the GED credential itself that confers the greatest postrelease benefits (Tyler and Kling, 2007;
+Davis et al., 2013).
+Improving the Evidence Base for Adult and Juvenile Correctional Education
+In our meta-analytic report (Davis et al., 2013), we laid out a number of recommendations to
+improve the evidence base and they merit summarizing here. The questions we would like to
+have answered were not feasible because of limitations in the quality of the evidence base and
+the unevenness of the research designs used to assess the evidence and identify promising prac-
+tices. There are four things that we recommend that the federal and state governments
+and philanthropy invest in to help further develop the evidence base for correctional
+education.
+Apply Stronger Research Designs
+Establishing a causal relationship between correctional education participation and success-
+ful outcomes for inmates requires ruling out the possibility of selection bias. This form of bias
+occurs when inmates who elect to participate in educational programs differ in unmeasured
+ways from inmates who elect not to participate in educational programs. Isolating the effects
+that can be directly attributable to a program is crucial in supporting the design of effective
+policies—an objective hampered by studies with research designs that are highly suscepti-
+ble to selection bias. In our meta-analysis, only seven of the 50 studies used to assess recidi-
+vism and one of the 18 studies used to assess employment were based on studies with high-
+quality research designs. Further, many studies did not report sufficient information about the
+socio-demographic characteristics and other characteristics of the treatment and comparison
+groups; reporting on such information would allow researchers to assess meaningful differ-
+ences between the two groups to be evaluated and to quantify the potential threat of selection
+86 How Effective Is Correctional Education, and Where Do We Go from Here?
+bias. To minimize this potential for bias, future studies should ideally use such research designs
+as randomized controlled trials and well-executed quasi-experimental designs.
+In addition, identifying the appropriate comparison groups is important. Many of the
+studies reviewed in our meta-analyses used comparison groups of nonprogram participants but
+did not consider differences in terms of levels of education, certification, or training. Thus, the
+comparison group might be a mixture of inmates with varying levels of academic achievement.
+Gaes (2008) recommended that a study registry be established to help sort out the dif-
+ferent effect sizes found across studies. The vast array of programs currently administered and
+the dearth of basic information on their design and their effectiveness in a centralized system
+preclude the effective utilization of resources, particularly for states making strategic decisions
+on whether and how to recalibrate their programs to adjust to changes in funding and changes
+in the prisoner population. Funding of such a registry by the federal government to be operated
+by a university or research organization would help advance the evidence base by including
+details about each study, including information about the program and intervention, about the
+evaluation design, about characteristics of the treatment and comparison groups, and about the
+outcome measures used. Such a registry could also provide technical assistance and evaluation
+guidance for those working in the field. Throughout the course of the project, we have received
+repeated requests from correctional educators and researchers for this type of information—
+clearly the field sees a real need for such a registry.
+Measure Program Dosage
+Many practitioners have posed the question: What dosage level is associated with effective cor-
+rectional education programs? For instance, does it matter that an individual participates in
+20 hours of academic instruction, or is 30 hours of academic instruction required for a given
+course? Such questions about dosage levels are especially salient now, when many correctional
+education programs have experienced significant budget cuts.
+On average, the studies we reviewed lacked specific information about the dosage of the
+program, such as the overall program duration, the number and grade level of the courses in
+which inmates were enrolled, how many hours per day or week inmates were exposed to formal
+class instruction, and how many hours per day or week inmates worked on assignments out-
+side the classroom. In many of the studies, particularly those that were secondary analyses of
+administrative data sets, respondents were categorized simply as correctional education partici-
+pants and nonparticipants. This crude categorization undoubtedly masked variation in expo-
+sure to the program among participants. For example, some inmates may have been enrolled
+for a year, while other inmates may have been enrolled for a week and withdrawn.
+Without being able to discern such differences, it is difficult to put the findings from indi-
+vidual studies in their proper contexts. The lack of dosage information means that there is little
+to no empirical evidence that can help inform policymakers on “how much” correctional edu-
+cation is necessary to produce a change in the desired outcomes. In future studies, the proper
+recording of program dosage when collecting data and monitoring the progress of inmates
+through correctional programs will be critical to enable researchers to examine these questions.
+Identify Program Characteristics
+When we undertook our review of the literature on academic and vocational training programs
+for incarcerated adults, our charge from BJA was to identify promising or evidence-based pro-
+grams that could be potentially replicated in other settings. We were unable to identify specific
+Conclusions and recommendations 87
+exemplary programs—not because such programs do not exist, but because the evidence base
+does not provide sufficient detailed information about such programs to allow us to do so.
+Many of the studies in the literature review did not provide sufficient detail on the characteris-
+tics of the program, such as the structure of the curriculum, the training and certifications of
+the teachers, the instructional methods used by the teachers, the student-teacher ratio in class-
+rooms, and supplemental access to textbooks and technology. To the extent possible, we culled
+this information from the studies that provided it and used it in an exploratory fashion in our
+meta-analyses. However, few studies consistently listed these details in their program descrip-
+tions; consequently, our findings from these few studies are suggestive at best. Thus, from a
+meta-analytic approach, we are unable to offer evidence-based prescriptions about what aspects
+of correctional education are most or least effective. The field would be well served if future
+research carefully documented the characteristics of the programs so that different models of
+program organization and instruction could be empirically validated.
+Examine More-Proximal Indicators of Program Efficacy
+More research is needed on more-proximal measures that would better indicate how programs
+actually affect thinking and behavior, such as changes in motivation, literacy gains, develop-
+ment of concrete skills, or academic progress versus academic achievement. Overwhelmingly,
+the research conducted to date has looked at recidivism as the major outcome indicator, which
+is understandable given its importance as a marker of successful prisoner rehabilitation. How-
+ever, despite its salience in criminological research, the emphasis on recidivism has meant that
+we know much less about the process through which correctional education helps shape how
+former inmates re-integrate into the community. Correctional education is believed to improve
+the skills and abilities of inmates (i.e., “human capital” in economics parlance), which, in turn,
+improves their chances of continuing education/training upon release and then finding gain-
+ful employment. Only four studies in our review looked at skills and abilities (as measured
+by achievement test scores), and only 18 looked at employment. There were too few studies
+of additional education/training to include in a meta-analysis. Applying these more-proximal
+indicators of program efficacy will help to better elucidate the mechanisms that undergird the
+role of education in the rehabilitation process.
+In summary, to improve the evidence base, state and federal policymakers and
+foundations should invest in well-designed evaluations of correctional education pro-
+grams. Also, researchers and program evaluators need to strive to implement rigorous research
+designs to examine questions related to potential bias and program dosage. Funding grants
+and guidelines can help further the field by requiring the use of more-rigorous research
+designs. Funding mechanisms should also support partnerships between correctional educa-
+tors and researchers and evaluators to undertake rigorous and comprehensive evaluations of
+their programs. A study registry of correctional education evaluations would further aid
+in developing the evidence base in this field to help inform policy and programmatic deci-
+sionmaking. Given that we know that these programs are cost-effective, if these programs were
+refined based on this important missing information, correctional education could yield even
+greater returns on investment.
+88 How Effective Is Correctional Education, and Where Do We Go from Here?
+Implications of Broader Trends in Corrections for Correctional Education
+Several trends occurring in the field of adult and juvenile corrections have important implica-
+tions that merit further consideration. First, a key trend in corrections is efforts by states to
+reduce the size of their state prison population, through a variety of means. This includes such
+“front-end” strategies as reducing prison admissions, diverting offenders to county- rather than
+state-level institutions, or changing felonies to misdemeanors. This approach is being tried in
+many states, particularly with respect to drug offenders. Delaware, for example, repealed man-
+datory minimums for certain drug offenses in 2007. Colorado modified penalties for certain
+drug possession offenses in 2010. New York’s Rockefeller Drug Laws were changed to elimi-
+nate mandatory minimums for certain first- and second-offense offenders (Division of Crimi-
+nal Justice Services, 2010). And Indiana proposed a sentencing reform plan to give judges more
+leeway to sentence lesser felons to community corrections or treatment programs (Associated
+Press, 2010).
+In addition, states have implemented strategies focused on the “back end” of the system,
+such as reducing sentence lengths through earned credits or good time and revocations for
+probationers and parolees. For example, in April 2011, California Assembly Bill 109 shifted
+prisoner and parolee responsibility to the counties to close the revolving door for low-level
+offenders because of high parolee revocation rates. California’s Public Safety Realignment
+Plan, which went into effect October 1, 2011, fundamentally changed the state’s criminal jus-
+tice system. Under Realignment, nonserious, nonviolent, and nonsex offenders no longer serve
+time in state prison, nor are they supervised by state parole when released (California Rehabili-
+tation Oversight Board, 2011). Instead, local counties are now responsible for managing, hous-
+ing, supervising, and rehabilitating these low-level offenders. Many states also are reducing
+prison populations though accelerated release mechanisms. Media reports contained in Crime
+and Justice News reports compiled by Ted Gest revealed that more than 30 states either are in
+the planning stages or have implemented policies for early release, some targeting large seg-
+ments of the prison population, and others more narrow segments, such as the terminally ill.
+All these changes in the correctional landscape have implications for how we think about how
+to provide academic and vocational education/CTE to incarcerated adults. For example, the
+movement in some states to have low-level offenders serve their time in county jails versus state
+prisons has implications for how we think about providing academic and vocational training to
+incarcerated adults at the local level. It raises policy questions: Are there differences in access to
+academic and vocational education/CTE programs depending on the setting where one serves
+one’s sentence? Are there differences in education and employment outcomes as a result?
+Second, in the area of juvenile corrections, a related long-term trend has been to keep
+youth in the community if at all possible instead of placing them in correctional institutions,
+and, when they are incarcerated, to house them in local versus state facilities. A sharp decline
+in the juvenile incarceration levels in the United States may partially reflect this trend. For
+example, the number of juveniles detained, diverted, or committed on any given day in the
+United States declined from 105,000 to 61,000 between 1997 and 2011. This suggests that
+the current emphasis is on community-based educational services for juveniles who become
+involved in the criminal justice system, such as placement in nonresidential alternative schools.
+Given evidence that incarceration itself reduces juvenile offenders’ educational attainment and
+increases their recidivism relative to less-restrictive sentences (Aizer and Doyle, 2013), this is a
+promising development.
+Conclusions and recommendations 89
+In addition, an important federal initiative to address the school-to-prison pipeline and
+reduce at the front-end the chances of youth becoming involved with the justice system was
+launched in 2011. The U.S. Departments of Justice and Education announced the joint Sup-
+portive School Discipline Initiative (SSDI) aimed at addressing the disciplinary policies and
+practices that can push students out of school and into the justice system. As part of the SSDI,
+the U.S. Departments of Justice and Education recently released a school discipline guidance
+package to assist states, districts, and schools in developing practices and strategies to enhance
+school climate, and ensure that those policies and practices comply with federal law (U.S.
+Department of Education, 2014).
+Our systematic review focused on what works with incarcerated youth in part because
+the broader literature on educational interventions for juvenile offenders outside of correc-
+tional facilities is even more nebulous. An important direction for future research is to iden-
+tify interventions that improve juveniles’ educational, employment, and recidivism outcomes
+in less-restrictive settings, such as alternative schools or traditional schools. To facilitate such
+studies on a large scale, it would of course be useful for longitudinal educational data systems
+to include indicators of students’ involvement in the criminal justice systems. However, we
+recognize that the inclusion of such indicators may raise both logistical and privacy concerns.
+Therefore, any such indicators would likely need to be accompanied by rules governing their
+use (e.g., only for program evaluation in de-identified datasets). Without such indicators, it is
+difficult to identify juvenile offenders in larger educational data systems and thus to conduct
+large-scale analyses of what works for those populations outside of correctional facilities.
+The growing policy emphasis on community-based schooling for juvenile offenders also
+has implications for students’ transitions between correctional and noncorrectional settings. In
+our discussions with juvenile correctional education directors, they identified these transitions
+as important challenges in terms of transferring academic records and maintaining curricular
+consistency. The extent to which these challenges are mitigated by placing offenders in nonresi-
+dential alternative schools instead of correctional facilities is unclear, as are other best practices
+for facilitating smooth transitions.
+To guide policy improvements, stronger federal reporting requirements about local cor-
+rectional education practices could help facilitate improved state and local comparisons of
+program effects. We currently know less at the federal level about education programs for
+juvenile offenders than about education for the larger K–12 population. Although some cor-
+rectional education programs are included in the U.S. Department of Education’s Common
+Core of Data, inclusion is variable, and these programs are often difficult to isolate in fed-
+eral data. Moreover, such data provide little information about local policies on incarceration
+versus alternative placements and on standard sentence lengths, staffing policies, technology
+infrastructure, and instructional programs offered. A central repository of such information,
+whether collected federally or privately, would provide a valuable tool to policymakers and
+researchers alike.
+we recommend that policymakers seek to assess and understand the implications
+of these trends in the field of corrections with respect to their impact on correctional
+education.
+90 How Effective Is Correctional Education, and Where Do We Go from Here?
+Concluding Thoughts
+There are more than 2 million incarcerated adults in the United States—more than any indus-
+trialized nation. This study has demonstrated that education programs can help adults get back
+on their feet upon release from prison and may help youth involved with the juvenile justice
+system to improve their education and employment prospects. Moreover, our meta-analysis of
+the literature on incarcerated adults suggests that correctional education programs are highly
+cost-effective in helping to reduce recidivism and improve postrelease employment outcomes.
+States will continue to operate in a reduced funding environment for at least the near future.
+The findings and recommendations we have laid out here are intended to ensure that, moving
+forward, we understand how best to deliver education and vocational training to assist in
+achieving positive reentry outcomes.
+appEnDIx a
+Summary of Studies for the Juvenile Correctional Education
+Review
+In this appendix, we provide a detailed summary of the studies, sample sizes, and effect sizes
+reported in the systematic review in Chapter Three. In addition, each study was rated for rigor
+on the Maryland Scientific Methods Scale. Eighteen of the 27 studies that underwent scientific
+review were deemed eligible for formal inclusion in the analysis. Shaded rows indicate studies
+that were ineligible for systematic review (n = 9) due to design but that inform the research
+context.
+91
+92
+How
+Effective
+Is
+Correctional
+Education,
+and
+Where
+Do
+We
+Go
+from
+Here?
+Table A.1
+Summary of Studies, Samples, and Effects in the Systematic Review
+(Shaded rows indicate studies that were ineligible for systematic review due to design but that inform the research context.)
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+Corrective Reading
+allen-DeBoer, Corrective traditional Mental age: 16–18; 4 0 30 min. a Words read Mean gain: 35.8 5*
+Malmgren, reading language health 100% male; day, 5 days Correctly per WpM; no evidence
+and Glass, arts treatment 75% african a week, for Minute (WpM) of WE effect
+2006 instruction unit within american; 9 weeks (30 and Word Errors
+a juvenile 25% white; lessons on per minute (WE)
+correctional 100% with learning average)
+facility disabilities;
+baseline grade
+equivalent: 4th–5th
+grade
+Drakeford, Corrective traditional Oak Hill age: 12–21 6 0 1 hour, 3 times Words read Mean gain: 9.2 5*
+2002 reading language academy in (mean: 17); a week, for Correctly per WpM
+arts Maryland 100% male; 8 weeks (20 Minute (WpM)
+instruction 100% african lessons on
+american; average)
+100% with history
+of educational
+disabilities
+Houchins Corrective Corrective Long-term age: 13–17 10 10 1 hour, 3 times Woodcock relative gains: 5
+et al., 2008 reading: reading: juvenile (mean: 16.5); a week, for reading Mastery WI: 0.60 SD
+4:1 student: 12:1 student: correction 100% male; 7 weeks (21 test, revised (reported p<.01,
+teacher ratio teacher ratio facility in a 64% african sessions) (WrMt-r): Word but p=.058
+Mid-atlantic american; Identification (WI) if adjusted
+State 18% Hispanic; and Word attack for multiple
+18% white; (Wa); Gray Silent comparisons)
+21% with learning reading test Wa: 0.50 SD
+disabilities or (GrSt); GSrt: 0.72 SD
+mental retardation; Dynamic DOrF3: 0.07 SD
+58% with Indicators of DOrF4:
+emotional or Basic Early –0.21 SD
+behavioral Literacy Skills DOrF5:
+disabilities Oral reading –0.46 SD
+Fluency (DOrF) (none with a
+p < 0.05; mean:
+0.205 SD, p = 0.65)
+Summary
+of
+Studies
+for
+the
+Juvenile
+Correctional
+Education
+review
+93
+Table A.1—continued
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+Scarlato Corrective reading residential age: 16–17; 45 min., Woodcock relative gains: 3
+and reading for Specialist for juvenile 100% male; 4 times a week reading Mastery WI: 0.84 SD
+asahara, (180 min. 60 min. twice treatment 100% with for 19 weeks test-revised Wa: 0.30 SD
+2004 per week) a week, plus facility learning disabilities (WrMt-r): Word WC: 0.32 SD
+225 minutes or emotional Identification pC: 0.89 SD
+of additional disturbance; 5 4 (WI), Word attack tr: 0.95 SD (none
+reading 100% read (Wa), Word significant)
+instruction significantly below Comprehend (mean: 0.66 SD,
+(345 minutes grade level (WC) and passage p = 0.36)
+weekly) Comprehend (pC);
+total reading (tr)
+Coulter, One-to-one none State juvenile Mean=15.5; 5 days a week Gray Oral passage: 9 1
+2004 tutoring detention 83% male; for 9 weeks reading test, 3rd months of gain
+using direct facility in 33% african (mean=21 Edition (passage for 1 month
+Instruction Southern american; sessions, [combines rate of teaching;
+and Corrective Colorado 33% Hispanic; range = 5–48 and accuracy] and Comprehension:
+reading 33% white; sessions; Comprehension) 9 month gain
+83% with session length also, words read for 1 month of
+12 0
+disabilities; not given) correctly per teaching;
+42% with minute (WpM) 3.57 correct WpM
+emotional per week gain,
+disturbance; versus a 1 WpM
+8% with mental expected gain
+retardation;
+IQ range: 55–89
+Malmgren Corrective none Urban age: 13.8–18.8 2 hrs 50 min. Gray Oral passage: 0.35 SD 1
+and Leone, reading juvenile (mean=17.1); per day, reading test, 3rd (p = 0.02)
+2000 plus Whole detention 100% Male; 5 days a week, Edition (passage Comprehension:
+Language facility on the 100% african for 6 weeks [combines rate 0.34 SD (p = 0.13)
+Instruction East Coast american; and accuracy] and
+44% in special Comprehension)
+45 0
+education;
+22% with
+emotional
+disturbance;
+7% with mental
+retardation
+94
+How
+Effective
+Is
+Correctional
+Education,
+and
+Where
+Do
+We
+Go
+from
+Here?
+Table A.1—continued
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+Computer-Assisted Instruction
+Loadman read 180 Default Eight Ohio age: 14–22, most in 677 568 90 min., Scholastic relative gain: 0.21 5
+et al., 2011 (Scholastic) English Department grades 9–10; 5 days reading SD (p < 0.001)
+language of Youth 96% male; a week, Inventory (SrI) [4 for Cat
+arts Services 69% african for 20 weeks score at end of analysis]
+instruction facilities american; 24% intervention
+White;
+2% Hispanic; California relative gain:
+5% Other; achievement test 0.26 SD (p = 0.011)
+48% with (Cat) in reading [Cat analysis is
+disabilities; 1 year after based on only 133
+100% below baseline testing treatment and
+proficient but at 110 comparison
+least basic readers students]
+at baseline
+Shippen Fast ForWord Default, Long-term age: 11–20 27 24 45 min., test of Written relative gains: 5
+et al., 2012 software- individual- maximum (mean=16.3); 5 days a week, Spelling-4 (tWS- tWS-4:
+based ized security 100% male; for 11 weeks 4); test of Word 0.226 SD
+beginning academic juvenile 53% african (average = reading tOWrE:
+reading and facility in american; 24 days) Efficiency –0.142 SD
+program vocational alabama 45% white; (tOWrE); WrMt-r/nU:
+(Scientific training 2% other; Woodcock –0.201 SD
+Learning) Mean IQ: 78; reading Mastery
+18% with mild test-revised/ (reading domain
+intellectual or normative mean:
+learning disabilities Update –0.172 SD)
+(WrMt-r/nU)
+(p > 0.05 in all
+cases)
+Calderone tUnEin to Default Six residential ages not given; 64 39 45 min., tir computer- relative gain: 5
+et al., 2009 rEaDInG instructional sites for grades 7–11; twice a week, adaptive 0.21 SD
+(tir), a program juveniles in 100% male; for 9 weeks cloze reading (p > 0.05)
+program to (namely, the Florida 52% african assessment
+teach reading FCat correctional american;
+through Explorer, system 13% Hispanic;
+singing an online, 31% white;
+(Electronic standards- 44% with
+Learning based disabilities
+products) program)
+Summary
+of
+Studies
+for
+the
+Juvenile
+Correctional
+Education
+review
+95
+Table A.1—continued
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+Scientific Fast ForWord n/a two facilities ages not given 29 na 48 min. or Woodcock Mean gain: 1
+Learning software- in the more, 5 days a Johnson tests 1.6 grade levels in
+Corporation, based Virginia Mean grade level: week, for of achievement, WJ test group
+2004 beginning Department 8.9 10 months 3rd Edition (n = 18, p < 0.05)
+reading of Juvenile (WJ test group)
+program Justice Mean baseline or 4 months Star reading Mean gain: 1.3
+(Scientific reading grade level: (Star test assessment grade levels in
+Learning 6.6 group) Star test group
+Corporation) (n = 11, p < 0.05)
+Personalized and Intensive Instruction
+national avon park Default Florida age: 16–18; 369 345 14.2 month High school, 27.1 percentage Employment Employment: 5
+Council on Youth juvenile Department 41% african average stay GED, or special points (p < 0.01) 1 year 8 percentage
+Crime and academy: correctional of Juvenile american; in facility diploma t: 49.1% postrelease points (p = 0.02)
+Delinquency, Intensive, programs Justice 14% Hispanic; (versus 11.2 completion at C: 22.0% t: 72.4%
+2009 personalized, within the facilities 44% white; months for time of release C: 64.4%,
+vocational state 38% with special comparison
+and academic needs; group) rearrest rearrest: 1.0
+training with 65% with below within 1 year percentage
+aftercare 6th grade reading after release points (p > 0.2)
+level and 100% t: 57.2%
+with below 6th C: 56.2%
+grade math level at
+baseline
+Skonovd, Intensive, Default San age: 16–17; 25 20 6 months in rearrest or –29 percentage 2
+Krause, competency- programs Bernardino wards from which juvenile probation points (p < 0.05)
+and troy, based for juveniles County sample was drawn facility and violation within t: 16%;
+1991 education in the same probation were 21% african 4–6 months in 6 months after C: 45%
+with county Department american; after care release
+vocational Juvenile Hall 29% Hispanic;
+training and 50% white
+aftercare
+Mayer and Individualized Group Four youth ages not given; 68 75 10 months California relative gain: 3
+Hoffman, academic (classroom- offender 100% male: (frequency achievement 2 months of
+1982 instruction level) facilities in 52% african not given) test, version 3, learning (no
+instruction Florida american: total Battery hypothesis test
+48% white (math, reading, available)
+language)
+96
+How
+Effective
+Is
+Correctional
+Education,
+and
+Where
+Do
+We
+Go
+from
+Here?
+Table A.1—continued
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+Kane and peer- teacher- Minimum- age: 12–17; 21 17 8 weeks Science research relative gain: 3
+alley, 1980 managed managed security 100% identified as (38 45-minute associates (Sra) –0.045 SD
+instruction instruction juvenile learning disabled; class periods) assessment (p > 0.05)
+using an with correctional mean pretest math Survey
+individualized individual- institution in grade level: 6.0 Multilevel
+curriculum; ized Minnesota Edition in
+tutor-student curriculum; mathematics
+ratio of 1:1 teacher
+to 1:2 student ratio
+of 1:3 to 1:7
+Muse, 1998 Individualized, Default north age: 12–17; 66 4** 9-month GED completion 59.1 percentage 1
+competency- instruction in Carolina no additional (students (school- school year rate over 3 years points (no
+based other schools juvenile demographic in 1 level implied hypothesis test)
+academic in the same correctional information school) averages) t: 67.1%
+instruction system facilities provided C: 8.0%
+Hill, Minifie, Diagnostic na South ages not given; 31 na 1 hour twice analytical 3 months KeyMath Statistically 1
+and Minifie, evaluation Carolina 100% identified a week for reading improvement Diagnostic significant
+1984 and tutoring Department as handicapped; 9 weeks Inventory (arI) (p < 0.05) assessment gain (p > 0.05);
+in reading and of Youth all were 5–8 years (18 sessions), silent reading magnitude
+math Services below grade level in addition comprehension unspecified
+correctional in reading and to regular
+facilities mathematics classroom arI oral reading 1 month
+instruction accuracy improvement
+(p > 0.05)
+Other Remedial Instruction
+Simpson, Orton/ Default two juvenile age: 13–18; 32 31 actual mean Years of growth relative gain: rearrest –22 percentage
+Swanson, and Gillingham language youth 100% male; dosage: 51.9 on the Woodcock 0.86 years within a year points
+Kunkel, 1992 structured arts detention baseline reading instructional test of reading (p = 0.007) following (p = 0.015)
+remedial instruction facilities grade level: 4.4; hours in Mastery release t: 41%
+reading for 45 min. (location not treatment treatment C: 63%
+instruction a day in given) students were group versus also, years of 0.38 years of
+for 90 min. classes of test-verified as 46.0 in control growth for growth per
+a day in about 12 learning disabled; group every 10 hours 10 hours of
+groups comparison group of instruction instruction (no
+of 1–6 students were hypothesis test
+teacher-identified available)
+as similarly disabled
+Summary
+of
+Studies
+for
+the
+Juvenile
+Correctional
+Education
+review
+97
+Table A.1—continued
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+archwamety remedial non- nebraska age: 12–18; 339 166 not specified recidivism +9.4 percentage 2
+and education remedial Youth mean IQ: 94.3; (definition points (p < 0.05)
+Katsiyannis, in math or education rehabili- treatment students unspecified) t: 23.3%
+2000 reading tation and were at least one within 1–7 years C: 13.9%
+treatment grade level behind after release
+Center in remedial subject
+Murph and Instruction in Students’ training age: 16 to 18; 5 na 9–24 road signs Mean gain: 1*
+McCormick, reading road previous Institute of 100% male; 15-min. recognized out of 8.1 signs
+1985 signs instructional Central Ohio, IQs: 70–79; instructional 9 (pre vs. during-
+experiences a juvenile mean baseline sessions per and- post)
+correctional reading grade level: student
+facility 2.5
+Heward, Visual Students’ Correctional age: 15 to 18; 7 na 11 45-min. Items answered Mean gain: 17.8 1*
+McCormick, response previous facility for 100% male; sessions correctly on a items
+and Joynes, System instructional juvenile 100% classified as 35-item Master
+1980 training in experiences offenders “educable mentally Employment
+completing a (location not retarded”; application
+job application given) mean baseline (pretest versus
+reading grade level: probes and
+4.6 follow-up)
+platt and Learning Students’ adult and 100% under 5 selected na not reported Words read Mean gain: 11.9 1*
+Beech, 1994 strategies previous juvenile age 21; students correctly (pre vs. percentage points
+instruction instructional detention no additional taught during and post)
+in decoding, experiences centers in demographic by 27 Mean gain: 19.3
+paraphrasing, in reading Florida information teachers passage percentage points
+taking tests, provided trained comprehension
+and setting in the (pre vs. during [note: the 5
+goals method and post) students for
+whom data are
+given are only a
+small subset of
+students exposed
+to treatment.]
+Sinatra, 1984 assignment Students’ Short-term Mean age: 15.3; 20 na Weekly Writing Mean gain: 16.3 1
+of visual, previous adolescent 20% male; practice proficiency score percentage points
+imagery, instructional treatment baseline reading over several (assessed by three
+and report experiences center for grade level: 5–6 months raters) averaged
+writing tasks in writing incarcerated across three tasks,
+youth as compared with
+a pretest
+98
+How
+Effective
+Is
+Correctional
+Education,
+and
+Where
+Do
+We
+Go
+from
+Here?
+Table A.1—continued
+Outcome 1 Outcome 2 Outcome 2
+Treatment Comparison n n Duration and Outcome 1 Effect Size (and 3) (and 3) Effect Maryland
+Citation Condition Condition Setting Demographics Treat Compare Frequency Metric Estimate Metrics Size Estimate Scale
+Vocational Education/CTE
+roos, 2006 re- no texas Youth age: 18–21; 582 920 30 days of Employment 1 Odds ratio: rearrest Odds ratio: 0.97 3
+Integration participation Commission 34% african instruction year after release 1.39 (p < 0.01) within 1 year (p = 0.8)
+of Offenders–in a career facilities american; (versus no after release
+Youth development 38% Hispanic; comparable
+(rIO-Y) course 28% white instructional
+career hours in
+development comparison
+course group)
+Wilson, Vocational participation Colorado age: 11–18; 260 143 not reported reincarceration –17.1 percentage 2
+1994 education in non- Division 100% male; within 5 years points (p < 0.05)
+elective vocational of Youth 16% black; after treatment t: 61.2%
+participation education Services 34% Hispanic; C: 78.3%
+in facility facilities 48% white;
+(auto, 2% other
+business,
+construction,
+food, special
+cooperative
+services)
+DelliCarpini, Vocational participation Eastern age: 16–21; 465 581 8 week GED pass rate 7.6 percentage 2
+2010 education in default Suffolk no additional module (daily points (p < 0.001)
+program educational BOCES demographic instruction t: 13.1%
+availability program program for information implied) C: 5.5%
+(business, Incarcerated provided
+drafting, and Youth in nY
+carpentry) State
+GED Completion
+Jeffords and GED no GED texas Youth age: 16–21; 475 1,242 not reported reincarceration –5.8 percentage 3
+Mcnitt, 1993 completion completion Commission no additional within 1 year points (p < 00.1)
+in facility in facility or Gulf Coast demographic after release
+trades Center information
+correctional provided
+programs
+Katsiyannis GED no GED a youth age: 12–18; 284 265 at least 4 reincarceration –12.5 percentage 2
+and completion completion rehabilita- 100% Male months spent within 3 years points (p < 0.01)
+archwamety, in facility in facility tion and in facility after release t: 47.5%
+1999 treatment C: 60.0%
+facility in
+nebraska
+* rating is based on U.S. Department of Education’s What Works Clearinghouse single-case design standards (Kratochwill et al., 2010)
+**Unit of comparison is school, not students.
+appEnDIx B
+RAND Correctional Education Survey Questionnaire
+STATE CORRECTIONAL EDUCATION DIRECTOR DATA COLLECTION
+FORM
+Thank you for participating in this State Correctional Education Director data collection
+form being conducted by the RAND Corporation. The questions in this form focus on
+academic education and vocational or career/technical education (CTE) provided in state
+prison or correctional facilities for incarcerated adults.
+Our goal is to understand how correctional education is currently provided and to
+whom, the effects of recent fiscal cuts on correctional education, the use of technology,
+preparations for the 2014 GED Exam, and how correctional education is organized and
+funded within your state. Your organization’s responses and your identity will be kept
+confidential. This study is funded by the Bureau of Justice Assistance (BJA), Office of Justice
+Programs, U.S. Department of Justice. We kindly request that you complete this survey by
+August 30, 2013.
+If you have any questions about the survey, please contact Lois Davis, RAND Project at
+email: Lmdavis@rand.org, tel. 310.393.0411, ext. 7330. If you have any questions about
+the project in general, please contact Dr. Gary Dennis, BJA Project Officer and Senior
+Policy Advisor for Corrections, email: Gary.Dennis@usdoj.gov.
+Please mail the completed survey to Lois Davis, Ph.D., RAND, 1776 Main Street, Santa
+Monica, CA 90407-2138. Or email the survey to her at Lmdavis@rand.org.
+CONTACT INFORMATION
+Name of Person Completing this Form: ___________________________________________
+Title:____________________________________________________ _____________________
+Department/Organization: ______________________________________________ _______
+Telephone: ( )________________________________________________________________
+Email address: ________________________________________________________________
+99
+100 How Effective Is Correctional Education, and Where Do We Go from Here?
+State: ___________________________________________________________________
+A. In your current position, which of the following activities do you oversee or have
+responsibility for:
+___Academic education programs only
+___Vocational education or career/technical education only
+___Both academic programs and vocational education/CTE programs
+I. OVERVIEW OF YOUR STATE’S CORRECTIONAL EDUCATION
+PROGRAMS
+1. What types of educational programs are currently available to adult prisoners within
+your state? (Please make sure to also include those programs that are available in your
+state, but not under your supervision.) (Mark all that apply)
+_____Literacy training/Adult basic education (ABE) (i.e., basic skills instruction in
+arithmetic, reading, and writing)
+_____Adult secondary education (ASE) (i.e., preparation to complete a high school
+diploma program)
+_____ General Education Development (GED) test preparation
+_____Adult post-secondary education (PSE)/college courses
+_____Vocational skills training/Career Technical Education (CTE)
+_____English as a Second Language (ESL) courses
+_____Special education (e.g., for offenders with learning disabilities)
+_____Other, please specify: _____________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+ranD Correctional Education Survey Questionnaire 101
+2. Is participation in correctional education programs mandated by your state (either by
+legislative statute or policy)? (Mark all that apply)
+____Yes, participation in correctional education programs is mandated by the state for:
+¨
+All adult inmates
+¨
+Adult inmates without a high school diploma or GED
+¨ Adult inmates below a 6th or 8th grade education level
+¨
+Other (please specify): _________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+____No, participation in correctional education programs is voluntary
+3. Are work assignments currently considered to be part of correctional education within
+your state’s prison system?
+____Yes
+____No
+____Don’t know
+4. Please indicate which of the following funding sources are used to pay adult inmates’
+post-secondary education or college courses in your state (Mark all that apply):
+_____Inmate benefits or welfare funds
+_____State funding (e.g., department of corrections budget allocation)
+____College or university funding
+_____Private funding (e.g., foundations, religious/community group, individual donation)
+_____Personal or family finances
+_____Not Applicable, our state does not offer post-secondary/college courses to adult
+inmates
+102 How Effective Is Correctional Education, and Where Do We Go from Here?
+We now want to ask you a couple of questions about correctional
+education within your state’s correctional facilities.
+By adult state correctional facility we mean prison facilities that hold sentenced adult
+offenders in state custody. It excludes residential treatment or community programs.
+5. What was the total number of adult state correctional facilities offering correctional
+education programs in:
+Fiscal Year 2009 Fiscal Year 2012
+Total Number of Facilities Offering:
+Academic Programs* _______________ _______________
+Vocational education/CTE programs _______________ _______________
+[*Includes adult basic education (ABE), adult secondary education (ASE), GED
+preparation, adult post-secondary education (PSE), and English as a Second Language
+(ESL) programs]
+II. CORRECTIONAL EDUCATION CAPACITY
+6. Please indicate the time period that your state’s fiscal year covers (e.g., January through
+December, July through June, or October through September):
+From: ________ (month) To: ________ (month)
+Now we are going to ask you to consider the total number of students
+in correctional education programs and the number of teachers and
+instructors.
+7. What was the total number of adult students enrolled in your state’s correctional
+education programs in Fiscal Year 2009 and Fiscal Year 2012
+Types of Educational Service Fiscal Year 2009 Fiscal Year 2012
+(Number of Adult (Number of Adult
+Students) Students)
+Adult Basic Education (ABE)
+Adult Secondary Education
+(ASE)
+GED (General Education
+Development) Test
+preparation
+Vocational skills training/
+career technical education
+(CTE)
+Post-secondary education/
+college courses
+ranD Correctional Education Survey Questionnaire 103
+8. Does your state screen adult inmates for special education needs?
+____Yes
+____No (please skip to Q5)
+8a. If yes, in Fiscal Year 2012 how many adult students were on a formal Individualized
+Education Program (IEP) plan within your correctional education system?
+Number of IEP students: _____________
+9. What was the total number of academic teachers/instructors and vocational
+education/CTE instructors in Fiscal Years 2009 and 2012?
+Fiscal Year 2009 Fiscal Year 2012
+(Number) (number)
+Academic Programs
+• Number of teachers that are state
+employees (include full-time and part-time
+employees in your response)
+• Number of contract instructors
+Vocational Education/CTE Programs
+• Number of vocational instructors that
+are state employees (include full-time and
+part-time employees in your response)
+• Number of contract instructors
+THE NEXT SET OF QUESTIONS ASK ABOUT WHAT IMPACT, IF ANY, OF
+BUDGET CUTS OR OTHER FISCAL PRESSURES MAY HAVE HAD ON YOUR
+STATE’S CORRECTIONAL EDUCATION PROGRAMS.
+10. Between Fiscal Years 2009–2012, did your state’s correctional education programs
+(academic and/or vocational education/CTE) experience a decrease in funding as a
+result of budget cuts or other fiscal pressures?
+_____Yes
+_____No (Skip to 17)
+104 How Effective Is Correctional Education, and Where Do We Go from Here?
+11. What changes, if any, were made to staffing levels and capacity in response to
+budget cuts or other fiscal pressures during Fiscal Years 2009–2012?
+Changes Implemented to Staffing Levels and Mark all that Apply
+Capacity
+Hiring freeze(s) of teachers/instructors were
+implemented
+Staff furloughs of teachers/instructors were
+made
+Did not fill vacant teaching/instructor
+positions
+Delayed and/or cancelled pay increases for
+teachers/instructors
+Reduced salaries and/or benefits for teachers/
+instructors
+Reduced the number of teachers/instructors
+for:
+• Academic programs
+• Vocational education/career technical
+education (CTE) programs
+Reduced or eliminated contracts with
+community or technical colleges
+Reduced the number of course offerings for:
+• Academic programs
+• Vocational education/career technical
+education (CTE) programs
+Other (please specify):
+None
+12. Did your state increase the number of contract teachers/instructors for the following
+programs during Fiscal Years 2009–2012?
+_____Yes, for academic programs
+_____Yes, for vocational education/career technical education (CTE) programs
+_____No
+ranD Correctional Education Survey Questionnaire 105
+13. Did your state increase its use of inmates as staff in the classroom during Fiscal Years
+2009–2012? If so, briefly describe:
+_____Yes, we did increase the use of inmates as staff in the classroom due to budget cuts
+or other fiscal pressures
+_____Yes, but the increased use of inmates as staff in the classroom was not in direct
+response to budget cuts or other fiscal pressures
+_____No
+13a. If yes, in what ways were inmates used:
+_____ As peer tutors to assist students with coursework
+_____ As a clerk assisting with administrative tasks
+_____ To help oversee a computer lab
+_____ To assist with vocational education/CTE programs
+_____ Other (please specify): ___________________________________________________
+14. As a result of budget cuts or other fiscal pressures, did your state change its policies
+regarding mandatory participation in correctional education programs during Fiscal Years
+2009–2012?
+_____Yes, for certain academic programs participation was changed to voluntary
+(Briefly describe): _____________________________________________________________
+_____Yes, for certain inmates participation in academic programs was changed to
+voluntary (Briefly describe): _____________________________________________________
+_____No changes were made to our state’s policies regarding mandatory participation in
+correctional education programs
+15. Do you anticipate any additional budget cuts to your state’s correctional education
+programs in the upcoming fiscal year (Fiscal Year 2013)?
+_____Yes
+_____No
+_____Don’t Know
+106 How Effective Is Correctional Education, and Where Do We Go from Here?
+We now want to ask you about the last two fiscal years (Fiscal Years
+2011–2012).
+16. During the past two fiscal years (2011–2012), has your state’s correctional education
+programs (academic and vocational education/CTE) experienced an increase in funding?
+_____Yes
+_____No
+16a. If yes, how has the increase in funding been used by your correctional education
+system? (Mark all that apply)
+_____ Increased the number of teachers/instructors for:
+• Academic programs
+• Vocational education/career technical education (CTE) programs
+_____ Increased the number of contractor teachers/instructors for:
+• Academic programs
+• Vocational education/career technical education (CTE) programs
+_____ Increased the number of vocational programs offered
+_____ Increased the capacity of:
+• Academic programs
+• Vocational education/career technical education (CTE) programs
+_____Reinstated the number of post-secondary or college courses offered
+_____Expanded the number of post-secondary or college courses offered
+_____ Increased classroom space for:
+• academic programs
+• vocational education/career technical education (CTE) programs
+_____ Increased the number of computer labs
+_____ Purchased computer equipment
+_____ Other (please specify): __________________________________________________
+ranD Correctional Education Survey Questionnaire 107
+USE OF TECHNOLOGY
+We now want to ask you about the use of technology in your state’s
+correctional education system. These questions pertain to both academic
+and vocational education/CTE programs.
+17. How many correctional facilities within your state have a computer lab?
+Number of facilities with a computer lab(s): _________________________________
+18. What types of technology hardware and networks does your state correctional
+education system use? (Mark all that apply)
+_____Local area network(s) (LAN)
+_____Statewide or wide area network(s) (WAN)
+_____Local area network(s) (LAN)
+_____Closed-circuit TV
+_____Desktop computers (standalone or networked)
+_____Mobile laptops
+_____Kindles
+_____iPads
+_____Other technology (please specify): __________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+108 How Effective Is Correctional Education, and Where Do We Go from Here?
+19. What means are used to provide instruction for academic programs or vocational
+education/CTE courses offered: (Mark all that apply)
+_____On-site instruction
+_____Video/satellite instruction
+_____One-way
+_____Interactive
+_____Internet-based instruction
+_____One-way
+_____Interactive
+_____Correspondence courses
+_____Other (please specify): ___________________________________________________
+20. In what ways is Internet technology being used in your state correctional education
+classrooms (academic and vocational education/CTE programs) and/or libraries? (Mark
+all that apply)
+_____Only teachers/instructors have access to live Internet technology
+_____Students have full access to live Internet
+_____Students have restricted access to live Internet
+_____Students use simulated Internet programs
+_____Students do not have access to any Internet technology
+_____ Other, please specify________________________________
+ranD Correctional Education Survey Questionnaire 109
+PREPARATION FOR THE 2014 GED EXAM
+In 2014, the new GED exam will be implemented along with computer-
+based testing. We now would like to ask you about your state’s
+preparations for the 2014 GED exam (or another high school equivalency
+examination) and for computer-based testing.
+21. Is your state planning on implementing the 2014 GED exam?
+_____ Yes
+_____ No, our state is exploring other high school equivalency examinations (skip to Q25)
+22. How many correctional facilities within your state are currently set-up or will be by
+January 1, 2014 to implement computer-based testing for the 2014 GED exam?
+Number of correctional facilities: _______________
+23. Is your state planning to use computer workstations or laptops for inmates taking the
+GED test (Mark only one)?
+_____ Computer workstations only
+_____ Laptops only
+_____ Combination of computer workstations and laptops
+_____ Other (please specify): _______________________________________
+24. As part of your state’s preparations, will professional development training be
+provided to your correctional teachers/instructors to prepare them to teach the new GED
+exam?
+_____ Yes, we are providing professional development training for the new GED exam
+_____ No (skip to Q25)
+24a. If yes, what subjects will your correctional education system’s professional
+development training address? (Mark all that apply)
+_____Training on the administration of the test process
+_____Training on the test protocols
+110 How Effective Is Correctional Education, and Where Do We Go from Here?
+_____Training on computer literacy
+_____Assistance with instruction development
+_____Training on instruction aligned with the common core standards
+_____Training on test security requirements
+_____Other (please specify) _________________________________________________
+25. In your view, what is the likely effect of the new GED exam and computer-based
+testing requirement on your state’s correctional education population:
+LIKERT SCALE
+1=negative effect 3=no effect 5=positive effect
+• On the number of inmates who will be prepared to take the new GED exam
+• On the length of time it will take to prepare inmates to take the new GED exam
+• On GED completion rates
+26. What concerns, if any, do you have about the forthcoming changes to the 2014 GED
+exam and the move towards computer-based testing? (Mark all that apply)
+_____Cost of purchasing equipment for computer-based testing
+_____Fewer students may be ready to take the 2014 GED exam due to length of time it
+takes to prepare them for the new exam
+_____ Limited access to computers may preclude some students from taking the GED exam
+_____More extensive preparation required for the 2014 GED exam may make it difficult
+for some students to complete their test preparations while they are in prison
+_____Security concerns about access to the Internet for the GED exam may make it more
+difficult to do testing
+_____Teachers may not be prepared to teach the new GED exam
+_____Teachers may not be prepared to implement computer-based testing
+_____Other (please specify) _________________________________________________
+_____No concerns
+ranD Correctional Education Survey Questionnaire 111
+OUTCOMES/PERFORMANCE INDICATORS
+27. Which of the following outcome indicators does your state’s correctional education
+system track for academic and vocational education/CTE programs: (Mark all that apply)
+_____ Gains in reading or math skills
+______Number of
+• GED tests passed
+• GED certificates earned
+• High school degrees awarded
+• College credits earned
+• College degrees earned (e.g., Associate degrees)
+• Vocational certificates awarded
+• National or industry-recognized certificates awarded
+_____Other (please specify): _______________________
+28. What post-release indicators does your state’s correctional education system consider
+to be important outcome measures? (Mark all that apply)
+______Post-release employment
+______Job retention
+______College attainment
+______Degrees awarded
+______Enrollment in vocational training programs
+______Enrollment in post-secondary education/college courses
+______Recidivism
+_____Other (please specify): _______________________
+112 How Effective Is Correctional Education, and Where Do We Go from Here?
+29. What national or industry-recognized certifications, if any, does your state’s
+correctional education system offer? (Mark all that apply)
+_____National Center for Construction Education and Research (NCCER)
+_____National Institute for Automotive Service Excellence (ASE)
+_____Microsoft Office certification (please specify): __________________________
+_____American Welding Society
+_____Occupational Safety and Health Administration (OSHA) training programs
+_____Apprenticeship cards (e.g., plumbing, electrical)
+_____Other (please specify): ______________________________________________
+_____Other (please specify): ______________________________________________
+_____Other (please specify): ______________________________________________
+ORGANIZATION OF CORRECTIONAL EDUCATION WITHIN YOUR STATE
+By program authority we refer to the agency or department with decision-making authority
+with regard to correctional education policy and administration for incarcerated adults.
+30. How is correctional education administered within your state’s correctional
+institutions? (Mark only one)
+_____ The majority of correctional education program authority is vested within
+one central state agency
+_____ Correctional education program authority is vested among several state
+agencies
+_____ Other (please specify): ____________________________________________
+31. Which of the following is the lead agency(s) for administering adult correctional
+education within your state? (Mark all that apply)
+_____ Department of Public Safety
+_____ Department of Corrections
+_____ Department of Education
+ranD Correctional Education Survey Questionnaire 113
+_____ Department of Adult Education
+_____ Department of Labor
+_____ Other (please specify): _____________________________________
+FUNDING ISSUES
+32. What was the total amount of your state’s correctional education budget in Fiscal
+Years 2009 and 2012?
+Total Correctional Education Budget
+$ Mil. Thou. Dol.
+Fiscal Year 2009 000
+Fiscal Year 2012 000
+33. In which federal, state or private grant programs does your state’s correctional
+education system currently participate in or receives funding from (Mark all that apply)?
+_____ESEA (Elementary and Secondary Education Act), Title I, Part D
+_____ESEA, Title II, Part A
+_____Workforce Investment Act, Title II (also known as the Adult Education Family Literacy
+Act)
+_____Federal Second Chance Act (SCA) grants
+_____Office of Juvenile Justice and Delinquency Prevention (OJJDP)
+_____Bureau of Justice Assistance (BJA) grant funding (other than Second Chance Act)
+_____National Institute of Justice (NIJ)
+_____Foundations (e.g. Sunshine Lady) (please specify): _____________________________
+______________________________________________________________________________
+______________________________________________________________________________
+114 How Effective Is Correctional Education, and Where Do We Go from Here?
+34. Please indicate the amount of funding your correctional education system received in
+2012 from the following three sources:
+Amount of Funding Received From:
+$ Mil. Thou. Dol.
+Workforce Investment 000
+Act, Title II
+Perkins Act 000
+State higher education/ 000
+aid resources for post-
+secondary education or
+training
+Thank you for participating in this data collection effort. Please provide in
+the space below any comments or feedback you may have about it.
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+ranD Correctional Education Survey Questionnaire 115
+GLOSSARY OF TERMS USED IN THE SURVEY
+The following definitions are provided to assist you in completing this form.
+Adult Basic Education (ABE): basic skills instruction in arithmetic, reading, and writing
+Adult Secondary Education (ASE): instruction to complete high school or prepare for a
+certificate of high school equivalency, such as the General Education Development (GED)
+General Education Development (GED): tests that are a group of subject tests which, when
+passed, certify that the taker has American or Canadian high school-level academic skills.
+Adult Postsecondary Education (PSE): college-level instruction that enables an individual
+to earn college credit that may be applied toward a two-year or four-year postsecondary
+degree
+Vocational education or Career Technical Education (CTE): training in general employment
+skills and in skills for specific jobs or industries
+Adult state correctional facility: prison facilities that hold sentenced adult offenders in state
+custody. It excludes residential treatment or community programs.
+References
+*Indicates a reference included in the systematic review of juvenile correctional education.
+Aizer, Anna, and Joseph J. Doyle, Jr., Juvenile Incarceration, Human Capital and Future Crime: Evidence from
+Randomly-Assigned Judges, Cambridge, Mass.: Massachusetts Institute of Technology, 2013. As of February 3,
+2014:
+http://www.mit.edu/~jjdoyle/aizer_doyle_judges_06242013.pdf
+Allen, F., The Decline of the Rehabilitative Ideal: Penal Policy and Social Purpose, New Haven, Conn.: Yale
+University Press, 1981.
+Allen-DeBoer, Robyn A., Kimber W. Malmgren, and Mary-Elizabeth Glass, “Reading Instruction for Youth
+with Emotional and Behavioral Disorders in a Juvenile Correctional Facility,” Behavioral Disorders, Vol. 32,
+No. 1, 2006, pp. 18–28.
+Aos, S., M. Miller, and E. Drake, “Evidence-Based Adult Corrections Programs: What Works and What Does
+Not,” Olympia, Wash.: Washington State Institute for Public Policy, #06-01-1201, January 2006.
+*Archwamety, Teara, and Antonis Katsiyannis, “Academic Remediation, Parole Violations, and Recidivism
+Rates Among Delinquent Youths,” Remedial and Special Education, Vol. 21, No. 3, May/June, 2000,
+pp. 161–170.
+Associated Press, “Daniels Endorses Findings of Criminal Code Review,” December 15, 2010. As of March 15,
+2011:
+http://www.ibj.com/daniels-endorses-findings-of-criminal-code-review/PARAMS/article/24023
+Association of State Correctional Administrators, Member Survey of Education Programming and Services Tools
+and Member Survey of Alternative to GED Testing, 2013.
+Bazos, A., and J. Hausman, Correctional Education as a Crime Control Program, Los Angeles, Calif.: UCLA
+School of Public Policy and Research, Department of Policy Studies, March 2004.
+Becker, Gary S., “Crime and Punishment: An Economic Approach,” Journal of Political Economy, Vol. 76,
+1968, pp. 169–217.
+Biggs, Marie C., Susan P. Homan, Robert F. Dedrick, Vanessa Minick, and Timothy Rasinski, “Using an
+Interactive Singing Software Program: A Comparative Study of Struggling Middle School Readers,” Reading
+Psychology, Vol. 29, 2008, pp. 195–213.
+Borenstein, Michael, Larry V. Hedges, Julian P. T. Higgins, and Hannah R. Rothstein, Introduction to Meta-
+Analysis, Hoboken, N.J.: Wiley, 2009.
+Bozick, Robert, and Benjamin Dalton, “Balancing Career and Technical Education with Academic
+Coursework: The Consequences for Mathematics Achievement in High School,” Educational Evaluation and
+Policy Analysis, Vol. 35, No. 2, 2013, pp. 123–138.
+Caldagno, Juan Carlos, and Bridget Terry Long, The Impact of Postsecondary Remediation Using a Regression
+Discontinuity Approach: Addressing Endogenous Sorting and Noncompliance, New York: National Center for
+Postsecondary Research, 2008.
+Calderone, Cynthia, Susan V. Bennett, Susan Homan, Robert F. Dedrick, and Anne Chatfield, “Reaching
+the Hard to Reach: A Comparison of Two Reading Interventions with Incarcerated Youth,” Middle Grades
+Research Journal, Vol. 4, No. 3, 2009, pp. 61–80.
+117
+118 How Effective Is Correctional Education, and Where Do We Go from Here?
+California Rehabilitation Oversight Board, Biannual Report, Sacramento, Calif., November 7, 2011.
+Carnine, D. W., J. Silbert, and E. J. Kameenui, Direct Instruction Reading, 3rd ed., Upper Saddle River, N.J.:
+Prentice Hall, 1997.
+Carson, E. A., and D. Golinelli, Prisoners in 2012—Advance Counts, Washington, D.C.: Bureau of Justice
+Statistics, NCJ 242467, July 16, 2013.
+Carson, E. A., and W. J. Sabol, Prisoners in 2011, Washington, D.C.: Bureau of Justice Statistics, NCJ
+239808, December 5, 2012.
+Chambers, Jay G., Thomas B. Parrish, and Jenifer J. Harr, What Are We Spending on Special Education in the
+United States, 1999–2000? Report 1, Washington, D.C.: American Institutes for Research Center for Special
+Education Finance, 2004. As of February 3, 2014:
+http://www.csef-air.org/publications/seep/national/AdvRpt1.PDF
+Chappell, C. A., “Post-Secondary Correctional Education and Recidivism: A Meta-Analysis of Research
+Conducted 1990–1999,” electronic thesis or dissertation, University of Cincinnati, 2003.
+Childress, Stacey, “Shared Attributes of Schools Implementing Personalized Learning,” post on the blog
+“Thinking Out Loud: Ideas About Next Generation Learning,” December 19, 2013. As of February 3, 2014:
+http://nextgenstacey.com/2013/12/19/shared-attributes-of-schools-implementing-personalized-learning/
+Chlup, D. T., “Chronology of Corrections Education,” Focusing on Basics: Connecting Research and Practice,
+Vol. 7, Issue D, September 2005. As of February 3, 2014:
+http://www.ncsall.net/index.php@id=865.html
+Coley, R .J., and P. E. Barton, Locked Up and Locked Out: An Educational Perspective on the U.S. Prison
+Population, Princeton, N.J.: Educational Testing Service, 2006. As of February 3, 2014:
+http://www.ets.org/Media/Research/pdf/PIC-LOCKEDUP.pdf
+Coulter, Gail, “Using One-to-One Tutoring and Proven Reading Strategies to Improve Reading Performance
+with Adjudicated Youth,” Journal of Correctional Education, Vol. 55, No. 4, 2004, pp. 321–333.
+Crayton, A., and S. R. Neusteter, “The Current State of Correctional Education,” paper presented at Reentry
+Roundtable on Education, New York: John Jay College of Criminal Justice, Prisoner Reentry Institute, 2008.
+Davis, Lois M., Robert Bozick, Jennifer L. Steele, Jessica Saunders, and Jeremy N. V. Miles, Evaluating the
+Effectiveness of Correctional Education: A Meta-Analysis of Programs That Provide Education to Incarcerated
+Adults, Santa Monica, Calif.: RAND Corporation, RR-266-BJA, 2013. As of February 3, 2014:
+http://www.rand.org/pubs/research_reports/RR266.html
+*DelliCarpini, Margo, “Building a Better Life: Implementing a Career and Technical Education Program for
+Incarcerated Youth,” Journal of Correctional Education, Vol. 61, No. 4, 2010, pp. 283–295.
+Division of Criminal Justice Services, Preliminary Impact of 2009 Drug Law Reform (October 2009–September
+2010), New York: Division of Criminal Justice Services, 2010.
+*Drakeford, William, “The Impact of an Intensive Program to Increase the Literacy Skills of Youth Confined
+to Juvenile Corrections,” Journal of Correctional Education, Vol. 53, No. 4, 2002, pp. 139–144.
+Engelmann, S., L. Meyer, L. Carnine, W. Becker, J. Eisele, and G. Johnson, Corrective Reading: Decoding
+Strategies, Worthington, Ohio: SRA/McGraw-Hill, 1999.
+Farrington, D. P., D. C. Gottfredson, L. W. Sherman, and B. C. Welsh, “The Maryland Scientific Methods
+Scale,” in L. W. Sherman, D. P. Farrington, B. C. Welsh, and D. L. MacKenzie, eds., Evidence-Based Crime
+Prevention, London: Routledge, 2002, pp. 3–21.
+Gaes, G. G., “The Impact of Prison Education Programs on Post Release Outcomes,” paper presented at the
+Reentry Roundtable on Education, John Jay College of Criminal Justice, New York, March 31, 2008.
+Gagnon, Joseph C., Brian R. Barber, Christopher Van Loan, and Peter E. Leone, “Juvenile Correctional
+Schools: Characteristics and Approaches to Curriculum,” Education and Treatment of Children, Vol. 32, No. 4,
+2009, pp. 673–696.
+GED Testing Service, “About Ged Testing Service: History of the Ged Test,” 2013.
+references 119
+Gehring, T., “The History of Correctional Education,” 1997. As of February 3, 2014:
+http://www.ceanational.org/history.htm
+Gellar, A., I. Garfinkel, and B. Western, “The Effects of Incarceration on Employment and Wages: An
+Analysis of the Fragile Families Survey,” Princeton, N.J.: Princeton University, Center for Research on Child
+Wellbeing, Working Paper # 2006-01-FF, August 2006.
+Glaze, Lauren E., and Erinn J. Herberman, Correctional Populations in the United States, 2012, Washington,
+D.C.: Bureau of Justice Statistics, Office of Justice Programs, December 2013. As of February 3, 2014:
+http://www.bjs.gov/content/pub/pdf/cpus12.pdf
+Glaze, Lauren E., and Erika Parks, Correctional Populations in the United States, 2011, Washington, D.C.:
+Bureau of Justice Statistics, Office of Justice Programs, November 2012. As of February 3, 2014:
+http://www.bjs.gov/content/pub/pdf/cpus11.pdf
+Gorgol, L. E., and Sponsler, B. A., Unlocking Potential: Results from a National Survey of Postsecondary
+Education in State Prisons, Washington, D.C.: Institute for Higher Education Policy, 2011.
+Greenberg, E., E. Dunleavy, and M. Kutner, Literacy Behind Bars: Results from the 2003 National Assessment
+of Adult Literacy Prison Survey, Washington, D.C.: Institute for Education Services (IES) National Center for
+Education Statistics, U.S. Department of Education, NCES 2007-473, May 2007.
+Harlow, C. W., Education and Correctional Populations, Washington, D.C.: Bureau of Justice Statistics, NCJ
+195670, January 2003; revised April 15, 2003.
+Hazel, Neal, Cross-National Comparison of Youth Justice, London: Youth Justice Board for England and Wales,
+2008.
+Heckman, James J., and Yona Rubinstein, “The Importance of Noncognitive Skills: Lessons from the GED
+Testing Program,” American Economic Review, Vol. 91, No. 2, 2001, pp. 145–149.
+Henrichon, C., and R. Delaney, The Price of Prisons: What Incarceration Costs Taxpayers, Center on Sentencing
+and Corrections, New York: Vera Institute of Justice, 2012.
+Heward, W. L., S. H. McCormick, and Y. Joynes, “Completing Job Applications: Evaluation of an
+Instructional Program for Mildly Retarded Juvenile Delinquents,” Behavioral Disorders, Vol. 5, 1980,
+pp. 223–234.
+Hill, C., “Inmate Education Programs,” Corrections Compendium, Vol. 33, No. 3, May/June 2008.
+Hill, N. C., D. G. Minifie, and E. L. Minifie, “Handicapped Adolescent Delinquents: Educational Diagnosis
+and Tutoring,” Remedial and Special Education, Vol. 5, No. 5, 1984, pp. 44–45.
+Holzer, H. J., S. Raphael, and M. A. Stoll, “Employment Barriers Facing Ex-Offenders,” paper presented at the
+Urban Institute Re-Entry Roundtable, New York University Law School, May 19–20, 2003.
+Horn, Michael B., and Heather Staker, The Rise of K–12 Blended Learning, San Mateo, Calif.: Innosight
+Institute, 2011.
+*Houchins, David E., Kristine Jolivette, Mike P. Krezmien, and Heather M. Baltodano, “A Multi-State Study
+Examining the Impact of Explicit Reading Instruction with Incarcerated Students,” Journal of Correctional
+Education, Vol. 59, No. 1, 2008, pp. 65–85.
+*Jeffords, Charles R., and Scott McNitt, The Relationship Between Ged Attainment and Recidivism: An
+Evaluation Summary, Austin, Tex.: Texas Youth Commission, 1993.
+Kane, B. J., and G. R. Alley, “A Peer-Tutored, Instructional Management Program in Computational
+Mathematics for Incarcerated, Learning Disabled Juvenile Delinquents,” Journal of Learning Disabilities,
+Vol. 13, 1980, pp. 39–42.
+Karoly, L., “21st Century at Work: Trends and Implications” briefing, RAND Corporation, Santa Monica,
+Calif., December 2013.
+*Katsiyannis, Antonis, and Teara Archwamety, “Academic Remediation/Achievement and Other Factors
+Related to Recidivism Rates Among Delinquent Youths,” Behavioral Disorders, Vol. 24, No. 2, 1999,
+pp. 93–101.
+120 How Effective Is Correctional Education, and Where Do We Go from Here?
+Kemple, James J., and Cynthia J. Willner, Career Academies: Long-Term Impacts on Labor Market Outcomes,
+Educational Attainment, and Transitions to Adulthood, New York: MDRC, June, 2008.
+Kratochwill, T. R., John Hitchcock, R. H. Horner, J. R. Levin, S. L. Odom, D. M. Rindskopf, and William
+R. Shadish, Single-Case Design Technical Documentation: Version 1.0, Washington, D.C.: What Works
+Clearinghouse, 2010. As of February 14, 2013:
+http://ies.ed.gov/ncee/wwc/pdf/wwc_scd.pdf
+Krezmien, Mike P., and C. A. Mulcahy, “Literacy and Delinquency: Current Status of Reading Interventions
+with Detained and Incarcerated Youth,” Reading and Writing Quarterly, Vol. 24, 2008, pp. 219–238.
+Kyckelhahn, T., State Corrections Expenditures, FY 1982–2010, Washington, D.C.: Bureau of Justice Statistics,
+NCJ 239672, December 2012.
+Leone, Peter E., “Education Services for Youth with Disabilities in a State-Operated Juvenile Correctional
+System: Case Study and Analysis,” Journal of Special Education, Vol. 28, 1994, pp. 43–58.
+Leone, Peter E., Sheri M. Meisel, and Will Drakeford, “Special Education Programs for Youth with
+Disabilities in Juvenile Corrections,” Journal of Correctional Education, Vol. 53, No. 2, June 2002, pp. 16–20.
+Leslie, Lauren, and JoAnne Schudt Caldwell, Qualitative Reading Inventory—III, Boston: Allyn & Bacon,
+2000.
+Lillis, J., “Prison Education Programs Reduced,” Corrections Compendium, Vol. 19, No. 3, 1994, pp. 1–4.
+Lipsey, Mark W., “The Primary Factors That Characterize Effective Interventions with Juvenile Offenders: A
+Meta-Analytic Overview,” Victims and Offenders, Vol. 4, 2009, pp. 124–147.
+Lipton, D. S., R. Martinson, and J. Wilks, The Effectiveness of Correctional Treatment: A Survey of Treatment
+Valuation Studies, New York: Praeger Press, 1975.
+*Loadman, William E., Raeal J. Moore, Weijia Ren, Jing Zhu, Jing Zhao, and Richard G. Lomax, Striving
+Readers Year 5 Project Evaluation Report: Ohio: An Addendum to the Year 4 Report, Columbus, Ohio: The Ohio
+State University, December 2011.
+Lockwood, Susan R., John M. Nally, John Dowdell, Jerry McGlone, and Steve Steurer, “Implementing the
+2014 GED Exam and Computer-Based GED Testing in Correctional Facilities: A Guide for Correctional
+Educators and Administrators,” Journal of Correctional Education, Vol. 64, No. 2, May 2013.
+MacKenzie, D., What Works in Corrections: Reducing the Criminal Activities of Offenders and Delinquents, New
+York: Cambridge University Press, 2006.
+MacKenzie, D. L., “Structure and Components of Successful Education Programs,” paper presented at the
+Reentry Roundtable on Education, John Jay College of Criminal Justice, New York, 2008.
+Malmgren, K. W., and Peter E. Leone, “Effects of a Short-Term Auxiliary Reading Program on the Reading
+Skills of Incarcerated Youth,” Education and Treatment of Children, Vol. 23, No. 3, 2000, pp. 239–247.
+Marks, A., “One Inmate’s Push to Restore Education Funds for Prisoners,” Christian Science Monitor, Vol. 89,
+1997, p. 3.
+Martorell, Francisco, and Issac McFarlin, Jr., “Help or Hindrance? The Effects of College Remediation on
+Academic and Labor Market Outcomes,” Review of Economics and Statistics, Vol. 93, No. 2, May 2011, pp.
+436–454.
+Maruschak, L. M., HIV in Prisons, 2001–2010, Washington, D.C.: Bureau of Justice Statistics, NCJ 238877,
+September 2012.
+*Mayer, E. E., and R. A Hoffman, “A Comparison of the Effects of Individualized Instruction with Group
+Instruction on the Academic Achievement and Self-Concept of Youthful Offenders,” Journal of Correctional
+Education, Vol. 13, 1982, pp. 11–13.
+McGraw Hill Education, “SRA Corrective Reading,” web page, n.d. As of February 11, 2014:
+http://www.mcgraw-hill.co.uk/sra/correctivereading.htm
+references 121
+Mears, Daniel P., and Laudan Y. Aron, Addressing the Needs of Youth with Disabilities in the Juvenile Justice
+System: The Current State of Knowledge, Washington, D.C.: Urban Institute Justice Policy Center, November
+2003. As of February 3, 2014:
+http://www.urban.org/UploadedPDF/410885_youth_with_disabilities.pdf
+Meisel, S., P. Leone, K. Henderson, and M. Cohen, Collaborate to Educate: Special Education in Juvenile
+Correctional Facilities, College Park, Md.: The National Center on Education, Disability, and Juvenile Justice,
+1998.
+Murph, D., and S. McCormick, “Evaluation of an Instructional Program Designed to Teach Minimally
+Literate Juvenile Delinquents to Read Road Signs,” Education and Treatment of Children, Vol. 8, 1985,
+pp. 133–151.
+Muse, Frederic M., “A Look at the Benefits of Individualized Instruction in a Juvenile Training School
+Setting: How Continuous Progress Accelerates Student Performance,” Journal of Correctional Education,
+Vol. 49, No. 2, 1998, pp. 73–80.
+*National Council on Crime and Delinquency, In Search of Evidence-Based Practice in Juvenile Corrections: An
+Evaluation of Florida’s Avon Park Youth Academy and Street Smart Program, Madison, Wisc.: National Council
+on Crime and Delinquency, 2009.
+National Governors Association and the National Association of State Budget Officers, The Fiscal Survey of
+States: Fall, 2010. Washington, D.C.: National Association of State Budget Officers, 2010. As of February 3,
+2014:
+http://www.nga.org/files/live/sites/NGA/files/pdf/FSS1006.PDF
+National Juvenile Justice Network, “Keep Youth Out of Adult Courts, Jails, and Prisons,” 2011. As of
+February 3, 2014:
+http://www.njjn.org/about-us/keep-youth-out-of-adult-prisons
+NBC News and the Hechinger Report, Carpe Diem: Seize the Digital Revolution, 2013. As of February 3,
+2014:
+http://www.educationnation.com/casestudies/carpediem/NBCCaseStudy_CarpeDiem.pdf
+Neild, Ruth Curran, C. Boccanfuso, and V. Byrnes, The Academic Impacts of Career and Technical Schools: A
+Case Study of a Large Urban School District, Baltimore, Md.: Center for the Social Organization of Schools,
+Johns Hopkins University, 2013.
+NGA/NSBO—See National Governors Association and the National Association of State Budget Officers.
+Office of Juvenile Justice and Delinquency Prevention, “Statistical Briefing Book,” 2013. As of February 3,
+2014:
+http://www.ojjdp.gov/ojstatbb/corrections/
+Pager, D., “The Mark of a Criminal Record,” American Journal of Sociology, Vol. 108, No. 5, 2003,
+pp. 937–975.
+Pasternak, Robert, Robert Portillos, and Henry Hoff, “Providing an Appropriate Education to Adjudicated
+and Incarcerated Juvenile Delinquents: The Challenge to Correctional Education Administrators,” Journal of
+Correctional Education, Vol. 39, No. 4, December, 1988, pp. 154–159.
+Pastore, A. L., and K. Maguire, Sourcebook of Criminal Justice Statistics, 2001, Washington, D.C.: U.S.
+Department of Justice, Bureau of Justice Statistics, NCJ 196438, 2002
+Pew Center on the States, State of Recidivism: The Revolving Door of America’s Prisons, Washington, D.C.: The
+Pew Charitable Trusts, April 2011.
+Platt, J. M., and M. Beech, “The Effectiveness of Learning Strategies in Improving Performance and
+Increasing the Independence of Juvenile Offenders with Learning Problems,” Journal of Correctional
+Education, Vol. 45, 1994, pp. 18–29.
+President’s Commission on Law Enforcement and Administration of Justice, The Challenge of Crime in a Free
+Society: A Report by the President’s Commission on Law Enforcement and Administration of Justice, February
+1967. As of February 3, 2014:
+https://www.ncjrs.gov/pdffiles1/nij/42.pdf
+122 How Effective Is Correctional Education, and Where Do We Go from Here?
+Priest, Nora, Antonia Rudenstine, Ephraim Weisstein, and Carol Gerwin, Making Mastery Work: A Close-up
+View of Competency Education, Quincy, Mass.: Nellie Mae Education Foundation, November 2012.
+Proctor, C. M., Jr., and P. Johnson, Computational Skills Development Kit—Teacher’s Guide, Chicago: Science
+Research Associates, Inc., 1965.
+Project READ, To Make a Difference, Silver Spring, Md.: National Criminal Justice Reference Service, 1978.
+As of February 3, 2014:
+https://www.ncjrs.gov/pdffiles1/Digitization/49939NCJRS.pdf
+Public Law 89-10, Elementary and Secondary Education Act, 1965.
+Public Law 89-329, Higher Education Act of 1965, November 8, 1965.
+Public Law 101-476, Individuals with Disabilities Education Act, October 30, 1990.
+Public Law 103-322, Violent Crime Control and Law Enforcement Act, September 13, 1994.
+Public Law 105-220, Workforce Investment Act, August 7, 1998.
+Public Law 110-199, Second Chance Act of 2007, April 9, 2008.
+Raphael, S., “The Employment Prospects of Ex-Offenders,” Focus, Vol. 25, No. 2, Fall–Winter 2007–2008.
+*Roos, Leendert E., The Effect of Career Development on Employment and Recidivism Among Juvenile Offenders,
+Walden University, 2006.
+Rosenbaum, Paul R., and Donald B. Rubin, “The Central Role of the Propensity Score in Observational
+Studies for Causal Effects,” Biometrika, Vol. 70, No. 1, 1983, pp. 41–55.
+Ryan, T. A., and K. A. McCabe, “Mandatory vs. Voluntary Prison Education and Academic Achievement,”
+The Prison Journal, Vol. 74, 1994, pp. 450–461.
+Sander, Janay B., Erika A. Patall, Laura A. Amoscato, Alexandra Fisher, and Catherine Funk, “A Meta-
+Analysis of the Effect of Juvenile Delinquency Interventions on Academic Outcomes,” Children and Youth
+Services Review, Vol. 34, No. 9, 2012, pp. 1695–1708.
+*Scarlato, Mary C., and Erin Asahara, “Effects of ‘Corrective Reading’ in a Residential Treatment Facility for
+Adjudicated Youth,” Journal of Direct Instruction, Vol. 4, No. 2, 2004, pp. 211–217.
+Scholastic, “Scheduling Options for Scholastic Read 180 Implementations,” n.d. As of January 24, 2014:
+http://teacher.scholastic.com/products/statehomepages/uploadfile/resource/fl_read180_schedulingoptions.pdf
+Scientific Learning Corporation, “Improved Reading Skills by Students in the Virginia Department of
+Correctional Education Who Used Fast Forword Products,” MAPS for Learning: Educator Reports, Vol. 8,
+No. 28, 2004, pp. 1–5.
+Scott-Clayton, Judith, and Olga Rodriguez, Development, Discouragement, or Diversion? New Evidence on the
+Effects of College Remediation, Cambridge, Mass.: National Bureau of Economic Research, August 2012. As of
+February 3, 2014:
+http://www.nber.org/papers/w18328
+Sedlak, A. J., and K. S. McPherson, “Youth’s Needs and Services: Findings from the Survey of Youth
+in Residential Placement,” in Juvenile Justice Bulletin, Washington, D.C.: Office of Juvenile Justice and
+Delinquency Prevention, Office of Justice Programs, U.S. Department of Justice, 2010.
+Shadish, William R., M. H. Clark, and Peter M. Steiner, “Can Nonrandomized Experiments Yield Accurate
+Answers? A Randomized Experiment Comparing Random to Nonrandom Assignment,” Journal of the
+American Statistical Association, Vol. 103, No. 484, December 2008, pp. 1334–1356.
+Sherman, L. W., D. C. Gottfredeson, D. L. MacKenzie, J. Eck, P. Reuter, and S. Bushway, Preventing Crime:
+What Works, What Doesn’t, What’s Promising, Washington, D.C.: U.S. Office of Justice Programs, 1997.
+*Shippen, Margaret E., Rhonda Collins Morton, Samuel W. Flynt, David E. Houchins, and Tracy
+Smitherman, “Efficacy of a Computer-Based Program on Acquisition of Reading Skills of Incarcerated Youth,”
+Remedial and Special Education, Vol. 33, No. 1, 2012, pp. 14–22.
+references 123
+Sickmund, Melissa, Anthony J. Sladky, W. Kang, and Charles Puzzanchera, “Easy Access to the Census of
+Juveniles in Residential Placement: 1997–2011,” Office of Juvenile Justice and Delinquency Prevention, U.S.
+Department of Justice, 2013. As of February 3, 2014:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/asp/selection.asp
+*Simpson, S. B., J. M. Swanson, and K. Kunkel, “The Impact of an Intensive Multisensory Reading Program
+on a Population of Learning Disabled Delinquents,” Annals of Dyslexia, Vol. 42, 1992, pp. 54–66.
+Sinatra, Richard, “Use of Three Writing Tasks at an Adolescent Treatment Center,” Perceptual and Motor
+Skills, Vol. 59, 1984, pp. 355–358.
+*Skonovd, Norman, Wesley Krause, and L. Armstrong Troy, “The Regional Youth Educational Facility: A
+Promising Short-Term Intensive Institutional and Aftercare Program for Juvenile Court Wards,” in Troy L
+Armstrong, ed., Intensive Interventions with High-Risk Youths, Monsey, N.Y.: Criminal Justice Press/Willow
+Tree Press, 1991, pp. 395–422.
+Slavin, R. E., “Meta-Analysis in Education: How Has It Been Used?” Educational Researcher, Vol. 13, No. 8,
+1984, pp. 6–15.
+Slavin, Robert E., Alan Cheung, Cynthia Groff, and Cynthia Lake, “Effective Reading Programs for Middle
+and High Schools: A Best-Evidence Synthesis,” Reading Research Quarterly, Vol. 43, No. 3, July/August/
+September 2008, pp. 290–322.
+Snyder, Howard N., and Melissa Sickmund, Juvenile Offenders and Victims: 2006 National Report,
+Washington, D.C.: Office of Juvenile Justice and Delinquency Prevention, Office of Justice Programs, U.S.
+Department of Justice, 2006. As of February 14, 2014:
+http://files.eric.ed.gov/fulltext/ED495786.pdf
+Soe, K., S. Koki, and J. Chang, “Effect of Computer-Assisted Instruction on Reading Achievement: A Meta-
+Analysis,” 2000.
+Steele, Jennifer L., Matthew W. Lewis, Lucrecia Santibañez, Mollie Rudnick, Brian M. Stecher, Laura
+Hamilton, and Susannah Faxon-Mills, “Proficiency-Based Pathways in Three Pilot Programs: Examining
+Implementation and Outcomes,” paper presented at Society for Research on Educational Effectiveness,
+Washington, D.C., September 2013.
+Stephan, J. J., Census of State and Federal Correctional Facilities, 2005, Washington, D.C.: Bureau of Justice
+Statistics, National Prisoner Statistics Program, NCJ 222182, October 2008.
+Steurer, S. J., L. G. Smith, and A. Tracy, Education Reduces Crime: Three-State Recidivism Study, Lanham,
+Md.: Correctional Education Association, 2003.
+Steurer, Stephen J., John Linton, John Nally, and Susan Lockwood, “The Top-Nine Reasons to Increase
+Correctional Education Programs,” Corrections Today, Vol. 72, No. 4, 2010, pp. 40–43.
+Students at the Center, homepage, 2013. As of February 3, 2014:
+http://www.studentsatthecenter.org/
+Sturgis, Chris, and Susan Patrick, When Success Is the Only Option: Designing Competency-Based Pathways for
+Next Generation Learning, Vienna, Va.: International Association for K–12 Online Learning, 2010.
+Sturgis, Chris, Bob Rath, Ephraim Weisstein, and Susan Patrick, Clearing the Path: Creating Innovation Space
+for Serving Over-Age, Under-Credited Students in Competency-Based Pathways, Vienna, Va.: International
+Association for K–12 Online Learning, 2010. As of February 3, 2014:
+http://net.educause.edu/ir/library/pdf/CSD6173.pdf
+Taylor, J. M., “Alternative Funding Options for Post-Secondary Correctional Education: Part One,” Journal of
+Correctional Education, Vol. 56, 2005, pp. 6–17.
+Torgesen, J., D. Myers, A. Schirm, E. Stuart, S. Vartivarian, W. Mansfield, F. Stancavage, D. Durno,
+R. Javorsky, and C. Haan, National Assessment of Title I Interim Report—Volume II: Closing the Reading Gap:
+First Year Findings from a Randomized Trial of Four Reading Interventions for Striving Readers, Washington,
+D.C.: Institute of Education Sciences, U.S. Department of Education, 2006. As of February 3, 2014:
+http://www.ed.gov/rschstat/eval/disadv/title1interimreport/index.html
+124 How Effective Is Correctional Education, and Where Do We Go from Here?
+Tyler, John H., and Jeffrey R. Kling, “Prison-Based Education and Re-Entry into the Mainstream Labor
+Market,” in Shawn Bushway, Michael Stoll, and David Weiman, eds., Barriers to Reentry? The Labor Market for
+Released Prisoners in Post-Industrial America, New York: Russell Sage Foundation Press, 2007, pp. 227–256.
+Tyler, John H., Richard J. Murnane, and John B. Willett, “Estimating the Labor Market Signaling Value of
+the Ged,” Quarterly Journal of Economics, Vol. 115, No. 2, May 2000, pp. 431–468.
+U.S. Census Bureau, “Current Population Survey, Annual Social and Economic Supplement,” web page, 2011.
+As of February 3, 2014:
+https://www.census.gov/hhes/www/poverty/publications/pubs-cps.html
+———, “State and County Quick Facts: USA,” 2013. As of February 3, 2014:
+http://quickfacts.census.gov/qfd/states/00000.html
+U.S. Department of Education, “Building the Legacy: Idea 2004,” n.d. As of February 3, 2014:
+http://idea.ed.gov/explore/home
+———, Title I, Part D: Neglected, Delinquent, and At-Risk Youth Prevention and Intervention Programs for
+Children and Youth Who Are Neglected, Delinquent, or At-Risk (N or D), Nonregulatory Guidance, Washington,
+D.C.: Policy and Program Studies Service, Office of Planning, Evaluation, and Policy Development, U.S.
+Department of Education, 2006.
+———, “Competency-Based Assessment at Young Women’s Leadership Charter School,” 2010. As of
+February 3, 2014:
+http://www.ed.gov/technology/draft-netp-2010/competency-based-assessment
+———, “Competency-Based Learning or Personalized Learning,” 2011. As of February 3, 2014:
+http://www.ed.gov/oii-news/competency-based-learning-or-personalized-learning
+———, National Assessment of Career and Technical Education: Interim Report, Washington, D.C.: Policy
+and Program Studies Service, Office of Planning, Evaluation, and Policy Development, U.S. Department of
+Education, 2013. As of February 3, 2014:
+http://www2.ed.gov/rschstat/eval/sectech/nacte/career-technical-education/interim-report.pdf
+———, “U.S. Departments of Education and Justice Release School Discipline Guidance Package to
+Enhance School Climate and Improve School Discipline Policies/Practices,” January 8, 2014. As of
+February 3, 2014:
+http://www.ed.gov/news/press-releases/us-departments-education-and-justice-release-school-discipline-
+guidance-package-
+Wells, R. E., “Education as Prison Reform: A Meta-Analysis,” unpublished dissertation, Baton Rouge, La.:
+Louisiana State University, 2000.
+Wexler, Jade, Nicole Pyle, Andrea Flower, Jacob L. Williams, and Heather Cole, “A Synthesis of Academic
+Interventions for Incarcerated Adolescents,” Review of Educational Research, 2013.
+What Works Clearinghouse, Corrective Reading (WWC Intervention Report), Washington, D.C.: Institute of
+Education Sciences, U.S. Department of Education, 2007. As of February 3, 2014:
+http://ies.ed.gov/ncee/wwc/pdf/intervention_reports/WWC_Corrective_Reading_070207.pdf
+———, Procedures and Standards Handbook (Version 2.0), Washington, D.C.: Institute of Education Sciences,
+U.S. Department of Education, December 2008.
+———, Fast ForWord (WWC Intervention Report), Washington, D.C.: Institute of Education Sciences, U.S.
+Department of Education, October, 2013. As of February 3, 2014:
+http://ies.ed.gov/ncee/wWc/pdf/intervention_reports/wwc_ffw_031913.pdf
+Wilson, D. B., C. A. Gallagher, and D. L. Mackenzie, “A Meta-Analysis of Corrections-Based Education,
+Vocation, and Work Programs for Adult Offenders,” Journal of Research in Crime and Delinquency, Vol. 37,
+No. 4, 2000, pp. 347–368.
+*Wilson, Paul R., “Recidivism and Vocational Education,” Journal of Correctional Education, Vol. 45, No. 4,
+1994, pp. 158–163.
+*Zhu, Jing, William E. Loadman, Richard G. Lomax, and Raeal Moore, “Evaluating Intervention Effects of
+Scholastic Read 180 on Low-Achieving Incarcerated Youth” paper presented at the Society for Research on
+Educational Effectiveness, March 2010. As of February 3, 2014:
+http://files.eric.ed.gov/fulltext/ED514404.pdf
+More than 2 million adults are incarcerated in U.S. prisons, and each year more than 700,000 leave federal
+and state prisons and return to communities. Unfortunately, within three years, 40 percent will be reincarcerated.
+One reason for this is that ex-offenders lack the knowledge, training, and skills to support a successful return to
+communities. Trying to reduce such high recidivism rates is partly why states devote resources to educating and
+training individuals in prison. This raises the question of how effective—and cost-effective—correctional education
+is—an even more salient question given the funding environment states face from the 2008 recession and its
+continuing aftermath. With funding from the Second Chance Act of 2007, the Bureau of Justice Assistance, U.S.
+Department of Justice, asked RAND to help answer this question as part of a comprehensive examination of the
+current state of correctional education for incarcerated adults and juveniles. The RAND team conducted a systematic
+review of correctional education programs for incarcerated adults and juveniles. This included a meta-analysis on
+correctional education’s effects on recidivism and postrelease employment outcomes for incarcerated adults, as
+well as a synthesis of evidence on programs for juveniles. The study also included a nationwide survey of state
+correctional education directors to understand how correctional education is provided today and the recession’s
+impact. The authors also compared the direct costs of correctional education with those of reincarceration to put the
+recidivism findings into a broader context.
+Safety and Justice Program
+www.rand.org
+$29.95
+ISBN-10 0-8330-8493-3
+ISBN-13 978-0-8330-8493-4
+52995
+RR-564-BJA 9 780833 084934
